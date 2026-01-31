@@ -1,0 +1,794 @@
+{
+  "metadata": {
+    "chapter_number": 2,
+    "chapter_title": "Socialism in Europe and the Russian Revolution",
+    "chapter_title_hindi": "यूरोप में समाजवाद एवं रूसी क्रांति",
+    "subject": "History - Class 9",
+    "board": "CBSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.0",
+    "naming_convention": "09_HI_CH02_SocialismRussianRev_30MCQ.json"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "Which group of people in 19th century Europe wanted a nation which tolerated all religions?",
+        "hi": "19वीं सदी के यूरोप में कौन सा समूह ऐसा राष्ट्र चाहता था जिसमें सभी धर्मों को समान सम्मान मिले?"
+      },
+      "options": {
+        "a": {"en": "Liberals", "hi": "उदारवादी"},
+        "b": {"en": "Radicals", "hi": "रेडिकल"},
+        "c": {"en": "Conservatives", "hi": "रूढ़िवादी"},
+        "d": {"en": "Socialists", "hi": "समाजवादी"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "They also opposed the uncontrolled power of dynastic rulers.",
+        "hi": "उन्होंने वंशानुगत शासकों की अनियंत्रित सत्ता का भी विरोध किया था।"
+      },
+      "explanation": {
+        "en": "Liberals wanted a nation which tolerated all religions and argued for a representative, elected parliamentary government.",
+        "hi": "उदारवादी समाज परिवर्तन के समर्थक थे। वे ऐसा राष्ट्र चाहते थे जहाँ सभी धर्मों को जगह मिले और उन्होंने एक निर्वाचित संसदीय सरकार का पक्ष लिया।"
+      },
+      "key_takeaway": {
+        "en": "Liberals = Religious tolerance and parliamentary government.",
+        "hi": "उदारवादी = धार्मिक सहिष्णुता और संसदीय सरकार।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "Who sought to build a cooperative community called 'New Harmony' in Indiana (USA)?",
+        "hi": "इंडियाना (यूएसए) में 'न्यू हार्मनी' नामक एक सहकारी समुदाय बनाने की मांग किसने की थी?"
+      },
+      "options": {
+        "a": {"en": "Louis Blanc", "hi": "लुई ब्लांक"},
+        "b": {"en": "Robert Owen", "hi": "रॉबर्ट ओवेन"},
+        "c": {"en": "Karl Marx", "hi": "कार्ल मार्क्स"},
+        "d": {"en": "Friedrich Engels", "hi": "फ्रेडरिक एंगेल्स"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He was a leading English manufacturer.",
+        "hi": "वह एक प्रमुख अंग्रेजी निर्माता थे।"
+      },
+      "explanation": {
+        "en": "Robert Owen, an English manufacturer, sought to build a cooperative community called New Harmony in Indiana (USA).",
+        "hi": "रॉबर्ट ओवेन, एक अंग्रेजी निर्माता थे, जिन्होंने इंडियाना (यूएसए) में 'न्यू हार्मनी' नामक एक सहकारी समुदाय बनाने का प्रयास किया।"
+      },
+      "key_takeaway": {
+        "en": "Robert Owen = New Harmony (Cooperative).",
+        "hi": "रॉबर्ट ओवेन = न्यू हार्मनी (सहकारी)।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "According to Karl Marx, what was the 'natural' enemy of the workers?",
+        "hi": "कार्ल मार्क्स के अनुसार, मजदूरों का 'प्राकृतिक' शत्रु कौन था?"
+      },
+      "options": {
+        "a": {"en": "Monarchy", "hi": "राजशाही"},
+        "b": {"en": "Religion", "hi": "धर्म"},
+        "c": {"en": "Capitalism", "hi": "पूंजीवाद"},
+        "d": {"en": "The State", "hi": "राज्य"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "Marx argued that the profit of capitalists was produced by workers.",
+        "hi": "मार्क्स का तर्क था कि पूंजीपतियों का मुनाफा मजदूरों द्वारा पैदा किया जाता है।"
+      },
+      "explanation": {
+        "en": "Marx argued that industrial society was 'capitalist'. Capitalists owned the capital invested in factories, and the profit was produced by workers.",
+        "hi": "मार्क्स का मानना था कि औद्योगिक समाज 'पूंजीवादी' है। पूंजीपतियों का मुनाफा मजदूरों की मेहनत से आता है, इसलिए उन्हें इसे खत्म करना होगा।"
+      },
+      "key_takeaway": {
+        "en": "Karl Marx = Conflict between Labor and Capital.",
+        "hi": "कार्ल मार्क्स = श्रम और पूंजी के बीच संघर्ष।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "In the context of Russia, what was the 'Duma'?",
+        "hi": "रूस के संदर्भ में 'ड्यूमा' (Duma) क्या था?"
+      },
+      "options": {
+        "a": {"en": "A secret police force", "hi": "एक गुप्त पुलिस बल"},
+        "b": {"en": "A military unit", "hi": "एक सैन्य इकाई"},
+        "c": {"en": "An elected consultative Parliament", "hi": "एक निर्वाचित परामर्शदाता संसद"},
+        "d": {"en": "A tax collected from peasants", "hi": "किसानों से वसूला जाने वाला कर"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "The Tsar allowed its creation after the 1905 Revolution.",
+        "hi": "ज़ार ने 1905 की क्रांति के बाद इसके निर्माण की अनुमति दी थी।"
+      },
+      "explanation": {
+        "en": "During the 1905 Revolution, the Tsar allowed the creation of an elected consultative Parliament or Duma.",
+        "hi": "1905 की क्रांति के दौरान, ज़ार ने एक निर्वाचित परामर्शदाता संसद या ड्यूमा के गठन की अनुमति दी।"
+      },
+      "key_takeaway": {
+        "en": "Duma = Russian Parliament.",
+        "hi": "ड्यूमा = रूसी संसद।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "The incident known as 'Bloody Sunday' occurred in which year?",
+        "hi": "'खूनी रविवार' (Bloody Sunday) के रूप में जानी जाने वाली घटना किस वर्ष हुई थी?"
+      },
+      "options": {
+        "a": {"en": "1917", "hi": "1917"},
+        "b": {"en": "1905", "hi": "1905"},
+        "c": {"en": "1914", "hi": "1914"},
+        "d": {"en": "1889", "hi": "1889"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It started when a procession of workers reached the Winter Palace.",
+        "hi": "यह तब शुरू हुआ जब मजदूरों का जुलूस विंटर पैलेस पहुँचा।"
+      },
+      "explanation": {
+        "en": "In 1905, police attacked a peaceful workers' procession, killing over 100 people. This event is known as Bloody Sunday.",
+        "hi": "1905 में, पुलिस ने मजदूरों के एक शांतिपूर्ण जुलूस पर हमला किया, जिसमें 100 से अधिक लोग मारे गए। इसे खूनी रविवार कहा जाता है।"
+      },
+      "key_takeaway": {
+        "en": "Bloody Sunday = Start of 1905 Revolution.",
+        "hi": "खूनी रविवार = 1905 की क्रांति की शुरुआत।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "Which Russian ruler was in power when World War I broke out in 1914?",
+        "hi": "1914 में जब प्रथम विश्व युद्ध शुरू हुआ तब रूस का शासक कौन था?"
+      },
+      "options": {
+        "a": {"en": "Tsar Nicholas I", "hi": "ज़ार निकोलस I"},
+        "b": {"en": "Tsar Nicholas II", "hi": "ज़ार निकोलस II"},
+        "c": {"en": "Alexander I", "hi": "अलेक्जेंडर I"},
+        "d": {"en": "Peter the Great", "hi": "पीटर द ग्रेट"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He belonged to the Romanov dynasty.",
+        "hi": "वह रोमनोव राजवंश से था।"
+      },
+      "explanation": {
+        "en": "Tsar Nicholas II ruled the Russian empire in 1914. His decisions during the war eventually led to the fall of the monarchy.",
+        "hi": "1914 में ज़ार निकोलस II का शासन था। युद्ध के दौरान उनके निर्णयों के कारण अंततः राजशाही का पतन हुआ।"
+      },
+      "key_takeaway": {
+        "en": "Tsar Nicholas II = Ruler during WWI.",
+        "hi": "ज़ार निकोलस II = प्रथम विश्व युद्ध के दौरान शासक।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "What was the main occupation of about 85% of the Russian empire's population in the early 20th century?",
+        "hi": "20वीं सदी की शुरुआत में रूसी साम्राज्य की लगभग 85% आबादी का मुख्य व्यवसाय क्या था?"
+      },
+      "options": {
+        "a": {"en": "Industry", "hi": "उद्योग"},
+        "b": {"en": "Agriculture", "hi": "कृषि"},
+        "c": {"en": "Mining", "hi": "खनन"},
+        "d": {"en": "Trade", "hi": "व्यापार"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This was much higher than in countries like France or Germany.",
+        "hi": "यह फ्रांस या जर्मनी जैसे देशों की तुलना में बहुत अधिक था।"
+      },
+      "explanation": {
+        "en": "At the beginning of the 20th century, the vast majority of Russia's people were agriculturists. About 85 per cent of the population earned their living from agriculture.",
+        "hi": "20वीं सदी की शुरुआत में रूस की 85 प्रतिशत आबादी खेती पर निर्भर थी।"
+      },
+      "key_takeaway": {
+        "en": "Russian Economy = Primarily Agricultural.",
+        "hi": "रूसी अर्थव्यवस्था = मुख्य रूप से कृषि आधारित।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "The Social Democratic Workers Party was founded in 1898 by socialists who respected whose ideas?",
+        "hi": "सोशल डेमोक्रेटिक वर्कर्स पार्टी की स्थापना 1898 में किनके विचारों का सम्मान करने वाले समाजवादियों द्वारा की गई थी?"
+      },
+      "options": {
+        "a": {"en": "Karl Marx", "hi": "कार्ल मार्क्स"},
+        "b": {"en": "Lenin", "hi": "लेनिन"},
+        "c": {"en": "Rousseau", "hi": "रूसो"},
+        "d": {"en": "Stalin", "hi": "स्टालिन"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "He wrote 'Das Kapital'.",
+        "hi": "उन्होंने 'दास कैपिटल' लिखी थी।"
+      },
+      "explanation": {
+        "en": "The Russian Social Democratic Workers Party was formed in 1898 by socialists who followed Marx's ideas, though it had to operate illegally.",
+        "hi": "रूसी सोशल डेमोक्रेटिक वर्कर्स पार्टी 1898 में मार्क्सवादी विचारों पर बनाई गई थी।"
+      },
+      "key_takeaway": {
+        "en": "SDLP = Followed Marxism.",
+        "hi": "SDLP = मार्क्सवाद का अनुसरण किया।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "Who were the 'Jadidists' within the Russian empire?",
+        "hi": "रूसी साम्राज्य के भीतर 'जदीदी' (Jadidists) कौन थे?"
+      },
+      "options": {
+        "a": {"en": "Russian Orthodox Priests", "hi": "रूसी रूढ़िवादी पादरी"},
+        "b": {"en": "Muslim reformers", "hi": "मुस्लिम सुधारक"},
+        "c": {"en": "German immigrants", "hi": "जर्मन अप्रवासी"},
+        "d": {"en": "Socialist revolutionaries", "hi": "समाजवादी क्रांतिकारी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "They wanted modernized Islam to lead their societies.",
+        "hi": "वे चाहते थे कि आधुनिक इस्लाम उनके समाज का नेतृत्व करे।"
+      },
+      "explanation": {
+        "en": "Jadidists were Muslim reformers within the Russian empire who wanted modernized Islam to lead their societies.",
+        "hi": "जदीदी रूसी साम्राज्य के भीतर मुस्लिम सुधारक थे जो इस्लाम का आधुनिकीकरण करना चाहते थे।"
+      },
+      "key_takeaway": {
+        "en": "Jadidists = Muslim Reformers.",
+        "hi": "जदीदी = मुस्लिम सुधारक।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "What did the term 'Soviet' mean in the Russian context?",
+        "hi": "रूसी संदर्भ में 'सोवियत' (Soviet) शब्द का क्या अर्थ था?"
+      },
+      "options": {
+        "a": {"en": "A King's decree", "hi": "राजा का फरमान"},
+        "b": {"en": "A council of workers or soldiers", "hi": "मजदूरों या सैनिकों की परिषद"},
+        "c": {"en": "A religious gathering", "hi": "एक धार्मिक सभा"},
+        "d": {"en": "A type of Russian weapon", "hi": "एक प्रकार का रूसी हथियार"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The Petrograd Soviet was the most famous example.",
+        "hi": "पेट्रोग्राद सोवियत इसका सबसे प्रसिद्ध उदाहरण था।"
+      },
+      "explanation": {
+        "en": "Soviets were councils formed by workers and soldiers. The Petrograd Soviet played a key role in the 1917 revolution.",
+        "hi": "सोवियत मजदूरों और सैनिकों द्वारा बनाई गई परिषदों को कहा जाता था।"
+      },
+      "key_takeaway": {
+        "en": "Soviet = Workers' Council.",
+        "hi": "सोवियत = मजदूरों की परिषद।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "Who was the leader of the Bolshevik party?",
+        "hi": "बोल्शेविक पार्टी का नेता कौन था?"
+      },
+      "options": {
+        "a": {"en": "Leon Trotsky", "hi": "लियोन ट्रॉट्स्की"},
+        "b": {"en": "Vladimir Lenin", "hi": "व्लादिमीर लेनिन"},
+        "c": {"en": "Kerensky", "hi": "केरेन्स्की"},
+        "d": {"en": "Stalin", "hi": "स्टालिन"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He returned to Russia in April 1917.",
+        "hi": "वह अप्रैल 1917 में रूस लौटे थे।"
+      },
+      "explanation": {
+        "en": "Vladimir Lenin led the Bolsheviks, the radical wing of the Social Democratic Party, which later became the Communist Party.",
+        "hi": "व्लादिमीर लेनिन ने बोल्शेविकों का नेतृत्व किया, जो बाद में कम्युनिस्ट पार्टी बनी।"
+      },
+      "key_takeaway": {
+        "en": "Lenin = Bolshevik Leader.",
+        "hi": "लेनिन = बोल्शेविक नेता।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "The Mensheviks believed that the party:",
+        "hi": "मेन्शेविकों का मानना था कि पार्टी को:"
+      },
+      "options": {
+        "a": {"en": "Should be open to all", "hi": "सभी के लिए खुला होना चाहिए"},
+        "b": {"en": "Should be highly disciplined", "hi": "अत्यधिक अनुशासित होना चाहिए"},
+        "c": {"en": "Should only include soldiers", "hi": "केवल सैनिकों को शामिल करना चाहिए"},
+        "d": {"en": "Should support the Tsar", "hi": "ज़ार का समर्थन करना चाहिए"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "This was the opposite of the Bolshevik view.",
+        "hi": "यह बोल्शेविकों के दृष्टिकोण के विपरीत था।"
+      },
+      "explanation": {
+        "en": "Unlike Bolsheviks, Mensheviks thought that the party should be open to all (as in Germany).",
+        "hi": "बोल्शेविकों के विपरीत, मेन्शेविकों का मानना था कि पार्टी के दरवाजे सभी के लिए खुले होने चाहिए।"
+      },
+      "key_takeaway": {
+        "en": "Mensheviks = Inclusive party membership.",
+        "hi": "मेन्शेविक = समावेशी पार्टी सदस्यता।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "Why was the city of St. Petersburg renamed 'Petrograd' in 1914?",
+        "hi": "1914 में सेंट पीटर्सबर्ग शहर का नाम बदलकर 'पेट्रोग्राद' क्यों कर दिया गया?"
+      },
+      "options": {
+        "a": {"en": "To honor Peter the Great", "hi": "पीटर द ग्रेट को सम्मानित करने के लिए"},
+        "b": {"en": "Because St. Petersburg was a German name", "hi": "क्योंकि सेंट पीटर्सबर्ग एक जर्मन नाम था"},
+        "c": {"en": "Due to a royal decree", "hi": "एक शाही फरमान के कारण"},
+        "d": {"en": "To confuse the invaders", "hi": "हमलावरों को भ्रमित करने के लिए"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Anti-German sentiments were high during WWI.",
+        "hi": "प्रथम विश्व युद्ध के दौरान जर्मन विरोधी भावनाएँ चरम पर थीं।"
+      },
+      "explanation": {
+        "en": "Anti-German sentiments ran high, so St Petersburg — a German name — was renamed Petrograd.",
+        "hi": "जर्मन विरोधी भावनाओं के कारण सेंट पीटर्सबर्ग (जर्मन नाम) का नाम बदलकर पेट्रोग्राद कर दिया गया।"
+      },
+      "key_takeaway": {
+        "en": "Petrograd = Renamed St. Petersburg.",
+        "hi": "पेट्रोग्राद = सेंट पीटर्सबर्ग का बदला हुआ नाम।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "The Tsarina Alexandra was of which origin, making her unpopular in Russia?",
+        "hi": "ज़ारिना अलेक्जेंड्रा किस मूल की थीं, जिससे वह रूस में अलोकप्रिय हो गईं?"
+      },
+      "options": {
+        "a": {"en": "British", "hi": "ब्रिटिश"},
+        "b": {"en": "French", "hi": "फ्रांसीसी"},
+        "c": {"en": "German", "hi": "जर्मन"},
+        "d": {"en": "Austrian", "hi": "ऑस्ट्रियाई"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "She was the wife of Tsar Nicholas II.",
+        "hi": "वह ज़ार निकोलस II की पत्नी थीं।"
+      },
+      "explanation": {
+        "en": "Tsarina Alexandra’s German origins and poor advisers, like Rasputin, made the autocracy unpopular.",
+        "hi": "ज़ारिना अलेक्जेंड्रा के जर्मन मूल और रासपुतिन जैसे सलाहकारों ने राजशाही को अलोकप्रिय बना दिया।"
+      },
+      "key_takeaway": {
+        "en": "Tsarina Alexandra = German Origin.",
+        "hi": "ज़ारिना अलेक्जेंड्रा = जर्मन मूल।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "On which day did the February Revolution start in Petrograd (International Women’s Day)?",
+        "hi": "पेट्रोग्राद में फरवरी क्रांति (अंतर्राष्ट्रीय महिला दिवस) किस दिन शुरू हुई?"
+      },
+      "options": {
+        "a": {"en": "22 February", "hi": "22 फरवरी"},
+        "b": {"en": "14 July", "hi": "14 जुलाई"},
+        "c": {"en": "1 May", "hi": "1 मई"},
+        "d": {"en": "25 October", "hi": "25 अक्टूबर"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "Women workers led many of the strikes on this day.",
+        "hi": "महिला श्रमिकों ने इस दिन कई हड़तालों का नेतृत्व किया था।"
+      },
+      "explanation": {
+        "en": "On 22 February, a lockout took place at a factory. Women led the way to strikes, and this day came to be called International Women’s Day.",
+        "hi": "22 फरवरी को एक फैक्ट्री में तालाबंदी हुई, जिसके बाद महिलाओं ने हड़तालों का नेतृत्व किया।"
+      },
+      "key_takeaway": {
+        "en": "Feb 22 = Start of Feb Revolution.",
+        "hi": "22 फरवरी = फरवरी क्रांति की शुरुआत।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "When did the Tsar abdicate (leave) his throne?",
+        "hi": "ज़ार ने अपना सिंहासन कब छोड़ा (त्याग दिया)?"
+      },
+      "options": {
+        "a": {"en": "2 March 1917", "hi": "2 मार्च 1917"},
+        "b": {"en": "25 October 1917", "hi": "25 अक्टूबर 1917"},
+        "c": {"en": "14 July 1789", "hi": "14 जुलाई 1789"},
+        "d": {"en": "1 August 1914", "hi": "1 अगस्त 1914"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "He followed the advice of military commanders.",
+        "hi": "उन्होंने सैन्य कमांडरों की सलाह मानी थी।"
+      },
+      "explanation": {
+        "en": "On the advice of military commanders, Tsar Nicholas II abdicated on 2 March 1917, ending the Romanov rule.",
+        "hi": "सैन्य कमांडरों की सलाह पर ज़ार निकोलस II ने 2 मार्च 1917 को गद्दी छोड़ दी।"
+      },
+      "key_takeaway": {
+        "en": "Tsar Abdication: 2 March 1917.",
+        "hi": "ज़ार का पदत्याग: 2 मार्च 1917।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "What were Lenin's three demands in the 'April Theses'?",
+        "hi": "लेनिन की 'अप्रैल थीसिस' में तीन मांगें क्या थीं?"
+      },
+      "options": {
+        "a": {"en": "War end, Land to peasants, Banks nationalized", "hi": "युद्ध समाप्ति, किसानों को जमीन, बैंकों का राष्ट्रीयकरण"},
+        "b": {"en": "Taxes end, Voting rights, New King", "hi": "कर समाप्ति, मतदान का अधिकार, नया राजा"},
+        "c": {"en": "Food for all, Industrial growth, Peace with Germany", "hi": "सभी के लिए भोजन, औद्योगिक विकास, जर्मनी के साथ शांति"},
+        "d": {"en": "Religious freedom, Free trade, Army control", "hi": "धार्मिक स्वतंत्रता, मुक्त व्यापार, सेना पर नियंत्रण"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "He presented these after returning from exile.",
+        "hi": "उन्होंने निर्वासन से लौटने के बाद इन्हें पेश किया था।"
+      },
+      "explanation": {
+        "en": "Lenin’s April Theses demanded: the war be brought to a close, land be transferred to the peasants, and banks be nationalised.",
+        "hi": "लेनिन की अप्रैल थीसिस में युद्ध समाप्ति, जमीन का हस्तांतरण और बैंकों के राष्ट्रीयकरण की मांग थी।"
+      },
+      "key_takeaway": {
+        "en": "April Theses = Land, Peace, Bread (Policy).",
+        "hi": "अप्रैल थीसिस = भूमि, शांति, रोटी (नीति)।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "The Bolshevik Party renamed itself as the ________ to indicate its new radical goals.",
+        "hi": "बोल्शेविक पार्टी ने अपने नए क्रांतिकारी लक्ष्यों को इंगित करने के लिए अपना नाम बदलकर ________ रख लिया।"
+      },
+      "options": {
+        "a": {"en": "Russian Socialist Party", "hi": "रूसी समाजवादी पार्टी"},
+        "b": {"en": "Russian Communist Party", "hi": "रूसी कम्युनिस्ट पार्टी"},
+        "c": {"en": "People's Party", "hi": "पीपुल्स पार्टी"},
+        "d": {"en": "Labor Party", "hi": "लेबर पार्टी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This name is closely associated with Marx's ideology.",
+        "hi": "यह नाम मार्क्स की विचारधारा से गहराई से जुड़ा है।"
+      },
+      "explanation": {
+        "en": "After the October Revolution, the Bolshevik Party was renamed the Russian Communist Party (Bolshevik).",
+        "hi": "अक्टूबर क्रांति के बाद बोल्शेविक पार्टी का नाम बदलकर रूसी कम्युनिस्ट पार्टी कर दिया गया।"
+      },
+      "key_takeaway": {
+        "en": "Bolsheviks -> Communist Party.",
+        "hi": "बोल्शेविक -> कम्युनिस्ट पार्टी।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "Which ship played a famous role in the October Revolution by shelling the Winter Palace?",
+        "hi": "अक्टूबर क्रांति में विंटर पैलेस पर गोलाबारी करके किस जहाज ने प्रसिद्ध भूमिका निभाई थी?"
+      },
+      "options": {
+        "a": {"en": "Titanic", "hi": "टाइटेनिक"},
+        "b": {"en": "Aurora", "hi": "ऑरोरा"},
+        "c": {"en": "Potemkin", "hi": "पोटेमकिन"},
+        "d": {"en": "Victoria", "hi": "विक्टोरिया"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It is still preserved as a museum ship in St. Petersburg.",
+        "hi": "इसे अभी भी सेंट पीटर्सबर्ग में एक संग्रहालय जहाज के रूप में रखा गया है।"
+      },
+      "explanation": {
+        "en": "The ship 'Aurora' shelled the Winter Palace during the October Revolution on 24 October 1917.",
+        "hi": "24 अक्टूबर 1917 को अक्टूबर क्रांति के दौरान 'ऑरोरा' जहाज ने विंटर पैलेस पर गोले बरसाए थे।"
+      },
+      "key_takeaway": {
+        "en": "Aurora = Revolutionary Warship.",
+        "hi": "ऑरोरा = क्रांतिकारी युद्धपोत।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "In the Civil War, the Bolsheviks were represented by which color?",
+        "hi": "गृहयुद्ध में बोल्शेविकों का प्रतिनिधित्व किस रंग द्वारा किया गया था?"
+      },
+      "options": {
+        "a": {"en": "The Greens", "hi": "हरा (Greens)"},
+        "b": {"en": "The Whites", "hi": "सफेद (Whites)"},
+        "c": {"en": "The Reds", "hi": "लाल (Reds)"},
+        "d": {"en": "The Blues", "hi": "नीला (Blues)"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "This color remains a symbol of socialism/communism.",
+        "hi": "यह रंग समाजवाद/साम्यवाद का प्रतीक बना हुआ है।"
+      },
+      "explanation": {
+        "en": "In the Russian Civil War, the Bolsheviks were known as the 'Reds'. Socialist Revolutionaries were 'Greens' and Pro-Tsarists were 'Whites'.",
+        "hi": "रूसी गृहयुद्ध में बोल्शेविकों को 'लाल' (Reds) कहा जाता था।"
+      },
+      "key_takeaway": {
+        "en": "Reds = Bolsheviks.",
+        "hi": "लाल = बोल्शेविक।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "Who led the Military Revolutionary Committee formed by the Soviet?",
+        "hi": "सोवियत द्वारा गठित सैन्य क्रांतिकारी समिति का नेतृत्व किसने किया था?"
+      },
+      "options": {
+        "a": {"en": "Leon Trotsky", "hi": "लियोन ट्रॉट्स्की"},
+        "b": {"en": "Stalin", "hi": "स्टालिन"},
+        "c": {"en": "Lenin", "hi": "लेनिन"},
+        "d": {"en": "Rasputin", "hi": "रासपुतिन"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "He was a key strategist of the October Revolution.",
+        "hi": "वह अक्टूबर क्रांति के प्रमुख रणनीतिकार थे।"
+      },
+      "explanation": {
+        "en": "The Petrograd Soviet appointed a Military Revolutionary Committee under Leon Trotsky to organize the seizure of power.",
+        "hi": "लियोन ट्रॉट्स्की के नेतृत्व में सैन्य क्रांतिकारी समिति का गठन किया गया था।"
+      },
+      "key_takeaway": {
+        "en": "Leon Trotsky = Military Leader of Oct Rev.",
+        "hi": "लियोन ट्रॉट्स्की = अक्टूबर क्रांति के सैन्य नेता।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "What did the 'Whites' in the Russian Civil War support?",
+        "hi": "रूसी गृहयुद्ध में 'व्हाइट्स' (Whites) ने किसका समर्थन किया?"
+      },
+      "options": {
+        "a": {"en": "Socialism", "hi": "समाजवाद"},
+        "b": {"en": "Pro-Tsarist (Autocracy)", "hi": "ज़ार समर्थक (राजशाही)"},
+        "c": {"en": "Peasant rights", "hi": "किसानों के अधिकार"},
+        "d": {"en": "Industrialists", "hi": "उद्योगपति"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "They wanted to restore the old empire.",
+        "hi": "वे पुराने साम्राज्य को बहाल करना चाहते थे।"
+      },
+      "explanation": {
+        "en": "The 'Whites' were pro-Tsarists who fought against the Bolshevik 'Reds' during the Civil War.",
+        "hi": "सफेद (Whites) ज़ार के समर्थक थे जिन्होंने गृहयुद्ध लड़ा था।"
+      },
+      "key_takeaway": {
+        "en": "Whites = Tsarists.",
+        "hi": "सफेद = ज़ारवादी।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "In which year was the process of centralized planning introduced in Russia?",
+        "hi": "रूस में केंद्रीकृत योजना की प्रक्रिया किस वर्ष शुरू की गई थी?"
+      },
+      "options": {
+        "a": {"en": "1917", "hi": "1917"},
+        "b": {"en": "1927", "hi": "1927"},
+        "c": {"en": "1905", "hi": "1905"},
+        "d": {"en": "1945", "hi": "1945"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This led to the famous Five Year Plans.",
+        "hi": "इसके कारण प्रसिद्ध पंचवर्षीय योजनाएँ बनीं।"
+      },
+      "explanation": {
+        "en": "Centralized planning was introduced in 1927, leading to the Five Year Plans for industrial growth.",
+        "hi": "1927 में केंद्रीकृत योजना शुरू हुई, जिससे औद्योगिक विकास के लिए पंचवर्षीय योजनाएँ बनीं।"
+      },
+      "key_takeaway": {
+        "en": "Centralized Planning = Five Year Plans.",
+        "hi": "केंद्रीकृत योजना = पंचवर्षीय योजनाएँ।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "Who introduced the 'Collectivization' of agriculture in Russia?",
+        "hi": "रूस में कृषि के 'सामूहिकीकरण' (Collectivization) की शुरुआत किसने की?"
+      },
+      "options": {
+        "a": {"en": "Lenin", "hi": "लेनिन"},
+        "b": {"en": "Stalin", "hi": "स्टालिन"},
+        "c": {"en": "Trotsky", "hi": "ट्रॉट्स्की"},
+        "d": {"en": "Nicholas II", "hi": "निकोलस II"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He took over after Lenin's death.",
+        "hi": "उन्होंने लेनिन की मृत्यु के बाद कार्यभार संभाला था।"
+      },
+      "explanation": {
+        "en": "Stalin introduced collectivization to solve grain shortages, forcing peasants to work on collective farms (Kolkhoz).",
+        "hi": "स्टालिन ने अनाज की कमी को दूर करने के लिए सामूहिकीकरण (Kolkhoz) शुरू किया।"
+      },
+      "key_takeaway": {
+        "en": "Stalin = Collectivization.",
+        "hi": "स्टालिन = सामूहिकीकरण।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "The well-to-do peasants in Russia were known as:",
+        "hi": "रूस में संपन्न किसानों को किस नाम से जाना जाता था?"
+      },
+      "options": {
+        "a": {"en": "Kulaks", "hi": "कुलक (Kulaks)"},
+        "b": {"en": "Serfs", "hi": "सर्फ"},
+        "c": {"en": "Kolkhoz", "hi": "कोलखोज़"},
+        "d": {"en": "Soviets", "hi": "सोवियत"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "Stalin's government raided them to seize grain.",
+        "hi": "स्टालिन की सरकार ने अनाज जब्त करने के लिए उन पर छापे मारे थे।"
+      },
+      "explanation": {
+        "en": "Kulaks were the well-to-do peasants. During grain shortages, Stalin’s government raided Kulaks to prevent hoarding.",
+        "hi": "कुलक संपन्न किसानों को कहा जाता था जिन पर अनाज जमा करने का आरोप लगा था।"
+      },
+      "key_takeaway": {
+        "en": "Kulaks = Prosperous Peasants.",
+        "hi": "कुलक = समृद्ध किसान।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "What was 'Kolkhoz'?",
+        "hi": "'कोलखोज़' (Kolkhoz) क्या था?"
+      },
+      "options": {
+        "a": {"en": "A Russian weapon", "hi": "एक रूसी हथियार"},
+        "b": {"en": "Collective farms", "hi": "सामूहिक खेत"},
+        "c": {"en": "A royal palace", "hi": "एक शाही महल"},
+        "d": {"en": "A factory", "hi": "एक कारखाना"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Most peasants were forced to work here after 1929.",
+        "hi": "1929 के बाद अधिकांश किसानों को यहाँ काम करने के लिए मजबूर किया गया था।"
+      },
+      "explanation": {
+        "en": "Kolkhoz were collective farms where peasants were forced to pool their land and implements to work together.",
+        "hi": "कोलखोज़ सामूहिक खेत थे जहाँ किसान मिलकर काम करते थे।"
+      },
+      "key_takeaway": {
+        "en": "Kolkhoz = Collective Farm.",
+        "hi": "कोलखोज़ = सामूहिक खेत।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "What was the 'Comintern'?",
+        "hi": "'कोमिन्टर्न' (Comintern) क्या था?"
+      },
+      "options": {
+        "a": {"en": "Russian Secret Police", "hi": "रूसी गुप्त पुलिस"},
+        "b": {"en": "International union of pro-Bolshevik socialist parties", "hi": "बोल्शेविक समर्थक समाजवादी पार्टियों का अंतर्राष्ट्रीय संघ"},
+        "c": {"en": "A trade agreement", "hi": "एक व्यापार समझौता"},
+        "d": {"en": "A Russian festival", "hi": "एक रूसी त्योहार"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It aimed to spread revolution worldwide.",
+        "hi": "इसका उद्देश्य दुनिया भर में क्रांति फैलाना था।"
+      },
+      "explanation": {
+        "en": "The Comintern was an international union of pro-Bolshevik socialist parties formed to encourage global revolution.",
+        "hi": "कोमिन्टर्न बोल्शेविक समर्थक पार्टियों का एक अंतर्राष्ट्रीय संघ था।"
+      },
+      "key_takeaway": {
+        "en": "Comintern = Global Communist Union.",
+        "hi": "कोमिन्टर्न = वैश्विक कम्युनिस्ट संघ।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "After the 1917 revolution, what happened to the land in Russia?",
+        "hi": "1917 की क्रांति के बाद रूस में जमीन का क्या हुआ?"
+      },
+      "options": {
+        "a": {"en": "It was sold to foreign countries", "hi": "इसे विदेशों में बेच दिया गया"},
+        "b": {"en": "It was declared social property", "hi": "इसे सामाजिक संपत्ति घोषित कर दिया गया"},
+        "c": {"en": "It was given back to the Tsar", "hi": "इसे वापस ज़ार को दे दिया गया"},
+        "d": {"en": "It was left vacant", "hi": "इसे खाली छोड़ दिया गया"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Peasants were allowed to seize land from the nobility.",
+        "hi": "किसानों को कुलीनों से जमीन छीनने की अनुमति दी गई थी।"
+      },
+      "explanation": {
+        "en": "Land was declared social property and peasants were allowed to seize the land of the nobility.",
+        "hi": "जमीन को सामाजिक संपत्ति घोषित किया गया और किसानों ने कुलीनों की जमीन पर कब्जा कर लिया।"
+      },
+      "key_takeaway": {
+        "en": "Land = Social Property.",
+        "hi": "भूमि = सामाजिक संपत्ति।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "The Bolsheviks were totally opposed to:",
+        "hi": "बोल्शेविक पूरी तरह से किसके खिलाफ थे?"
+      },
+      "options": {
+        "a": {"en": "Private property", "hi": "निजी संपत्ति"},
+        "b": {"en": "Public schools", "hi": "सरकारी स्कूल"},
+        "c": {"en": "Agriculture", "hi": "कृषि"},
+        "d": {"en": "Nationalization", "hi": "राष्ट्रीयकरण"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "They believed industries and banks should be government-owned.",
+        "hi": "उनका मानना था कि उद्योगों और बैंकों पर सरकार का स्वामित्व होना चाहिए।"
+      },
+      "explanation": {
+        "en": "The Bolsheviks were totally opposed to private property. Most industries and banks were nationalised in November 1917.",
+        "hi": "बोल्शेविक निजी संपत्ति के सख्त खिलाफ थे और उन्होंने बैंकों का राष्ट्रीयकरण किया।"
+      },
+      "key_takeaway": {
+        "en": "Bolsheviks = Anti-Private Property.",
+        "hi": "बोल्शेविक = निजी संपत्ति के विरोधी।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "Who among the following was a prominent Indian inspired by the Russian Revolution?",
+        "hi": "निम्नलिखित में से कौन रूसी क्रांति से प्रेरित एक प्रमुख भारतीय थे?"
+      },
+      "options": {
+        "a": {"en": "Jawaharlal Nehru", "hi": "जवाहरलाल नेहरू"},
+        "b": {"en": "M.N. Roy", "hi": "एम.एन. रॉय"},
+        "c": {"en": "Rabindranath Tagore", "hi": "रवींद्रनाथ टैगोर"},
+        "d": {"en": "All of the above", "hi": "उपरोक्त सभी"}
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "Many Indian leaders visited the Soviet Union to see its progress.",
+        "hi": "कई भारतीय नेताओं ने सोवियत संघ की प्रगति देखने के लिए वहां का दौरा किया था।"
+      },
+      "explanation": {
+        "en": "Many Indians like M.N. Roy, Nehru, and Tagore were deeply influenced by the ideals of the Russian Revolution.",
+        "hi": "नेहरू, टैगोर और एम.एन. रॉय जैसे कई भारतीय रूसी क्रांति के आदर्शों से प्रभावित थे।"
+      },
+      "key_takeaway": {
+        "en": "Global Influence = Inspired Indian leaders.",
+        "hi": "वैश्विक प्रभाव = भारतीय नेताओं को प्रेरित किया।"
+      }
+    }
+  ]
+}
