@@ -1,0 +1,794 @@
+{
+  "metadata": {
+    "chapter_number": 5,
+    "chapter_title": "Pastoralists in the Modern World",
+    "chapter_title_hindi": "आधुनिक विश्व में चरवाहे",
+    "subject": "History - Class 9",
+    "board": "CBSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.0",
+    "naming_convention": "09_HI_CH05_Pastoralists_30MCQ.json"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "Which of these is a nomadic pastoralist community of Jammu and Kashmir?",
+        "hi": "इनमें से कौन जम्मू और कश्मीर का एक घुमंतू चरवाहा समुदाय है?"
+      },
+      "options": {
+        "a": {"en": "Gaddi shepherds", "hi": "गद्दी चरवाहे"},
+        "b": {"en": "Gujjar Bakarwals", "hi": "गुज्जर बकरवाल"},
+        "c": {"en": "Bhotiyas", "hi": "भोटिया"},
+        "d": {"en": "Sherpas", "hi": "शेरपा"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "They are known for herding goats and sheep and moving between summer and winter pastures.",
+        "hi": "वे बकरियों और भेड़ों को चराने और गर्मियों तथा सर्दियों के चरागाहों के बीच घूमने के लिए जाने जाते हैं।"
+      },
+      "explanation": {
+        "en": "The Gujjar Bakarwals of Jammu and Kashmir are great herders of goat and sheep. They move annually between their summer and winter grazing grounds.",
+        "hi": "जम्मू-कश्मीर के गुज्जर बकरवाल भेड़-बकरियों के बड़े चरवाहे हैं। वे सर्दियों और गर्मियों के हिसाब से अपनी जगह बदलते रहते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Gujjar Bakarwals = J&K Pastoralists.",
+        "hi": "गुज्जर बकरवाल = जम्मू-कश्मीर के चरवाहे।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "Where do the Gaddi shepherds live?",
+        "hi": "गद्दी चरवाहे कहाँ रहते हैं?"
+      },
+      "options": {
+        "a": {"en": "Uttarakhand", "hi": "उत्तराखंड"},
+        "b": {"en": "Himachal Pradesh", "hi": "हिमाचल प्रदेश"},
+        "c": {"en": "Rajasthan", "hi": "राजस्थान"},
+        "d": {"en": "Gujarat", "hi": "गुजरात"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "They move between Lahaul and Spiti during different seasons.",
+        "hi": "वे विभिन्न मौसमों के दौरान लाहौल और स्पीति के बीच घूमते हैं।"
+      },
+      "explanation": {
+        "en": "The Gaddi shepherds live in Himachal Pradesh. Like the Gujjar Bakarwals, they also have a cycle of seasonal movement between low hills and high meadows.",
+        "hi": "गद्दी चरवाहे हिमाचल प्रदेश के निवासी हैं। ये भी मौसम के अनुसार ऊँचाई और तराई के बीच आते-जाते रहते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Gaddi Shepherds = Himachal Pradesh.",
+        "hi": "गद्दी चरवाहे = हिमाचल प्रदेश।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "What is 'Bhabar'?",
+        "hi": "'भाबर' (Bhabar) क्या है?"
+      },
+      "options": {
+        "a": {"en": "A vast meadow in the high mountains", "hi": "ऊंचे पहाड़ों में एक विशाल घास का मैदान"},
+        "b": {"en": "A dry forested area below the foothills of Garhwal and Kumaun", "hi": "गढ़वाल और कुमाऊं की पहाड़ियों के नीचे का शुष्क वन क्षेत्र"},
+        "c": {"en": "A type of sheep", "hi": "भेड़ का एक प्रकार"},
+        "d": {"en": "A seasonal lake", "hi": "एक मौसमी झील"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Gujjar cattle herders come down to this area in winter.",
+        "hi": "गुज्जर पशुपालक सर्दियों में इसी इलाके में नीचे उतरते हैं।"
+      },
+      "explanation": {
+        "en": "Bhabar is a dry forested area below the foothills of Garhwal and Kumaun where pastoralists bring their cattle during the winter.",
+        "hi": "गढ़वाल और कुमाऊं के इलाकों के नीचे स्थित सूखे जंगल के इलाके को भाबर कहा जाता है।"
+      },
+      "key_takeaway": {
+        "en": "Bhabar = Foothill dry forest.",
+        "hi": "भाबर = पहाड़ियों के नीचे का शुष्क वन।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "What are 'Bugyals'?",
+        "hi": "'बुग्याल' (Bugyals) क्या हैं?"
+      },
+      "options": {
+        "a": {"en": "Deep valleys", "hi": "गहरी घाटियाँ"},
+        "b": {"en": "Vast meadows in the high mountains", "hi": "ऊंचे पहाड़ों में स्थित विशाल घास के मैदान"},
+        "c": {"en": "Desert areas", "hi": "रेगिस्तानी इलाके"},
+        "d": {"en": "Swampy lands", "hi": "दलदली भूमि"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Pastoralists move their herds to these lush green areas in summer.",
+        "hi": "चरवाहे गर्मियों में अपने झुंडों को इन हरे-भरे इलाकों में ले जाते हैं।"
+      },
+      "explanation": {
+        "en": "Bugyals are vast natural pastures on the high mountains, above 12,000 feet. They are covered with snow in winter and lush green grass in summer.",
+        "hi": "ऊँचे पहाड़ों पर 12,000 फीट से ऊपर स्थित घास के मैदानों को बुग्याल कहा जाता है।"
+      },
+      "key_takeaway": {
+        "en": "Bugyals = High mountain meadows.",
+        "hi": "बुग्याल = ऊँचे पहाड़ों के घास के मैदान।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "The Dhangars are an important pastoral community of which state?",
+        "hi": "धनगर किस राज्य का एक महत्वपूर्ण चरवाहा समुदाय है?"
+      },
+      "options": {
+        "a": {"en": "Maharashtra", "hi": "महाराष्ट्र"},
+        "b": {"en": "Karnataka", "hi": "कर्नाटक"},
+        "c": {"en": "Andhra Pradesh", "hi": "आंध्र प्रदेश"},
+        "d": {"en": "Tamil Nadu", "hi": "तमिलनाडु"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "In the early 20th century, their population was estimated to be over 4 lakh.",
+        "hi": "20वीं सदी की शुरुआत में उनकी जनसंख्या 4 लाख से अधिक आंकी गई थी।"
+      },
+      "explanation": {
+        "en": "Dhangars were an important pastoral community of Maharashtra. Most of them were shepherds, some were blanket weavers, and others were buffalo herders.",
+        "hi": "धनगर महाराष्ट्र का एक महत्वपूर्ण चरवाहा समुदाय है, जिनमें से ज्यादातर गड़रिये थे।"
+      },
+      "key_takeaway": {
+        "en": "Dhangars = Maharashtra shepherds.",
+        "hi": "धनगर = महाराष्ट्र के गड़रिये।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "Why were the Dhangars welcomed by the Konkani peasants?",
+        "hi": "कोंकणी किसानों द्वारा धनगरों का स्वागत क्यों किया जाता था?"
+      },
+      "options": {
+        "a": {"en": "They brought precious stones", "hi": "वे कीमती पत्थर लाते थे"},
+        "b": {"en": "Their sheep manured the fields and ate the stubble", "hi": "उनकी भेड़ें खेतों को खाद देती थीं और ठूँठ (stubble) खाती थीं"},
+        "c": {"en": "They helped in fighting wars", "hi": "वे युद्ध लड़ने में मदद करते थे"},
+        "d": {"en": "They were expert builders", "hi": "वे विशेषज्ञ निर्माता थे"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It was a mutually beneficial relationship between farmers and herders.",
+        "hi": "यह किसानों और चरवाहों के बीच पारस्परिक रूप से लाभकारी संबंध था।"
+      },
+      "explanation": {
+        "en": "After the kharif harvest, the fields had to be fertilized for the rabi crop. Dhangar flocks manured the fields and fed on the stubble, which helped the Konkani peasants.",
+        "hi": "धनगरों की भेड़ें खेतों में खाद (manure) छोड़ती थीं, जिससे कोंकण के किसानों को अगली फसल में मदद मिलती थी।"
+      },
+      "key_takeaway": {
+        "en": "Dhangars & Konkanis = Symbiotic relationship.",
+        "hi": "धनगर और कोंकणी = सहजीवी संबंध।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "Which pastoral community is found in the deserts of Rajasthan?",
+        "hi": "राजस्थान के रेगिस्तानों में कौन सा चरवाहा समुदाय पाया जाता है?"
+      },
+      "options": {
+        "a": {"en": "Gollas", "hi": "गोल्ला"},
+        "b": {"en": "Raikas", "hi": "रायका"},
+        "c": {"en": "Kurumas", "hi": "कुरुमा"},
+        "d": {"en": "Kurubas", "hi": "कुरुबा"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "One group of this community, known as Maru Raikas, herds camels.",
+        "hi": "इस समुदाय का एक समूह, जिसे मारू रायका के नाम से जाना जाता है, ऊंट पालता है।"
+      },
+      "explanation": {
+        "en": "In the deserts of Rajasthan lived the Raikas. Due to uncertain rainfall and poor harvests, they combined cultivation with pastoralism.",
+        "hi": "राजस्थान के रेगिस्तानों में रायका समुदाय रहता है। वे खेती के साथ-साथ पशुपालन भी करते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Raikas = Rajasthan (Camel/Sheep herders).",
+        "hi": "रायका = राजस्थान (ऊंट/भेड़ चरवाहे)।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "Which of these is NOT a pastoral community of South India?",
+        "hi": "इनमें से कौन दक्षिण भारत का चरवाहा समुदाय नहीं है?"
+      },
+      "options": {
+        "a": {"en": "Gollas", "hi": "गोल्ला"},
+        "b": {"en": "Kurumas", "hi": "कुरुमा"},
+        "c": {"en": "Kurubas", "hi": "कुरुबा"},
+        "d": {"en": "Bhotiyas", "hi": "भोटिया"}
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "This community belongs to the Himalayan region.",
+        "hi": "यह समुदाय हिमालयी क्षेत्र से संबंधित है।"
+      },
+      "explanation": {
+        "en": "Gollas, Kurumas, and Kurubas are pastoral communities of Karnataka and Andhra Pradesh. Bhotiyas are from the Himalayan mountains.",
+        "hi": "गोल्ला, कुरुमा और कुरुबा दक्षिण भारत के हैं, जबकि भोटिया हिमालय क्षेत्र के चरवाहे हैं।"
+      },
+      "key_takeaway": {
+        "en": "Bhotiyas = Himalayan pastoralists.",
+        "hi": "भोटिया = हिमालयी चरवाहे।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "Under the Waste Land Rules, the British government wanted to:",
+        "hi": "परती भूमि नियमों (Waste Land Rules) के तहत, ब्रिटिश सरकार चाहती थी:"
+      },
+      "options": {
+        "a": {"en": "Protect forests", "hi": "वनों की रक्षा करना"},
+        "b": {"en": "Convert grazing lands into cultivated farms", "hi": "चरागाह भूमि को खेती योग्य खेतों में बदलना"},
+        "c": {"en": "Give land to pastoralists", "hi": "चरवाहों को जमीन देना"},
+        "d": {"en": "Build schools", "hi": "स्कूल बनाना"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Uncultivated land was seen as a loss of revenue for the British.",
+        "hi": "बिना खेती वाली भूमि को अंग्रेजों के लिए राजस्व की हानि के रूप में देखा जाता था।"
+      },
+      "explanation": {
+        "en": "To colonial officials, all uncultivated land appeared as ‘waste land’ because it yielded no revenue. By converting it to farms, they could increase land revenue.",
+        "hi": "अंग्रेजों की नज़र में बिना खेती वाली ज़मीन 'बेकार' थी क्योंकि उससे लगान नहीं मिलता था। इसलिए वे चरागाहों को खेतों में बदलना चाहते थे।"
+      },
+      "key_takeaway": {
+        "en": "Waste Land Rules = Aimed at increasing land revenue.",
+        "hi": "वेस्ट लैंड रूल्स = भू-राजस्व बढ़ाने का लक्ष्य।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "Which act was passed in 1871 that branded many pastoralist and nomadic communities as 'criminals by nature'?",
+        "hi": "1871 में कौन सा अधिनियम पारित किया गया था जिसने कई चरवाहा और घुमंतू समुदायों को 'स्वभाव से अपराधी' करार दिया था?"
+      },
+      "options": {
+        "a": {"en": "The Forest Act", "hi": "वन अधिनियम"},
+        "b": {"en": "Criminal Tribes Act", "hi": "आपराधिक जनजाति अधिनियम (Criminal Tribes Act)"},
+        "c": {"en": "Land Revenue Act", "hi": "भू-राजस्व अधिनियम"},
+        "d": {"en": "Pastoralist Control Act", "hi": "चरवाहा नियंत्रण अधिनियम"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It forced these communities to live only in notified village settlements.",
+        "hi": "इसने इन समुदायों को केवल अधिसूचित ग्राम बस्तियों में रहने के लिए मजबूर किया।"
+      },
+      "explanation": {
+        "en": "The British passed the Criminal Tribes Act in 1871. Many communities of craftsmen, traders, and pastoralists were classified as Criminal Tribes and placed under police supervision.",
+        "hi": "1871 में 'क्रिमिनल ट्राइब्स एक्ट' के जरिए कई घुमंतू समुदायों को अपराधी घोषित कर दिया गया ताकि उन पर नियंत्रण रखा जा सके।"
+      },
+      "key_takeaway": {
+        "en": "Criminal Tribes Act (1871) = Restricting nomadic movement.",
+        "hi": "आपराधिक जनजाति अधिनियम (1871) = घुमंतू आवाजाही पर रोक।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "Why did the British impose 'Grazing Tax' on pastoralists?",
+        "hi": "अंग्रेजों ने चरवाहों पर 'चराई कर' (Grazing Tax) क्यों लगाया?"
+      },
+      "options": {
+        "a": {"en": "To help them grow more grass", "hi": "उन्हें अधिक घास उगाने में मदद करने के लिए"},
+        "b": {"en": "To expand its revenue income", "hi": "अपनी राजस्व आय का विस्तार करने के लिए"},
+        "c": {"en": "To protect the animals", "hi": "जानवरों की रक्षा के लिए"},
+        "d": {"en": "To build better roads", "hi": "बेहतर सड़कें बनाने के लिए"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Taxes were imposed on land, canal water, salt, and even animals.",
+        "hi": "ज़मीन, नहर के पानी, नमक और यहाँ तक कि जानवरों पर भी कर लगाए गए थे।"
+      },
+      "explanation": {
+        "en": "To expand its revenue income, the colonial government looked for every possible source of taxation. Grazing tax was introduced in the mid-19th century.",
+        "hi": "सरकार अपनी आय बढ़ाने के लिए हर संभव चीज़ पर टैक्स लगाना चाहती थी, इसलिए चरागाहों में चराई पर भी टैक्स लगा दिया गया।"
+      },
+      "key_takeaway": {
+        "en": "Grazing Tax = Revenue collection from pastoralists.",
+        "hi": "चराई कर = चरवाहों से राजस्व वसूली।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "How did the closing of grazing lands affect the quality of livestock?",
+        "hi": "चरागाहों के बंद होने से पशुधन की गुणवत्ता पर क्या प्रभाव पड़ा?"
+      },
+      "options": {
+        "a": {"en": "The animals became healthier", "hi": "जानवर स्वस्थ हो गए"},
+        "b": {"en": "The quality of livestock declined due to lack of fodder", "hi": "चारे की कमी के कारण पशुधन की गुणवत्ता में गिरावट आई"},
+        "c": {"en": "New breeds of animals were introduced", "hi": "जानवरों की नई नस्लें पेश की गईं"},
+        "d": {"en": "There was no effect", "hi": "कोई प्रभाव नहीं पड़ा"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "When pastures are overused, they cannot recover, and animals suffer.",
+        "hi": "जब चरागाहों का अत्यधिक उपयोग किया जाता है, तो वे पुनर्जीवित नहीं हो पाते और जानवरों को नुकसान होता है।"
+      },
+      "explanation": {
+        "en": "Restriction on movement led to intensive grazing on limited pastures. This didn't allow time for natural restoration, leading to fodder shortage and undernourished cattle.",
+        "hi": "जब चरागाह कम हो गए, तो बचे हुए मैदानों पर जानवरों का दबाव बढ़ गया, जिससे घास खत्म हो गई और जानवर कमजोर होकर मरने लगे।"
+      },
+      "key_takeaway": {
+        "en": "Reduced Pastures = Fodder shortage and animal deaths.",
+        "hi": "कम चरागाह = चारे की कमी और पशु मृत्यु।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "In Africa, where is the Maasai community mainly found?",
+        "hi": "अफ्रीका में, मसाई (Maasai) समुदाय मुख्य रूप से कहाँ पाया जाता है?"
+      },
+      "options": {
+        "a": {"en": "South Africa", "hi": "दक्षिण अफ्रीका"},
+        "b": {"en": "Egypt", "hi": "मिस्र"},
+        "c": {"en": "East Africa (Kenya and Tanzania)", "hi": "पूर्वी अफ्रीका (केन्या और तंजानिया)"},
+        "d": {"en": "Nigeria", "hi": "नाइजीरिया"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "Before colonial times, they dominated a vast territory from north Kenya to the steppes of Tanzania.",
+        "hi": "औपनिवेशिक काल से पहले, वे उत्तरी केन्या से तंजानिया के घास के मैदानों तक एक विशाल क्षेत्र पर प्रभुत्व रखते थे।"
+      },
+      "explanation": {
+        "en": "The Maasai cattle herders live primarily in East Africa. 300,000 are in Kenya and 150,000 in Tanzania.",
+        "hi": "मसाई चरवाहे पूर्वी अफ्रीका के केन्या और तंजानिया इलाकों में रहते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Maasai = East Africa.",
+        "hi": "मसाई = पूर्वी अफ्रीका।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "What happened to Maasai land in 1885?",
+        "hi": "1885 में मसाई भूमि का क्या हुआ?"
+      },
+      "options": {
+        "a": {"en": "It was given back to the Maasai", "hi": "यह मसाईयों को वापस दे दी गई थी"},
+        "b": {"en": "It was cut in half by an international boundary between British Kenya and German Tanganyika", "hi": "ब्रिटिश केन्या और जर्मन तंगानिका के बीच एक अंतरराष्ट्रीय सीमा द्वारा इसे आधा कर दिया गया था"},
+        "c": {"en": "Gold was discovered there", "hi": "वहाँ सोने की खोज हुई थी"},
+        "d": {"en": "It became a desert", "hi": "यह एक रेगिस्तान बन गया"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "European powers divided Africa among themselves in the 'Scramble for Africa'.",
+        "hi": "यूरोपीय शक्तियों ने 'अफ्रीका के लिए छीना-झपटी' में अफ्रीका को आपस में बांट लिया था।"
+      },
+      "explanation": {
+        "en": "In 1885, Maasailand was cut into half with an international boundary between British Kenya and German Tanganyika, depriving the Maasai of their best grazing lands.",
+        "hi": "1885 में मसाईलैंड के बीच एक अंतरराष्ट्रीय सीमा खींच दी गई, जिससे उनका क्षेत्र केन्या और तंजानिया में बँट गया।"
+      },
+      "key_takeaway": {
+        "en": "1885 Division = Loss of Maasai grazing lands.",
+        "hi": "1885 का विभाजन = मसाई चरागाहों का नुकसान।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "The title 'Maasai' is derived from the word 'Maa'. What does 'Maa-sai' mean?",
+        "hi": "'मसाई' (Maasai) उपाधि 'मा' (Maa) शब्द से बनी है। 'मा-साई' का क्या अर्थ है?"
+      },
+      "options": {
+        "a": {"en": "Warrior", "hi": "योद्धा"},
+        "b": {"en": "My people", "hi": "मेरे लोग (My people)"},
+        "c": {"en": "Cattle herders", "hi": "पशु चरवाहे"},
+        "d": {"en": "Forest dwellers", "hi": "वन वासी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It reflects the community identity.",
+        "hi": "यह सामुदायिक पहचान को दर्शाता है।"
+      },
+      "explanation": {
+        "en": "The title Maasai derives from the word Maa. Maa-sai means ‘My People’. They have traditionally been nomadic and pastoralist.",
+        "hi": "मसाई शब्द 'मा' से निकला है, जिसका अर्थ है 'मेरे लोग'।"
+      },
+      "key_takeaway": {
+        "en": "Maasai = My People.",
+        "hi": "मसाई = मेरे लोग।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "What were the names of the two social groups in Maasai society before colonial rule?",
+        "hi": "औपनिवेशिक शासन से पहले मसाई समाज के दो सामाजिक समूहों के नाम क्या थे?"
+      },
+      "options": {
+        "a": {"en": "Kings and Peasants", "hi": "राजा और किसान"},
+        "b": {"en": "Elders and Warriors", "hi": "बुजुर्ग (Elders) और योद्धा (Warriors)"},
+        "c": {"en": "Traders and Workers", "hi": "व्यापारी और श्रमिक"},
+        "d": {"en": "Priests and Slaves", "hi": "पुजारी और गुलाम"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "One group decided on community affairs, while the other protected the tribe.",
+        "hi": "एक समूह सामुदायिक मामलों पर निर्णय लेता था, जबकि दूसरा जनजाति की रक्षा करता था।"
+      },
+      "explanation": {
+        "en": "Maasai society was divided into two social categories: Elders (who decided on affairs and settled disputes) and Warriors (young men responsible for protection and cattle raids).",
+        "hi": "मसाई समाज 'एल्डर्स' (बुजुर्गों) और 'वॉरियर्स' (योद्धाओं) में बँटा हुआ था।"
+      },
+      "key_takeaway": {
+        "en": "Elders & Warriors = Maasai social structure.",
+        "hi": "एल्डर्स और वॉरियर्स = मसाई सामाजिक संरचना।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "What was the main role of the 'Warriors' in Maasai society?",
+        "hi": "मसाई समाज में 'योद्धाओं' (Warriors) की मुख्य भूमिका क्या थी?"
+      },
+      "options": {
+        "a": {"en": "To farm the land", "hi": "भूमि पर खेती करना"},
+        "b": {"en": "To defend the community and organize cattle raids", "hi": "समुदाय की रक्षा करना और मवेशियों पर छापे मारना"},
+        "c": {"en": "To conduct religious ceremonies", "hi": "धार्मिक समारोहों का आयोजन करना"},
+        "d": {"en": "To weave blankets", "hi": "कंबल बुनना"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Cattle raids were important to prove their manliness and increase wealth.",
+        "hi": "मवेशियों के छापे उनके पौरुष को साबित करने और धन बढ़ाने के लिए महत्वपूर्ण थे।"
+      },
+      "explanation": {
+        "en": "Warriors consisted of younger people who were responsible for the protection of the tribe. They defended the community and organized cattle raids to prove their bravery.",
+        "hi": "योद्धाओं का काम कबीले की रक्षा करना और दूसरे कबीलों से मवेशी छीनकर लाना था।"
+      },
+      "key_takeaway": {
+        "en": "Maasai Warriors = Protection and Cattle raids.",
+        "hi": "मसाई योद्धा = रक्षा और मवेशी छापे।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "How did the British change the Maasai system of governance?",
+        "hi": "अंग्रेजों ने मसाई शासन प्रणाली को कैसे बदला?"
+      },
+      "options": {
+        "a": {"en": "By making everyone a warrior", "hi": "सभी को योद्धा बनाकर"},
+        "b": {"en": "By appointing chiefs of different sub-groups", "hi": "विभिन्न उप-समूहों के मुखिया (Chiefs) नियुक्त करके"},
+        "c": {"en": "By abolishing all leadership", "hi": "सभी नेतृत्व को समाप्त करके"},
+        "d": {"en": "By declaring a King", "hi": "राजा घोषित करके"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "These chiefs were made responsible for the affairs of the tribe.",
+        "hi": "इन मुखियों को जनजाति के मामलों के लिए जिम्मेदार बनाया गया था।"
+      },
+      "explanation": {
+        "en": "The British appointed chiefs of different sub-groups of Maasai, who were made responsible for the affairs of the tribe. This disturbed the traditional authority of elders.",
+        "hi": "अंग्रेजों ने मसाईयों के पारंपरिक शासन को बदलकर अपनी पसंद के मुखिया (Chiefs) तैनात कर दिए।"
+      },
+      "key_takeaway": {
+        "en": "Colonial Chiefs = Disturbed traditional Maasai authority.",
+        "hi": "औपनिवेशिक मुखिया = मसाईयों की पारंपरिक सत्ता में हस्तक्षेप।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "What are 'Kafila'?",
+        "hi": "'काफिला' (Kafila) क्या हैं?"
+      },
+      "options": {
+        "a": {"en": "A type of crop", "hi": "फसल का एक प्रकार"},
+        "b": {"en": "A group of travelers or herders moving together", "hi": "एक साथ यात्रा करने वाले यात्रियों या चरवाहों का समूह"},
+        "c": {"en": "A tax collector", "hi": "कर संग्रहकर्ता"},
+        "d": {"en": "A government law", "hi": "एक सरकारी कानून"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Pastoralists often moved in these groups for safety.",
+        "hi": "चरवाहे अक्सर सुरक्षा के लिए इन समूहों में चलते थे।"
+      },
+      "explanation": {
+        "en": "In many pastoral communities, people move together in groups called kafila for safety and mutual support.",
+        "hi": "सुरक्षा के लिए चरवाहे जब एक साथ यात्रा करते हैं, तो उसे काफिला कहा जाता है।"
+      },
+      "key_takeaway": {
+        "en": "Kafila = Travelling group.",
+        "hi": "काफिला = यात्रा करने वाला समूह।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "What did the term 'nomadic' mean for pastoralists?",
+        "hi": "चरवाहों के लिए 'घुमंतू' (Nomadic) शब्द का क्या अर्थ था?"
+      },
+      "options": {
+        "a": {"en": "People who live in one place", "hi": "जो लोग एक ही स्थान पर रहते हैं"},
+        "b": {"en": "People who move from one place to another to earn their living", "hi": "वे लोग जो अपनी जीविका कमाने के लिए एक स्थान से दूसरे स्थान पर जाते हैं"},
+        "c": {"en": "People who do not keep animals", "hi": "जो लोग जानवर नहीं रखते"},
+        "d": {"en": "Factory workers", "hi": "कारखाना मजदूर"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Their movement depends on the availability of water and pasture.",
+        "hi": "उनकी आवाजाही पानी और चरागाह की उपलब्धता पर निर्भर करती है।"
+      },
+      "explanation": {
+        "en": "Nomads are people who do not live in one place but move from one area to another to earn their living, often with their livestock.",
+        "hi": "घुमंतू वे लोग होते हैं जो एक जगह टिककर नहीं रहते, बल्कि चारे और पानी की तलाश में घूमते रहते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Nomadic = Moving with seasons for survival.",
+        "hi": "घुमंतू = जीवित रहने के लिए मौसम के अनुसार घूमना।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "Which famous national park in Kenya was once a grazing land for Maasai?",
+        "hi": "केन्या का कौन सा प्रसिद्ध राष्ट्रीय उद्यान कभी मसाईयों के लिए चराई भूमि था?"
+      },
+      "options": {
+        "a": {"en": "Kruger National Park", "hi": "क्रुगर नेशनल पार्क"},
+        "b": {"en": "Maasai Mara National Reserve", "hi": "मसाई मारा नेशनल रिजर्व"},
+        "c": {"en": "Jim Corbett National Park", "hi": "जिम कॉर्बेट नेशनल पार्क"},
+        "d": {"en": "Kaziranga", "hi": "काजीरंगा"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The name itself contains the name of the tribe.",
+        "hi": "इसके नाम में ही जनजाति का नाम शामिल है।"
+      },
+      "explanation": {
+        "en": "Many game reserves like Maasai Mara and Samburu National Park in Kenya were created on lands that were traditionally Maasai grazing grounds.",
+        "hi": "केन्या के मसाई मारा और साम्बुरु जैसे नेशनल पार्क मसाईयों की चरागाह भूमि पर बनाए गए हैं।"
+      },
+      "key_takeaway": {
+        "en": "Maasai Mara = Former Maasai grazing land.",
+        "hi": "मसाई मारा = पूर्व मसाई चरागाह भूमि।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "What does 'Serengeti' mean in the Maasai language?",
+        "hi": "मसाई भाषा में 'सेरेनगेटी' (Serengeti) का क्या अर्थ है?"
+      },
+      "options": {
+        "a": {"en": "Mountains of light", "hi": "प्रकाश के पर्वत"},
+        "b": {"en": "Endless plains", "hi": "अंतहीन मैदान"},
+        "c": {"en": "Deep forest", "hi": "गहरा जंगल"},
+        "d": {"en": "Blue water", "hi": "नीला पानी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It describes the vast, flat landscape of the region.",
+        "hi": "यह क्षेत्र के विशाल, सपाट परिदृश्य का वर्णन करता है।"
+      },
+      "explanation": {
+        "en": "The Serengeti National Park in Tanzania was created on 14,760 km of Maasai grazing land. Serengeti means ‘endless plains’ in the Maasai language.",
+        "hi": "तंजानिया के 'सेरेनगेटी' नेशनल पार्क का नाम मसाई शब्द से आया है जिसका अर्थ है 'अंतहीन मैदान'।"
+      },
+      "key_takeaway": {
+        "en": "Serengeti = Endless plains.",
+        "hi": "सेरेनगेटी = अंतहीन मैदान।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "In Africa, about how many people depend on pastoralism for their livelihood?",
+        "hi": "अफ्रीका में लगभग कितने लोग अपनी आजीविका के लिए पशुपालन पर निर्भर हैं?"
+      },
+      "options": {
+        "a": {"en": "Over 22 million", "hi": "22 मिलियन से अधिक"},
+        "b": {"en": "1 million", "hi": "1 मिलियन"},
+        "c": {"en": "50 million", "hi": "50 मिलियन"},
+        "d": {"en": "100 million", "hi": "100 मिलियन"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "They include communities like Bedouins, Berbers, and Somalis.",
+        "hi": "इनमें बेडौइन्स, बर्बर्स और सोमाली जैसे समुदाय शामिल हैं।"
+      },
+      "explanation": {
+        "en": "Even today, over 22 million Africans depend on some form of pastoral activity for their livelihood.",
+        "hi": "आज भी अफ्रीका में 2.2 करोड़ (22 मिलियन) से ज्यादा लोग पशुपालन पर निर्भर हैं।"
+      },
+      "key_takeaway": {
+        "en": "Pastoralism = Vital for millions in Africa.",
+        "hi": "पशुपालन = अफ्रीका में लाखों लोगों के लिए महत्वपूर्ण।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "Which of these is NOT a challenge faced by Maasai due to colonial policies?",
+        "hi": "इनमें से कौन सी औपनिवेशिक नीतियों के कारण मसाईयों के सामने आने वाली चुनौती नहीं है?"
+      },
+      "options": {
+        "a": {"en": "Loss of grazing lands", "hi": "चरागाह भूमि का नुकसान"},
+        "b": {"en": "Restrictions on movement", "hi": "आवाजाही पर प्रतिबंध"},
+        "c": {"en": "Increase in animal breeds", "hi": "पशु नस्लों में वृद्धि"},
+        "d": {"en": "Fodder shortage during droughts", "hi": "सूखे के दौरान चारे की कमी"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "Most colonial policies had a negative impact on pastoralists.",
+        "hi": "अधिकांश औपनिवेशिक नीतियों का चरवाहों पर नकारात्मक प्रभाव पड़ा।"
+      },
+      "explanation": {
+        "en": "Colonial policies led to loss of land, restricted movement, and fodder shortages. They did not help in increasing animal breeds; in fact, livestock quality declined.",
+        "hi": "औपनिवेशिक शासन ने मसाईयों से उनकी जमीन छीन ली और उन पर पाबंदियां लगा दीं, जिससे पशुधन की नस्ल सुधरने के बजाय खराब हुई।"
+      },
+      "key_takeaway": {
+        "en": "Colonialism = Negative impact on pastoralists.",
+        "hi": "औपनिवेशिकवाद = चरवाहों पर नकारात्मक प्रभाव।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "The Raikas combined cultivation with pastoralism because:",
+        "hi": "रायकाओं ने खेती और पशुपालन को एक साथ जोड़ा क्योंकि:"
+      },
+      "options": {
+        "a": {"en": "They liked both equally", "hi": "वे दोनों को समान रूप से पसंद करते थे"},
+        "b": {"en": "Rainfall was uncertain and harvests fluctuated", "hi": "वर्षा अनिश्चित थी और फसल की पैदावार घटती-बढ़ती रहती थी"},
+        "c": {"en": "The government forced them", "hi": "सरकार ने उन्हें मजबूर किया"},
+        "d": {"en": "They had too much land", "hi": "उनके पास बहुत अधिक भूमि थी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "In desert regions, relying on one source of income is risky.",
+        "hi": "रेगिस्तानी क्षेत्रों में आय के एक स्रोत पर निर्भर रहना जोखिम भरा है।"
+      },
+      "explanation": {
+        "en": "Due to uncertain rainfall in the desert, crops failed often. So Raikas moved with their animals to find grass when their home regions became dry.",
+        "hi": "रेगिस्तान में बारिश कम होने के कारण फसल अक्सर खराब हो जाती थी, इसलिए रायकाओं ने खेती के साथ पशुपालन भी जारी रखा।"
+      },
+      "key_takeaway": {
+        "en": "Diversified Livelihood = Strategy against desert climate.",
+        "hi": "विविध आजीविका = रेगिस्तानी जलवायु के खिलाफ रणनीति।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "What did pastoralists do when grazing lands became restricted?",
+        "hi": "जब चरागाह भूमि प्रतिबंधित हो गई तो चरवाहों ने क्या किया?"
+      },
+      "options": {
+        "a": {"en": "Some reduced the number of cattle", "hi": "कुछ ने मवेशियों की संख्या कम कर दी"},
+        "b": {"en": "Some found new grazing grounds", "hi": "कुछ ने नए चरागाह खोजे"},
+        "c": {"en": "Some became settled peasants or traders", "hi": "कुछ बसे हुए किसान या व्यापारी बन गए"},
+        "d": {"en": "All of the above", "hi": "उपरोक्त सभी"}
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "Pastoralists adapted to the changes in different ways.",
+        "hi": "चरवाहों ने बदलावों को विभिन्न तरीकों से अपनाया।"
+      },
+      "explanation": {
+        "en": "Pastoralists adapted by reducing herd sizes, finding new pastures (like Raikas moving to Haryana), or shifting to other professions like farming or trading.",
+        "hi": "चरवाहों ने बदलते वक्त के साथ खुद को ढाला; कुछ ने जानवर कम कर दिए, कुछ ने नए इलाके ढूंढे और कुछ खेती करने लगे।"
+      },
+      "key_takeaway": {
+        "en": "Adaptation = Pastoralist response to land loss.",
+        "hi": "अनुकूलन = भूमि हानि पर चरवाहों की प्रतिक्रिया।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "Which pastoral community herded camels in Rajasthan?",
+        "hi": "राजस्थान में कौन सा चरवाहा समुदाय ऊंट पालता था?"
+      },
+      "options": {
+        "a": {"en": "Maru Raikas", "hi": "मारू रायका"},
+        "b": {"en": "Gaddi", "hi": "गद्दी"},
+        "c": {"en": "Dhangar", "hi": "धनगर"},
+        "d": {"en": "Gollas", "hi": "गोल्ला"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "The word 'Maru' is related to the desert.",
+        "hi": "'मारू' शब्द मरुस्थल से संबंधित है।"
+      },
+      "explanation": {
+        "en": "The Maru (desert) Raikas herded camels and their settlement is called a dhandi.",
+        "hi": "रायकाओं का एक समूह 'मारू' कहलाता है जो केवल ऊंट पालता है।"
+      },
+      "key_takeaway": {
+        "en": "Maru Raikas = Camel specialists.",
+        "hi": "मारू रायका = ऊंट विशेषज्ञ।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "During which months did the Gujjar Bakarwals live in the high mountains?",
+        "hi": "गुज्जर बकरवाल किन महीनों के दौरान ऊंचे पहाड़ों में रहते थे?"
+      },
+      "options": {
+        "a": {"en": "Winter (December to March)", "hi": "सर्दी (दिसंबर से मार्च)"},
+        "b": {"en": "Summer (June to September)", "hi": "गर्मी (जून से सितंबर)"},
+        "c": {"en": "They never lived in mountains", "hi": "वे कभी पहाड़ों में नहीं रहे"},
+        "d": {"en": "All year round", "hi": "पूरे साल"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "They moved up when the snow melted and lush grass grew.",
+        "hi": "वे तब ऊपर जाते थे जब बर्फ पिघलती थी और हरी घास उगती थी।"
+      },
+      "explanation": {
+        "en": "By the end of April, Gujjar Bakarwals began their northern march to summer grazing grounds in the high mountains of Kashmir.",
+        "hi": "गर्मियों में जब बर्फ पिघलती थी, तो बकरवाल ऊँचे पहाड़ों (बुग्याल) की ओर चले जाते थे।"
+      },
+      "key_takeaway": {
+        "en": "Summer = High mountain grazing.",
+        "hi": "गर्मी = ऊँचे पहाड़ों में चराई।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "What was the status of the 'Elders' in the Maasai society?",
+        "hi": "मसाई समाज में 'एल्डर्स' (बुजुर्गों) की स्थिति क्या थी?"
+      },
+      "options": {
+        "a": {"en": "They were the ruling class who met in councils", "hi": "वे शासक वर्ग थे जो परिषदों में मिलते थे"},
+        "b": {"en": "They were soldiers", "hi": "वे सैनिक थे"},
+        "c": {"en": "They had no power", "hi": "उनके पास कोई शक्ति नहीं थी"},
+        "d": {"en": "They were outcasts", "hi": "वे बहिष्कृत थे"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "They settled disputes and decided on general affairs of the community.",
+        "hi": "वे विवादों को सुलझाते थे और समुदाय के सामान्य मामलों पर निर्णय लेते थे।"
+      },
+      "explanation": {
+        "en": "The Elders formed the ruling council and met periodically to settle disputes and decide on community affairs.",
+        "hi": "बुजुर्गों का समूह समाज के बड़े फैसले लेता था और झगड़े सुलझाता था।"
+      },
+      "key_takeaway": {
+        "en": "Maasai Elders = Decision makers.",
+        "hi": "मसाई एल्डर्स = निर्णय लेने वाले।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "Why do environmentalists today recognize pastoralism as a sustainable lifestyle?",
+        "hi": "आज पर्यावरणविद पशुपालन को एक टिकाऊ (sustainable) जीवन शैली के रूप में क्यों पहचानते हैं?"
+      },
+      "options": {
+        "a": {"en": "Because it doesn't use water", "hi": "क्योंकि इसमें पानी का उपयोग नहीं होता"},
+        "b": {"en": "Because it allows pastures to recover through seasonal movement", "hi": "क्योंकि यह मौसमी आवाजाही के माध्यम से चरागाहों को पुनर्जीवित होने देता है"},
+        "c": {"en": "Because pastoralists don't eat meat", "hi": "क्योंकि चरवाहे मांस नहीं खाते"},
+        "d": {"en": "Because it uses a lot of electricity", "hi": "क्योंकि इसमें बहुत अधिक बिजली का उपयोग होता है"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Moving from one place to another prevents overgrazing of a single area.",
+        "hi": "एक स्थान से दूसरे स्थान पर जाने से एक ही क्षेत्र में अत्यधिक चराई रुक जाती है।"
+      },
+      "explanation": {
+        "en": "Pastoral nomadism is now recognized as a perfectly sensible way of life for hilly and dry regions, as it allows natural vegetation to grow back in rotation.",
+        "hi": "आज माना जाता है कि चरवाहों का एक जगह से दूसरी जगह जाना पर्यावरण के लिए अच्छा है क्योंकि इससे घास को दोबारा उगने का समय मिलता है।"
+      },
+      "key_takeaway": {
+        "en": "Nomadism = Eco-friendly and Sustainable.",
+        "hi": "घुमंतू जीवन = पर्यावरण के अनुकूल और टिकाऊ।"
+      }
+    }
+  ]
+}

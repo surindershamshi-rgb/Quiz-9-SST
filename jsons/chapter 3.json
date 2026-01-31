@@ -1,0 +1,794 @@
+{
+  "metadata": {
+    "chapter_number": 3,
+    "chapter_title": "Nazism and the Rise of Hitler",
+    "chapter_title_hindi": "नात्सीवाद और हिटलर का उदय",
+    "subject": "History - Class 9",
+    "board": "CBSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.0",
+    "naming_convention": "09_HI_CH03_NazismHitler_30MCQ.json"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "In which year did Germany surrender to the Allies at the end of World War II?",
+        "hi": "द्वितीय विश्व युद्ध के अंत में जर्मनी ने मित्र राष्ट्रों के सामने किस वर्ष आत्मसमर्पण किया?"
+      },
+      "options": {
+        "a": {"en": "1942", "hi": "1942"},
+        "b": {"en": "1945", "hi": "1945"},
+        "c": {"en": "1939", "hi": "1939"},
+        "d": {"en": "1918", "hi": "1918"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Hitler committed suicide in his bunker in April of this year.",
+        "hi": "हिटलर ने इसी वर्ष अप्रैल में अपने बंकर में आत्महत्या कर ली थी।"
+      },
+      "explanation": {
+        "en": "In May 1945, Germany surrendered to the Allies. Anticipating what was coming, Hitler, his propaganda minister Goebbels and his entire family committed suicide.",
+        "hi": "मई 1945 में जर्मनी ने मित्र राष्ट्रों के सामने समर्पण कर दिया। हिटलर और उसके प्रचार मंत्री गोयबल्स ने बर्लिन के बंकर में आत्महत्या कर ली थी।"
+      },
+      "key_takeaway": {
+        "en": "May 1945 = End of Nazi Germany.",
+        "hi": "मई 1945 = नात्सी जर्मनी का अंत।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "Which of the following bodies was set up to prosecute Nazi war criminals for 'Crimes Against Humanity'?",
+        "hi": "नात्सी युद्ध अपराधियों पर 'मानवता के खिलाफ अपराध' के लिए मुकदमा चलाने के लिए निम्नलिखित में से किस संस्था की स्थापना की गई थी?"
+      },
+      "options": {
+        "a": {"en": "The United Nations", "hi": "संयुक्त राष्ट्र"},
+        "b": {"en": "International Military Tribunal at Nuremberg", "hi": "नूर्नबर्ग में अंतर्राष्ट्रीय सैन्य न्यायाधिकरण"},
+        "c": {"en": "The League of Nations", "hi": "लीग ऑफ नेशंस"},
+        "d": {"en": "The Reichstag", "hi": "राइखस्टैग"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It was established in a German city famous for Nazi rallies.",
+        "hi": "इसकी स्थापना नात्सी रैलियों के लिए प्रसिद्ध एक जर्मन शहर में की गई थी।"
+      },
+      "explanation": {
+        "en": "At the end of the war, an International Military Tribunal at Nuremberg was set up to prosecute Nazi war criminals for Crimes against Peace, for War Crimes and Crimes Against Humanity.",
+        "hi": "युद्ध के बाद नूर्नबर्ग में अंतर्राष्ट्रीय सैन्य अदालत की स्थापना की गई ताकि नात्सी युद्ध अपराधियों पर मुकदमा चलाया जा सके।"
+      },
+      "key_takeaway": {
+        "en": "Nuremberg Tribunal = Justice for Nazi crimes.",
+        "hi": "नूर्नबर्ग ट्रिब्यूनल = नात्सी अपराधों के लिए न्याय।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "What was the name of the German Parliament during the Weimar Republic?",
+        "hi": "वाइमर गणराज्य के दौरान जर्मन संसद का नाम क्या था?"
+      },
+      "options": {
+        "a": {"en": "Duma", "hi": "ड्यूमा"},
+        "b": {"en": "Congress", "hi": "कांग्रेस"},
+        "c": {"en": "Reichstag", "hi": "राइखस्टैग"},
+        "d": {"en": "Estates General", "hi": "स्टेट्स जनरल"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "Deputies were elected to this body on the basis of equal and universal votes.",
+        "hi": "समान और सार्वभौमिक वोटों के आधार पर प्रतिनिधियों को इस संस्था के लिए चुना जाता था।"
+      },
+      "explanation": {
+        "en": "Deputies were elected to the German Parliament or Reichstag, on the basis of equal and universal votes cast by all adults including women.",
+        "hi": "जर्मन संसद को राइखस्टैग कहा जाता था, जिसमें प्रतिनिधियों का चुनाव वयस्क मताधिकार के आधार पर होता था।"
+      },
+      "key_takeaway": {
+        "en": "Reichstag = German Parliament.",
+        "hi": "राइखस्टैग = जर्मन संसद।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "The Peace Treaty of Versailles (1919) was considered harsh and humiliating for which country?",
+        "hi": "वर्साय की शांति संधि (1919) किस देश के लिए कठोर और अपमानजनक मानी गई थी?"
+      },
+      "options": {
+        "a": {"en": "France", "hi": "फ्रांस"},
+        "b": {"en": "Germany", "hi": "जर्मनी"},
+        "c": {"en": "Italy", "hi": "इटली"},
+        "d": {"en": "Russia", "hi": "रूस"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The country lost its overseas colonies and 13% of its territories.",
+        "hi": "इस देश ने अपने विदेशी उपनिवेश और 13% क्षेत्र खो दिए थे।"
+      },
+      "explanation": {
+        "en": "The Peace Treaty at Versailles with the Allies was a harsh and humiliating peace for Germany. It lost its overseas colonies, 13 per cent of its territories, and 75 per cent of its iron.",
+        "hi": "वर्साय की संधि जर्मनी के लिए बहुत अपमानजनक थी। उसे अपने बहुत सारे इलाके, खनिज भंडार और सेना गँवानी पड़ी।"
+      },
+      "key_takeaway": {
+        "en": "Treaty of Versailles = Resentment in Germany.",
+        "hi": "वर्साय की संधि = जर्मनी में रोष का कारण।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "Who were mocked as 'November Criminals' by the critics of the Weimar Republic?",
+        "hi": "वाइमर गणराज्य के आलोचकों द्वारा किन्हें 'नवंबर के अपराधी' कहकर चिढ़ाया जाता था?"
+      },
+      "options": {
+        "a": {"en": "The Nazi Party", "hi": "नात्सी पार्टी"},
+        "b": {"en": "Supporters of the Weimar Republic", "hi": "वाइमर गणराज्य के समर्थक"},
+        "c": {"en": "The Army", "hi": "सेना"},
+        "d": {"en": "The Jews", "hi": "यहुदी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "They were mainly Socialists, Catholics, and Democrats who supported the peace treaty.",
+        "hi": "वे मुख्य रूप से समाजवादी, कैथोलिक और डेमोक्रेट थे जिन्होंने शांति संधि का समर्थन किया था।"
+      },
+      "explanation": {
+        "en": "Those who supported the Weimar Republic, mainly Socialists, Catholics and Democrats, were mockingly called the ‘November Criminals’ because they signed the armistice in November 1918.",
+        "hi": "वाइमर गणराज्य के समर्थकों (समाजवादी, कैथोलिक, डेमोक्रेट्स) को 'नवंबर का अपराधी' कहा जाता था क्योंकि उन्होंने युद्ध विराम पर हस्ताक्षर किए थे।"
+      },
+      "key_takeaway": {
+        "en": "November Criminals = Weimar Supporters.",
+        "hi": "नवंबर के अपराधी = वाइमर समर्थक।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "What was the name of the radical group that staged an uprising against the Weimar Republic, similar to the Bolshevik Revolution?",
+        "hi": "उस कट्टरपंथी समूह का नाम क्या था जिसने वाइमर गणराज्य के खिलाफ बोल्शेविक क्रांति के समान विद्रोह किया था?"
+      },
+      "options": {
+        "a": {"en": "Free Corps", "hi": "फ्री कॉर्प्स"},
+        "b": {"en": "Spartacist League", "hi": "स्पार्टकिस्ट लीग"},
+        "c": {"en": "Jacobins", "hi": "जैकोबिन"},
+        "d": {"en": "Gestapo", "hi": "गेस्टापो"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "They later founded the Communist Party of Germany.",
+        "hi": "बाद में उन्होंने जर्मनी की कम्युनिस्ट पार्टी की नींव रखी।"
+      },
+      "explanation": {
+        "en": "The revolutionary uprising of the Spartacist League was based on the pattern of the Bolshevik Revolution in Russia. It was crushed by the Weimar Republic with the help of the 'Free Corps'.",
+        "hi": "स्पार्टकिस्ट लीग ने रूस की बोल्शेविक क्रांति की तर्ज पर विद्रोह किया था। इसे 'फ्री कॉर्प्स' की मदद से कुचल दिया गया था।"
+      },
+      "key_takeaway": {
+        "en": "Spartacist League = German Communists.",
+        "hi": "स्पार्टकिस्ट लीग = जर्मन कम्युनिस्ट।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "When a country's currency value falls so low that prices of goods rise phenomenally, it is called:",
+        "hi": "जब किसी देश की मुद्रा का मूल्य इतना गिर जाता है कि वस्तुओं की कीमतें बेतहाशा बढ़ जाती हैं, तो इसे क्या कहा जाता है?"
+      },
+      "options": {
+        "a": {"en": "Deflation", "hi": "अपस्फीति"},
+        "b": {"en": "Hyperinflation", "hi": "अतिमुद्रास्फीति (Hyperinflation)"},
+        "c": {"en": "Depression", "hi": "मंदी"},
+        "d": {"en": "Recession", "hi": "आर्थिक सुस्ती"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Germany faced this in 1923 when a loaf of bread cost cartloads of currency.",
+        "hi": "1923 में जर्मनी ने इसका सामना किया था जब एक पाव रोटी के लिए गाड़ियों में भरकर पैसे ले जाने पड़ते थे।"
+      },
+      "explanation": {
+        "en": "Hyperinflation is a situation when prices rise phenomenally high. In 1923, Germany printed too much paper money, leading to the collapse of the Mark's value.",
+        "hi": "जब कीमतें बेहिसाब बढ़ जाती हैं तो उस स्थिति को अतिमुद्रास्फीति (Hyperinflation) कहते हैं। 1923 में जर्मनी में यही हुआ था।"
+      },
+      "key_takeaway": {
+        "en": "Hyperinflation = Massive price rise (1923 Germany).",
+        "hi": "अतिमुद्रास्फीति = कीमतों में भारी वृद्धि (1923 जर्मनी)।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "The Wall Street Exchange, the world's biggest stock exchange, crashed in 1929. Where is it located?",
+        "hi": "दुनिया का सबसे बड़ा शेयर बाजार, वॉल स्ट्रीट एक्सचेंज 1929 में धराशायी हो गया। यह कहाँ स्थित है?"
+      },
+      "options": {
+        "a": {"en": "Berlin", "hi": "बर्लिन"},
+        "b": {"en": "London", "hi": "लंदन"},
+        "c": {"en": "USA", "hi": "यूएसए (अमेरिका)"},
+        "d": {"en": "France", "hi": "फ्रांस"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "This event marked the beginning of the Great Depression.",
+        "hi": "इस घटना ने 'महामंदी' की शुरुआत को चिन्हित किया।"
+      },
+      "explanation": {
+        "en": "The Wall Street Exchange is located in the USA. Its crash in 1929 triggered the Great Economic Depression which hit Germany very hard.",
+        "hi": "वॉल स्ट्रीट एक्सचेंज अमेरिका में है। 1929 में इसके धराशायी होने से दुनिया भर में 'आर्थिक महामंदी' फैल गई।"
+      },
+      "key_takeaway": {
+        "en": "Wall Street Crash (1929) = Great Depression.",
+        "hi": "वॉल स्ट्रीट क्रैश (1929) = महामंदी।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "Which article of the Weimar Constitution gave the President power to impose emergency and rule by decree?",
+        "hi": "वाइमर संविधान के किस अनुच्छेद ने राष्ट्रपति को आपातकाल लगाने और डिक्री (अध्यादेश) द्वारा शासन करने की शक्ति दी थी?"
+      },
+      "options": {
+        "a": {"en": "Article 1", "hi": "अनुच्छेद 1"},
+        "b": {"en": "Article 48", "hi": "अनुच्छेद 48"},
+        "c": {"en": "Article 14", "hi": "अनुच्छेद 14"},
+        "d": {"en": "Article 370", "hi": "अनुच्छेद 370"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This article allowed the President to suspend civil rights.",
+        "hi": "इस अनुच्छेद ने राष्ट्रपति को नागरिक अधिकारों को निलंबित करने की अनुमति दी थी।"
+      },
+      "explanation": {
+        "en": "Article 48 gave the President the powers to impose emergency, suspend civil rights and rule by decree, contributing to the fragility of the Weimar Republic.",
+        "hi": "अनुच्छेद 48 ने राष्ट्रपति को आपातकाल लगाने और नागरिक अधिकारों को रद्द करने की शक्ति दी थी।"
+      },
+      "key_takeaway": {
+        "en": "Article 48 = Presidential Emergency Power.",
+        "hi": "अनुच्छेद 48 = राष्ट्रपति की आपातकालीन शक्ति।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "In which city was Hitler born?",
+        "hi": "हिटलर का जन्म किस शहर/देश में हुआ था?"
+      },
+      "options": {
+        "a": {"en": "Berlin, Germany", "hi": "बर्लिन, जर्मनी"},
+        "b": {"en": "Braunau am Inn, Austria", "hi": "ब्रौनौ एम इन, ऑस्ट्रिया"},
+        "c": {"en": "Munich, Germany", "hi": "म्यूनिख, जर्मनी"},
+        "d": {"en": "Vienna, Austria", "hi": "वियना, ऑस्ट्रिया"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Born in 1889, he later moved to Germany and joined the army.",
+        "hi": "1889 में जन्मे, वे बाद में जर्मनी चले गए और सेना में शामिल हो गए।"
+      },
+      "explanation": {
+        "en": "Hitler was born in 1889 in Austria. He spent his youth in poverty and served as a messenger in World War I.",
+        "hi": "हिटलर का जन्म 1889 में ऑस्ट्रिया में हुआ था। प्रथम विश्व युद्ध के दौरान उन्होंने जर्मन सेना में संदेशवाहक का काम किया।"
+      },
+      "key_takeaway": {
+        "en": "Hitler's Birth = 1889, Austria.",
+        "hi": "हिटलर का जन्म = 1889, ऑस्ट्रिया।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "The Nazi Party was originally known as the:",
+        "hi": "नात्सी पार्टी को मूल रूप से किस नाम से जाना जाता था?"
+      },
+      "options": {
+        "a": {"en": "Socialist Party", "hi": "समाजवादी पार्टी"},
+        "b": {"en": "German Workers' Party", "hi": "जर्मन वर्कर्स पार्टी"},
+        "c": {"en": "Fascist Party", "hi": "फासीवादी पार्टी"},
+        "d": {"en": "Liberal Party", "hi": "लिबरल पार्टी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Hitler joined this group in 1919 and later took over its leadership.",
+        "hi": "हिटलर 1919 में इस समूह में शामिल हुए और बाद में इसके नेतृत्व को संभाला।"
+      },
+      "explanation": {
+        "en": "In 1919, Hitler joined a small group called the German Workers’ Party. He subsequently took over the organisation and renamed it the National Socialist German Workers’ Party. This party came to be known as the Nazi Party.",
+        "hi": "1919 में हिटलर 'जर्मन वर्कर्स पार्टी' में शामिल हुए, जिसका नाम बदलकर बाद में 'नैशनल सोशलिस्ट जर्मन वर्कर्स पार्टी' रखा गया, जिसे 'नात्सी पार्टी' कहा गया।"
+      },
+      "key_takeaway": {
+        "en": "Nazi Party Origin = German Workers' Party.",
+        "hi": "नात्सी पार्टी का मूल = जर्मन वर्कर्स पार्टी।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "What event in February 1933 helped Hitler to suspend civic rights and consolidate power?",
+        "hi": "फरवरी 1933 की किस घटना ने हिटलर को नागरिक अधिकारों को निलंबित करने और सत्ता को मजबूत करने में मदद की?"
+      },
+      "options": {
+        "a": {"en": "Death of Hindenburg", "hi": "हिंडनबर्ग की मृत्यु"},
+        "b": {"en": "The Burning of the Reichstag", "hi": "जर्मन संसद (राइखस्टैग) में आगजनी"},
+        "c": {"en": "Signing of Treaty of Versailles", "hi": "वर्साय की संधि पर हस्ताक्षर"},
+        "d": {"en": "Invading Poland", "hi": "पोलैंड पर आक्रमण"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "A mysterious fire broke out in the German Parliament building.",
+        "hi": "जर्मन संसद भवन में एक रहस्यमयी आग लग गई थी।"
+      },
+      "explanation": {
+        "en": "A mysterious fire that broke out in the German Parliament building in February 1933 provided an excuse for Hitler to issue the Fire Decree, suspending civic rights.",
+        "hi": "फरवरी 1933 में जर्मन संसद भवन में हुई आगजनी (Reichstag Fire) के बाद हिटलर ने 'अग्नि अध्यादेश' (Fire Decree) के जरिए नागरिक अधिकार रद्द कर दिए।"
+      },
+      "key_takeaway": {
+        "en": "Reichstag Fire = Pretext for Dictatorship.",
+        "hi": "राइखस्टैग अग्निकांड = तानाशाही का बहाना।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "The famous 'Enabling Act' which established dictatorship in Germany was passed on:",
+        "hi": "जर्मनी में तानाशाही स्थापित करने वाला प्रसिद्ध 'विशेषाधिकार अधिनियम' (Enabling Act) कब पारित किया गया था?"
+      },
+      "options": {
+        "a": {"en": "3 March 1933", "hi": "3 मार्च 1933"},
+        "b": {"en": "1 September 1939", "hi": "1 सितंबर 1939"},
+        "c": {"en": "30 January 1933", "hi": "30 जनवरी 1933"},
+        "d": {"en": "14 July 1789", "hi": "14 जुलाई 1789"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "This act gave Hitler all powers to sideline Parliament.",
+        "hi": "इस अधिनियम ने हिटलर को संसद को दरकिनार करने की सभी शक्तियाँ दे दीं।"
+      },
+      "explanation": {
+        "en": "On 3 March 1933, the famous Enabling Act was passed. This Act established dictatorship in Germany and gave Hitler powers to sideline Parliament and rule by decree.",
+        "hi": "3 मार्च 1933 को 'विशेषाधिकार अधिनियम' पारित किया गया, जिसने हिटलर को डिक्री के जरिए शासन करने और संसद को खत्म करने का अधिकार दिया।"
+      },
+      "key_takeaway": {
+        "en": "Enabling Act = Start of Dictatorship.",
+        "hi": "इनेबलिंग एक्ट = तानाशाही की शुरुआत।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "The secret state police of the Nazis was known as:",
+        "hi": "नात्सियों की गुप्त राज्य पुलिस को किस नाम से जाना जाता था?"
+      },
+      "options": {
+        "a": {"en": "SS", "hi": "एसएस (SS)"},
+        "b": {"en": "Gestapo", "hi": "गेस्टापो (Gestapo)"},
+        "c": {"en": "SA", "hi": "एसए (SA)"},
+        "d": {"en": "Storm Troopers", "hi": "स्टॉर्म ट्रूपर्स"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It was feared for its torture chambers and arbitrary arrests.",
+        "hi": "यह अपने यातना कक्षों और मनमानी गिरफ्तारियों के लिए कुख्यात थी।"
+      },
+      "explanation": {
+        "en": "The Gestapo was the secret state police. Along with the SS (protection squads) and other security forces, it gave the Nazi state its reputation as the most dreaded criminal state.",
+        "hi": "गेस्टापो नात्सी जर्मनी की गुप्त पुलिस थी। इसके पास बेहिसाब अधिकार थे और लोग इससे बेहद डरते थे।"
+      },
+      "key_takeaway": {
+        "en": "Gestapo = Nazi Secret Police.",
+        "hi": "गेस्टापो = नात्सी गुप्त पुलिस।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "Who was the economist assigned by Hitler to lead the economic recovery of Germany?",
+        "hi": "हिटलर द्वारा जर्मनी के आर्थिक सुधार का नेतृत्व करने के लिए किस अर्थशास्त्री को नियुक्त किया गया था?"
+      },
+      "options": {
+        "a": {"en": "Hjalmar Schacht", "hi": "हजालमार शाख्त"},
+        "b": {"en": "Adam Smith", "hi": "एडम स्मिथ"},
+        "c": {"en": "Karl Marx", "hi": "कार्ल मार्क्स"},
+        "d": {"en": "John Maynard Keynes", "hi": "जॉन मेनार्ड कीन्स"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "He aimed at full production and full employment through state-funded work creation.",
+        "hi": "उनका लक्ष्य सरकारी सहायता प्राप्त कार्य सृजन के माध्यम से पूर्ण उत्पादन और पूर्ण रोजगार था।"
+      },
+      "explanation": {
+        "en": "Hitler assigned the responsibility of economic recovery to the economist Hjalmar Schacht who aimed at full production and full employment through a state-funded work-creation programme.",
+        "hi": "हजालमार शाख्त वह अर्थशास्त्री थे जिन्होंने सरकारी निवेश के जरिए रोजगार पैदा करने की योजना बनाई थी।"
+      },
+      "key_takeaway": {
+        "en": "Hjalmar Schacht = Nazi Economist.",
+        "hi": "हजालमार शाख्त = नात्सी अर्थशास्त्री।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "In 1939, Germany invaded ________, which started World War II.",
+        "hi": "1939 में जर्मनी ने ________ पर आक्रमण किया, जिससे द्वितीय विश्व युद्ध शुरू हुआ।"
+      },
+      "options": {
+        "a": {"en": "France", "hi": "फ्रांस"},
+        "b": {"en": "Russia", "hi": "रूस"},
+        "c": {"en": "Poland", "hi": "पोलैंड"},
+        "d": {"en": "Austria", "hi": "ऑस्ट्रिया"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "This invasion led to a war with France and England.",
+        "hi": "इस आक्रमण के कारण फ्रांस और इंग्लैंड के साथ युद्ध शुरू हो गया।"
+      },
+      "explanation": {
+        "en": "In September 1939, Germany invaded Poland. This started a war with France and England, eventually turning into World War II.",
+        "hi": "सितंबर 1939 में पोलैंड पर जर्मन हमले के साथ द्वितीय विश्व युद्ध की शुरुआत हुई।"
+      },
+      "key_takeaway": {
+        "en": "Invasion of Poland = Start of WWII.",
+        "hi": "पोलैंड पर आक्रमण = द्वितीय विश्व युद्ध की शुरुआत।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "The Tripartite Pact (1940) was signed between Germany, Italy, and which other country?",
+        "hi": "त्रिपक्षीय संधि (Tripartite Pact, 1940) जर्मनी, इटली और किस अन्य देश के बीच हस्ताक्षरित हुई थी?"
+      },
+      "options": {
+        "a": {"en": "Japan", "hi": "जापान"},
+        "b": {"en": "USA", "hi": "यूएसए"},
+        "c": {"en": "Turkey", "hi": "तुर्की"},
+        "d": {"en": "China", "hi": "चीन"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "This country later attacked Pearl Harbor.",
+        "hi": "इस देश ने बाद में पर्ल हार्बर पर हमला किया था।"
+      },
+      "explanation": {
+        "en": "A Tripartite Pact was signed in 1940 between Germany, Italy and Japan, strengthening Hitler’s claim to international power.",
+        "hi": "1940 में जर्मनी, इटली और जापान के बीच त्रिपक्षीय संधि हुई, जिसने 'धुरी राष्ट्रों' (Axis Powers) का गठन किया।"
+      },
+      "key_takeaway": {
+        "en": "Tripartite Pact = Axis Powers (Germany, Italy, Japan).",
+        "hi": "त्रिपक्षीय संधि = धुरी राष्ट्र (जर्मनी, इटली, जापान)।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "What did Hitler call his 'historic blunder' in June 1941?",
+        "hi": "जून 1941 में हिटलर ने अपनी किस गलती को 'ऐतिहासिक भूल' कहा?"
+      },
+      "options": {
+        "a": {"en": "Invading Poland", "hi": "पोलैंड पर आक्रमण"},
+        "b": {"en": "Attacking the Soviet Union", "hi": "सोवियत संघ पर हमला"},
+        "c": {"en": "Entering the war", "hi": "युद्ध में प्रवेश"},
+        "d": {"en": "The Holocaust", "hi": "होलोकॉस्ट"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It exposed the German western front to British bombing and the eastern front to the powerful Soviet armies.",
+        "hi": "इसने जर्मन पश्चिमी मोर्चे को ब्रिटिश बमबारी और पूर्वी मोर्चे को शक्तिशाली सोवियत सेनाओं के लिए खोल दिया।"
+      },
+      "explanation": {
+        "en": "In June 1941, Hitler attacked the Soviet Union. This was a historic blunder as it forced Germany to fight on two fronts simultaneously.",
+        "hi": "जून 1941 में सोवियत संघ पर हमला हिटलर की सबसे बड़ी रणनीतिक भूल मानी जाती है क्योंकि इससे जर्मनी दो मोर्चों पर फँस गया।"
+      },
+      "key_takeaway": {
+        "en": "Invading USSR = Hitler's historic blunder.",
+        "hi": "सोवियत संघ पर हमला = हिटलर की ऐतिहासिक भूल।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "The US entered World War II after Japan bombed ________.",
+        "hi": "जापान द्वारा ________ पर बमबारी करने के बाद अमेरिका द्वितीय विश्व युद्ध में शामिल हुआ।"
+      },
+      "options": {
+        "a": {"en": "New York", "hi": "न्यूयॉर्क"},
+        "b": {"en": "London", "hi": "लंदन"},
+        "c": {"en": "Pearl Harbor", "hi": "पर्ल हार्बर"},
+        "d": {"en": "Hiroshima", "hi": "हिरोशिमा"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "It was a US naval base in the Pacific.",
+        "hi": "यह प्रशांत महासागर में एक अमेरिकी नौसैनिक अड्डा था।"
+      },
+      "explanation": {
+        "en": "Japan extended its support to Hitler and bombed the US naval base at Pearl Harbor. This led to the US entry into World War II.",
+        "hi": "जापान ने पर्ल हार्बर पर हमला किया, जिसके बाद अमेरिका ने जापान और जर्मनी के खिलाफ युद्ध की घोषणा कर दी।"
+      },
+      "key_takeaway": {
+        "en": "Pearl Harbor = US Entry into WWII.",
+        "hi": "पर्ल हार्बर = द्वितीय विश्व युद्ध में अमेरिका का प्रवेश।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "According to the Nazi ideology, which race was considered at the top of the hierarchy?",
+        "hi": "नात्सी विचारधारा के अनुसार, किस नस्ल को पदानुक्रम में सबसे ऊपर माना जाता था?"
+      },
+      "options": {
+        "a": {"en": "Jews", "hi": "यहुदी"},
+        "b": {"en": "Nordic German Aryans", "hi": "नॉर्डिक जर्मन आर्य"},
+        "c": {"en": "Blacks", "hi": "अश्वेत"},
+        "d": {"en": "Gypsies", "hi": "जिप्सी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "They were described as blond, blue-eyed, and the finest race.",
+        "hi": "उन्हें सुनहरे बालों वाले, नीली आँखों वाले और सर्वश्रेष्ठ नस्ल के रूप में वर्णित किया गया था।"
+      },
+      "explanation": {
+        "en": "In Nazi ideology, Nordic German Aryans were at the top, while Jews were at the lowest rung. All other races were placed in between based on their features.",
+        "hi": "नात्सी नस्लवादी सिद्धांत में नॉर्डिक जर्मन आर्य सबसे ऊपर थे और यहुदी सबसे नीचे।"
+      },
+      "key_takeaway": {
+        "en": "Nazi Hierarchy = Aryans at top, Jews at bottom.",
+        "hi": "नात्सी पदानुक्रम = आर्य सबसे ऊपर, यहुदी सबसे नीचे।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "What does the term 'Lebensraum' mean in the context of Nazi expansion?",
+        "hi": "नात्सी विस्तार के संदर्भ में 'लेबेनसरौम' (Lebensraum) शब्द का क्या अर्थ है?"
+      },
+      "options": {
+        "a": {"en": "Living space", "hi": "जीवन स्थान (Living Space)"},
+        "b": {"en": "Religious freedom", "hi": "धार्मिक स्वतंत्रता"},
+        "c": {"en": "Economic trade", "hi": "आर्थिक व्यापार"},
+        "d": {"en": "Peace treaty", "hi": "शांति संधि"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "Hitler believed that new territories had to be acquired for settlement.",
+        "hi": "हिटलर का मानना था कि बसावट के लिए नए क्षेत्रों का अधिग्रहण किया जाना चाहिए।"
+      },
+      "explanation": {
+        "en": "Lebensraum or 'living space' was a geopolitical concept of Hitler. He believed new territories had to be acquired for settlement to enhance the power of the German nation.",
+        "hi": "लेबेनसरौम का अर्थ 'जीवन स्थान' था। हिटलर का मानना था कि जर्मनी को अपने लोगों को बसाने के लिए और जमीन चाहिए।"
+      },
+      "key_takeaway": {
+        "en": "Lebensraum = Policy of territorial expansion.",
+        "hi": "लेबेनसरौम = क्षेत्रीय विस्तार की नीति।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "Which of the following was a Nazi term for the mass killing of Jews?",
+        "hi": "निम्नलिखित में से यहूदियों के सामूहिक संहार के लिए नात्सी शब्द कौन सा था?"
+      },
+      "options": {
+        "a": {"en": "Evacuation", "hi": "निकासी (Evacuation)"},
+        "b": {"en": "Special Treatment", "hi": "विशेष व्यवहार (Special Treatment)"},
+        "c": {"en": "Final Solution", "hi": "अंतिम समाधान (Final Solution)"},
+        "d": {"en": "All of the above", "hi": "उपरोक्त सभी"}
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "They used deceptive language to hide their crimes.",
+        "hi": "उन्होंने अपने अपराधों को छिपाने के लिए भ्रामक भाषा का इस्तेमाल किया।"
+      },
+      "explanation": {
+        "en": "Nazis never used the words 'kill' or 'murder' in official communications. Mass killings were called 'Special Treatment' or 'Final Solution' (for Jews) and 'Evacuation' (for deporting people to gas chambers).",
+        "hi": "नात्सियों ने मारने या हत्या जैसे शब्दों का प्रयोग नहीं किया। उन्होंने इसके लिए 'अंतिम समाधान' या 'निकासी' जैसे शब्दों का प्रयोग किया।"
+      },
+      "key_takeaway": {
+        "en": "Nazi Euphemisms = Used to hide mass murder.",
+        "hi": "नात्सी छद्म शब्द = सामूहिक हत्या को छिपाने के लिए इस्तेमाल।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "At what age were German boys required to join the 'Jungvolk'?",
+        "hi": "जर्मन लड़कों को किस उम्र में 'युंगफ़ोल्क' (Jungvolk) में शामिल होना आवश्यक था?"
+      },
+      "options": {
+        "a": {"en": "10 years", "hi": "10 वर्ष"},
+        "b": {"en": "14 years", "hi": "14 वर्ष"},
+        "c": {"en": "18 years", "hi": "18 वर्ष"},
+        "d": {"en": "6 years", "hi": "6 वर्ष"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "It was the first stage of Nazi indoctrination for children.",
+        "hi": "यह बच्चों के लिए नात्सी विचारधारा के शिक्षण का पहला चरण था।"
+      },
+      "explanation": {
+        "en": "At 10, German boys had to enter Jungvolk. At 14, all boys had to join the Nazi youth organisation — Hitler Youth — where they learnt to worship war and hate Jews.",
+        "hi": "10 साल की उम्र में लड़कों को 'युंगफ़ोल्क' में जाना पड़ता था और 14 साल की उम्र में वे 'हिटलर यूथ' के सदस्य बनते थे।"
+      },
+      "key_takeaway": {
+        "en": "Jungvolk = For 10-year-old boys.",
+        "hi": "युंगफ़ोल्क = 10 साल के लड़कों के लिए।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "What was the 'Honour Cross' in Nazi Germany?",
+        "hi": "नात्सी जर्मनी में 'ऑनर्स क्रॉस' (Honour Cross) क्या था?"
+      },
+      "options": {
+        "a": {"en": "An award for soldiers", "hi": "सैनिकों के लिए एक पुरस्कार"},
+        "b": {"en": "An award for mothers", "hi": "माताओं के लिए एक पुरस्कार"},
+        "c": {"en": "A symbol of the church", "hi": "चर्च का एक प्रतीक"},
+        "d": {"en": "A tax certificate", "hi": "एक टैक्स प्रमाण पत्र"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It was given to women to encourage them to produce more 'pure' children.",
+        "hi": "यह महिलाओं को अधिक 'शुद्ध' बच्चे पैदा करने के लिए प्रोत्साहित करने हेतु दिया जाता था।"
+      },
+      "explanation": {
+        "en": "To encourage women to produce many children, Honour Crosses were awarded. A bronze cross for four, silver for six and gold for eight or more children.",
+        "hi": "ज्यादा बच्चे पैदा करने वाली माताओं को सम्मानित करने के लिए 'ऑनर्स क्रॉस' दिए जाते थे। 4 बच्चों पर काँस्य, 6 पर रजत और 8 या अधिक पर स्वर्ण पदक मिलता था।"
+      },
+      "key_takeaway": {
+        "en": "Honour Cross = Reward for many children.",
+        "hi": "ऑनर्स क्रॉस = अधिक बच्चों के लिए माताओं को पुरस्कार।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "What did the Nazis call the gas chambers to make them sound like something else?",
+        "hi": "नात्सियों ने गैस चैंबरों को क्या नाम दिया था ताकि वे कुछ और लगें?"
+      },
+      "options": {
+        "a": {"en": "Disinfection areas", "hi": "संक्रमण मुक्ति क्षेत्र (Disinfection areas)"},
+        "b": {"en": "Playgrounds", "hi": "खेल के मैदान"},
+        "c": {"en": "Hospitals", "hi": "अस्पताल"},
+        "d": {"en": "Factories", "hi": "कारखाने"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "They looked like bathrooms with fake showerheads.",
+        "hi": "वे नकली फव्वारों वाले स्नानघर जैसे दिखते थे।"
+      },
+      "explanation": {
+        "en": "Gas chambers were labeled as 'disinfection areas' and looked like bathrooms equipped with fake showerheads to deceive victims.",
+        "hi": "गैस चैंबरों को 'संक्रमण मुक्ति क्षेत्र' कहा जाता था और वे स्नानघर जैसे बनाए गए थे।"
+      },
+      "key_takeaway": {
+        "en": "Disinfection areas = Gas Chambers.",
+        "hi": "संक्रमण मुक्ति क्षेत्र = गैस चैंबर।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "Who wrote the famous book 'The Third Reich of Dreams'?",
+        "hi": "प्रसिद्ध पुस्तक 'द थर्ड राइख ऑफ ड्रीम्स' (The Third Reich of Dreams) किसने लिखी थी?"
+      },
+      "options": {
+        "a": {"en": "Charlotte Beradt", "hi": "शार्लोट बेरैड्ट"},
+        "b": {"en": "Anne Frank", "hi": "ऐन फ्रैंक"},
+        "c": {"en": "Pastor Niemoeller", "hi": "पादरी निमोलर"},
+        "d": {"en": "Hjalmar Schacht", "hi": "हजालमार शाख्त"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "She recorded how Jews themselves began believing in Nazi stereotypes about them.",
+        "hi": "उन्होंने दर्ज किया कि कैसे यहुदी स्वयं अपने बारे में नात्सी रूढ़ियों पर विश्वास करने लगे थे।"
+      },
+      "explanation": {
+        "en": "Charlotte Beradt wrote 'The Third Reich of Dreams', recording how Jews dreamt of their own hooked noses and black hair, internalizing Nazi stereotypes.",
+        "hi": "शार्लोट बेरैड्ट ने इस किताब में यहूदियों के उन सपनों के बारे में लिखा था जिनमें वे स्वयं को नात्सी छवि के अनुसार देखने लगे थे।"
+      },
+      "key_takeaway": {
+        "en": "Charlotte Beradt = Recorded Jewish psychological trauma.",
+        "hi": "शार्लोट बेरैड्ट = यहूदियों के मनोवैज्ञानिक आघात को दर्ज किया।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "What was the 'Holocaust'?",
+        "hi": "'होलोकॉस्ट' (Holocaust) क्या था?"
+      },
+      "options": {
+        "a": {"en": "The Nazi economic plan", "hi": "नात्सी आर्थिक योजना"},
+        "b": {"en": "The Nazi mass murder of Jews", "hi": "नात्सियों द्वारा यहूदियों का सामूहिक संहार"},
+        "c": {"en": "A German festival", "hi": "एक जर्मन त्योहार"},
+        "d": {"en": "A type of German tank", "hi": "एक प्रकार का जर्मन टैंक"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Millions were killed in concentration camps like Auschwitz.",
+        "hi": "ऑशविट्ज़ जैसे एकाग्रता शिविरों में लाखों लोग मारे गए थे।"
+      },
+      "explanation": {
+        "en": "The Holocaust refers to the systematic state-sponsored persecution and murder of six million Jews and others by the Nazi regime.",
+        "hi": "होलोकॉस्ट का अर्थ नात्सियों द्वारा किया गया यहूदियों का भीषण नरसंहार है।"
+      },
+      "key_takeaway": {
+        "en": "Holocaust = Shoah (Mass murder of Jews).",
+        "hi": "होलोकॉस्ट = यहूदियों का सामूहिक नरसंहार।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "Which German city was the site of massive Nazi rallies?",
+        "hi": "कौन सा जर्मन शहर विशाल नात्सी रैलियों का स्थल था?"
+      },
+      "options": {
+        "a": {"en": "Berlin", "hi": "बर्लिन"},
+        "b": {"en": "Nuremberg", "hi": "नूर्नबर्ग"},
+        "c": {"en": "Munich", "hi": "म्यूनिख"},
+        "d": {"en": "Frankfurt", "hi": "फ्रैंकफर्ट"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This city became synonymous with Nazi propaganda and later, war crime trials.",
+        "hi": "यह शहर नात्सी प्रचार और बाद में युद्ध अपराधों के मुकदमों का पर्याय बन गया।"
+      },
+      "explanation": {
+        "en": "Nuremberg was the city where the Nazi Party held its annual rallies to demonstrate its power.",
+        "hi": "नूर्नबर्ग वह शहर था जहाँ नात्सी पार्टी अपनी शक्ति दिखाने के लिए वार्षिक रैलियाँ करती थी।"
+      },
+      "key_takeaway": {
+        "en": "Nuremberg = Nazi Rally City.",
+        "hi": "नूर्नबर्ग = नात्सी रैलियों का शहर।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "The Nazi term for the disabled people they killed was:",
+        "hi": "नात्सियों द्वारा मारे गए विकलांग लोगों के लिए नात्सी शब्द क्या था?"
+      },
+      "options": {
+        "a": {"en": "Useless eaters", "hi": "बेकार खाने वाले (Useless eaters)"},
+        "b": {"en": "Unworthy of life", "hi": "जीवन के अयोग्य"},
+        "c": {"en": "Enemies of State", "hi": "राज्य के शत्रु"},
+        "d": {"en": "Traitors", "hi": "गद्दार"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "They believed only the 'fit' should survive.",
+        "hi": "उनका मानना था कि केवल 'योग्य' को ही जीवित रहना चाहिए।"
+      },
+      "explanation": {
+        "en": "Nazis viewed the disabled as 'useless eaters' who had no place in their pure Aryan society and were murdered under a 'Euthanasia' programme.",
+        "hi": "नात्सियों ने विकलांगों को 'बेकार खाने वाले' माना और उन्हें दया मृत्यु (Euthanasia) कार्यक्रम के तहत मार डाला।"
+      },
+      "key_takeaway": {
+        "en": "Useless eaters = Nazi term for disabled.",
+        "hi": "बेकार खाने वाले = विकलांगों के लिए नात्सी शब्द।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "In what year did Hitler become the Chancellor of Germany?",
+        "hi": "हिटलर किस वर्ष जर्मनी का चांसलर बना?"
+      },
+      "options": {
+        "a": {"en": "1930", "hi": "1930"},
+        "b": {"en": "1933", "hi": "1933"},
+        "c": {"en": "1939", "hi": "1939"},
+        "d": {"en": "1945", "hi": "1945"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "President Hindenburg offered him the position on 30 January.",
+        "hi": "राष्ट्रपति हिंडनबर्ग ने 30 जनवरी को उन्हें इस पद की पेशकश की थी।"
+      },
+      "explanation": {
+        "en": "On 30 January 1933, President Hindenburg offered the Chancellorship, the highest position in the cabinet of ministers, to Hitler.",
+        "hi": "30 जनवरी 1933 को राष्ट्रपति हिंडनबर्ग ने हिटलर को चांसलर का पद संभालने का न्योता दिया।"
+      },
+      "key_takeaway": {
+        "en": "30 Jan 1933 = Hitler becomes Chancellor.",
+        "hi": "30 जनवरी 1933 = हिटलर चांसलर बना।"
+      }
+    }
+  ]
+}

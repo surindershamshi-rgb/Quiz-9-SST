@@ -1,0 +1,794 @@
+{
+  "metadata": {
+    "chapter_number": 4,
+    "chapter_title": "Forest Society and Colonialism",
+    "chapter_title_hindi": "वन्य समाज एवं उपनिवेशवाद",
+    "subject": "History - Class 9",
+    "board": "CBSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.0",
+    "naming_convention": "09_HI_CH04_ForestSociety_30MCQ.json"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "What is the disappearance of forests referred to as?",
+        "hi": "वनों के लुप्त होने को क्या कहा जाता है?"
+      },
+      "options": {
+        "a": {"en": "Afforestation", "hi": "वनीकरण"},
+        "b": {"en": "Deforestation", "hi": "वनोन्मूलन (Deforestation)"},
+        "c": {"en": "Cultivation", "hi": "खेती"},
+        "d": {"en": "Scientific Forestry", "hi": "वैज्ञानिक वानिकी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It occurs when forests are cleared for agriculture or industry.",
+        "hi": "यह तब होता है जब खेती या उद्योग के लिए वनों को साफ किया जाता है।"
+      },
+      "explanation": {
+        "en": "The disappearance of forests is referred to as deforestation. It is not a recent problem but became more systematic during the colonial period.",
+        "hi": "वनों के बड़े पैमाने पर कटने को वनोन्मूलन कहते हैं। यह प्रक्रिया औपनिवेशिक काल में बहुत अधिक बढ़ गई थी।"
+      },
+      "key_takeaway": {
+        "en": "Deforestation = Clearing of forests.",
+        "hi": "वनोन्मूलन = वनों की कटाई।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "Who was the first Inspector General of Forests in India?",
+        "hi": "भारत के पहले वन महानिरीक्षक कौन थे?"
+      },
+      "options": {
+        "a": {"en": "Lord Dalhousie", "hi": "लॉर्ड डलहौजी"},
+        "b": {"en": "Dietrich Brandis", "hi": "डयोट्रिच ब्रैंडिस"},
+        "c": {"en": "George Yule", "hi": "जॉर्ज युल"},
+        "d": {"en": "Surontiko Samin", "hi": "सुरोंटिको सामिन"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He was a German expert invited by the British to manage Indian forests.",
+        "hi": "वे एक जर्मन विशेषज्ञ थे जिन्हें अंग्रेजों ने भारतीय वनों के प्रबंधन के लिए बुलाया था।"
+      },
+      "explanation": {
+        "en": "Dietrich Brandis, a German expert, was appointed the first Inspector General of Forests in India. He helped formulate the Indian Forest Act of 1865.",
+        "hi": "डयोट्रिच ब्रैंडिस भारत के पहले वन महानिरीक्षक थे। उन्होंने 1865 के भारतीय वन अधिनियम को बनाने में मदद की।"
+      },
+      "key_takeaway": {
+        "en": "Dietrich Brandis = Father of Scientific Forestry in India.",
+        "hi": "डयोट्रिच ब्रैंडिस = भारत में वैज्ञानिक वानिकी के जनक।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "In which year was the Imperial Forest Research Institute set up in Dehradun?",
+        "hi": "देहरादून में इंपीरियल फॉरेस्ट रिसर्च इंस्टीट्यूट की स्थापना किस वर्ष की गई थी?"
+      },
+      "options": {
+        "a": {"en": "1865", "hi": "1865"},
+        "b": {"en": "1906", "hi": "1906"},
+        "c": {"en": "1878", "hi": "1878"},
+        "d": {"en": "1947", "hi": "1947"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The system taught here was called 'Scientific Forestry'.",
+        "hi": "यहाँ सिखाई जाने वाली पद्धति को 'वैज्ञानिक वानिकी' कहा जाता था।"
+      },
+      "explanation": {
+        "en": "The Imperial Forest Research Institute was set up at Dehradun in 1906. The system they taught was known as 'scientific forestry'.",
+        "hi": "1906 में देहरादून में इंपीरियल फॉरेस्ट रिसर्च इंस्टीट्यूट की स्थापना हुई जहाँ वैज्ञानिक वानिकी सिखाई जाती थी।"
+      },
+      "key_takeaway": {
+        "en": "IFRI Dehradun = Established 1906.",
+        "hi": "IFRI देहरादून = 1906 में स्थापना।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "According to the 1878 Forest Act, which category of forests were considered the best?",
+        "hi": "1878 के वन अधिनियम के अनुसार, वनों की किस श्रेणी को सबसे अच्छा माना जाता था?"
+      },
+      "options": {
+        "a": {"en": "Protected forests", "hi": "सुरक्षित वन"},
+        "b": {"en": "Village forests", "hi": "ग्राम वन"},
+        "c": {"en": "Reserved forests", "hi": "आरक्षित वन"},
+        "d": {"en": "Private forests", "hi": "निजी वन"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "Villagers could not take anything from these forests, even for their own use.",
+        "hi": "ग्रामीण इन वनों से अपने उपयोग के लिए भी कुछ नहीं ले सकते थे।"
+      },
+      "explanation": {
+        "en": "The 1878 Act divided forests into three categories: reserved, protected, and village forests. The best forests were called 'reserved forests'.",
+        "hi": "1878 के अधिनियम ने वनों को तीन श्रेणियों में बांटा: आरक्षित, सुरक्षित और ग्राम वन। सबसे अच्छे वनों को 'आरक्षित' कहा गया।"
+      },
+      "key_takeaway": {
+        "en": "Reserved Forests = Top category, restricted for locals.",
+        "hi": "आरक्षित वन = सर्वोच्च श्रेणी, स्थानीय लोगों के लिए प्रतिबंधित।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "What was the system of 'Scientific Forestry'?",
+        "hi": "'वैज्ञानिक वानिकी' की पद्धति क्या थी?"
+      },
+      "options": {
+        "a": {"en": "Planting different types of trees together", "hi": "विभिन्न प्रकार के पेड़ों को एक साथ लगाना"},
+        "b": {"en": "Natural forests with many species", "hi": "कई प्रजातियों वाले प्राकृतिक वन"},
+        "c": {"en": "Cutting natural forests and planting one type of tree in straight rows", "hi": "प्राकृतिक वनों को काटकर सीधी पंक्तियों में एक ही प्रकार के पेड़ लगाना"},
+        "d": {"en": "Protecting forests from any cutting", "hi": "वनों को किसी भी कटाई से बचाना"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "This resulted in plantations that looked like forests but had only one species.",
+        "hi": "इसका परिणाम ऐसे बागानों के रूप में हुआ जो जंगल जैसे दिखते थे लेकिन उनमें केवल एक ही प्रजाति होती थी।"
+      },
+      "explanation": {
+        "en": "In scientific forestry, natural forests which had lots of different types of trees were cut down. In their place, one type of tree was planted in straight rows. This is called a plantation.",
+        "hi": "वैज्ञानिक वानिकी में विविध प्राकृतिक वनों को काटकर एक ही प्रजाति के पेड़ों को कतारों में लगाया जाता था।"
+      },
+      "key_takeaway": {
+        "en": "Scientific Forestry = Single-species plantations.",
+        "hi": "वैज्ञानिक वानिकी = एकल-प्रजाति वृक्षारोपण।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "What is 'Shifting Cultivation' called in South East Asia?",
+        "hi": "दक्षिण पूर्व एशिया में 'झूम खेती' (Shifting Cultivation) को क्या कहा जाता है?"
+      },
+      "options": {
+        "a": {"en": "Milpa", "hi": "मिल्पा"},
+        "b": {"en": "Lading", "hi": "लादिंग (Lading)"},
+        "c": {"en": "Chena", "hi": "चेना"},
+        "d": {"en": "Podu", "hi": "पोडु"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It is also known as 'swidden agriculture'.",
+        "hi": "इसे 'स्विडन कृषि' के नाम से भी जाना जाता है।"
+      },
+      "explanation": {
+        "en": "Shifting cultivation has different names: Lading in SE Asia, Milpa in Central America, Chena in Sri Lanka, and Podu in India.",
+        "hi": "स्थानांतरित खेती को दक्षिण पूर्व एशिया में लादिंग, मध्य अमेरिका में मिल्पा और श्रीलंका में चेना कहा जाता है।"
+      },
+      "key_takeaway": {
+        "en": "Lading = SE Asian shifting cultivation.",
+        "hi": "लादिंग = दक्षिण पूर्व एशियाई झूम खेती।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "Why did the British ban shifting cultivation?",
+        "hi": "अंग्रेजों ने झूम खेती पर प्रतिबंध क्यों लगाया?"
+      },
+      "options": {
+        "a": {"en": "It made it difficult to calculate taxes", "hi": "इससे करों की गणना करना मुश्किल हो गया था"},
+        "b": {"en": "Danger of flames spreading and burning valuable timber", "hi": "आग फैलने और मूल्यवान लकड़ी के जलने का खतरा"},
+        "c": {"en": "Land used for shifting cultivation could not grow trees for railway timber", "hi": "झूम खेती के लिए इस्तेमाल की जाने वाली जमीन पर रेलवे के लिए पेड़ नहीं उग सकते थे"},
+        "d": {"en": "All of the above", "hi": "उपरोक्त सभी"}
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "The government found it hard to control people who moved around frequently.",
+        "hi": "सरकार के लिए उन लोगों को नियंत्रित करना कठिन था जो बार-बार जगह बदलते थे।"
+      },
+      "explanation": {
+        "en": "European foresters regarded shifting cultivation as harmful for forests. It made it harder for the government to calculate taxes and timber for railways could not be grown on such land.",
+        "hi": "अंग्रेजों के अनुसार झूम खेती से जंगल जलने का डर था, कर वसूली मुश्किल थी और रेलवे के लिए लकड़ी नहीं मिल पाती थी।"
+      },
+      "key_takeaway": {
+        "en": "Ban on Shifting Cultivation = Economic and timber security.",
+        "hi": "झूम खेती पर प्रतिबंध = आर्थिक और लकड़ी की सुरक्षा।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "Which of these trees were promoted by the British for building ships and railways?",
+        "hi": "इनमें से किन पेड़ों को अंग्रेजों ने जहाज और रेलवे बनाने के लिए बढ़ावा दिया?"
+      },
+      "options": {
+        "a": {"en": "Teak and Sal", "hi": "सागौन और साल"},
+        "b": {"en": "Bamboo", "hi": "बाँस"},
+        "c": {"en": "Mahua", "hi": "महुआ"},
+        "d": {"en": "Peepal", "hi": "पीपल"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "These trees provide strong, durable wood.",
+        "hi": "ये पेड़ मजबूत और टिकाऊ लकड़ी प्रदान करते हैं।"
+      },
+      "explanation": {
+        "en": "The Forest Department wanted trees suitable for building ships or railways, which needed tall and straight trees. So species like teak and sal were promoted.",
+        "hi": "जहाजों और रेलवे के लिए लंबी और सीधी लकड़ी की जरूरत थी, इसलिए सागौन (Teak) और साल को बढ़ावा दिया गया।"
+      },
+      "key_takeaway": {
+        "en": "Teak/Sal = Commercial timber.",
+        "hi": "सागौन/साल = व्यावसायिक लकड़ी।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "Before the Forest Acts, how did forest people survive during lean months?",
+        "hi": "वन अधिनियमों से पहले, वनवासी कमी वाले महीनों में कैसे जीवित रहते थे?"
+      },
+      "options": {
+        "a": {"en": "By working in factories", "hi": "कारखानों में काम करके"},
+        "b": {"en": "By collecting fruits, roots, and hunting", "hi": "फल, जड़ें इकट्ठा करके और शिकार करके"},
+        "c": {"en": "By buying food from cities", "hi": "शहरों से भोजन खरीदकर"},
+        "d": {"en": "They did not live in forests", "hi": "वे जंगलों में नहीं रहते थे"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Mahua flowers were a very important part of their diet.",
+        "hi": "महुआ के फूल उनके आहार का एक बहुत महत्वपूर्ण हिस्सा थे।"
+      },
+      "explanation": {
+        "en": "Forest communities survived by collecting forest produce. Fruits and tubers were nutritious, and mahua flowers were eaten or used to make alcohol.",
+        "hi": "वन समुदाय जंगल से मिलने वाले कंद-मूल, फल और महुआ जैसी चीजों पर निर्भर थे।"
+      },
+      "key_takeaway": {
+        "en": "Forest Produce = Livelihood for locals.",
+        "hi": "वन उत्पाद = स्थानीय लोगों की आजीविका।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "The wood used for sleepers on railway tracks needed to be durable. What are 'Sleepers'?",
+        "hi": "रेलवे ट्रैक पर स्लीपर के लिए इस्तेमाल होने वाली लकड़ी का टिकाऊ होना जरूरी था। 'स्लीपर' (Sleepers) क्या होते हैं?"
+      },
+      "options": {
+        "a": {"en": "The engine of the train", "hi": "ट्रेन का इंजन"},
+        "b": {"en": "Horizontal wooden planks on which railway lines are laid", "hi": "क्षैतिज लकड़ी के तख्ते जिन पर रेल की पटरियाँ बिछाई जाती हैं"},
+        "c": {"en": "The people who work on railways", "hi": "रेलवे में काम करने वाले लोग"},
+        "d": {"en": "A type of tree", "hi": "एक प्रकार का पेड़"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "They hold the tracks in place.",
+        "hi": "ये पटरियों को अपनी जगह पर बनाए रखते हैं।"
+      },
+      "explanation": {
+        "en": "Sleepers are horizontal planks laid across railway tracks to hold the steel rails in place. One mile of railway track required between 1,760 and 2,000 sleepers.",
+        "hi": "रेल की पटरियों के नीचे बिछाए गए लकड़ी के तख्तों को स्लीपर कहा जाता है।"
+      },
+      "key_takeaway": {
+        "en": "Sleepers = Track supports.",
+        "hi": "स्लीपर = पटरी के आधार।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "Who were the 'Koravas', 'Karachas' and 'Yerukulas' of the Madras Presidency?",
+        "hi": "मद्रास प्रेसीडेंसी के 'कोरवा', 'कराचा' और 'यरुकुला' कौन थे?"
+      },
+      "options": {
+        "a": {"en": "British officials", "hi": "ब्रिटिश अधिकारी"},
+        "b": {"en": "Pastoralist and nomadic communities", "hi": "चरवाहा और घुमंतू समुदाय"},
+        "c": {"en": "New forest guards", "hi": "नए वन रक्षक"},
+        "d": {"en": "Wealthy merchants", "hi": "धनी व्यापारी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "They lost their livelihoods due to forest laws and were often branded as 'criminal tribes'.",
+        "hi": "वन कानूनों के कारण उन्होंने अपनी आजीविका खो दी और उन्हें अक्सर 'आपराधिक जनजाति' करार दिया गया।"
+      },
+      "explanation": {
+        "en": "Many pastoralist and nomadic communities like the Koravas, Karachas and Yerukulas lost their livelihoods and were forced to work in factories and plantations.",
+        "hi": "ये मद्रास के घुमंतू समुदाय थे जिनकी आजीविका वन कानूनों के कारण छिन गई थी।"
+      },
+      "key_takeaway": {
+        "en": "Nomadic Tribes = Criminalized by British laws.",
+        "hi": "घुमंतू जनजातियाँ = ब्रिटिश कानूनों द्वारा अपराधी घोषित।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "Where is Bastar located?",
+        "hi": "बस्तर कहाँ स्थित है?"
+      },
+      "options": {
+        "a": {"en": "Southern part of Chhattisgarh", "hi": "छत्तीसगढ़ का दक्षिणी भाग"},
+        "b": {"en": "Northern part of Madhya Pradesh", "hi": "मध्य प्रदेश का उत्तरी भाग"},
+        "c": {"en": "Eastern part of Odisha", "hi": "ओडिशा का पूर्वी भाग"},
+        "d": {"en": "Western part of Maharashtra", "hi": "महाराष्ट्र का पश्चिमी भाग"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "It borders Andhra Pradesh, Odisha, and Maharashtra.",
+        "hi": "इसकी सीमाएँ आंध्र प्रदेश, ओडिशा और महाराष्ट्र से लगती हैं।"
+      },
+      "explanation": {
+        "en": "Bastur is located in the southernmost part of Chhattisgarh and borders Andhra Pradesh, Odisha and Maharashtra.",
+        "hi": "बस्तर छत्तीसगढ़ के सबसे दक्षिणी भाग में स्थित है।"
+      },
+      "key_takeaway": {
+        "en": "Bastar = Chhattisgarh region.",
+        "hi": "बस्तर = छत्तीसगढ़ क्षेत्र।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "Who was the prominent leader of the Bastar rebellion of 1910?",
+        "hi": "1910 के बस्तर विद्रोह का प्रमुख नेता कौन था?"
+      },
+      "options": {
+        "a": {"en": "Birsa Munda", "hi": "बिरसा मुंडा"},
+        "b": {"en": "Gunda Dhur", "hi": "गुंडा धुर"},
+        "c": {"en": "Alluri Sitaram Raju", "hi": "अल्लूरी सीताराम राजू"},
+        "d": {"en": "Sidhu and Kanu", "hi": "सिद्धू और कानू"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He was from the village of Nethanar.",
+        "hi": "वह नेथानार गाँव के रहने वाले थे।"
+      },
+      "explanation": {
+        "en": "Gunda Dhur, from the village of Nethanar, is considered the most important leader of the 1910 rebellion in Bastar.",
+        "hi": "1910 के बस्तर विद्रोह का नेतृत्व गुंडा धुर ने किया था।"
+      },
+      "key_takeaway": {
+        "en": "Gunda Dhur = Bastar Rebellion leader.",
+        "hi": "गुंडा धुर = बस्तर विद्रोह के नेता।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "Which river flows through Bastar from east to west?",
+        "hi": "बस्तर में पूर्व से पश्चिम की ओर कौन सी नदी बहती है?"
+      },
+      "options": {
+        "a": {"en": "Ganga", "hi": "गंगा"},
+        "b": {"en": "Indravati", "hi": "इंद्रावती"},
+        "c": {"en": "Narmada", "hi": "नर्मदा"},
+        "d": {"en": "Godavari", "hi": "गोदावरी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The central part of Bastar is a plateau on this river.",
+        "hi": "बस्तर का मध्य भाग इसी नदी पर बना एक पठार है।"
+      },
+      "explanation": {
+        "en": "The river Indravati winds across Bastar from east to west, and a number of different communities live there.",
+        "hi": "इंद्रावती नदी बस्तर के आर-पार पूर्व से पश्चिम की ओर बहती है।"
+      },
+      "key_takeaway": {
+        "en": "Indravati = Main river of Bastar.",
+        "hi": "इंद्रावती = बस्तर की मुख्य नदी।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "What did the Bastar people pay to have watchmen for their village forests?",
+        "hi": "बस्तर के लोग अपने ग्राम वनों की रखवाली के लिए चौकीदारों को क्या भुगतान करते थे?"
+      },
+      "options": {
+        "a": {"en": "Money", "hi": "पैसा"},
+        "b": {"en": "A small amount of grain from each household", "hi": "प्रत्येक घर से अनाज की एक छोटी मात्रा"},
+        "c": {"en": "Timber", "hi": "लकड़ी"},
+        "d": {"en": "Nothing", "hi": "कुछ नहीं"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It was a community contribution to protect their resources.",
+        "hi": "यह उनके संसाधनों की रक्षा के लिए एक सामुदायिक योगदान था।"
+      },
+      "explanation": {
+        "en": "Each village had a watchman and every household contributed some grain to pay him for protecting the forest.",
+        "hi": "बस्तर में ग्रामीण अपने जंगलों की रक्षा के लिए चौकीदार रखते थे और उसे अनाज देते थे।"
+      },
+      "key_takeaway": {
+        "en": "Forest Protection = Community responsibility.",
+        "hi": "वन संरक्षण = सामुदायिक जिम्मेदारी।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "What was 'Devsari', 'Dand' or 'Man' in Bastar context?",
+        "hi": "बस्तर के संदर्भ में 'देवसारी', 'डाँड' या 'मान' क्या था?"
+      },
+      "options": {
+        "a": {"en": "A type of forest tree", "hi": "एक प्रकार का जंगली पेड़"},
+        "b": {"en": "Small fee paid to take produce from another village forest", "hi": "दूसरे गाँव के जंगल से उपज लेने के लिए दिया जाने वाला छोटा शुल्क"},
+        "c": {"en": "A dance form", "hi": "एक नृत्य रूप"},
+        "d": {"en": "A religious ceremony", "hi": "एक धार्मिक समारोह"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It was paid if a village wanted to take wood from another village's forest.",
+        "hi": "यह तब दिया जाता था जब एक गाँव दूसरे गाँव के जंगल से लकड़ी लेना चाहता था।"
+      },
+      "explanation": {
+        "en": "If people from one village wanted to take some wood from the forests of another village, they paid a small fee called devsari, dand or man in exchange.",
+        "hi": "दूसरे गाँव के जंगल से संसाधन लेने के बदले दिए जाने वाले शुल्क को देवसारी या डाँड कहा जाता था।"
+      },
+      "key_takeaway": {
+        "en": "Devsari = Inter-village forest fee.",
+        "hi": "देवसारी = अंतर-ग्राम वन शुल्क।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "What event triggered the Bastar rebellion of 1910?",
+        "hi": "1910 के बस्तर विद्रोह का मुख्य कारण क्या था?"
+      },
+      "options": {
+        "a": {"en": "British proposal to reserve two-thirds of the forest", "hi": "वनों के दो-तिहाई हिस्से को आरक्षित करने का ब्रिटिश प्रस्ताव"},
+        "b": {"en": "Introduction of shifting cultivation", "hi": "झूम खेती की शुरुआत"},
+        "c": {"en": "Lowering of land rents", "hi": "लगान में कमी"},
+        "d": {"en": "Death of the King", "hi": "राजा की मृत्यु"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "They also wanted to stop shifting cultivation, hunting and collection of forest produce.",
+        "hi": "वे झूम खेती, शिकार और वन उपज के संग्रह को भी रोकना चाहते थे।"
+      },
+      "explanation": {
+        "en": "When the colonial government proposed to reserve two-thirds of the forest in 1905 and stop shifting cultivation, hunting and collection of forest produce, the people of Bastar grew very worried.",
+        "hi": "1905 में जब सरकार ने दो-तिहाई जंगलों को आरक्षित करने और झूम खेती रोकने का फैसला किया, तब विद्रोह शुरू हुआ।"
+      },
+      "key_takeaway": {
+        "en": "Bastar Revolt = Against Forest Reservation.",
+        "hi": "बस्तर विद्रोह = वन आरक्षण के विरुद्ध।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "What were 'Forest Villages'?",
+        "hi": "'वन ग्राम' (Forest Villages) क्या थे?"
+      },
+      "options": {
+        "a": {"en": "Villages built deep inside the ocean", "hi": "समुद्र के भीतर बने गाँव"},
+        "b": {"en": "Villages allowed to stay in reserved forests if they worked for the forest department for free", "hi": "आरक्षित वनों में रहने की अनुमति प्राप्त गाँव, यदि वे वन विभाग के लिए मुफ्त काम करें"},
+        "c": {"en": "Villages where only trees were grown", "hi": "गाँव जहाँ केवल पेड़ उगाए जाते थे"},
+        "d": {"en": "Cities with many parks", "hi": "बहुत सारे पार्कों वाले शहर"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "They provided free labor for cutting and transporting trees.",
+        "hi": "वे पेड़ों को काटने और ढोने के लिए मुफ्त श्रम प्रदान करते थे।"
+      },
+      "explanation": {
+        "en": "Some villages were allowed to stay on in the reserved forests on the condition that they worked free for the forest department in cutting and transporting trees, and protecting the forest from fires. These were called 'forest villages'.",
+        "hi": "आरक्षित वनों में कुछ लोगों को रहने दिया गया बशर्ते वे वन विभाग के लिए मुफ्त में काम करें। इन्हें वन ग्राम कहा गया।"
+      },
+      "key_takeaway": {
+        "en": "Forest Villages = Labor in exchange for stay.",
+        "hi": "वन ग्राम = रहने के बदले बेगार।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "How did the rebels in Bastar spread their message?",
+        "hi": "बस्तर में विद्रोहियों ने अपना संदेश कैसे फैलाया?"
+      },
+      "options": {
+        "a": {"en": "Through newspapers", "hi": "समाचार पत्रों के माध्यम से"},
+        "b": {"en": "Circulating mango boughs, a lump of earth, chillies and arrows", "hi": "आम की टहनियाँ, मिट्टी के ढेले, मिर्च और तीर घुमाकर"},
+        "c": {"en": "Using radio", "hi": "रेडियो का उपयोग करके"},
+        "d": {"en": "Sending emails", "hi": "ईमेल भेजकर"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "These symbols invited villagers to rebel against the British.",
+        "hi": "इन प्रतीकों ने ग्रामीणों को अंग्रेजों के खिलाफ विद्रोह करने के लिए आमंत्रित किया।"
+      },
+      "explanation": {
+        "en": "Messages were passed from village to village through mango boughs, a lump of earth, chillies and arrows. These were actually invitations to rebel.",
+        "hi": "विद्रोह का संदेश आम की टहनियों, मिट्टी के ढेलों, मिर्च और तीरों के जरिए एक गाँव से दूसरे गाँव पहुँचाया गया।"
+      },
+      "key_takeaway": {
+        "en": "Symbols of Revolt = Mango boughs and Chillies.",
+        "hi": "विद्रोह के प्रतीक = आम की टहनियाँ और मिर्च।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "Where is Java located?",
+        "hi": "जावा (Java) कहाँ स्थित है?"
+      },
+      "options": {
+        "a": {"en": "India", "hi": "भारत"},
+        "b": {"en": "Indonesia", "hi": "इंडोनेशिया"},
+        "c": {"en": "Sri Lanka", "hi": "श्रीलंका"},
+        "d": {"en": "Japan", "hi": "जापान"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It is famous for being a rice-producing island, but was once covered in forests.",
+        "hi": "यह चावल उत्पादक द्वीप होने के लिए प्रसिद्ध है, लेकिन कभी वनों से ढका हुआ था।"
+      },
+      "explanation": {
+        "en": "Java is now a famous rice-producing island in Indonesia. But once upon a time, it was covered mostly with forests.",
+        "hi": "जावा इंडोनेशिया का एक द्वीप है जो अब चावल उत्पादन के लिए प्रसिद्ध है।"
+      },
+      "key_takeaway": {
+        "en": "Java = Indonesia (Colonial Forestry site).",
+        "hi": "जावा = इंडोनेशिया (औपनिवेशिक वानिकी स्थल)।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "Who were the colonial rulers in Indonesia (Java)?",
+        "hi": "इंडोनेशिया (जावा) में औपनिवेशिक शासक कौन थे?"
+      },
+      "options": {
+        "a": {"en": "The British", "hi": "अंग्रेज"},
+        "b": {"en": "The Dutch", "hi": "डच"},
+        "c": {"en": "The French", "hi": "फ्रांसीसी"},
+        "d": {"en": "The Portuguese", "hi": "पुर्तगाली"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "They had many similarities with the British in their forest management policies.",
+        "hi": "उनकी वन प्रबंधन नीतियों में अंग्रेजों के साथ कई समानताएं थीं।"
+      },
+      "explanation": {
+        "en": "The Dutch were the colonial rulers in Indonesia, and there were many similarities in the laws for forest control in Indonesia and India.",
+        "hi": "इंडोनेशिया पर डच (नीदरलैंड) के लोगों का शासन था।"
+      },
+      "key_takeaway": {
+        "en": "Dutch = Colonial masters of Indonesia.",
+        "hi": "डच = इंडोनेशिया के औपनिवेशिक शासक।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "Who were the 'Kalangs' of Java?",
+        "hi": "जावा के 'कलंग' (Kalangs) कौन थे?"
+      },
+      "options": {
+        "a": {"en": "Dutch officers", "hi": "डच अधिकारी"},
+        "b": {"en": "A community of skilled forest cutters and shifting cultivators", "hi": "कुशल लकड़हारों और झूम खेती करने वालों का एक समुदाय"},
+        "c": {"en": "Rice farmers", "hi": "चावल के किसान"},
+        "d": {"en": "Traders", "hi": "व्यापारी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Without them, it was difficult to harvest teak for the Kings.",
+        "hi": "उनके बिना राजाओं के लिए सागौन की कटाई करना मुश्किल था।"
+      },
+      "explanation": {
+        "en": "The Kalangs of Java were a community of skilled forest cutters and shifting cultivators. They were so valuable that when the Mataram kingdom of Java split, the families were divided equally.",
+        "hi": "कलंग जावा के कुशल लकड़हारे थे। वे इतने महत्वपूर्ण थे कि जब जावा के मताराम साम्राज्य का बँटवारा हुआ, तो उन्हें भी बराबर-बराबर बाँटा गया।"
+      },
+      "key_takeaway": {
+        "en": "Kalangs = Skilled woodcutters of Java.",
+        "hi": "कलंग = जावा के कुशल लकड़हारे।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "What was the 'Blandongdiensten' system introduced by the Dutch?",
+        "hi": "डच द्वारा शुरू की गई 'ब्लैंडोंगडिएन्स्टेन' (Blandongdiensten) प्रणाली क्या थी?"
+      },
+      "options": {
+        "a": {"en": "System of free education", "hi": "मुफ्त शिक्षा की प्रणाली"},
+        "b": {"en": "System of exempted rents in exchange for providing free labor and buffaloes for timber transport", "hi": "लकड़ी ढोने के लिए मुफ्त श्रम और भैंस उपलब्ध कराने के बदले लगान माफी की प्रणाली"},
+        "c": {"en": "A new tax on rice", "hi": "चावल पर एक नया कर"},
+        "d": {"en": "Religious law", "hi": "धार्मिक कानून"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It was a way to get free labor for forest work.",
+        "hi": "यह वन कार्य के लिए मुफ्त श्रम प्राप्त करने का एक तरीका था।"
+      },
+      "explanation": {
+        "en": "The Dutch first imposed rents on land being cultivated in the forest and then exempted some villages from these rents if they worked collectively to provide free labor and buffaloes for cutting and transporting timber. This was known as the blandongdiensten system.",
+        "hi": "ब्लैंडोंगडिएन्स्टेन प्रणाली के तहत ग्रामीणों को मुफ्त श्रम और भैंस देने के बदले लगान नहीं देना पड़ता था।"
+      },
+      "key_takeaway": {
+        "en": "Blandongdiensten = Free labor for rent exemption.",
+        "hi": "ब्लैंडोंगडिएन्स्टेन = लगान माफी के बदले बेगार।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "Who led the challenge against the Dutch state's ownership of forests in Java around 1890?",
+        "hi": "1890 के आसपास जावा में वनों पर डच राज्य के स्वामित्व को चुनौती देने का नेतृत्व किसने किया?"
+      },
+      "options": {
+        "a": {"en": "Dietrich Brandis", "hi": "डयोट्रिच ब्रैंडिस"},
+        "b": {"en": "Surontiko Samin", "hi": "सुरोंटिको सामिन"},
+        "c": {"en": "Gunda Dhur", "hi": "गुंडा धुर"},
+        "d": {"en": "Mahatma Gandhi", "hi": "महात्मा गांधी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He argued that the state did not create the wind, water, earth, or wood, so it could not own them.",
+        "hi": "उन्होंने तर्क दिया कि राज्य ने हवा, पानी, धरती या लकड़ी नहीं बनाई है, इसलिए वह उनका मालिक नहीं हो सकता।"
+      },
+      "explanation": {
+        "en": "Surontiko Samin of Randublatung village began questioning state ownership of the forest. He argued that since the state had not created the natural resources, it could not own them.",
+        "hi": "सुरोंटिको सामिन ने तर्क दिया कि चूँकि राज्य ने हवा, पानी और जंगल नहीं बनाए हैं, इसलिए वे उसके नहीं हो सकते।"
+      },
+      "key_takeaway": {
+        "en": "Surontiko Samin = Saminism movement leader.",
+        "hi": "सुरोंटिको सामिन = सामिनवादी आंदोलन के नेता।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "How did Saminists protest against the Dutch surveyors?",
+        "hi": "सामिनवादियों ने डच सर्वेक्षणकर्ताओं के खिलाफ कैसे विरोध प्रदर्शन किया?"
+      },
+      "options": {
+        "a": {"en": "By attacking them with weapons", "hi": "उन पर हथियारों से हमला करके"},
+        "b": {"en": "By lying down on their land", "hi": "अपनी जमीन पर लेटकर"},
+        "c": {"en": "By leaving the country", "hi": "देश छोड़कर"},
+        "d": {"en": "By paying double taxes", "hi": "दोगुना कर चुकाकर"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Others refused to pay taxes or fines or perform labor.",
+        "hi": "दूसरों ने कर या जुर्माना देने या श्रम करने से इनकार कर दिया।"
+      },
+      "explanation": {
+        "en": "The protest was non-violent. Saminists lay down on their land when the Dutch came to survey it, while others refused to pay taxes or labor.",
+        "hi": "जब डच सर्वेक्षण के लिए आए, तो सामिनवादियों ने अपनी जमीन पर लेटकर विरोध जताया।"
+      },
+      "key_takeaway": {
+        "en": "Saminist Protest = Non-violent resistance (lying on land).",
+        "hi": "सामिनवादी विरोध = अहिंसक प्रतिरोध (जमीन पर लेटना)।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "What policy did the Dutch follow during the World Wars to prevent timber from falling into Japanese hands?",
+        "hi": "विश्व युद्धों के दौरान डच ने लकड़ी को जापानी हाथों में जाने से रोकने के लिए कौन सी नीति अपनाई?"
+      },
+      "options": {
+        "a": {"en": "Green Revolution", "hi": "हरित क्रांति"},
+        "b": {"en": "Scorched Earth Policy", "hi": "जली हुई भूमि की नीति (Scorched Earth Policy)"},
+        "c": {"en": "Open Door Policy", "hi": "खुले द्वार की नीति"},
+        "d": {"en": "Forest Conservation", "hi": "वन संरक्षण"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "They destroyed sawmills and burnt huge piles of teak logs.",
+        "hi": "उन्होंने आरा मिलों को नष्ट कर दिया और सागौन के लट्ठों के विशाल ढेरों को जला दिया।"
+      },
+      "explanation": {
+        "en": "Just before the Japanese occupied Java, the Dutch followed ‘a scorched earth’ policy, destroying sawmills, and burning giant piles of giant teak logs so that they would not fall into Japanese hands.",
+        "hi": "जापानियों के कब्जे से पहले डच ने 'भस्म कर डालो' (Scorched Earth) नीति अपनाई और सागौन के लट्ठों को जला दिया।"
+      },
+      "key_takeaway": {
+        "en": "Scorched Earth = Destroying resources before enemy capture.",
+        "hi": "स्कॉर्च्ड अर्थ = दुश्मन के कब्जे से पहले संसाधनों को नष्ट करना।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "Why were railways essential for colonial powers?",
+        "hi": "औपनिवेशिक शक्तियों के लिए रेलवे क्यों आवश्यक था?"
+      },
+      "options": {
+        "a": {"en": "For trade and movement of imperial troops", "hi": "व्यापार और शाही सैनिकों की आवाजाही के लिए"},
+        "b": {"en": "For sightseeing", "hi": "पर्यटन के लिए"},
+        "c": {"en": "To promote local languages", "hi": "स्थानीय भाषाओं को बढ़ावा देने के लिए"},
+        "d": {"en": "To plant more trees", "hi": "अधिक पेड़ लगाने के लिए"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "It helped in the quick transportation of goods and soldiers.",
+        "hi": "इससे माल और सैनिकों के त्वरित परिवहन में मदद मिली।"
+      },
+      "explanation": {
+        "en": "Railways were essential for colonial trade and for the movement of imperial troops. To run locomotives, wood was needed as fuel, and for railway tracks, sleepers were essential.",
+        "hi": "औपनिवेशिक व्यापार और सेना की आवाजाही के लिए रेलवे बहुत जरूरी थी।"
+      },
+      "key_takeaway": {
+        "en": "Railways = Imperial control and Trade.",
+        "hi": "रेलवे = शाही नियंत्रण और व्यापार।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "What percentage of the world's total area was cleared for agriculture between 1700 and 1995?",
+        "hi": "1700 और 1995 के बीच दुनिया के कुल क्षेत्रफल का कितना प्रतिशत खेती के लिए साफ किया गया था?"
+      },
+      "options": {
+        "a": {"en": "50%", "hi": "50%"},
+        "b": {"en": "9.3%", "hi": "9.3%"},
+        "c": {"en": "25%", "hi": "25%"},
+        "d": {"en": "2%", "hi": "2%"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This area is equivalent to 13.9 million sq km.",
+        "hi": "यह क्षेत्र 13.9 मिलियन वर्ग किमी के बराबर है।"
+      },
+      "explanation": {
+        "en": "Between 1700 and 1995, the period of industrialisation, 13.9 million sq km of forest or 9.3 per cent of the world’s total area was cleared for cultivation, industry, and fuel.",
+        "hi": "औद्योगीकरण के दौर में दुनिया के 9.3 प्रतिशत हिस्से से जंगलों का सफाया कर दिया गया।"
+      },
+      "key_takeaway": {
+        "en": "Deforestation Scale = 9.3% of world area.",
+        "hi": "वनोन्मूलन का पैमाना = विश्व क्षेत्र का 9.3%।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "In shifting cultivation, how are seeds sown after clearing and burning the forest patch?",
+        "hi": "झूम खेती में जंगल के टुकड़े को साफ करने और जलाने के बाद बीज कैसे बोए जाते हैं?"
+      },
+      "options": {
+        "a": {"en": "Using heavy tractors", "hi": "भारी ट्रैक्टरों का उपयोग करके"},
+        "b": {"en": "Seeds are scattered in the ashes after the first monsoon rain", "hi": "मानसून की पहली बारिश के बाद राख में बीज बिखेर दिए जाते हैं"},
+        "c": {"en": "Using chemical fertilizers", "hi": "रासायनिक उर्वरकों का उपयोग करके"},
+        "d": {"en": "Planting in nursery first", "hi": "पहले नर्सरी में रोपण करके"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The ash provides nutrients to the soil.",
+        "hi": "राख मिट्टी को पोषक तत्व प्रदान करती है।"
+      },
+      "explanation": {
+        "en": "In shifting cultivation, parts of the forest are cut and burnt in rotation. Seeds are scattered in the ashes after the first monsoon rains, and the crop is harvested by October-November.",
+        "hi": "झूम खेती में जंगल को जलाकर उसकी राख में मानसून के बाद बीज छिड़क दिए जाते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Shifting Cultivation = Ash-based fertilization.",
+        "hi": "झूम खेती = राख-आधारित उर्वरक।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "What is the new trend in forest management today across Asia and Africa?",
+        "hi": "आज पूरे एशिया और अफ्रीका में वन प्रबंधन में नई प्रवृत्ति क्या है?"
+      },
+      "options": {
+        "a": {"en": "More scientific forestry", "hi": "अधिक वैज्ञानिक वानिकी"},
+        "b": {"en": "Involving local communities in forest protection", "hi": "वन संरक्षण में स्थानीय समुदायों को शामिल करना"},
+        "c": {"en": "Total ban on entering forests", "hi": "जंगलों में प्रवेश पर पूर्ण प्रतिबंध"},
+        "d": {"en": "Cutting all trees for revenue", "hi": "राजस्व के लिए सभी पेड़ों को काटना"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Conservation is now seen as the primary goal rather than just timber collection.",
+        "hi": "अब संरक्षण को केवल लकड़ी संग्रह के बजाय प्राथमिक लक्ष्य के रूप में देखा जाता है।"
+      },
+      "explanation": {
+        "en": "Since the 1980s, governments across Asia and Africa have begun to see that scientific forestry and keeping communities away from forests has resulted in many conflicts. Conservation of forests rather than collecting timber has become a more important goal.",
+        "hi": "अब वनों के संरक्षण के लिए स्थानीय लोगों की भागीदारी को जरूरी माना जा रहा है।"
+      },
+      "key_takeaway": {
+        "en": "Modern Forestry = Community-based conservation.",
+        "hi": "आधुनिक वानिकी = समुदाय आधारित संरक्षण।"
+      }
+    }
+  ]
+}
