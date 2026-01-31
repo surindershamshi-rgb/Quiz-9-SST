@@ -1,0 +1,800 @@
+{
+  "metadata": {
+    "chapter_number": 1,
+    "chapter_title": "The French Revolution",
+    "chapter_title_hindi": "फ्रांसीसी क्रांति",
+    "subject": "History - Class 9",
+    "board": "CBSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.0",
+    "naming_convention": "09_HI_CH01_FrenchRevolution_30MCQ.json"
+  },
+  "validation_report": {
+    "is_valid": true,
+    "checked_by": "Gemini",
+    "checked_at": "2026-01-31T15:08:00Z",
+    "notes": "Bilingual MCQs covering the full timeline of the French Revolution with balanced option distribution."
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "On which date did the people of Paris storm the Bastille?",
+        "hi": "पेरिस के लोगों ने बास्तील के किले पर किस तारीख को हमला किया?"
+      },
+      "options": {
+        "a": {"en": "14 July 1789", "hi": "14 जुलाई 1789"},
+        "b": {"en": "14 July 1798", "hi": "14 जुलाई 1798"},
+        "c": {"en": "20 June 1789", "hi": "20 जून 1789"},
+        "d": {"en": "4 August 1789", "hi": "4 अगस्त 1789"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "This day is now celebrated as the National Day of France.",
+        "hi": "इस दिन को अब फ्रांस के राष्ट्रीय दिवस के रूप में मनाया जाता है।"
+      },
+      "explanation": {
+        "en": "The storming of the Bastille on 14 July 1789 marked the beginning of the French Revolution. The fortress-prison was hated by all because it stood for the despotic power of the king.",
+        "hi": "14 जुलाई 1789 को बास्तील का पतन फ्रांसीसी क्रांति की शुरुआत थी। इस किले से सभी नफरत करते थे क्योंकि यह राजा की निरंकुश सत्ता का प्रतीक था।"
+      },
+      "key_takeaway": {
+        "en": "Bastille Day: 14 July 1789.",
+        "hi": "बास्तील दिवस: 14 जुलाई 1789।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "Who was the King of France at the time of the Revolution?",
+        "hi": "क्रांति के समय फ्रांस का राजा कौन था?"
+      },
+      "options": {
+        "a": {"en": "Louis XIV", "hi": "लुई XIV"},
+        "b": {"en": "Louis XV", "hi": "लुई XV"},
+        "c": {"en": "Louis XVI", "hi": "लुई XVI"},
+        "d": {"en": "Nicholas II", "hi": "निकोोलस II"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "He belonged to the Bourbon family and ascended the throne in 1774.",
+        "hi": "वह बुर्बों राजवंश से था और 1774 में राजगद्दी पर बैठा था।"
+      },
+      "explanation": {
+        "en": "Louis XVI was the ruler during the revolution. He faced an empty treasury due to long years of war and the cost of maintaining an extravagant court at Versailles.",
+        "hi": "क्रांति के दौरान लुई XVI शासक था। उसे लंबे युद्धों और वर्साय के महल के फिजूलखर्चों के कारण खाली खजाने का सामना करना पड़ा।"
+      },
+      "key_takeaway": {
+        "en": "Louis XVI = Bourbon King during Revolution.",
+        "hi": "लुई XVI = क्रांति के दौरान बुर्बों राजा।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "Which estate in French society paid all the taxes?",
+        "hi": "फ्रांसीसी समाज के किस एस्टेट ने सभी करों का भुगतान किया?"
+      },
+      "options": {
+        "a": {"en": "First Estate", "hi": "प्रथम एस्टेट"},
+        "b": {"en": "Second Estate", "hi": "द्वितीय एस्टेट"},
+        "c": {"en": "Third Estate", "hi": "तृतीय एस्टेट"},
+        "d": {"en": "The Nobility", "hi": "कुलीन वर्ग"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "This group included peasants, artisans, and the big businessmen.",
+        "hi": "इस समूह में किसान, कारीगर और बड़े व्यवसायी शामिल थे।"
+      },
+      "explanation": {
+        "en": "French society was divided into three estates. Only members of the third estate, who made up about 98% of the population, paid taxes while the first two estates enjoyed privileges by birth.",
+        "hi": "फ्रांसीसी समाज तीन एस्टेट्स में विभाजित था। केवल तीसरे एस्टेट के लोग कर देते थे, जबकि पहले दो एस्टेट्स को जन्म से विशेषाधिकार प्राप्त थे।"
+      },
+      "key_takeaway": {
+        "en": "Third Estate = Only taxpayers.",
+        "hi": "तृतीय एस्टेट = केवल करदाता।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "What was 'Tithe'?",
+        "hi": "'टाइड' (Tithe) क्या था?"
+      },
+      "options": {
+        "a": {"en": "A tax levied by the Church", "hi": "चर्च द्वारा लगाया गया कर"},
+        "b": {"en": "A tax paid directly to the state", "hi": "राज्य को दिया जाने वाला प्रत्यक्ष कर"},
+        "c": {"en": "A social status", "hi": "एक सामाजिक स्थिति"},
+        "d": {"en": "A type of currency", "hi": "एक प्रकार की मुद्रा"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "It comprised one-tenth of the agricultural produce.",
+        "hi": "इसमें कृषि उपज का दसवां हिस्सा शामिल था।"
+      },
+      "explanation": {
+        "en": "Tithes were religious taxes collected by the Church from the peasants. This added to the financial burden of the Third Estate.",
+        "hi": "टाइड चर्च द्वारा किसानों से वसूला जाने वाला धार्मिक कर था। इसने तीसरे एस्टेट के वित्तीय बोझ को बढ़ा दिया था।"
+      },
+      "key_takeaway": {
+        "en": "Tithe = Church Tax.",
+        "hi": "टाइड = चर्च कर।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "Who wrote the influential book 'The Social Contract'?",
+        "hi": "'द सोशल कॉन्ट्रैक्ट' नामक प्रभावशाली पुस्तक किसने लिखी थी?"
+      },
+      "options": {
+        "a": {"en": "John Locke", "hi": "जॉन लॉक"},
+        "b": {"en": "Jean Jacques Rousseau", "hi": "जीन जैक्स रूसो"},
+        "c": {"en": "Montesquieu", "hi": "मोंटेस्क्यू"},
+        "d": {"en": "Voltaire", "hi": "वॉल्टेयर"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He proposed a form of government based on a contract between people and their representatives.",
+        "hi": "उन्होंने जनता और उनके प्रतिनिधियों के बीच एक अनुबंध पर आधारित सरकार का प्रस्ताव रखा।"
+      },
+      "explanation": {
+        "en": "Rousseau's ideas played a major role in inspiring the revolution. He argued that the government should be based on the consent of the governed.",
+        "hi": "रूसो के विचारों ने क्रांति को प्रेरित करने में बड़ी भूमिका निभाई। उन्होंने तर्क दिया कि सरकार शासितों की सहमति पर आधारित होनी चाहिए।"
+      },
+      "key_takeaway": {
+        "en": "Rousseau wrote The Social Contract.",
+        "hi": "रूसो ने 'द सोशल कॉन्ट्रैक्ट' लिखी।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "In which book did Montesquieu propose a division of power within the government?",
+        "hi": "मोंटेस्क्यू ने सरकार के भीतर सत्ता के विभाजन का प्रस्ताव किस पुस्तक में दिया था?"
+      },
+      "options": {
+        "a": {"en": "Two Treatises of Government", "hi": "टू ट्रीटीज़ ऑफ़ गवर्नमेंट"},
+        "b": {"en": "The Social Contract", "hi": "द सोशल कॉन्ट्रैक्ट"},
+        "c": {"en": "The Spirit of the Laws", "hi": "द स्पिरिट ऑफ द लॉज़"},
+        "d": {"en": "What is the Third Estate?", "hi": "तृतीय एस्टेट क्या है?"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "He suggested separating the Legislative, Executive, and Judiciary.",
+        "hi": "उन्होंने विधायिका, कार्यपालिका और न्यायपालिका को अलग करने का सुझाव दिया।"
+      },
+      "explanation": {
+        "en": "In 'The Spirit of the Laws', Montesquieu argued against the concentration of power in one hand, leading to the modern democratic structure of checks and balances.",
+        "hi": "'द स्पिरिट ऑफ द लॉज़' में मोंटेस्क्यू ने एक ही हाथ में शक्ति के संकेंद्रण के खिलाफ तर्क दिया, जिससे आधुनिक लोकतांत्रिक ढांचा बना।"
+      },
+      "key_takeaway": {
+        "en": "Montesquieu = Separation of Powers.",
+        "hi": "मोंटेस्क्यू = शक्तियों का पृथक्करण।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "Where did the representatives of the Third Estate assemble to take the Tennis Court Oath?",
+        "hi": "टेनिस कोर्ट की शपथ लेने के लिए तीसरे एस्टेट के प्रतिनिधि कहाँ एकत्रित हुए थे?"
+      },
+      "options": {
+        "a": {"en": "Palace of Versailles", "hi": "वर्साय का महल"},
+        "b": {"en": "An indoor tennis court in Versailles", "hi": "वर्साय में एक इनडोर टेनिस कोर्ट"},
+        "c": {"en": "The Bastille Prison", "hi": "बास्तील जेल"},
+        "d": {"en": "The Tuileries Palace", "hi": "ट्यूलरी पैलेस"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "They met here after being locked out of the hall where the Estates General usually met.",
+        "hi": "एस्टेट्स जनरल के हॉल से बाहर निकाले जाने के बाद वे यहाँ मिले थे।"
+      },
+      "explanation": {
+        "en": "On 20 June 1789, the Third Estate declared themselves a National Assembly and swore not to disperse until they had drafted a constitution for France.",
+        "hi": "20 जून 1789 को, तीसरे एस्टेट ने खुद को नेशनल असेंबली घोषित किया और शपथ ली कि वे तब तक नहीं हटेंगे जब तक कि वे फ्रांस के लिए संविधान तैयार नहीं कर लेते।"
+      },
+      "key_takeaway": {
+        "en": "Tennis Court Oath: 20 June 1789.",
+        "hi": "टेनिस कोर्ट की शपथ: 20 जून 1789।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "Who led the representatives of the Third Estate at Versailles?",
+        "hi": "वर्साय में तीसरे एस्टेट के प्रतिनिधियों का नेतृत्व किसने किया?"
+      },
+      "options": {
+        "a": {"en": "Mirabeau and Abbé Sieyès", "hi": "मिराब्यो और आबे सिएये"},
+        "b": {"en": "Louis XVI and Marie Antoinette", "hi": "लुई XVI और मेरी एंतोएनेत"},
+        "c": {"en": "Robespierre and Napoleon", "hi": "रोबेस्पिएर और नेपोलियन"},
+        "d": {"en": "Rousseau and Locke", "hi": "रूसो और लॉक"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "One was born in a noble family and the other was a priest.",
+        "hi": "एक का जन्म कुलीन परिवार में हुआ था और दूसरा एक पादरी था।"
+      },
+      "explanation": {
+        "en": "Although Mirabeau was a noble and Abbé Sieyès was a priest, they supported the Third Estate's cause for justice and equality.",
+        "hi": "हालाँकि मिराब्यो एक कुलीन थे और आबे सिएये एक पादरी, उन्होंने न्याय और समानता के लिए तीसरे एस्टेट का समर्थन किया।"
+      },
+      "key_takeaway": {
+        "en": "Mirabeau & Sieyès = Leaders of Third Estate.",
+        "hi": "मिराब्यो और आबे सिएये = तीसरे एस्टेट के नेता।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "What did the National Assembly do on the night of 4 August 1789?",
+        "hi": "4 अगस्त 1789 की रात को नेशनल असेंबली ने क्या किया?"
+      },
+      "options": {
+        "a": {"en": "Executed the King", "hi": "राजा को फांसी दी"},
+        "b": {"en": "Abolished the feudal system of obligations", "hi": "सामंती व्यवस्था को समाप्त किया"},
+        "c": {"en": "Declared war on Austria", "hi": "ऑस्ट्रिया पर युद्ध की घोषणा की"},
+        "d": {"en": "Started the Reign of Terror", "hi": "आतंक का राज्य शुरू किया"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It ended the centuries-old system of birth privileges and forced labor.",
+        "hi": "इसने जन्म आधारित विशेषाधिकारों और जबरन श्रम की सदियों पुरानी व्यवस्था को समाप्त कर दिया।"
+      },
+      "explanation": {
+        "en": "The Assembly passed a decree abolishing feudalism, tithes, and privilege, forcing the clergy to give up their benefits.",
+        "hi": "असेंबली ने सामंतवाद, टाइड और विशेषाधिकारों को समाप्त करने का आदेश पारित किया, जिससे पादरियों को अपने लाभ छोड़ने पड़े।"
+      },
+      "key_takeaway": {
+        "en": "4 August 1789 = End of Feudalism.",
+        "hi": "4 अगस्त 1789 = सामंतवाद का अंत।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "According to the Constitution of 1791, who were 'Active Citizens'?",
+        "hi": "1791 के संविधान के अनुसार, 'सक्रिय नागरिक' कौन थे?"
+      },
+      "options": {
+        "a": {"en": "All men and women in France", "hi": "फ्रांस के सभी पुरुष और महिलाएं"},
+        "b": {"en": "Men above 25 years who paid taxes", "hi": "25 वर्ष से ऊपर के पुरुष जो कर देते थे"},
+        "c": {"en": "The clergy and nobility", "hi": "पादरी और कुलीन वर्ग"},
+        "d": {"en": "Only the people living in Paris", "hi": "केवल पेरिस में रहने वाले लोग"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Only those who paid taxes equal to at least 3 days of a laborer's wage had the right to vote.",
+        "hi": "केवल वे लोग जिन्हें एक मजदूर की 3 दिन की मजदूरी के बराबर कर देने का अधिकार था, वोट दे सकते थे।"
+      },
+      "explanation": {
+        "en": "The Constitution of 1791 gave the right to vote only to 'Active Citizens'. Women and men who did not pay enough taxes were 'Passive Citizens' with no voting rights.",
+        "hi": "1791 के संविधान ने केवल 'सक्रिय नागरिकों' को वोट देने का अधिकार दिया। महिलाओं और पर्याप्त कर न देने वाले पुरुषों को 'निष्क्रिय नागरिक' माना गया।"
+      },
+      "key_takeaway": {
+        "en": "Active Citizens = Tax paying men above 25.",
+        "hi": "सक्रिय नागरिक = 25 से ऊपर के करदाता पुरुष।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "The 'Marseillaise' is now the national anthem of which country?",
+        "hi": "'मार्सिले' (Marseillaise) अब किस देश का राष्ट्रगान है?"
+      },
+      "options": {
+        "a": {"en": "Germany", "hi": "जर्मनी"},
+        "b": {"en": "Italy", "hi": "इटली"},
+        "c": {"en": "France", "hi": "फ्रांस"},
+        "d": {"en": "Britain", "hi": "ब्रिटेन"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "It was originally a patriotic song sung by volunteers from a city of the same name.",
+        "hi": "यह मूल रूप से इसी नाम के एक शहर के स्वयंसेवकों द्वारा गाया गया एक देशभक्ति गीत था।"
+      },
+      "explanation": {
+        "en": "Composed by Roget de L'Isle, it was first sung by volunteers from Marseilles as they marched into Paris. It became a symbol of the revolution.",
+        "hi": "रोजेट डी आइल द्वारा रचित, इसे सबसे पहले मार्सिले के स्वयंसेवकों ने पेरिस कूच करते समय गाया था। यह क्रांति का प्रतीक बन गया।"
+      },
+      "key_takeaway": {
+        "en": "Marseillaise = French National Anthem.",
+        "hi": "मार्सिले = फ्रांस का राष्ट्रगान।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "Which political club was named after a former convent in Paris?",
+        "hi": "किस राजनीतिक क्लब का नाम पेरिस के एक पूर्व कॉन्वेंट के नाम पर रखा गया था?"
+      },
+      "options": {
+        "a": {"en": "Jacobin Club", "hi": "जैकोबिन क्लब"},
+        "b": {"en": "Bolshevik Club", "hi": "बोल्शेविक क्लब"},
+        "c": {"en": "Girondins", "hi": "जिरोन्दिन"},
+        "d": {"en": "Liberal Club", "hi": "लिबरल क्लब"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "Its members were mainly from the less prosperous sections of society.",
+        "hi": "इसके सदस्य मुख्य रूप से समाज के कम समृद्ध वर्गों से थे।"
+      },
+      "explanation": {
+        "en": "The Jacobin Club took its name from the former convent of St Jacob in Paris. It became the most successful political club during the revolution.",
+        "hi": "जैकोबिन क्लब का नाम पेरिस के पूर्व कॉन्वेंट सेंट जैकब के नाम पर पड़ा। यह क्रांति के दौरान सबसे सफल राजनीतिक क्लब बना।"
+      },
+      "key_takeaway": {
+        "en": "Jacobins = Radical revolutionary club.",
+        "hi": "जैकोबिन = कट्टरपंथी क्रांतिकारी क्लब।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "Who was the leader of the Jacobins?",
+        "hi": "जैकोबिनों का नेता कौन था?"
+      },
+      "options": {
+        "a": {"en": "Napoleon Bonaparte", "hi": "नेपोलियन बोनापार्ट"},
+        "b": {"en": "Maximilien Robespierre", "hi": "मैक्सिमिलियन रोबेस्पिएर"},
+        "c": {"en": "Jean-Paul Marat", "hi": "जीन-पॉल मराट"},
+        "d": {"en": "George Danton", "hi": "जॉर्ज डैंटन"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He is famously associated with the 'Reign of Terror'.",
+        "hi": "वह मुख्य रूप से 'आतंक के राज्य' से जुड़े हुए हैं।"
+      },
+      "explanation": {
+        "en": "Robespierre led the Jacobins and later controlled France, implementing strict policies of control and punishment.",
+        "hi": "रोबेस्पिएर ने जैकोबिनों का नेतृत्व किया और बाद में फ्रांस पर नियंत्रण किया, नियंत्रण और दंड की सख्त नीतियां लागू कीं।"
+      },
+      "key_takeaway": {
+        "en": "Robespierre = Jacobin Leader.",
+        "hi": "रोबेस्पिएर = जैकोबिन नेता।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "What did the term 'Sans-culottes' mean?",
+        "hi": "'सॉकुलॉत' (Sans-culottes) शब्द का क्या अर्थ था?"
+      },
+      "options": {
+        "a": {"en": "Those with knee breeches", "hi": "घुटने तक के ब्रीच पहनने वाले"},
+        "b": {"en": "Those without knee breeches", "hi": "बिना घुटने के ब्रीच वाले"},
+        "c": {"en": "People belonging to the First Estate", "hi": "प्रथम एस्टेट के लोग"},
+        "d": {"en": "Royal guards", "hi": "शाही रक्षक"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "They wore long trousers to distinguish themselves from the nobles.",
+        "hi": "उन्होंने खुद को कुलीनों से अलग दिखाने के लिए लंबी पतलून पहनी थी।"
+      },
+      "explanation": {
+        "en": "Jacobins started wearing long striped trousers to set themselves apart from the aristocrats who wore knee breeches. They came to be known as 'sans-culottes'.",
+        "hi": "जैकोबिनों ने खुद को कुलीनों से अलग करने के लिए धारीदार लंबी पतलून पहनना शुरू किया। उन्हें 'सॉकुलॉत' के नाम से जाना जाने लगा।"
+      },
+      "key_takeaway": {
+        "en": "Sans-culottes = Ordinary people/Revolutionaries.",
+        "hi": "सॉकुलॉत = साधारण लोग/क्रांतिकारी।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "France was declared a Republic after the abolishment of the monarchy on:",
+        "hi": "राजशाही के उन्मूलन के बाद फ्रांस को गणतंत्र कब घोषित किया गया था?"
+      },
+      "options": {
+        "a": {"en": "21 September 1792", "hi": "21 सितंबर 1792"},
+        "b": {"en": "14 July 1789", "hi": "14 जुलाई 1789"},
+        "c": {"en": "21 January 1793", "hi": "21 जनवरी 1793"},
+        "d": {"en": "18 June 1815", "hi": "18 जून 1815"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "This happened after the newly elected assembly, the Convention, took power.",
+        "hi": "यह नव निर्वाचित असेंबली 'कन्वेंशन' के सत्ता में आने के बाद हुआ था।"
+      },
+      "explanation": {
+        "en": "The Convention abolished the monarchy and declared France a republic on 21 September 1792, meaning the head of state is elected.",
+        "hi": "कन्वेंशन ने राजशाही को समाप्त कर दिया और 21 सितंबर 1792 को फ्रांस को गणतंत्र घोषित किया।"
+      },
+      "key_takeaway": {
+        "en": "Republic Day France: 21 Sept 1792.",
+        "hi": "फ्रांस गणतंत्र दिवस: 21 सित. 1792।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "On what charge was Louis XVI executed?",
+        "hi": "लुई XVI को किस आरोप में फांसी दी गई थी?"
+      },
+      "options": {
+        "a": {"en": "Theft", "hi": "चोरी"},
+        "b": {"en": "Treason", "hi": "देशद्रोह"},
+        "c": {"en": "Cruelty", "hi": "क्रूरता"},
+        "d": {"en": "Bankruptcy", "hi": "दिवालियापन"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It means betrayal of one's country or government.",
+        "hi": "इसका अर्थ है अपने देश या सरकार के साथ विश्वासघात करना।"
+      },
+      "explanation": {
+        "en": "Louis XVI was sentenced to death by a court on the charge of treason. He was executed publicly at the Place de la Concorde.",
+        "hi": "लुई XVI को अदालत ने देशद्रोह के आरोप में मौत की सजा सुनाई थी। उसे सार्वजनिक रूप से फांसी दी गई थी।"
+      },
+      "key_takeaway": {
+        "en": "Louis XVI = Executed for Treason.",
+        "hi": "लुई XVI = देशद्रोह के लिए फांसी।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "Which period is referred to as the 'Reign of Terror'?",
+        "hi": "किस अवधि को 'आतंक का राज्य' कहा जाता है?"
+      },
+      "options": {
+        "a": {"en": "1789-1791", "hi": "1789-1791"},
+        "b": {"en": "1791-1792", "hi": "1791-1792"},
+        "c": {"en": "1793-1794", "hi": "1793-1794"},
+        "d": {"en": "1804-1815", "hi": "1804-1815"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "This was the time when Robespierre followed a policy of severe control.",
+        "hi": "यह वह समय था जब रोबेस्पिएर ने गंभीर नियंत्रण की नीति अपनाई थी।"
+      },
+      "explanation": {
+        "en": "The period from 1793 to 1794 is called the Reign of Terror because anyone seen as an 'enemy' of the republic was arrested and guillotined.",
+        "hi": "1793 से 1794 की अवधि को आतंक का राज्य कहा जाता है क्योंकि गणतंत्र के 'दुश्मन' माने जाने वाले किसी भी व्यक्ति को गिलोटिन कर दिया जाता था।"
+      },
+      "key_takeaway": {
+        "en": "Reign of Terror = 1793-94.",
+        "hi": "आतंक का राज्य = 1793-94।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "What was the 'Guillotine'?",
+        "hi": "'गिलोटिन' क्या था?"
+      },
+      "options": {
+        "a": {"en": "A tax", "hi": "एक कर"},
+        "b": {"en": "A device for beheading people", "hi": "सिर काटने का एक उपकरण"},
+        "c": {"en": "A musical instrument", "hi": "एक वाद्य यंत्र"},
+        "d": {"en": "A special type of bread", "hi": "एक विशेष प्रकार की रोटी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It consisted of two poles and a blade, named after its inventor.",
+        "hi": "इसमें दो खंभे और एक ब्लेड होता था, जिसका नाम इसके आविष्कारक के नाम पर रखा गया था।"
+      },
+      "explanation": {
+        "en": "The guillotine was a machine used to execute people by beheading them. It was invented by Dr. Guillotin.",
+        "hi": "गिलोटिन लोगों का सिर काटकर उन्हें मौत की सजा देने वाली मशीन थी। इसका आविष्कार डॉ. गिलोटिन ने किया था।"
+      },
+      "key_takeaway": {
+        "en": "Guillotine = Execution device.",
+        "hi": "गिलोटिन = मृत्युदंड का उपकरण।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "After the fall of Robespierre, who seized power in France?",
+        "hi": "रोबेस्पिएर के पतन के बाद, फ्रांस में किसने सत्ता संभाली?"
+      },
+      "options": {
+        "a": {"en": "The King's relatives", "hi": "राजा के रिश्तेदार"},
+        "b": {"en": "A Directory (executive of 5 members)", "hi": "एक डायरेक्टरी (5 सदस्यों की कार्यपालिका)"},
+        "c": {"en": "The Catholic Church", "hi": "कैथोलिक चर्च"},
+        "d": {"en": "Foreign invaders", "hi": "विदेशी हमलावर"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The new constitution provided for two elected legislative councils and this executive body.",
+        "hi": "नए संविधान में दो निर्वाचित विधायी परिषदों और इस कार्यकारी निकाय का प्रावधान था।"
+      },
+      "explanation": {
+        "en": "To prevent the concentration of power in one man (like Robespierre), the Directory was formed. However, its constant clashes with legislative councils led to political instability.",
+        "hi": "एक व्यक्ति के हाथ में शक्ति को रोकने के लिए डायरेक्टरी बनाई गई। हालांकि, इसके आपसी झगड़ों ने राजनीतिक अस्थिरता पैदा की।"
+      },
+      "key_takeaway": {
+        "en": "Directory = Post-Robespierre government.",
+        "hi": "डायरेक्टरी = रोबेस्पिएर के बाद की सरकार।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "When did Napoleon Bonaparte crown himself Emperor of France?",
+        "hi": "नेपोलियन बोनापार्ट ने खुद को फ्रांस का सम्राट कब घोषित किया?"
+      },
+      "options": {
+        "a": {"en": "1789", "hi": "1789"},
+        "b": {"en": "1799", "hi": "1799"},
+        "c": {"en": "1804", "hi": "1804"},
+        "d": {"en": "1815", "hi": "1815"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "He rose to power due to the political instability of the Directory.",
+        "hi": "वह डायरेक्टरी की राजनीतिक अस्थिरता के कारण सत्ता में आया।"
+      },
+      "explanation": {
+        "en": "Napoleon saw himself as a moderniser of Europe. He introduced many laws such as the protection of private property and a uniform system of weights.",
+        "hi": "नेपोलियन ने खुद को यूरोप का आधुनिकीकरण करने वाला माना। उसने निजी संपत्ति की रक्षा जैसे कई कानून पेश किए।"
+      },
+      "key_takeaway": {
+        "en": "Napoleon became Emperor in 1804.",
+        "hi": "नेपोलियन 1804 में सम्राट बना।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "Napoleon was finally defeated in 1815 at the Battle of:",
+        "hi": "नेपोलियन अंततः 1815 में किस युद्ध में हार गया था?"
+      },
+      "options": {
+        "a": {"en": "Leipzig", "hi": "लिपज़िग"},
+        "b": {"en": "Waterloo", "hi": "वाटरलू"},
+        "c": {"en": "Verdun", "hi": "वरदुन"},
+        "d": {"en": "Paris", "hi": "पेरिस"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This battle took place in present-day Belgium.",
+        "hi": "यह युद्ध वर्तमान बेल्जियम में हुआ था।"
+      },
+      "explanation": {
+        "en": "The Battle of Waterloo marked the final end of Napoleon's rule. Many of his revolutionary ideas, however, continued to spread across Europe.",
+        "hi": "वाटरलू के युद्ध ने नेपोलियन के शासन का अंत कर दिया। हालांकि, उसके क्रांतिकारी विचार यूरोप में फैलते रहे।"
+      },
+      "key_takeaway": {
+        "en": "Waterloo (1815) = Napoleon's defeat.",
+        "hi": "वाटरलू (1815) = नेपोलियन की हार।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "When did women in France finally get the right to vote?",
+        "hi": "फ्रांस में महिलाओं को अंततः वोट देने का अधिकार कब मिला?"
+      },
+      "options": {
+        "a": {"en": "1791", "hi": "1791"},
+        "b": {"en": "1848", "hi": "1848"},
+        "c": {"en": "1946", "hi": "1946"},
+        "d": {"en": "1914", "hi": "1914"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "It took more than 150 years after the French Revolution for this to happen.",
+        "hi": "इसे होने में फ्रांसीसी क्रांति के 150 से अधिक वर्ष लग गए।"
+      },
+      "explanation": {
+        "en": "Despite their active participation in the revolution, women were denied voting rights for a long time. It was only in 1946 that they won the right to vote.",
+        "hi": "क्रांति में सक्रिय भागीदारी के बावजूद, महिलाओं को लंबे समय तक वोट देने से वंचित रखा गया। 1946 में ही उन्हें यह अधिकार मिला।"
+      },
+      "key_takeaway": {
+        "en": "Women's suffrage in France: 1946.",
+        "hi": "फ्रांस में महिलाओं का मताधिकार: 1946।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "Who wrote the 'Declaration of the Rights of Woman and Citizen'?",
+        "hi": "'महिला एवं नागरिक अधिकार घोषणापत्र' किसने लिखा था?"
+      },
+      "options": {
+        "a": {"en": "Marie Antoinette", "hi": "मेरी एंतोएनेत"},
+        "b": {"en": "Olympe de Gouges", "hi": "ओलंप दे गूज"},
+        "c": {"en": "Charlotte Corday", "hi": "शार्लोट कोर्डे"},
+        "d": {"en": "Madame Roland", "hi": "मैडम रोलैंड"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "She was an active political figure who protested against the exclusion of women from the constitution.",
+        "hi": "वह एक सक्रिय राजनीतिक हस्ती थीं जिन्होंने संविधान से महिलाओं के बहिष्कार का विरोध किया था।"
+      },
+      "explanation": {
+        "en": "Olympe de Gouges wrote this in 1791 to demand equal rights for women. She was later executed by the Jacobin government.",
+        "hi": "ओलंप दे गूज ने महिलाओं के समान अधिकारों की मांग के लिए 1791 में यह लिखा था। बाद में जैकोबिन सरकार ने उन्हें फांसी दे दी।"
+      },
+      "key_takeaway": {
+        "en": "Olympe de Gouges = Women's rights activist.",
+        "hi": "ओलंप दे गूज = महिला अधिकार कार्यकर्ता।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "Which French port cities owed their economic prosperity to the slave trade?",
+        "hi": "किन फ्रांसीसी बंदरगाह शहरों की आर्थिक समृद्धि दास व्यापार के कारण थी?"
+      },
+      "options": {
+        "a": {"en": "Paris and Lyon", "hi": "पेरिस और ल्यों"},
+        "b": {"en": "Bordeaux and Nantes", "hi": "बोर्डो और नान्तेस"},
+        "c": {"en": "Marseilles and Nice", "hi": "मार्सिले और नीस"},
+        "d": {"en": "Calais and Dunkirk", "hi": "कैलाइस और डंकर्क"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "These cities are located on the Atlantic coast.",
+        "hi": "ये शहर अटलांटिक तट पर स्थित हैं।"
+      },
+      "explanation": {
+        "en": "Bordeaux and Nantes flourished as ports due to the triangular slave trade between Europe, Africa, and the Americas.",
+        "hi": "यूरोप, अफ्रीका और अमेरिका के बीच त्रिकोणीय दास व्यापार के कारण बोर्डो और नान्तेस बंदरगाहों के रूप में विकसित हुए।"
+      },
+      "key_takeaway": {
+        "en": "Bordeaux/Nantes = Slave trade ports.",
+        "hi": "बोर्डो/नान्तेस = दास व्यापार बंदरगाह।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "When was slavery finally abolished in all French colonies?",
+        "hi": "सभी फ्रांसीसी उपनिवेशों में दास प्रथा को अंतिम रूप से कब समाप्त किया गया था?"
+      },
+      "options": {
+        "a": {"en": "1794", "hi": "1794"},
+        "b": {"en": "1804", "hi": "1804"},
+        "c": {"en": "1848", "hi": "1848"},
+        "d": {"en": "1888", "hi": "1888"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "Napoleon reintroduced slavery in 1804, so it took much longer for the final abolition.",
+        "hi": "नेपोलियन ने 1804 में दास प्रथा को फिर से शुरू किया था, इसलिए अंतिम उन्मूलन में समय लगा।"
+      },
+      "explanation": {
+        "en": "Slavery was first abolished in 1794, but Napoleon brought it back. It was finally ended for good in 1848.",
+        "hi": "दास प्रथा पहली बार 1794 में समाप्त हुई थी, लेकिन नेपोलियन ने इसे वापस लाया। अंततः 1848 में इसे पूरी तरह खत्म किया गया।"
+      },
+      "key_takeaway": {
+        "en": "Final abolition of slavery: 1848.",
+        "hi": "दास प्रथा का अंतिम अंत: 1848।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "What did the 'Red Cap' symbolize in the French Revolution?",
+        "hi": "फ्रांसीसी क्रांति में 'लाल टोपी' किसका प्रतीक थी?"
+      },
+      "options": {
+        "a": {"en": "Equality", "hi": "समानता"},
+        "b": {"en": "Liberty (Freedom)", "hi": "स्वतंत्रता"},
+        "c": {"en": "Brotherhood", "hi": "भाईचारा"},
+        "d": {"en": "Monarchy", "hi": "राजशाही"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It was worn by slaves when they became free.",
+        "hi": "इसे दास तब पहनते थे जब वे स्वतंत्र हो जाते थे।"
+      },
+      "explanation": {
+        "en": "The red Phrygian cap symbolized liberty. It was a visual representation of the revolutionary ideal of freedom from oppression.",
+        "hi": "लाल टोपी स्वतंत्रता का प्रतीक थी। यह दमन से मुक्ति के क्रांतिकारी आदर्श का प्रतिनिधित्व करती थी।"
+      },
+      "key_takeaway": {
+        "en": "Red Cap = Liberty.",
+        "hi": "लाल टोपी = स्वतंत्रता।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "Who among the following was a leading figure in the abolition of censorship in 1789?",
+        "hi": "1789 में सेंसरशिप के उन्मूलन में निम्नलिखित में से कौन एक प्रमुख घटना थी?"
+      },
+      "options": {
+        "a": {"en": "The Fall of Bastille", "hi": "बास्तील का पतन"},
+        "b": {"en": "The rise of Napoleon", "hi": "नेपोलियन का उदय"},
+        "c": {"en": "Execution of Robespierre", "hi": "रोबेस्पिएर की फांसी"},
+        "d": {"en": "The Tennis Court Oath", "hi": "टेनिस कोर्ट की शपथ"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "After this event, the Declaration of Rights of Man made freedom of speech a natural right.",
+        "hi": "इस घटना के बाद, पुरुष अधिकारों की घोषणा ने भाषण की स्वतंत्रता को एक प्राकृतिक अधिकार बना दिया।"
+      },
+      "explanation": {
+        "en": "Soon after the storming of Bastille, censorship was abolished. This allowed newspapers and pamphlets to flood French towns, spreading revolutionary ideas.",
+        "hi": "बास्तील के पतन के तुरंत बाद सेंसरशिप समाप्त कर दी गई। इससे समाचार पत्रों और पर्चों ने क्रांतिकारी विचारों को फैलाना शुरू किया।"
+      },
+      "key_takeaway": {
+        "en": "Abolition of censorship = Freedom of Speech.",
+        "hi": "सेंसरशिप का अंत = अभिव्यक्ति की स्वतंत्रता।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "The 'Broken Chain' was a symbol used to represent:",
+        "hi": "'टूटी हुई ज़ंजीर' किसका प्रतीक थी?"
+      },
+      "options": {
+        "a": {"en": "Strength", "hi": "शक्ति"},
+        "b": {"en": "Knowledge", "hi": "ज्ञान"},
+        "c": {"en": "The act of becoming free", "hi": "स्वतंत्र होने की क्रिया"},
+        "d": {"en": "Unity", "hi": "एकता"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "Chains were used to fetter slaves.",
+        "hi": "ज़ंजीरों का इस्तेमाल दासों को बाँधने के लिए किया जाता था।"
+      },
+      "explanation": {
+        "en": "Chains were used to restrict people. A broken chain stands for freedom from those restrictions and the power of the individual.",
+        "hi": "ज़ंजीरें लोगों को बाँधने के लिए इस्तेमाल होती थीं। टूटी ज़ंजीर उन पाबंदियों से मुक्ति का प्रतीक है।"
+      },
+      "key_takeaway": {
+        "en": "Broken Chain = Freedom.",
+        "hi": "टूटी ज़ंजीर = स्वतंत्रता।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "Which of these Indian leaders was inspired by the ideals of the French Revolution?",
+        "hi": "इनमें से कौन सा भारतीय नेता फ्रांसीसी क्रांति के आदर्शों से प्रेरित था?"
+      },
+      "options": {
+        "a": {"en": "Tipu Sultan", "hi": "टीपू सुल्तान"},
+        "b": {"en": "Mahatma Gandhi", "hi": "महात्मा गांधी"},
+        "c": {"en": "Akbar", "hi": "अकबर"},
+        "d": {"en": "Shivaji Maharaj", "hi": "शिवाजी महाराज"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "He and Raja Rammohan Roy are two examples given in the NCERT book.",
+        "hi": "वह और राजा राममोहन राय एनसीईआरटी किताब में दिए गए दो उदाहरण हैं।"
+      },
+      "explanation": {
+        "en": "The ideas of liberty and democratic rights were the most important legacy of the French Revolution. Tipu Sultan responded to the ideas coming from revolutionary France.",
+        "hi": "स्वतंत्रता और लोकतांत्रिक अधिकारों के विचार फ्रांसीसी क्रांति की सबसे महत्वपूर्ण विरासत थे। टीपू सुल्तान ने इन विचारों को अपनाया।"
+      },
+      "key_takeaway": {
+        "en": "Tipu Sultan = Inspired by French Revolution.",
+        "hi": "टीपू सुल्तान = फ्रांसीसी क्रांति से प्रेरित।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "What does the 'Sceptre' represent in French symbols?",
+        "hi": "फ्रांसीसी प्रतीकों में 'राजदंड' (Sceptre) क्या दर्शाता है?"
+      },
+      "options": {
+        "a": {"en": "Royal power", "hi": "शाही शक्ति"},
+        "b": {"en": "Law", "hi": "कानून"},
+        "c": {"en": "Equality", "hi": "समानता"},
+        "d": {"en": "Nature", "hi": "प्रकृति"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "It is a staff held by a monarch.",
+        "hi": "यह सम्राट द्वारा पकड़ा जाने वाला एक डंडा होता है।"
+      },
+      "explanation": {
+        "en": "The Sceptre was a symbol of royal power. Symbols were used in revolutionary France because many people were illiterate and understood ideas through images.",
+        "hi": "राजदंड शाही शक्ति का प्रतीक था। प्रतीकों का उपयोग किया गया क्योंकि बहुत से लोग अनपढ़ थे और चित्रों के माध्यम से विचारों को समझते थे।"
+      },
+      "key_takeaway": {
+        "en": "Sceptre = Royal Power.",
+        "hi": "राजदंड = शाही शक्ति।"
+      }
+    }
+  ]
+}
