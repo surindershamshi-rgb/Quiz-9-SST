@@ -1,0 +1,800 @@
+{
+  "metadata": {
+    "chapter_number": 5,
+    "chapter_title": "Footprints Without Feet",
+    "chapter_title_hindi": "बिना पैरों के पदचिह्न",
+    "subject": "English (Footprints Without Feet) - Class 10",
+    "board": "HPBOSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.0",
+    "naming_convention": "10_EN_FWF_CH05_FootprintsWithoutFeet.json"
+  },
+  "validation_report": {
+    "is_valid": true,
+    "checked_by": "AI Tutor",
+    "checked_at": "2026-01-21T21:30:00Z",
+    "notes": "Verified pedagogical flow from the mystery of the footprints to Griffin's eventual escape."
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "What did the two boys in London see that surprised them?",
+        "hi": "लंदन में उन दो लड़कों ने क्या देखा जिससे वे हैरान रह गए?"
+      },
+      "options": {
+        "a": {"en": "A giant in the street", "hi": "सड़क पर एक राक्षस"},
+        "b": {"en": "Fresh muddy imprints of a pair of bare feet", "hi": "नंगे पैरों के ताज़ा कीचड़ भरे निशान"},
+        "c": {"en": "A flying car", "hi": "एक उड़ती हुई कार"},
+        "d": {"en": "A invisible dog", "hi": "एक अदृश्य कुत्ता"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "They saw footsteps appearing on the steps of a house without any person being visible.",
+        "hi": "उन्होंने किसी व्यक्ति के दिखे बिना ही एक घर की सीढ़ियों पर पैरों के निशान बनते देखे।"
+      },
+      "explanation": {
+        "en": "The story begins with two boys noticing fresh muddy imprints of bare feet on the steps of a house. They were fascinated because they could see the marks but not the person making them.",
+        "hi": "कहानी दो लड़कों द्वारा एक घर की सीढ़ियों पर नंगे पैरों के ताज़ा कीचड़ भरे निशान देखने से शुरू होती है। वे हैरान थे क्योंकि पैरों के निशान तो दिख रहे थे, लेकिन उन्हें बनाने वाला व्यक्ति नहीं।"
+      },
+      "key_takeaway": {
+        "en": "The footprints were the first clue of the invisible man's presence.",
+        "hi": "पैरों के निशान अदृश्य व्यक्ति की मौजूदगी का पहला संकेत थे।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "Who was the invisible man?",
+        "hi": "अदृश्य व्यक्ति कौन था?"
+      },
+      "options": {
+        "a": {"en": "A magician", "hi": "एक जादूगर"},
+        "b": {"en": "Griffin, a scientist", "hi": "ग्रिफिन, एक वैज्ञानिक"},
+        "c": {"en": "A ghost", "hi": "एक भूत"},
+        "d": {"en": "A homeless wanderer", "hi": "एक बेघर घुमक्कड़"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He had discovered how to make the human body transparent.",
+        "hi": "उसने मानव शरीर को पारदर्शी बनाने का तरीका खोज लिया था।"
+      },
+      "explanation": {
+        "en": "The invisible man was Griffin, a brilliant scientist who had carried out experiment after experiment to prove that the human body could become invisible.",
+        "hi": "अदृश्य व्यक्ति ग्रिफिन था, जो एक प्रतिभाशाली वैज्ञानिक था। उसने कई प्रयोगों के बाद शरीर को अदृश्य करने का तरीका खोजा था।"
+      },
+      "key_takeaway": {
+        "en": "Griffin = The brilliant but lawless scientist.",
+        "hi": "ग्रिफिन = प्रतिभाशाली लेकिन कानून तोड़ने वाला वैज्ञानिक।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "What did Griffin swallow to become invisible?",
+        "hi": "अदृश्य होने के लिए ग्रिफिन ने क्या निगला था?"
+      },
+      "options": {
+        "a": {"en": "A magical potion", "hi": "एक जादुई काढ़ा"},
+        "b": {"en": "Certain rare drugs", "hi": "कुछ दुर्लभ दवाएं (Rare drugs)"},
+        "c": {"en": "A special kind of fruit", "hi": "एक विशेष प्रकार का फल"},
+        "d": {"en": "Poison", "hi": "ज़हर"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It was a scientific discovery involving chemical substances.",
+        "hi": "यह रासायनिक पदार्थों से जुड़ी एक वैज्ञानिक खोज थी।"
+      },
+      "explanation": {
+        "en": "Griffin finally swallowed certain rare drugs he had developed. His body became as transparent as a sheet of glass, though it also remained as solid as glass.",
+        "hi": "ग्रिफिन ने अपनी विकसित की हुई कुछ दुर्लभ दवाएं निगल ली थीं, जिससे उसका शरीर कांच की तरह पारदर्शी हो गया।"
+      },
+      "key_takeaway": {
+        "en": "Griffin's invisibility was the result of a chemical drug.",
+        "hi": "ग्रिफिन का अदृश्य होना एक रासायनिक दवा का परिणाम था।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "Why was Griffin described as a 'lawless person'?",
+        "hi": "ग्रिफिन को एक 'कानूनहीन व्यक्ति' (lawless person) के रूप में क्यों वर्णित किया गया है?"
+      },
+      "options": {
+        "a": {"en": "He didn't have a job", "hi": "उसके पास नौकरी नहीं थी"},
+        "b": {"en": "He set fire to his landlord's house to take revenge", "hi": "उसने बदला लेने के लिए अपने मकान मालिक के घर में आग लगा दी"},
+        "c": {"en": "He didn't follow the rules of science", "hi": "उसने विज्ञान के नियमों का पालन नहीं किया"},
+        "d": {"en": "He hated the police", "hi": "उसे पुलिस से नफरत थी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "His landlord disliked him and tried to evict him.",
+        "hi": "उसका मकान मालिक उसे पसंद नहीं करता था और उसे निकालने की कोशिश की थी।"
+      },
+      "explanation": {
+        "en": "Griffin was lawless because he used his scientific discovery for illegal acts. When his landlord tried to evict him, he set fire to the house in revenge and escaped by becoming invisible.",
+        "hi": "ग्रिफिन ने अपनी खोज का इस्तेमाल गलत कामों के लिए किया। मकान मालिक से बदला लेने के लिए उसने उसके घर में आग लगा दी।"
+      },
+      "key_takeaway": {
+        "en": "Scientific power without ethics leads to lawlessness.",
+        "hi": "नैतिकता के बिना वैज्ञानिक शक्ति कानूनहीनता की ओर ले जाती है।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "What did Griffin have to do to become fully invisible?",
+        "hi": "पूरी तरह अदृश्य होने के लिए ग्रिफिन को क्या करना पड़ता था?"
+      },
+      "options": {
+        "a": {"en": "Take off all his clothes", "hi": "अपने सारे कपड़े उतारने पड़ते थे"},
+        "b": {"en": "Close his eyes", "hi": "अपनी आँखें बंद करनी पड़ती थीं"},
+        "c": {"en": "Drink plenty of water", "hi": "खूब सारा पानी पीना पड़ता था"},
+        "d": {"en": "Stay in the dark", "hi": "अंधेरे में रहना पड़ता था"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "Clothing is solid and visible, even if the person inside is invisible.",
+        "hi": "कपड़े ठोस और दिखाई देने वाले होते हैं, भले ही उनके अंदर का व्यक्ति अदृश्य हो।"
+      },
+      "explanation": {
+        "en": "Griffin’s body was transparent, but any clothes he wore would be visible. To move around unseen, he had to be completely naked, which was very difficult in the cold January air of London.",
+        "hi": "ग्रिफिन का शरीर पारदर्शी था, लेकिन उसके कपड़े दिखाई देते थे। इसलिए अदृश्य रहने के लिए उसे नग्न रहना पड़ता था।"
+      },
+      "key_takeaway": {
+        "en": "Invisibility came at the cost of personal comfort in the cold.",
+        "hi": "अदृश्यता की कीमत ठंड में व्यक्तिगत आराम खोकर चुकानी पड़ी।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "Where did Griffin find warmth and clothes first in London?",
+        "hi": "ग्रिफिन को लंदन में सबसे पहले गर्माहट और कपड़े कहाँ मिले?"
+      },
+      "options": {
+        "a": {"en": "In a church", "hi": "एक चर्च में"},
+        "b": {"en": "In a big London store", "hi": "लंदन के एक बड़े स्टोर में"},
+        "c": {"en": "In his friend's house", "hi": "अपने दोस्त के घर में"},
+        "d": {"en": "In a theater", "hi": "एक थिएटर में"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He entered this place just before closing time to escape the cold.",
+        "hi": "ठंड से बचने के लिए वह बंद होने के समय से ठीक पहले इस जगह में घुस गया था।"
+      },
+      "explanation": {
+        "en": "To escape the biting cold of mid-winter London, Griffin slipped into a big London store. Once the doors were shut, he enjoyed the pleasure of clothing and feeding himself without expense.",
+        "hi": "कड़ाके की ठंड से बचने के लिए ग्रिफिन लंदन के एक बड़े स्टोर में घुस गया, जहाँ उसने कपड़े पहने और खाना खाया।"
+      },
+      "key_takeaway": {
+        "en": "London Store = Griffin's first refuge from the winter.",
+        "hi": "लंदन स्टोर = सर्दियों से बचने के लिए ग्रिफिन की पहली शरणस्थली।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "What did Griffin eat and drink at the London store?",
+        "hi": "लंदन स्टोर में ग्रिफिन ने क्या खाया और पिया?"
+      },
+      "options": {
+        "a": {"en": "Pizza and soda", "hi": "पिज्जा और सोडा"},
+        "b": {"en": "Cold meat, coffee, sweets, and wine", "hi": "ठंडा मांस, कॉफी, मिठाई और शराब"},
+        "c": {"en": "Only bread and water", "hi": "केवल रोटी और पानी"},
+        "d": {"en": "Fruit juice", "hi": "फलों का रस"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He found these in the grocery department and the restaurant of the store.",
+        "hi": "ये उसे स्टोर के ग्रोसरी विभाग और रेस्तरां में मिले थे।"
+      },
+      "explanation": {
+        "en": "Griffin found cold meat and coffee in the restaurant and followed it up with sweets and wine from the grocery store. This luxurious meal was a contrast to his life as a homeless wanderer.",
+        "hi": "उसने रेस्तरां में ठंडा मांस और कॉफी ली, और फिर किराना स्टोर से मिठाई और वाइन का आनंद लिया।"
+      },
+      "key_takeaway": {
+        "en": "Griffin lived like a king for a night using stolen resources.",
+        "hi": "ग्रिफिन चोरी के संसाधनों का उपयोग करके एक रात राजा की तरह रहा।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "Why did Griffin have to run away from the London store in the morning?",
+        "hi": "सुबह ग्रिफिन को लंदन स्टोर से क्यों भागना पड़ा?"
+      },
+      "options": {
+        "a": {"en": "He was bored", "hi": "वह ऊब गया था"},
+        "b": {"en": "The assistants arrived and started chasing him", "hi": "सहायक (स्टाफ) आ गए और उसका पीछा करने लगे"},
+        "c": {"en": "The store caught fire", "hi": "स्टोर में आग लग गई"},
+        "d": {"en": "He felt sick", "hi": "उसे बीमारी महसूस हुई"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He overslept on a pile of quilts and was seen when the store opened.",
+        "hi": "वह रजाइयों के ढेर पर सोता रह गया और स्टोर खुलने पर उसे देख लिया गया।"
+      },
+      "explanation": {
+        "en": "Griffin did not wake up in time. When the assistants arrived in the morning, they saw him dressed in visible clothes. He had to shed his clothes one by one to become invisible and escape.",
+        "hi": "ग्रिफिन समय पर नहीं जाग सका। जब स्टाफ आया, तो उसने उसे देख लिया और उसे भागने के लिए फिर से कपड़े उतारने पड़े।"
+      },
+      "key_takeaway": {
+        "en": "Griffin's invisibility was only effective when he was naked.",
+        "hi": "ग्रिफिन की अदृश्यता केवल तभी प्रभावी थी जब वह नग्न होता था।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "Where did Griffin go to find theatrical clothes?",
+        "hi": "ग्रिफिन थिएटर के कपड़े ढूँढने के लिए कहाँ गया?"
+      },
+      "options": {
+        "a": {"en": "A school", "hi": "एक स्कूल"},
+        "b": {"en": "Drury Lane, the center of the theater world", "hi": "ड्रूरी लेन (Drury Lane), थिएटर की दुनिया का केंद्र"},
+        "c": {"en": "A museum", "hi": "एक संग्रहालय"},
+        "d": {"en": "A tailor shop", "hi": "एक दर्जी की दुकान"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He hoped to find something to cover the empty space above his shoulders.",
+        "hi": "उसे उम्मीद थी कि उसे अपने कंधों के ऊपर के खाली हिस्से को ढकने के लिए कुछ मिल जाएगा।"
+      },
+      "explanation": {
+        "en": "Griffin went to Drury Lane, which was known for theatrical companies. He needed a way to disguise himself so people wouldn't see a 'headless' body walking in clothes.",
+        "hi": "ग्रिफिन ड्रूरी लेन गया, जो थिएटर कंपनियों के लिए प्रसिद्ध था, ताकि वह अपनी शक्ल छिपाने का सामान ढूँढ सके।"
+      },
+      "key_takeaway": {
+        "en": "Drury Lane = The place where Griffin found his 'face' disguise.",
+        "hi": "Drury Lane = वह स्थान जहाँ ग्रिफिन को अपना चेहरा छिपाने का सामान मिला।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "What items did Griffin use from the theatrical shop to disguise his face?",
+        "hi": "ग्रिफिन ने अपना चेहरा छिपाने के लिए थिएटर की दुकान से किन चीज़ों का उपयोग किया?"
+      },
+      "options": {
+        "a": {"en": "A Batman mask", "hi": "बैटमैन का मुखौटा"},
+        "b": {"en": "Bandages, dark glasses, a false nose, and side whiskers", "hi": "पट्टियाँ, काले चश्मे, एक नकली नाक और मूंछें (side whiskers)"},
+        "c": {"en": "A helmet", "hi": "एक हेलमेट"},
+        "d": {"en": "Paint", "hi": "पेंट"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He used these to create the appearance of a solid head and face.",
+        "hi": "उसने इनका उपयोग एक ठोस सिर और चेहरे का आभास देने के लिए किया था।"
+      },
+      "explanation": {
+        "en": "Griffin wore bandages around his forehead, dark glasses, a false nose, and big bushy side-whiskers. He also wore a large hat to complete the disguise.",
+        "hi": "ग्रिफिन ने माथे पर पट्टियाँ बांधी, काला चश्मा लगाया, नकली नाक और बड़ी मूंछें लगाईं ताकि उसका चेहरा दिखाई दे।"
+      },
+      "key_takeaway": {
+        "en": "The disguise allowed Griffin to be visible without revealing his invisibility.",
+        "hi": "वेश बदलकर ग्रिफिन अपनी अदृश्यता को उजागर किए बिना दिखाई दे सकता था।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "What cruel thing did Griffin do at the theatrical shop before leaving?",
+        "hi": "थिएटर की दुकान छोड़ने से पहले ग्रिफिन ने कौन सा क्रूर काम किया?"
+      },
+      "options": {
+        "a": {"en": "He set the shop on fire", "hi": "उसने दुकान में आग लगा दी"},
+        "b": {"en": "He callously attacked the shopkeeper from behind and robbed him", "hi": "उसने निर्दयतापूर्वक दुकानदार पर पीछे से हमला किया और उसे लूट लिया"},
+        "c": {"en": "He stole all the costumes", "hi": "उसने सारे परिधान चुरा लिए"},
+        "d": {"en": "He broke the windows", "hi": "उसने खिड़कियाँ तोड़ दीं"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He attacked the innocent man just to get away with money and clothes.",
+        "hi": "उसने पैसे और कपड़े लेकर भागने के लिए उस मासूम आदमी पर हमला किया था।"
+      },
+      "explanation": {
+        "en": "To leave without being caught, Griffin callously attacked the shopkeeper from behind and then robbed him of all the money he could find.",
+        "hi": "पकड़े जाने से बचने के लिए, ग्रिफिन ने दुकानदार पर पीछे से हमला किया और उसके सारे पैसे लूट लिए।"
+      },
+      "key_takeaway": {
+        "en": "Griffin’s actions show a total lack of empathy or morality.",
+        "hi": "ग्रिफिन के कार्य सहानुभूति या नैतिकता की पूर्ण कमी को दर्शाते हैं।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "To which village did Griffin travel to escape the crowded London?",
+        "hi": "भीड़भाड़ वाले लंदन से बचने के लिए ग्रिफिन किस गाँव में गया?"
+      },
+      "options": {
+        "a": {"en": "Aiping", "hi": "आइपिंग (Iping)"},
+        "b": {"en": "Camusfearna", "hi": "कैमसफ़ियरना"},
+        "c": {"en": "Drury Lane", "hi": "ड्रूरी लेन"},
+        "d": {"en": "Shotover", "hi": "शोटोवर"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "He took a train to this remote village and booked two rooms at an inn.",
+        "hi": "वह ट्रेन से इस दूरदराज के गाँव में गया और एक सराय (inn) में दो कमरे बुक किए।"
+      },
+      "explanation": {
+        "en": "Eager to get away from crowded London, Griffin took a train to the village of Iping, where he intended to stay in isolation.",
+        "hi": "लंदन की भीड़ से दूर जाने के लिए, ग्रिफिन ट्रेन से आइपिंग गाँव चला गया।"
+      },
+      "key_takeaway": {
+        "en": "Iping = The setting for the second half of the story.",
+        "hi": "आइपिंग = कहानी के दूसरे भाग का परिवेश।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "Who was Mrs. Hall?",
+        "hi": "मिसेज हॉल (Mrs. Hall) कौन थीं?"
+      },
+      "options": {
+        "a": {"en": "Griffin's mother", "hi": "ग्रिफिन की माँ"},
+        "b": {"en": "The wife of the landlord at the Iping inn", "hi": "आइपिंग सराय के मकान मालिक की पत्नी"},
+        "c": {"en": "A scientist colleague", "hi": "एक वैज्ञानिक सहकर्मी"},
+        "d": {"en": "The village doctor", "hi": "गाँव की डॉक्टर"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "She tried to be friendly with the strange guest but found him eccentric.",
+        "hi": "उसने अजीब मेहमान के साथ दोस्ताना होने की कोशिश की लेकिन उसे वह सनकी लगा।"
+      },
+      "explanation": {
+        "en": "Mrs. Hall was the owner/landlady of the inn at Iping. She was happy to have a guest in the winter but was puzzled by Griffin's strange appearance and behavior.",
+        "hi": "मिसेज हॉल आइपिंग में सराय की मालकिन थीं। सर्दियों में मेहमान पाकर वह खुश थीं लेकिन ग्रिफिन के अजीब व्यवहार से हैरान भी थीं।"
+      },
+      "key_takeaway": {
+        "en": "Mrs. Hall provided the accommodation that Griffin eventually disrupted.",
+        "hi": "मिसेज हॉल ने वह आवास प्रदान किया जिसे ग्रिफिन ने अंततः अस्त-व्यस्त कर दिया।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "What excuse did Griffin give Mrs. Hall for his strange appearance?",
+        "hi": "ग्रिफिन ने मिसेज हॉल को अपनी अजीब बनावट के लिए क्या बहाना बनाया?"
+      },
+      "options": {
+        "a": {"en": "He was a burn victim", "hi": "वह आग से जला हुआ था"},
+        "b": {"en": "He had met with an accident that affected his face", "hi": "उसका एक्सीडेंट हो गया था जिससे उसके चेहरे पर चोट आई थी"},
+        "c": {"en": "He was wearing it for a movie", "hi": "वह इसे एक फिल्म के लिए पहन रहा था"},
+        "d": {"en": "He was cold", "hi": "उसे ठंड लग रही थी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He also told her he didn't wish to be disturbed in his work.",
+        "hi": "उसने यह भी कहा कि वह नहीं चाहता कि उसके काम में कोई बाधा डाले।"
+      },
+      "explanation": {
+        "en": "Griffin told Mrs. Hall that an accident had affected his face and that he had come to Iping for solitude and did not wish to be disturbed.",
+        "hi": "ग्रिफिन ने मिसेज हॉल से कहा कि एक दुर्घटना ने उसके चेहरे को प्रभावित किया है और वह शांति चाहता है।"
+      },
+      "key_takeaway": {
+        "en": "Griffin used lies to protect his secret of invisibility.",
+        "hi": "ग्रिफिन ने अपनी अदृश्यता के रहस्य को बचाने के लिए झूठ का सहारा लिया।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "How did Griffin pay for his stay at the inn initially?",
+        "hi": "शुरुआत में ग्रिफिन ने सराय में रहने के लिए भुगतान कैसे किया?"
+      },
+      "options": {
+        "a": {"en": "By working at the inn", "hi": "सराय में काम करके"},
+        "b": {"en": "With ready cash he had stolen in London", "hi": "लंदन में चुराए गए नकद पैसों से"},
+        "c": {"en": "By selling his medicines", "hi": "अपनी दवाइयाँ बेचकर"},
+        "d": {"en": "He didn't pay at all", "hi": "उसने बिल्कुल भुगतान नहीं किया"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He had enough money from his robbery at the theatrical shop.",
+        "hi": "थिएटर की दुकान में की गई डकैती से उसके पास पर्याप्त पैसा था।"
+      },
+      "explanation": {
+        "en": "Griffin paid in advance with ready cash. This made Mrs. Hall overlook his strange habits and irritable temper for a while.",
+        "hi": "ग्रिफिन ने नकद में एडवांस भुगतान किया था, जिससे मिसेज हॉल ने थोड़े समय के लिए उसकी आदतों को नज़रअंदाज़ कर दिया।"
+      },
+      "key_takeaway": {
+        "en": "Money initially bought Griffin the privacy he needed.",
+        "hi": "शुरुआत में पैसे ने ग्रिफिन को वह गोपनीयता दिलाई जिसकी उसे ज़रूरत थी।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "What happened at the clergyman's house in the early morning?",
+        "hi": "सुबह जल्दी पादरी (clergyman) के घर में क्या हुआ?"
+      },
+      "options": {
+        "a": {"en": "The house caught fire", "hi": "घर में आग लग गई"},
+        "b": {"en": "A robbery took place by an invisible person", "hi": "एक अदृश्य व्यक्ति द्वारा डकैती की गई"},
+        "c": {"en": "The clergyman found a ghost", "hi": "पादरी को एक भूत मिला"},
+        "d": {"en": "The clergyman won a prize", "hi": "पादरी ने एक ईनाम जीता"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "They heard the chink of money being taken but saw no one in the room.",
+        "hi": "उन्होंने पैसे लिए जाने की खनक सुनी लेकिन कमरे में कोई नहीं दिखा।"
+      },
+      "explanation": {
+        "en": "The clergyman and his wife heard the sound of money being taken from the desk. When they rushed into the room with a poker, it was empty, yet the money was gone.",
+        "hi": "पादरी और उसकी पत्नी ने डेस्क से पैसे निकालने की आवाज़ सुनी, लेकिन कमरे में कोई मौजूद नहीं था।"
+      },
+      "key_takeaway": {
+        "en": "The robbery at the clergyman's house proved Griffin was stealing to survive.",
+        "hi": "पादरी के घर की डकैती ने साबित किया कि ग्रिफिन जीवित रहने के लिए चोरी कर रहा था।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "What did Mrs. Hall and her husband see when they found Griffin's door open?",
+        "hi": "जब मिसेज हॉल और उनके पति ने ग्रिफिन का दरवाज़ा खुला पाया, तो उन्होंने क्या देखा?"
+      },
+      "options": {
+        "a": {"en": "Griffin sleeping", "hi": "ग्रिफिन सो रहा था"},
+        "b": {"en": "The room was empty and clothes/bandages were lying around", "hi": "कमरा खाली था और कपड़े/पट्टियाँ इधर-उधर पड़ी थीं"},
+        "c": {"en": "Griffin was working", "hi": "ग्रिफिन काम कर रहा था"},
+        "d": {"en": "A pile of gold", "hi": "सोने का ढेर"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The door was usually shut and locked, so they were surprised to see it open.",
+        "hi": "दरवाज़ा आमतौर पर बंद और लॉक रहता था, इसलिए इसे खुला देखकर वे हैरान रह गए।"
+      },
+      "explanation": {
+        "en": "Finding the door open, they peeped in. The bedclothes were cold, and the clothes and bandages that the stranger always wore were lying about the room.",
+        "hi": "दरवाज़ा खुला देख उन्होंने अंदर झाँका। बिस्तर ठंडा था और ग्रिफिन के कपड़े और पट्टियाँ कमरे में पड़ी थीं।"
+      },
+      "key_takeaway": {
+        "en": "The open door allowed the Halls to investigate the stranger’s mystery.",
+        "hi": "खुले दरवाज़े ने हॉल दंपत्ति को अजनबी के रहस्य की जांच करने का मौका दिया।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "What 'extraordinary' event happened in the guest room to Mrs. Hall?",
+        "hi": "अतिथि कक्ष में मिसेज हॉल के साथ कौन सी 'असाधारण' घटना घटी?"
+      },
+      "options": {
+        "a": {"en": "She found a treasure", "hi": "उसे खजाना मिला"},
+        "b": {"en": "A chair became alive and attacked her", "hi": "एक कुर्सी जीवित हो गई और उस पर हमला कर दिया"},
+        "c": {"en": "Griffin invited her for tea", "hi": "ग्रिफिन ने उसे चाय पर बुलाया"},
+        "d": {"en": "The room turned blue", "hi": "कमरा नीला हो गया"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "She felt a sniff close to her ear and then the hat and chair flew at her.",
+        "hi": "उसने अपने कान के पास सूंघने की आवाज़ सुनी और फिर टोपी और कुर्सी उसकी ओर उड़ने लगी।"
+      },
+      "explanation": {
+        "en": "The bedroom chair became animated. It rose up and charged straight at Mrs. Hall, pushing her and her husband out of the room. She was convinced the room was haunted by spirits.",
+        "hi": "बेडरूम की कुर्सी अचानक हवा में उड़ गई और मिसेज हॉल पर हमला कर दिया, जिससे वे कमरे से बाहर गिर गईं।"
+      },
+      "key_takeaway": {
+        "en": "Griffin used his invisibility to terrorize the landlady.",
+        "hi": "ग्रिफिन ने अपनी अदृश्यता का उपयोग मकान मालकिन को डराने के लिए किया।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "What did the villagers suspect about the strange events at the inn?",
+        "hi": "गाँव वालों को सराय में हुई अजीब घटनाओं के बारे में क्या संदेह हुआ?"
+      },
+      "options": {
+        "a": {"en": "A ghost was responsible", "hi": "एक भूत ज़िम्मेदार था"},
+        "b": {"en": "Witchcraft or that the scientist was involved in the burglary", "hi": "जादू-टोना या यह कि वैज्ञानिक डकैती में शामिल था"},
+        "c": {"en": "It was just a prank", "hi": "यह सिर्फ एक मज़ाक था"},
+        "d": {"en": "Mrs. Hall was lying", "hi": "मिसेज हॉल झूठ बोल रही थीं"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The suspicion grew stronger when Griffin suddenly produced ready cash after saying he had none.",
+        "hi": "संदेह तब और गहरा गया जब ग्रिफिन ने यह कहने के बाद कि उसके पास पैसे नहीं हैं, अचानक नकद पैसे दिखाए।"
+      },
+      "explanation": {
+        "en": "The villagers thought witchcraft was at work. But when the news of the burglary at the clergyman's house spread, they strongly suspected the strange scientist was the thief.",
+        "hi": "गाँव वालों को लगा कि कोई जादू-टोना है, लेकिन पादरी के घर हुई चोरी के बाद उन्हें वैज्ञानिक पर शक हुआ।"
+      },
+      "key_takeaway": {
+        "en": "Circumstantial evidence pointed directly at Griffin.",
+        "hi": "परिस्थितिजन्य साक्ष्य सीधे ग्रिफिन की ओर इशारा कर रहे थे।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "Who was Mr. Jaffers?",
+        "hi": "मिस्टर जैफर्स (Mr. Jaffers) कौन थे?"
+      },
+      "options": {
+        "a": {"en": "A doctor", "hi": "एक डॉक्टर"},
+        "b": {"en": "The village constable", "hi": "गाँव के हवलदार (Constable)"},
+        "c": {"en": "The clergyman", "hi": "पादरी"},
+        "d": {"en": "A shopkeeper", "hi": "एक दुकानदार"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He arrived to arrest the scientist with a warrant.",
+        "hi": "वह वारंट के साथ वैज्ञानिक को गिरफ्तार करने आया था।"
+      },
+      "explanation": {
+        "en": "Mr. Jaffers was the village constable who was summoned to arrest the suspicious guest at the inn. He was determined to do his duty even if the man had no head.",
+        "hi": "मिस्टर जैफर्स गाँव के हवलदार थे जिन्हें संदिग्ध मेहमान को गिरफ्तार करने के लिए बुलाया गया था।"
+      },
+      "key_takeaway": {
+        "en": "Jaffers = The dutiful village constable.",
+        "hi": "जैफर्स = कर्तव्यपरायण ग्राम हवलदार।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "What shocking thing did Griffin do when confronted by Mrs. Hall and the villagers?",
+        "hi": "मिसेज हॉल और ग्रामीणों द्वारा सामना किए जाने पर ग्रिफिन ने कौन सी चौंकाने वाली बात की?"
+      },
+      "options": {
+        "a": {"en": "He started crying", "hi": "वह रोने लगा"},
+        "b": {"en": "He threw off his bandages and whiskers, becoming headless", "hi": "उसने अपनी पट्टियाँ और मूंछें उतार दीं और बिना सिर वाला (headless) बन गया"},
+        "c": {"en": "He apologized to everyone", "hi": "उसने सभी से माफी माँगी"},
+        "d": {"en": "He gave the money back", "hi": "उसने पैसे वापस कर दिए"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He became 'headless' in front of the horrified crowd.",
+        "hi": "वह डरी हुई भीड़ के सामने 'बिना सिर वाला' बन गया।"
+      },
+      "explanation": {
+        "en": "Losing his temper, Griffin shouted, 'You don't understand who or what I am!' and threw off his bandages, glasses, nose, and whiskers, leaving everyone terrified of a headless man.",
+        "hi": "गुस्से में आकर ग्रिफिन ने अपनी पट्टियाँ, चश्मा और नकली नाक उतार दी, जिससे उसका सिर गायब हो गया।"
+      },
+      "key_takeaway": {
+        "en": "The revelation of invisibility was a moment of pure terror.",
+        "hi": "अदृश्यता का खुलासा शुद्ध आतंक का क्षण था।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "Why was Mr. Jaffers surprised when he arrived at the inn?",
+        "hi": "सराय पहुँचने पर मिस्टर जैफर्स क्यों हैरान रह गए?"
+      },
+      "options": {
+        "a": {"en": "The inn was closed", "hi": "सराय बंद थी"},
+        "b": {"en": "He had to arrest a man without a head", "hi": "उसे बिना सिर वाले व्यक्ति को गिरफ्तार करना था"},
+        "c": {"en": "Griffin was very polite", "hi": "ग्रिफिन बहुत विनम्र था"},
+        "d": {"en": "The villagers attacked him", "hi": "ग्रामीणों ने उन पर हमला कर दिया"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He had a warrant for a person, but he didn't expect that person to be invisible.",
+        "hi": "उसके पास एक व्यक्ति का वारंट था, लेकिन उसे उम्मीद नहीं थी कि वह व्यक्ति अदृश्य होगा।"
+      },
+      "explanation": {
+        "en": "Mr. Jaffers was surprised to find that he had to arrest a man without a head. However, being a dutiful officer, he believed that if the warrant ordered an arrest, it must be carried out.",
+        "hi": "जैफर्स हैरान थे कि उन्हें एक ऐसे व्यक्ति को पकड़ना है जिसका सिर ही नहीं था, फिर भी वे अपना कर्तव्य निभाना चाहते थे।"
+      },
+      "key_takeaway": {
+        "en": "Duty vs. Impossibility: Jaffers tried to uphold the law against an invisible foe.",
+        "hi": "कर्तव्य बनाम असंभवता: जैफर्स ने एक अदृश्य दुश्मन के खिलाफ कानून बनाए रखने की कोशिश की।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "How did Griffin manage to escape from Mr. Jaffers?",
+        "hi": "ग्रिफिन मिस्टर जैफर्स से बचने में कैसे सफल रहा?"
+      },
+      "options": {
+        "a": {"en": "He jumped out of the window", "hi": "वह खिड़की से बाहर कूद गया"},
+        "b": {"en": "He took off his clothes one by one until he was invisible", "hi": "उसने एक-एक करके अपने कपड़े उतार दिए जब तक कि वह अदृश्य नहीं हो गया"},
+        "c": {"en": "He used a smoke bomb", "hi": "उसने स्मोक बम का इस्तेमाल किया"},
+        "d": {"en": "He ran faster than the constable", "hi": "वह हवलदार से तेज़ भागा"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The constable found himself struggling with someone he couldn't see at all.",
+        "hi": "हवलदार ने खुद को एक ऐसे व्यक्ति के साथ संघर्ष करते हुए पाया जिसे वह देख ही नहीं सकता था।"
+      },
+      "explanation": {
+        "en": "Griffin began throwing off his clothes. As each garment fell, he became more invisible. Finally, he was completely unseen and started hitting the people who were trying to hold him.",
+        "hi": "ग्रिफिन ने अपने कपड़े उतारने शुरू कर दिए। जैसे-जैसे कपड़े गिरते गए, वह और अधिक अदृश्य होता गया।"
+      },
+      "key_takeaway": {
+        "en": "Nakedness was Griffin's ultimate weapon for escape.",
+        "hi": "नग्न होना ग्रिफिन के भागने का अंतिम हथियार था।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "What happened to Mr. Jaffers during the struggle?",
+        "hi": "संघर्ष के दौरान मिस्टर जैफर्स का क्या हुआ?"
+      },
+      "options": {
+        "a": {"en": "He arrested Griffin", "hi": "उसने ग्रिफिन को गिरफ्तार कर लिया"},
+        "b": {"en": "He was knocked unconscious by invisible blows", "hi": "अदृश्य घूसों (blows) से वह बेहोश हो गया"},
+        "c": {"en": "He ran away in fear", "hi": "वह डर के मारे भाग गया"},
+        "d": {"en": "He became invisible too", "hi": "वह भी अदृश्य हो गया"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He made one last attempt to hold onto the unseen scientist before falling.",
+        "hi": "गिरने से पहले उसने अनदेखे वैज्ञानिक को पकड़ने की आखिरी कोशिश की थी।"
+      },
+      "explanation": {
+        "en": "As Jaffers made a last attempt to hold on to the invisible man, he was hit by blows that seemed to come from nowhere. Eventually, he fell unconscious as the crowd cried 'Hold him!'.",
+        "hi": "अदृश्य व्यक्ति को पकड़ने की कोशिश में जैफर्स को कहीं से घूंसे पड़े और वह अंततः बेहोश होकर गिर पड़ा।"
+      },
+      "key_takeaway": {
+        "en": "An invisible opponent is impossible to fight in a physical struggle.",
+        "hi": "शारीरिक संघर्ष में एक अदृश्य प्रतिद्वंद्वी से लड़ना असंभव है।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "Which month of the year was it when Griffin was wandering in London?",
+        "hi": "ग्रिफिन जब लंदन में भटक रहा था तब साल का कौन सा महीना था?"
+      },
+      "options": {
+        "a": {"en": "December", "hi": "दिसंबर"},
+        "b": {"en": "January", "hi": "जनवरी (January)"},
+        "c": {"en": "March", "hi": "मार्च"},
+        "d": {"en": "August", "hi": "अगस्त"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The air was 'bitingly cold' and it was mid-winter.",
+        "hi": "हवा 'कड़ाके की ठंडी' थी और मध्य सर्दी का समय था।"
+      },
+      "explanation": {
+        "en": "It was mid-winter, specifically January, when Griffin was in London. The extreme cold made his invisibility a curse as he had to remain naked to stay unseen.",
+        "hi": "यह जनवरी का महीना था जब ग्रिफिन लंदन में था। कड़ाके की ठंड ने उसकी अदृश्यता को एक अभिशाप बना दिया था।"
+      },
+      "key_takeaway": {
+        "en": "Timing: The mid-winter cold was Griffin's biggest enemy.",
+        "hi": "समय: मध्य सर्दी की ठंड ग्रिफिन की सबसे बड़ी दुश्मन थी।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "What is the meaning of the word 'eccentric' used for Griffin?",
+        "hi": "ग्रिफिन के लिए इस्तेमाल किए गए 'सनकी' (eccentric) शब्द का क्या अर्थ है?"
+      },
+      "options": {
+        "a": {"en": "Very famous", "hi": "बहुत प्रसिद्ध"},
+        "b": {"en": "Strange or unconventional behavior", "hi": "अजीब या लीक से हटकर व्यवहार (unconventional behavior)"},
+        "c": {"en": "Very kind", "hi": "बहुत दयालु"},
+        "d": {"en": "Poor", "hi": "गरीब"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Mrs. Hall used this word to describe the scientist's weird habits.",
+        "hi": "मिसेज हॉल ने वैज्ञानिक की अजीब आदतों का वर्णन करने के लिए इस शब्द का इस्तेमाल किया था।"
+      },
+      "explanation": {
+        "en": "Eccentric means unconventional and slightly strange. Griffin’s appearance, his desire for solitude, and his irritable temper led Mrs. Hall to call him an eccentric scientist.",
+        "hi": "Eccentric का अर्थ है असामान्य या थोड़ा अजीब व्यवहार करने वाला व्यक्ति।"
+      },
+      "key_takeaway": {
+        "en": "Eccentric = Unconventional/Strange.",
+        "hi": "Eccentric = विलक्षण या सनकी।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "Where did Griffin sleep in the London store?",
+        "hi": "लंदन स्टोर में ग्रिफिन कहाँ सोया था?"
+      },
+      "options": {
+        "a": {"en": "On the floor", "hi": "फर्श पर"},
+        "b": {"en": "On a pile of quilts", "hi": "रजाइयों के ढेर पर"},
+        "c": {"en": "In a bed department", "hi": "बिस्तर विभाग में"},
+        "d": {"en": "In the kitchen", "hi": "रसोई में"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He found these in the store and they provided him with much-needed warmth.",
+        "hi": "ये उसे स्टोर में मिले थे और इन्होंने उसे ज़रूरी गर्माहट प्रदान की थी।"
+      },
+      "explanation": {
+        "en": "After eating and dressing, Griffin finally settled down to sleep on a pile of quilts in the store. This caused him to oversleep the next morning.",
+        "hi": "खाना खाने और कपड़े पहनने के बाद, ग्रिफिन रजाइयों के ढेर पर सो गया।"
+      },
+      "key_takeaway": {
+        "en": "Comfort led to Griffin's near-capture in London.",
+        "hi": "आराम के चक्कर में ग्रिफिन लंदन में लगभग पकड़ा ही गया था।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "Why did the villagers go to the inn with the constable?",
+        "hi": "ग्रामीण हवलदार के साथ सराय क्यों गए?"
+      },
+      "options": {
+        "a": {"en": "To help him arrest the scientist", "hi": "वैज्ञानिक को गिरफ्तार करने में उसकी मदद करने के लिए"},
+        "b": {"en": "To have a party", "hi": "पार्टी करने के लिए"},
+        "c": {"en": "To listen to a lecture", "hi": "भाषण सुनने के लिए"},
+        "d": {"en": "To repair the door", "hi": "दरवाज़ा ठीक करने के लिए"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "They were curious and felt that the scientist was suspicious.",
+        "hi": "वे जिज्ञासु थे और उन्हें लगा कि वैज्ञानिक संदिग्ध है।"
+      },
+      "explanation": {
+        "en": "When the constable arrived, several villagers were already there, helping to investigate the strange incidents and assist in the arrest of the mysterious stranger.",
+        "hi": "जब हवलदार आया, तो कई ग्रामीण वहाँ पहले से ही थे ताकि उस रहस्यमयी अजनबी को पकड़ने में मदद कर सकें।"
+      },
+      "key_takeaway": {
+        "en": "The community united against the suspicious stranger.",
+        "hi": "समुदाय संदिग्ध अजनबी के खिलाफ एकजुट हो गया।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "Who is the author of 'Footprints without Feet'?",
+        "hi": "'Footprints without Feet' के लेखक कौन हैं?"
+      },
+      "options": {
+        "a": {"en": "Victor Canning", "hi": "विक्टर कैनिंग"},
+        "b": {"en": "H.G. Wells", "hi": "एच.जी. वेल्स (H.G. Wells)"},
+        "c": {"en": "James Herriot", "hi": "जेम्स हैरियट"},
+        "d": {"en": "Ruskin Bond", "hi": "रस्किन बॉन्ड"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He is often called the 'Father of Science Fiction'.",
+        "hi": "उन्हें अक्सर 'विज्ञान कथा (Science Fiction) का जनक' कहा जाता है।"
+      },
+      "explanation": {
+        "en": "Herbert George Wells (H.G. Wells) is the author of this story. He is famous for writing science fiction novels like 'The Invisible Man'.",
+        "hi": "इस कहानी के लेखक एच.जी. वेल्स हैं, जो विज्ञान कथाओं के लिए प्रसिद्ध हैं।"
+      },
+      "key_takeaway": {
+        "en": "H.G. Wells = The master of science fiction stories.",
+        "hi": "एच.जी. वेल्स = विज्ञान कथा कहानियों के उस्ताद।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "What is the main theme of the story?",
+        "hi": "कहानी का मुख्य विषय क्या है?"
+      },
+      "options": {
+        "a": {"en": "How to become invisible", "hi": "अदृश्य कैसे बनें"},
+        "b": {"en": "Science is a double-edged sword that can be misused", "hi": "विज्ञान एक दोधारी तलवार है जिसका दुरुपयोग किया जा सकता है"},
+        "c": {"en": "London is a cold city", "hi": "लंदन एक ठंडा शहर है"},
+        "d": {"en": "Scientists are always angry", "hi": "वैज्ञानिक हमेशा नाराज़ रहते हैं"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Think about how Griffin used his brilliant discovery for his own selfish gains.",
+        "hi": "सोचें कि ग्रिफिन ने अपनी शानदार खोज का उपयोग अपने स्वार्थी लाभ के लिए कैसे किया।"
+      },
+      "explanation": {
+        "en": "The story shows that a brilliant scientist like Griffin became a 'lawless person' because he lacked moral values. His discovery brought misery to others and eventually to himself.",
+        "hi": "कहानी दिखाती है कि बिना नैतिक मूल्यों के विज्ञान हानिकारक हो सकता है। ग्रिफिन ने अपनी खोज का दुरुपयोग किया।"
+      },
+      "key_takeaway": {
+        "en": "Misuse of knowledge leads to destruction.",
+        "hi": "ज्ञान का दुरुपयोग विनाश की ओर ले जाता है।"
+      }
+    }
+  ]
+}

@@ -1,0 +1,800 @@
+{
+  "metadata": {
+    "chapter_number": 2,
+    "chapter_title": "The Thief’s Story",
+    "chapter_title_hindi": "चोर की कहानी",
+    "subject": "English (Footprints Without Feet) - Class 10",
+    "board": "HPBOSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.0",
+    "naming_convention": "10_EN_FWF_CH02_ThiefsStory.json"
+  },
+  "validation_report": {
+    "is_valid": true,
+    "checked_by": "AI Tutor",
+    "checked_at": "2026-01-21T16:00:00Z",
+    "notes": "Verified pedagogical flow from crime to redemption. Bilingual accuracy checked for HP board level."
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "How old was the thief when he met Anil?",
+        "hi": "अनिल से मिलते समय चोर की उम्र कितनी थी?"
+      },
+      "options": {
+        "a": {"en": "Ten years", "hi": "दस साल"},
+        "b": {"en": "Fifteen years", "hi": "पंद्रह साल"},
+        "c": {"en": "Twenty years", "hi": "बीस साल"},
+        "d": {"en": "Twenty-five years", "hi": "पच्चीस साल"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The narrator describes himself as an 'experienced and fairly successful hand' despite being quite young.",
+        "hi": "कथावाचक खुद को काफी युवा होने के बावजूद एक 'अनुभवी और काफी सफल' चोर बताता है।"
+      },
+      "explanation": {
+        "en": "The narrator, who calls himself Hari Singh, was only fifteen years old when he met Anil. Despite his young age, he was already an expert thief.",
+        "hi": "चोर (जो खुद को हरी सिंह कहता है) की उम्र केवल 15 साल थी, लेकिन वह चोरी करने में काफी माहिर था।"
+      },
+      "key_takeaway": {
+        "en": "Hari Singh was a 15-year-old experienced thief.",
+        "hi": "हरी सिंह 15 साल का एक अनुभवी चोर था।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "What was Anil doing when the thief first approached him?",
+        "hi": "जब चोर पहली बार अनिल के पास पहुँचा, तब अनिल क्या कर रहा था?"
+      },
+      "options": {
+        "a": {"en": "He was writing a book", "hi": "वह एक किताब लिख रहा था"},
+        "b": {"en": "He was watching a wrestling match", "hi": "वह कुश्ती का मैच देख रहा था"},
+        "c": {"en": "He was cooking a meal", "hi": "वह खाना बना रहा था"},
+        "d": {"en": "He was sleeping", "hi": "वह सो रहा था"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Anil looked easy-going and simple to the thief, which made him a good target.",
+        "hi": "अनिल चोर को बहुत सीधा-सादा और सरल लगा, जिससे वह एक आसान शिकार लग रहा था।"
+      },
+      "explanation": {
+        "en": "Anil was about 25 years old and was watching a wrestling match when the thief approached him. The thief thought Anil looked simple enough for his purpose.",
+        "hi": "जब चोर अनिल के पास गया, तब अनिल एक कुश्ती का मैच देख रहा था।"
+      },
+      "key_takeaway": {
+        "en": "Anil was 25 years old and enjoyed wrestling matches.",
+        "hi": "अनिल 25 साल का था और उसे कुश्ती के मैच देखना पसंद था।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "Why did the narrator change his name every month?",
+        "hi": "कथावाचक हर महीने अपना नाम क्यों बदलता था?"
+      },
+      "options": {
+        "a": {"en": "Because he liked different names", "hi": "क्योंकि उसे अलग-अलग नाम पसंद थे"},
+        "b": {"en": "To stay ahead of the police and his former employers", "hi": "पुलिस और अपने पुराने मालिकों से बचने के लिए"},
+        "c": {"en": "Because he kept forgetting his real name", "hi": "क्योंकि वह अपना असली नाम भूल जाता था"},
+        "d": {"en": "To impress people", "hi": "लोगों को प्रभावित करने के लिए"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It was a strategy to remain unidentified after committing thefts.",
+        "hi": "यह चोरी करने के बाद अपनी पहचान छिपाए रखने की एक रणनीति थी।"
+      },
+      "explanation": {
+        "en": "The thief took a new name every month to hide from the police and the people he had robbed earlier. This time he called himself Hari Singh.",
+        "hi": "हरी सिंह अपना नाम हर महीने बदल लेता था ताकि पुलिस उसे पकड़ न सके और पुराने मालिक उसे पहचान न सकें।"
+      },
+      "key_takeaway": {
+        "en": "Changing names was a defensive tactic for the thief.",
+        "hi": "नाम बदलना चोर के लिए खुद को बचाने का एक तरीका था।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "What did the thief want from Anil?",
+        "hi": "चोर अनिल से क्या चाहता था?"
+      },
+      "options": {
+        "a": {"en": "A job and a place to stay", "hi": "नौकरी और रहने की जगह"},
+        "b": {"en": "To learn wrestling", "hi": "कुश्ती सीखना"},
+        "c": {"en": "To borrow money", "hi": "पैसे उधार लेना"},
+        "d": {"en": "To steal his books", "hi": "उसकी किताबें चुराना"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "He used his 'appealing smile' to convince Anil to hire him.",
+        "hi": "उसने अनिल को काम पर रखने के लिए अपनी 'आकर्षक मुस्कान' का उपयोग किया।"
+      },
+      "explanation": {
+        "en": "Hari Singh asked Anil if he could work for him. Anil said he couldn't pay him, so Hari Singh asked if he could at least feed him.",
+        "hi": "हरी सिंह ने अनिल से काम माँगा। जब अनिल ने कहा कि वह पैसे नहीं दे सकता, तो हरी ने खाने के बदले काम करने की पेशकश की।"
+      },
+      "key_takeaway": {
+        "en": "The thief initially worked for Anil in exchange for food.",
+        "hi": "चोर ने शुरू में भोजन के बदले अनिल के लिए काम किया।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "On what condition did Anil agree to keep Hari Singh as a servant?",
+        "hi": "अनिल ने हरी सिंह को किस शर्त पर नौकर रखने के लिए सहमति दी?"
+      },
+      "options": {
+        "a": {"en": "If Hari could wrestle", "hi": "अगर हरी कुश्ती लड़ सके"},
+        "b": {"en": "If Hari could cook", "hi": "अगर हरी खाना बना सके"},
+        "c": {"en": "If Hari could write a book", "hi": "अगर हरी किताब लिख सके"},
+        "d": {"en": "If Hari could pay him", "hi": "अगर हरी उसे पैसे दे सके"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Hari lied about this skill just to get into Anil's house.",
+        "hi": "हरी ने केवल अनिल के घर में घुसने के लिए इस कौशल के बारे में झूठ बोला था।"
+      },
+      "explanation": {
+        "en": "Anil asked Hari if he could cook. Hari lied and said 'I can cook'. Anil replied that if he could cook, he would feed him.",
+        "hi": "अनिल ने पूछा कि क्या वह खाना बना सकता है। हरी के झूठ बोलने पर अनिल उसे घर ले आया।"
+      },
+      "key_takeaway": {
+        "en": "Cooking was the basic requirement for Hari's stay.",
+        "hi": "हरी के रुकने के लिए खाना बनाना बुनियादी ज़रूरत थी।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "What happened to the first meal Hari cooked for Anil?",
+        "hi": "हरी ने अनिल के लिए जो पहला खाना बनाया, उसका क्या हुआ?"
+      },
+      "options": {
+        "a": {"en": "Anil loved it", "hi": "अनिल को वह बहुत पसंद आया"},
+        "b": {"en": "It was given to a stray dog", "hi": "वह एक आवारा कुत्ते को दे दिया गया"},
+        "c": {"en": "Hari ate it all himself", "hi": "हरी ने वह सारा खुद खा लिया"},
+        "d": {"en": "They saved it for the next day", "hi": "उन्होंने उसे अगले दिन के लिए बचा लिया"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Anil couldn't eat it because it must have been terrible.",
+        "hi": "अनिल उसे नहीं खा सका क्योंकि वह शायद बहुत खराब बना था।"
+      },
+      "explanation": {
+        "en": "The meal Hari cooked that night was so bad that Anil gave it to a stray dog and told Hari to leave. But Hari's smile made Anil change his mind.",
+        "hi": "हरी का बनाया पहला खाना इतना खराब था कि अनिल ने उसे कुत्ते को डाल दिया और हरी को जाने के लिए कहा।"
+      },
+      "key_takeaway": {
+        "en": "Hari was a terrible cook but a charming person.",
+        "hi": "हरी एक खराब रसोइया था लेकिन उसका व्यवहार आकर्षक था।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "Apart from cooking, what else did Anil promise to teach Hari Singh?",
+        "hi": "खाना बनाने के अलावा, अनिल ने हरी सिंह को और क्या सिखाने का वादा किया?"
+      },
+      "options": {
+        "a": {"en": "How to wrestle", "hi": "कुश्ती कैसे लड़ें"},
+        "b": {"en": "To write his name, full sentences, and add numbers", "hi": "अपना नाम लिखना, पूरे वाक्य लिखना और संख्याएँ जोड़ना"},
+        "c": {"en": "How to steal better", "hi": "बेहतर चोरी कैसे करें"},
+        "d": {"en": "How to cook gourmet food", "hi": "शानदार खाना कैसे बनाएं"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This was the beginning of Hari's transformation and education.",
+        "hi": "यह हरी के परिवर्तन और शिक्षा की शुरुआत थी।"
+      },
+      "explanation": {
+        "en": "Anil was a kind man. He not only taught Hari to cook but also taught him to write his name and promised to teach him whole sentences and maths.",
+        "hi": "अनिल ने हरी को न केवल खाना बनाना सिखाया, बल्कि उसे पढ़ना-लिखना और गणित भी सिखाने का वादा किया।"
+      },
+      "key_takeaway": {
+        "en": "Anil acted as a teacher and mentor to Hari.",
+        "hi": "अनिल ने हरी के लिए एक शिक्षक और मार्गदर्शक की भूमिका निभाई।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "How did Hari make a small profit everyday while working for Anil?",
+        "hi": "अनिल के लिए काम करते समय हरी रोज़ाना थोड़ा मुनाफ़ा कैसे कमाता था?"
+      },
+      "options": {
+        "a": {"en": "By selling Anil's books", "hi": "अनिल की किताबें बेचकर"},
+        "b": {"en": "By keeping about a rupee for himself while buying the day's supplies", "hi": "दिन का राशन खरीदते समय अपने लिए करीब एक रुपया बचाकर"},
+        "c": {"en": "Anil gave him extra pocket money", "hi": "अनिल उसे अतिरिक्त पॉकेट मनी देता था"},
+        "d": {"en": "By working a second job", "hi": "दूसरी नौकरी करके"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Anil probably knew about this but chose to ignore it.",
+        "hi": "अनिल शायद इसके बारे में जानता था लेकिन उसने इसे नज़रअंदाज़ करना बेहतर समझा।"
+      },
+      "explanation": {
+        "en": "Hari would go to buy the daily supplies and usually make a profit of about a rupee a day. He knew Anil didn't seem to mind.",
+        "hi": "राशन लाते समय हरी रोज़ाना एक रुपया बचा लेता था। अनिल को शायद इसका पता था, पर उसने कभी कुछ नहीं कहा।"
+      },
+      "key_takeaway": {
+        "en": "The petty theft showed that Hari's habits were still those of a thief.",
+        "hi": "छोटी चोरी यह दर्शाती थी कि हरी की आदतें अभी भी एक चोर जैसी थीं।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "What was Anil's profession or way of earning money?",
+        "hi": "अनिल का पेशा या पैसा कमाने का तरीका क्या था?"
+      },
+      "options": {
+        "a": {"en": "He was a regular office worker", "hi": "वह एक नियमित ऑफिस कर्मचारी था"},
+        "b": {"en": "He wrote for magazines and books", "hi": "वह पत्रिकाओं और किताबों के लिए लिखता था"},
+        "c": {"en": "He was a professional wrestler", "hi": "वह एक पेशेवर पहलवान था"},
+        "d": {"en": "He was a shopkeeper", "hi": "वह एक दुकानदार था"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Hari described it as a 'queer' (strange) way to make a living because the income was irregular.",
+        "hi": "हरी ने इसे आजीविका कमाने का एक 'अजीब' तरीका बताया क्योंकि इसकी कमाई अनियमित थी।"
+      },
+      "explanation": {
+        "en": "Anil made money by 'fits and starts'. He would borrow one week and lend the next. He wrote for magazines, which was a strange way to earn for the thief.",
+        "hi": "अनिल पत्रिकाओं (magazines) के लिए लिखता था। उसकी कमाई तय नहीं थी; कभी पैसा आता था, कभी नहीं।"
+      },
+      "key_takeaway": {
+        "en": "Anil was a freelance writer with an irregular income.",
+        "hi": "अनिल एक स्वतंत्र लेखक था जिसकी आय अनियमित थी।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "Why did Hari find it difficult to rob Anil?",
+        "hi": "हरी को अनिल को लूटना मुश्किल क्यों लगा?"
+      },
+      "options": {
+        "a": {"en": "Because Anil was very strong", "hi": "क्योंकि अनिल बहुत बलवान था"},
+        "b": {"en": "Because Anil was so trusting and careless", "hi": "क्योंकि अनिल बहुत भरोसेमंद और लापरवाह था"},
+        "c": {"en": "Because the house was well guarded", "hi": "क्योंकि घर की सुरक्षा कड़ी थी"},
+        "d": {"en": "Because Anil had no money", "hi": "क्योंकि अनिल के पास पैसे नहीं थे"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It's easy to rob a greedy man, but robbing a simple, trusting man takes the pleasure out of the work.",
+        "hi": "लालची आदमी को लूटना आसान है, लेकिन एक सीधे और भरोसेमंद आदमी को लूटने में मज़ा नहीं आता।"
+      },
+      "explanation": {
+        "en": "Anil was the most trusting person Hari had ever met. Hari felt that it was easy to rob a greedy man because he could afford to be robbed, but robbing Anil felt wrong.",
+        "hi": "अनिल हरी द्वारा मिले गए सबसे भरोसेमंद व्यक्तियों में से एक था। उसे लूटना हरी के लिए मुश्किल था क्योंकि अनिल को शायद पता भी नहीं चलता कि उसे लूटा गया है।"
+      },
+      "key_takeaway": {
+        "en": "Trust is harder to betray than suspicion.",
+        "hi": "संदेह की तुलना में भरोसे को तोड़ना कठिन होता है।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "How did Anil bring home a large sum of money one evening?",
+        "hi": "एक शाम अनिल बड़ी मात्रा में पैसे घर कैसे लाया?"
+      },
+      "options": {
+        "a": {"en": "He won a wrestling bet", "hi": "उसने कुश्ती की शर्त जीती"},
+        "b": {"en": "He sold a book to a publisher", "hi": "उसने एक प्रकाशक को एक किताब बेची"},
+        "c": {"en": "He found it on the street", "hi": "उसे वह सड़क पर मिला"},
+        "d": {"en": "He borrowed it from a friend", "hi": "उसने इसे एक दोस्त से उधार लिया"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He came home with a small bundle of notes.",
+        "hi": "वह नोटों के एक छोटे से बंडल के साथ घर आया था।"
+      },
+      "explanation": {
+        "en": "One evening Anil came home with a small bundle of notes, saying he had just sold a book to a publisher. At night, he tucked the money under his mattress.",
+        "hi": "एक शाम अनिल एक प्रकाशक को अपनी किताब बेचकर नोटों का बंडल लेकर आया और उसे गद्दे के नीचे रख दिया।"
+      },
+      "key_takeaway": {
+        "en": "The money from the publisher became the temptation for the thief.",
+        "hi": "प्रकाशक से मिला पैसा चोर के लिए लालच बन गया।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "Where did Anil tuck the money before sleeping?",
+        "hi": "सोने से पहले अनिल ने पैसे कहाँ छिपाए थे?"
+      },
+      "options": {
+        "a": {"en": "In a safe", "hi": "तिजोरी में"},
+        "b": {"en": "Under the mattress", "hi": "गद्दे के नीचे (Under the mattress)"},
+        "c": {"en": "In his cupboard", "hi": "अपनी अलमारी में"},
+        "d": {"en": "Under his pillow", "hi": "अपने तकिये के नीचे"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Hari saw him do this, which made the theft very easy.",
+        "hi": "हरी ने उसे ऐसा करते देखा था, जिससे चोरी करना बहुत आसान हो गया।"
+      },
+      "explanation": {
+        "en": "Anil tucked the money under the mattress and went to sleep. Hari, who was lying on the floor, watched him and decided to take the money.",
+        "hi": "अनिल ने पैसे गद्दे के नीचे रखे, जिसे हरी ने देख लिया था।"
+      },
+      "key_takeaway": {
+        "en": "The mattress was the hiding place for the money.",
+        "hi": "गद्दा पैसों को छिपाने की जगह थी।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "How did Hari Singh justify stealing Anil's money?",
+        "hi": "हरी सिंह ने अनिल के पैसे चुराने को कैसे सही ठहराया?"
+      },
+      "options": {
+        "a": {"en": "He thought Anil was mean", "hi": "उसे लगा कि अनिल नीच है"},
+        "b": {"en": "He thought if he didn't take it, Anil would only waste it on his friends", "hi": "उसने सोचा कि अगर वह इसे नहीं लेगा, तो अनिल इसे अपने दोस्तों पर बर्बाद कर देगा"},
+        "c": {"en": "He thought Anil owed him a salary", "hi": "उसने सोचा कि अनिल पर उसका वेतन बकाया है"},
+        "d": {"en": "Both b and c", "hi": "b और c दोनों"}
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "A thief always tries to find reasons to make a crime look okay to himself.",
+        "hi": "एक चोर हमेशा अपने अपराध को सही दिखाने के लिए कारण ढूंढता है।"
+      },
+      "explanation": {
+        "en": "Hari thought that Anil didn't pay him a salary. Moreover, if he didn't take the money, Anil would spend it on his friends. This was his justification.",
+        "hi": "हरी ने खुद को समझाया कि अनिल उसे वेतन नहीं देता, और वैसे भी वह ये पैसे दोस्तों पर उड़ा देगा।"
+      },
+      "key_takeaway": {
+        "en": "Justification = The mind's way to ignore the conscience.",
+        "hi": "औचित्य (Justification) = अंतरात्मा की आवाज़ को अनसुना करने का मन का तरीका।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "What was Hari's plan after stealing the money?",
+        "hi": "पैसे चुराने के बाद हरी की क्या योजना थी?"
+      },
+      "options": {
+        "a": {"en": "To catch the 10:30 Express to Lucknow", "hi": "10:30 बजे वाली लखनऊ एक्सप्रेस पकड़ना"},
+        "b": {"en": "To go back to his village", "hi": "अपने गाँव वापस जाना"},
+        "c": {"en": "To hide in the forest", "hi": "जंगल में छिपना"},
+        "d": {"en": "To buy a car", "hi": "एक कार खरीदना"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "He wanted to leave the city immediately to avoid getting caught.",
+        "hi": "वह पकड़े जाने से बचने के लिए तुरंत शहर छोड़ना चाहता था।"
+      },
+      "explanation": {
+        "en": "After sliding the money out from under the mattress, Hari ran to the station. His plan was to catch the 10:30 Express to Lucknow and disappear.",
+        "hi": "पैसे लेकर हरी स्टेशन की ओर भागा ताकि वह 10:30 की लखनऊ एक्सप्रेस पकड़ सके।"
+      },
+      "key_takeaway": {
+        "en": "Lucknow Express = Hari's planned escape route.",
+        "hi": "लखनऊ एक्सप्रेस = हरी का भागने का रास्ता।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "Why didn't Hari Singh board the train even though it was moving slowly?",
+        "hi": "ट्रेन धीरे चलने के बावजूद हरी सिंह उसमें क्यों नहीं चढ़ा?"
+      },
+      "options": {
+        "a": {"en": "He forgot his luggage", "hi": "वह अपना सामान भूल गया था"},
+        "b": {"en": "He hesitated for reasons he couldn't explain", "hi": "वह उन कारणों से हिचकिचाया जिन्हें वह स्पष्ट नहीं कर सका"},
+        "c": {"en": "He saw a policeman", "hi": "उसने एक पुलिस वाले को देखा"},
+        "d": {"en": "The train was too crowded", "hi": "ट्रेन में बहुत भीड़ थी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This hesitation was the first sign of his conscience working.",
+        "hi": "यह हिचकिचाहट उसकी अंतरात्मा के काम करने का पहला संकेत था।"
+      },
+      "explanation": {
+        "en": "The train was picking up speed and he could have jumped in, but he hesitated. He lost the chance to leave, and he couldn't explain why he felt that way.",
+        "hi": "ट्रेन चल पड़ी थी और हरी आसानी से चढ़ सकता था, पर वह हिचकिचाया और ट्रेन निकल गई।"
+      },
+      "key_takeaway": {
+        "en": "The inner conflict stopped Hari from escaping.",
+        "hi": "आंतरिक संघर्ष ने हरी को भागने से रोक दिया।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "What does Hari say about the different reactions of people when they are robbed?",
+        "hi": "हरी लूटे जाने पर लोगों की अलग-अलग प्रतिक्रियाओं के बारे में क्या कहता है?"
+      },
+      "options": {
+        "a": {"en": "The greedy man shows fear, the rich man shows anger, the poor man shows acceptance", "hi": "लालची डर दिखाता है, अमीर गुस्सा दिखाता है, गरीब स्वीकार कर लेता है"},
+        "b": {"en": "Everyone shows anger", "hi": "हर कोई गुस्सा दिखाता है"},
+        "c": {"en": "The greedy man shows anger, the rich man fear", "hi": "लालची गुस्सा दिखाता है, अमीर डर"},
+        "d": {"en": "Nobody cares about being robbed", "hi": "किसी को लूटे जाने की परवाह नहीं होती"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "Hari had studied faces and knew exactly how different people react to loss.",
+        "hi": "हरी ने चेहरों का अध्ययन किया था और वह जानता था कि अलग-अलग लोग नुकसान पर कैसे प्रतिक्रिया देते हैं।"
+      },
+      "explanation": {
+        "en": "Hari observes that the greedy man shows fear, the rich man shows anger, and the poor man shows acceptance. But he knew Anil would only show a touch of sadness.",
+        "hi": "हरी के अनुसार लालची व्यक्ति डरता है, अमीर गुस्सा करता है और गरीब इसे अपनी किस्मत मान लेता है।"
+      },
+      "key_takeaway": {
+        "en": "The thief was a keen observer of human psychology.",
+        "hi": "चोर मानव मनोविज्ञान का एक गहरा पारखी था।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "What kind of sadness would Anil show when he discovered the theft?",
+        "hi": "चोरी का पता चलने पर अनिल किस तरह का दुख दिखाएगा?"
+      },
+      "options": {
+        "a": {"en": "Sadness for the loss of money", "hi": "पैसे के नुकसान का दुख"},
+        "b": {"en": "Sadness for the loss of trust", "hi": "भरोसे के टूटने का दुख"},
+        "c": {"en": "Sadness for Hari's future", "hi": "हरी के भविष्य के लिए दुख"},
+        "d": {"en": "He wouldn't be sad at all", "hi": "वह बिल्कुल भी दुखी नहीं होगा"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The money didn't matter as much to Anil as the relationship did.",
+        "hi": "अनिल के लिए पैसा उतना मायने नहीं रखता था जितना कि रिश्ता।"
+      },
+      "explanation": {
+        "en": "Hari knew that when Anil discovered the theft, he would be sad, not for the loss of money, but for the loss of trust.",
+        "hi": "हरी जानता था कि अनिल को पैसे खोने का दुख नहीं होगा, बल्कि इस बात का दुख होगा कि उसका भरोसा टूट गया।"
+      },
+      "key_takeaway": {
+        "en": "Loss of trust is more painful than financial loss.",
+        "hi": "भरोसे का टूटना आर्थिक नुकसान से अधिक दर्दनाक होता है।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "Where did Hari spend the night after the train had left?",
+        "hi": "ट्रेन छूटने के बाद हरी ने रात कहाँ बिताई?"
+      },
+      "options": {
+        "a": {"en": "At a hotel", "hi": "एक होटल में"},
+        "b": {"en": "In a park on a bench (Maidan)", "hi": "एक मैदान में बेंच पर"},
+        "c": {"en": "Back at Anil's room immediately", "hi": "तुरंत अनिल के कमरे में वापस"},
+        "d": {"en": "At the railway station waiting room", "hi": "रेलवे स्टेशन के वेटिंग रूम में"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He walked through the bazaar and sat down in the 'maidan'.",
+        "hi": "वह बाज़ार से गुज़रा और 'मैदान' में बैठ गया।"
+      },
+      "explanation": {
+        "en": "After the train left, Hari walked through the bazaar. He had no friends and didn't want to stay in a hotel. So he sat down on a bench in a maidan.",
+        "hi": "ट्रेन जाने के बाद हरी बाज़ार से होते हुए एक मैदान में पहुँचा और वहाँ बेंच पर बैठ गया।"
+      },
+      "key_takeaway": {
+        "en": "Hari felt isolated and lonely after his betrayal.",
+        "hi": "धोखा देने के बाद हरी ने खुद को अकेला महसूस किया।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "What happened when it started raining that night?",
+        "hi": "उस रात जब बारिश शुरू हुई तो क्या हुआ?"
+      },
+      "options": {
+        "a": {"en": "Hari enjoyed the rain", "hi": "हरी ने बारिश का आनंद लिया"},
+        "b": {"en": "The notes in his pajamas became damp/wet", "hi": "उसके पायजामे में रखे नोट गीले हो गए"},
+        "c": {"en": "Hari caught a cold", "hi": "हरी को ज़ुकाम हो गया"},
+        "d": {"en": "The rain washed away his guilt", "hi": "बारिश ने उसका अपराधबोध धो दिया"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The money was held to his waist by the string of his pajamas.",
+        "hi": "पैसे उसके पायजामे की डोरी से उसकी कमर पर बंधे थे।"
+      },
+      "explanation": {
+        "en": "A heavy rain started, and Hari got soaked. He felt the notes at his waist; they were damp from the rain.",
+        "hi": "तेज़ बारिश होने लगी जिससे हरी भीग गया और उसकी कमर पर बंधे नोट भी गीले हो गए।"
+      },
+      "key_takeaway": {
+        "en": "The damp notes symbolized the mess Hari had made of his life.",
+        "hi": "गीले नोट उस उथल-पुथल का प्रतीक थे जो हरी ने अपने जीवन में मचाई थी।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "What did Hari realize about the value of education while sitting in the rain?",
+        "hi": "बारिश में बैठे हुए हरी को शिक्षा के मूल्य के बारे में क्या एहसास हुआ?"
+      },
+      "options": {
+        "a": {"en": "Education is useless for a thief", "hi": "एक चोर के लिए शिक्षा बेकार है"},
+        "b": {"en": "To be a clever and respected man was something more than stealing a few hundred rupees", "hi": "एक चतुर और सम्मानित व्यक्ति होना कुछ सौ रुपये चुराने से कहीं बढ़कर है"},
+        "c": {"en": "Education helps in stealing better", "hi": "शिक्षा बेहतर चोरी करने में मदद करती है"},
+        "d": {"en": "He wanted to become a teacher", "hi": "वह एक शिक्षक बनना चाहता था"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Education could bring him much more than just money—it could bring respect.",
+        "hi": "शिक्षा उसे केवल पैसे से कहीं अधिक—सम्मान दिला सकती थी।"
+      },
+      "explanation": {
+        "en": "Hari realized that education could give him respect and a better life. Stealing was easy, but being a respected man was a bigger achievement.",
+        "hi": "हरी ने समझा कि चोरी करना आसान है, लेकिन एक सम्मानित व्यक्ति बनना बड़ी बात है, जो केवल शिक्षा से संभव है।"
+      },
+      "key_takeaway": {
+        "en": "Knowledge is the path to true respect and dignity.",
+        "hi": "ज्ञान ही सच्चे सम्मान और गरिमा का मार्ग है।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "Why did Hari decide to go back to Anil?",
+        "hi": "हरी ने अनिल के पास वापस जाने का फैसला क्यों किया?"
+      },
+      "options": {
+        "a": {"en": "Because he was afraid of the dark", "hi": "क्योंकि वह अंधेरे से डरता था"},
+        "b": {"en": "To learn to read and write", "hi": "पढ़ना और लिखना सीखने के लिए"},
+        "c": {"en": "Because he had no other place to go", "hi": "क्योंकि उसके पास जाने के लिए कोई और जगह नहीं थी"},
+        "d": {"en": "To steal more money", "hi": "और पैसे चुराने के लिए"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He felt that learning to write whole sentences would one day bring him more than a few hundred rupees.",
+        "hi": "उसे लगा कि पूरे वाक्य लिखना सीखने से उसे एक दिन कुछ सौ रुपयों से कहीं अधिक प्राप्त होगा।"
+      },
+      "explanation": {
+        "en": "Hari went back to Anil mainly because he wanted to learn to read and write. He realized that education was the key to a better, more honest life.",
+        "hi": "हरी अनिल के पास इसलिए वापस गया क्योंकि वह पढ़ना-लिखना सीखना चाहता था। उसे शिक्षा की अहमियत समझ आ गई थी।"
+      },
+      "key_takeaway": {
+        "en": "The desire for self-improvement led to Hari's return.",
+        "hi": "स्वयं को सुधारने की इच्छा हरी की वापसी का कारण बनी।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "How did Hari put the money back?",
+        "hi": "हरी ने पैसे वापस कैसे रखे?"
+      },
+      "options": {
+        "a": {"en": "He gave it directly to Anil", "hi": "उसने सीधे अनिल को दे दिए"},
+        "b": {"en": "He slid it back under the mattress", "hi": "उसने उसे वापस गद्दे के नीचे खिसका दिया (slid it back)"},
+        "c": {"en": "He left it on the table", "hi": "उसने उसे मेज़ पर छोड़ दिया"},
+        "d": {"en": "He put it in the cupboard", "hi": "उसने उसे अलमारी में रख दिया"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "His heart was beating loudly as he nervously returned the money.",
+        "hi": "घबराहट में पैसे वापस रखते समय उसका दिल ज़ोर-ज़ोर से धड़क रहा था।"
+      },
+      "explanation": {
+        "en": "Hari crept back into the room. He felt Anil's breath on his hand as he slid the damp notes back under the mattress where they were before.",
+        "hi": "हरी दबे पाँव कमरे में घुसा और गीले नोटों को वापस गद्दे के नीचे रख दिया।"
+      },
+      "key_takeaway": {
+        "en": "The return of the money was Hari's silent act of repentance.",
+        "hi": "पैसे वापस रखना हरी का पश्चाताप का एक मौन कार्य था।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "What did Anil give Hari the next morning?",
+        "hi": "अगली सुबह अनिल ने हरी को क्या दिया?"
+      },
+      "options": {
+        "a": {"en": "A scolding", "hi": "डांट"},
+        "b": {"en": "A fifty-rupee note", "hi": "पचास रुपये का नोट"},
+        "c": {"en": "His luggage", "hi": "उसका सामान"},
+        "d": {"en": "A new book", "hi": "एक नई किताब"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The note was still damp from the previous night's rain.",
+        "hi": "नोट पिछली रात की बारिश की वजह से अभी भी गीला था।"
+      },
+      "explanation": {
+        "en": "Anil woke up late and made tea. He gave Hari a fifty-rupee note and told him that he had made some money and would now pay Hari regularly.",
+        "hi": "अगली सुबह अनिल ने हरी को पचास रुपये का नोट दिया और कहा कि अब से उसे नियमित वेतन मिलेगा।"
+      },
+      "key_takeaway": {
+        "en": "The 50-rupee note was a sign of Anil's generosity and forgiveness.",
+        "hi": "50 रुपये का नोट अनिल की उदारता और क्षमा का संकेत था।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "Did Anil know that Hari had stolen the money?",
+        "hi": "क्या अनिल को पता था कि हरी ने पैसे चुराए थे?"
+      },
+      "options": {
+        "a": {"en": "No, he had no idea", "hi": "नहीं, उसे कोई अंदाज़ा नहीं था"},
+        "b": {"en": "Yes, but he didn't say anything", "hi": "हाँ, लेकिन उसने कुछ नहीं कहा"},
+        "c": {"en": "He found out later from the police", "hi": "उसे बाद में पुलिस से पता चला"},
+        "d": {"en": "Hari told him everything", "hi": "हरी ने उसे सब कुछ बता दिया"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The note he gave Hari was still wet, which was clear proof of what happened.",
+        "hi": "उसने हरी को जो नोट दिया वह अभी भी गीला था, जो इस बात का स्पष्ट प्रमाण था कि क्या हुआ था।"
+      },
+      "explanation": {
+        "en": "Anil knew because the note was wet. However, 'neither his lips nor his eyes showed anything'. He chose to forgive Hari to give him a second chance.",
+        "hi": "अनिल जान गया था क्योंकि नोट गीला था, पर उसने अपनी बातों या आँखों से यह ज़ाहिर नहीं होने दिया और हरी को माफ कर दिया।"
+      },
+      "key_takeaway": {
+        "en": "Silent forgiveness can be more powerful than punishment.",
+        "hi": "मौन क्षमा सजा से अधिक शक्तिशाली हो सकती है।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "What does the 'wet note' symbolize in the end of the story?",
+        "hi": "कहानी के अंत में 'गीला नोट' क्या दर्शाता है?"
+      },
+      "options": {
+        "a": {"en": "Anil's carelessness", "hi": "अनिल की लापरवाही"},
+        "b": {"en": "The fact that Anil knew about the theft and had forgiven Hari", "hi": "यह तथ्य कि अनिल को चोरी के बारे में पता था और उसने हरी को माफ कर दिया था"},
+        "c": {"en": "That it was still raining", "hi": "कि अभी भी बारिश हो रही थी"},
+        "d": {"en": "That Hari should go and dry it", "hi": "कि हरी को जाकर इसे सुखाना चाहिए"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The wetness of the note was the evidence that Hari had taken it out in the rain and brought it back.",
+        "hi": "नोट का गीलापन इस बात का सबूत था कि हरी इसे बारिश में बाहर ले गया था और वापस ले आया था।"
+      },
+      "explanation": {
+        "en": "The wet note proved that Anil knew everything. By still paying Hari and promising to teach him, Anil showed that he had forgiven the boy and trusted his change of heart.",
+        "hi": "गीला नोट इस बात का प्रमाण था कि अनिल सब जानता है, फिर भी उसने हरी को पैसे देकर उसे सुधरने का मौका दिया।"
+      },
+      "key_takeaway": {
+        "en": "Anil's silence was a conscious choice to redeem Hari.",
+        "hi": "अनिल की चुप्पी हरी को सुधारने का एक सोचा-समझा निर्णय था।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "What did Anil say he would teach Hari that day?",
+        "hi": "अनिल ने कहा कि वह उस दिन हरी को क्या सिखाएगा?"
+      },
+      "options": {
+        "a": {"en": "To cook better", "hi": "बेहतर खाना बनाना"},
+        "b": {"en": "To write sentences", "hi": "वाक्य लिखना (To write sentences)"},
+        "c": {"en": "To add numbers", "hi": "संख्याओं को जोड़ना"},
+        "d": {"en": "To wrestle", "hi": "कुश्ती लड़ना"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Anil wanted to continue the education he had started.",
+        "hi": "अनिल उस शिक्षा को जारी रखना चाहता था जो उसने शुरू की थी।"
+      },
+      "explanation": {
+        "en": "Anil told Hari, 'Today we’ll start writing sentences.' This showed that Anil was moving forward with Hari's education as if nothing had happened.",
+        "hi": "अनिल ने हरी से कहा, 'आज हम वाक्य लिखना शुरू करेंगे।' यह दिखाता है कि अनिल ने उसे माफ कर दिया था।"
+      },
+      "key_takeaway": {
+        "en": "Education was the bridge between a life of crime and a life of dignity.",
+        "hi": "शिक्षा अपराध के जीवन और गरिमा के जीवन के बीच का सेतु (पुल) थी।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "How did Hari Singh smile at Anil in the end?",
+        "hi": "अंत में हरी सिंह अनिल को देखकर कैसे मुस्कुराया?"
+      },
+      "options": {
+        "a": {"en": "In his most appealing way, but this time it was natural", "hi": "अपने सबसे आकर्षक तरीके से, लेकिन इस बार यह स्वाभाविक (natural) थी"},
+        "b": {"en": "In a cunning way", "hi": "चालाकी से"},
+        "c": {"en": "He didn't smile", "hi": "वह नहीं मुस्कुराया"},
+        "d": {"en": "He laughed out loud", "hi": "वह ज़ोर से हँसा"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "Earlier his smiles were a trick to fool people; now it came from within.",
+        "hi": "पहले उसकी मुस्कान लोगों को बेवकूफ बनाने की एक चाल थी; अब यह अंदर से आई थी।"
+      },
+      "explanation": {
+        "en": "The story ends with Hari smiling at Anil in his most appealing way. This smile was genuine and came 'of itself, without any effort', showing his true transformation.",
+        "hi": "कहानी के अंत में हरी की मुस्कान बनावटी नहीं बल्कि सच्ची थी।"
+      },
+      "key_takeaway": {
+        "en": "The genuine smile signified the inner change in the thief.",
+        "hi": "सच्ची मुस्कान चोर में आए आंतरिक बदलाव का संकेत थी।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "Who is the author of 'The Thief's Story'?",
+        "hi": "'द थीफ़्स स्टोरी' (The Thief's Story) के लेखक कौन हैं?"
+      },
+      "options": {
+        "a": {"en": "Ruskin Bond", "hi": "रस्किन बॉन्ड"},
+        "b": {"en": "James Herriot", "hi": "जेम्स हैरियट"},
+        "c": {"en": "H.G. Wells", "hi": "एच.जी. वेल्स"},
+        "d": {"en": "Guy de Maupassant", "hi": "गाय डी मोपासंत"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "He is a famous Indian author of British descent known for his stories about simple people.",
+        "hi": "वे ब्रिटिश मूल के एक प्रसिद्ध भारतीय लेखक हैं जो साधारण लोगों के बारे में अपनी कहानियों के लिए जाने जाते हैं।"
+      },
+      "explanation": {
+        "en": "The story is written by Ruskin Bond, who often writes about human relationships and the small moments that change people's lives.",
+        "hi": "यह कहानी रस्किन बॉन्ड द्वारा लिखी गई है, जो मानवीय रिश्तों पर आधारित कहानियों के लिए प्रसिद्ध हैं।"
+      },
+      "key_takeaway": {
+        "en": "Ruskin Bond = Master of simple, touching human stories.",
+        "hi": "रस्किन बॉन्ड = सरल और मार्मिक मानवीय कहानियों के उस्ताद।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "What is the central theme of 'The Thief's Story'?",
+        "hi": "'द थीफ़्स स्टोरी' का केंद्रीय विषय क्या है?"
+      },
+      "options": {
+        "a": {"en": "That stealing is profitable", "hi": "कि चोरी करना लाभदायक है"},
+        "b": {"en": "The power of love, kindness, and education in transforming a person", "hi": "किसी व्यक्ति को बदलने में प्यार, दया और शिक्षा की शक्ति"},
+        "c": {"en": "The importance of wrestling", "hi": "कुश्ती का महत्व"},
+        "d": {"en": "How to escape from the police", "hi": "पुलिस से कैसे बचें"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Think about how Anil's behavior changed Hari Singh.",
+        "hi": "सोचें कि अनिल के व्यवहार ने हरी सिंह को कैसे बदल दिया।"
+      },
+      "explanation": {
+        "en": "The story highlights that human values and kindness can reform even a seasoned thief. Anil's trust and his effort to educate Hari changed the boy's life forever.",
+        "hi": "कहानी यह बताती है कि प्यार और विश्वास से किसी भी अपराधी को सुधारा जा सकता है।"
+      },
+      "key_takeaway": {
+        "en": "Kindness and trust are more effective than punishment.",
+        "hi": "दया और विश्वास सजा से अधिक प्रभावी होते हैं।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "How does the story reflect on human nature?",
+        "hi": "यह कहानी मानव स्वभाव पर कैसे प्रकाश डालती है?"
+      },
+      "options": {
+        "a": {"en": "People are born evil", "hi": "लोग पैदा ही बुरे होते हैं"},
+        "b": {"en": "Every human has a conscience that can be awakened by goodness", "hi": "हर इंसान में एक अंतरात्मा होती है जिसे अच्छाई से जगाया जा सकता है"},
+        "c": {"en": "People never change", "hi": "लोग कभी नहीं बदलते"},
+        "d": {"en": "Money is the only thing people care about", "hi": "पैसा ही एकमात्र ऐसी चीज़ है जिसकी लोग परवाह करते हैं"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Hari's hesitation at the railway station is the key to this answer.",
+        "hi": "रेलवे स्टेशन पर हरी की हिचकिचाहट इस उत्तर की कुंजी है।"
+      },
+      "explanation": {
+        "en": "The story suggests that no one is beyond redemption. Hari's internal conflict and ultimate decision to return the money show that goodness still existed in him, waiting to be nurtured.",
+        "hi": "कहानी बताती है कि कोई भी व्यक्ति सुधार से परे नहीं है। हरी के अंदर की अच्छाई अनिल के व्यवहार से जाग गई।"
+      },
+      "key_takeaway": {
+        "en": "Redemption is possible for everyone through positive influence.",
+        "hi": "सकारात्मक प्रभाव के माध्यम से सभी के लिए सुधार संभव है।"
+      }
+    }
+  ]
+}

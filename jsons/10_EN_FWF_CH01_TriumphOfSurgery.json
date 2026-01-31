@@ -1,0 +1,800 @@
+{
+  "metadata": {
+    "chapter_number": 1,
+    "chapter_title": "A Triumph of Surgery",
+    "chapter_title_hindi": "सर्जरी की एक विजय",
+    "subject": "English (Footprints Without Feet) - Class 10",
+    "board": "HPBOSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.0",
+    "naming_convention": "10_EN_FWF_CH01_TriumphOfSurgery.json"
+  },
+  "validation_report": {
+    "is_valid": true,
+    "checked_by": "AI Tutor",
+    "checked_at": "2026-01-21T15:00:00Z",
+    "notes": "Bilingual MCQs focused on character analysis and plot details for Class 10 students."
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "Who is the author of the story 'A Triumph of Surgery'?",
+        "hi": "'A Triumph of Surgery' कहानी के लेखक कौन हैं?"
+      },
+      "options": {
+        "a": {"en": "James Herriot", "hi": "जेम्स हैरियट"},
+        "b": {"en": "Ruskin Bond", "hi": "रस्किन बॉन्ड"},
+        "c": {"en": "Robert Frost", "hi": "रॉबर्ट फ्रॉस्ट"},
+        "d": {"en": "Victor Canning", "hi": "विक्टर कैनिंग"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "The author himself is a veterinary surgeon and the narrator of the story.",
+        "hi": "लेखक स्वयं एक पशु चिकित्सक (veterinary surgeon) हैं और कहानी के कथावाचक भी हैं।"
+      },
+      "explanation": {
+        "en": "James Herriot, a famous veterinary surgeon and writer, is the author. Most of his stories are based on his real-life experiences with animals.",
+        "hi": "जेम्स हैरियट एक प्रसिद्ध पशु चिकित्सक और लेखक हैं। उनकी अधिकांश कहानियाँ जानवरों के साथ उनके वास्तविक अनुभवों पर आधारित होती हैं।"
+      },
+      "key_takeaway": {
+        "en": "James Herriot = The Vet Surgeon and Author.",
+        "hi": "जेम्स हैरियट = पशु चिकित्सक और लेखक।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "Who was Tricki in the story?",
+        "hi": "कहानी में ट्रिकी (Tricki) कौन था?"
+      },
+      "options": {
+        "a": {"en": "A small cat", "hi": "एक छोटी बिल्ली"},
+        "b": {"en": "A pampered dog", "hi": "एक लाड़ला कुत्ता"},
+        "c": {"en": "A street dog", "hi": "एक गली का कुत्ता"},
+        "d": {"en": "The neighbor's parrot", "hi": "पड़ोसी का तोता"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He was the pet of a very wealthy lady named Mrs. Pumphrey.",
+        "hi": "वह मिसेज पम्फ्रे नाम की एक बहुत अमीर महिला का पालतू जानवर था।"
+      },
+      "explanation": {
+        "en": "Tricki was a small dog who was extremely pampered and overfed by his rich mistress, leading to his illness.",
+        "hi": "ट्रिकी एक छोटा कुत्ता था जिसे उसकी अमीर मालकिन बहुत लाड़-प्यार करती थी और ज़रूरत से ज़्यादा खाना खिलाती थी।"
+      },
+      "key_takeaway": {
+        "en": "Tricki = The overweight, pampered pet dog.",
+        "hi": "ट्रिकी = अधिक वजन वाला, लाड़ला पालतू कुत्ता।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "What made the narrator (Mr. Herriot) shocked when he saw Tricki on the street?",
+        "hi": "जब कथावाचक (मिस्टर हैरियट) ने ट्रिकी को सड़क पर देखा, तो वे हैरान क्यों रह गए?"
+      },
+      "options": {
+        "a": {"en": "Tricki was running very fast", "hi": "ट्रिकी बहुत तेज़ दौड़ रहा था"},
+        "b": {"en": "Tricki had become hugely fat, like a bloated sausage", "hi": "ट्रिकी बहुत मोटा हो गया था, जैसे कोई फूला हुआ कबाब (bloated sausage)"},
+        "c": {"en": "Tricki was wearing a new coat", "hi": "ट्रिकी ने एक नया कोट पहना था"},
+        "d": {"en": "Tricki was playing with a ball", "hi": "ट्रिकी एक गेंद से खेल रहा था"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "His eyes were bloodshot and his tongue lolled from his jaws due to excessive weight.",
+        "hi": "उसकी आँखें लाल थीं और अत्यधिक वजन के कारण उसकी जीभ जबड़ों से बाहर लटकी हुई थी।"
+      },
+      "explanation": {
+        "en": "Mr. Herriot was shocked by Tricki's appearance because the dog had become extremely obese. He looked like a 'bloated sausage with a leg at each corner'.",
+        "hi": "मिस्टर हैरियट ट्रिकी की हालत देखकर चौंक गए क्योंकि वह बहुत मोटा हो गया था, बिल्कुल 'फूले हुए कबाब' जैसा।"
+      },
+      "key_takeaway": {
+        "en": "Bloated sausage = Metaphor for Tricki's extreme obesity.",
+        "hi": "Bloated sausage = ट्रिकी के अत्यधिक मोटापे के लिए इस्तेमाल किया गया रूपक।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "What did Mrs. Pumphrey think Tricki was suffering from?",
+        "hi": "मिसेज पम्फ्रे को क्या लगा कि ट्रिकी किस बीमारी से पीड़ित है?"
+      },
+      "options": {
+        "a": {"en": "Fever", "hi": "बुखार"},
+        "b": {"en": "Malnutrition", "hi": "कुपोषण (Malnutrition)"},
+        "c": {"en": "Allergies", "hi": "एलर्जी"},
+        "d": {"en": "Leg injury", "hi": "पैर की चोट"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "She thought he lacked energy, so she started giving him 'extras' between meals.",
+        "hi": "उन्हें लगा कि उसमें ऊर्जा की कमी है, इसलिए उन्होंने उसे खाने के बीच में 'अतिरिक्त चीज़ें' देना शुरू कर दिया।"
+      },
+      "explanation": {
+        "en": "Mrs. Pumphrey assumed Tricki was listless because of malnutrition. Paradoxically, she started overfeeding him even more with malt, cod-liver oil, and Horlicks to build him up.",
+        "hi": "मिसेज पम्फ्रे को लगा कि ट्रिकी कुपोषण का शिकार है, इसलिए उन्होंने उसे और अधिक ताकतवर चीज़ें खिलानी शुरू कर दीं, जबकि असली समस्या 'ओवरफीडिंग' थी।"
+      },
+      "key_takeaway": {
+        "en": "Misunderstanding the symptoms led to the wrong treatment at home.",
+        "hi": "लक्षणों को गलत समझने के कारण घर पर गलत इलाज शुरू हो गया।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "What were the 'extras' Mrs. Pumphrey gave Tricki apart from his regular meals?",
+        "hi": "नियमित भोजन के अलावा मिसेज पम्फ्रे ट्रिकी को कौन सी 'अतिरिक्त चीज़ें' देती थीं?"
+      },
+      "options": {
+        "a": {"en": "Fruits and vegetables", "hi": "फल और सब्जियाँ"},
+        "b": {"en": "Malt, cod-liver oil, and a bowl of Horlicks", "hi": "माल्ट, कॉड-लिवर ऑयल और हॉर्लिक्स का एक कटोरा"},
+        "c": {"en": "Only water", "hi": "केवल पानी"},
+        "d": {"en": "Dog biscuits only", "hi": "केवल डॉग बिस्कुट"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "She also couldn't bear to refuse him cream cakes and chocolates.",
+        "hi": "वह उसे क्रीम केक और चॉकलेट देने से भी मना नहीं कर पाती थीं।"
+      },
+      "explanation": {
+        "en": "To 'build him up', she fed him malt and cod-liver oil between meals and Horlicks at night, which only worsened his condition by adding more calories.",
+        "hi": "उसे 'मजबूत' बनाने के लिए, वे उसे माल्ट, कॉड-लिवर ऑयल और रात को हॉर्लिक्स देती थीं।"
+      },
+      "key_takeaway": {
+        "en": "Over-indulgence can be harmful to a pet's health.",
+        "hi": "अत्यधिक लाड़-प्यार पालतू जानवर के स्वास्थ्य के लिए हानिकारक हो सकता है।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "What was Tricki's main fault or problem?",
+        "hi": "ट्रिकी की मुख्य गलती या समस्या क्या थी?"
+      },
+      "options": {
+        "a": {"en": "He was aggressive", "hi": "वह आक्रामक था"},
+        "b": {"en": "He was greedy for food", "hi": "वह खाने का लालची था"},
+        "c": {"en": "He didn't like his mistress", "hi": "वह अपनी मालकिन को पसंद नहीं करता था"},
+        "d": {"en": "He barked too much", "hi": "वह बहुत ज़्यादा भौंकता था"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He had never been known to refuse food and would tackle a meal at any hour.",
+        "hi": "उसे कभी भी खाने से मना करते हुए नहीं देखा गया था और वह किसी भी समय खाना खा सकता था।"
+      },
+      "explanation": {
+        "en": "Tricki’s only fault was greed. He could not say no to food. This, combined with Mrs. Pumphrey's constant feeding, led to his dangerous weight gain.",
+        "hi": "ट्रिकी की एकमात्र कमी उसका लालच था। वह खाने को मना नहीं कर पाता था, और यही उसकी बीमारी का कारण बना।"
+      },
+      "key_takeaway": {
+        "en": "Greed = The root cause of Tricki's illness.",
+        "hi": "लालच = ट्रिकी की बीमारी का मुख्य कारण।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "Who was Hodgkin in the story?",
+        "hi": "कहानी में हॉजकिन (Hodgkin) कौन था?"
+      },
+      "options": {
+        "a": {"en": "A neighbor", "hi": "एक पड़ोसी"},
+        "b": {"en": "The gardener", "hi": "माली (Gardener)"},
+        "c": {"en": "A fellow vet", "hi": "एक साथी पशु चिकित्सक"},
+        "d": {"en": "Mrs. Pumphrey's son", "hi": "मिसेज पम्फ्रे का बेटा"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He used to play 'ring-throw' with Tricki.",
+        "hi": "वह ट्रिकी के साथ 'रिंग-थ्रो' (छल्ला फेंकना) खेला करता था।"
+      },
+      "explanation": {
+        "en": "Hodgkin was the gardener who played with Tricki. However, he was currently unwell with lumbago, so Tricki had no exercise.",
+        "hi": "हॉजकिन माली था। उसकी कमर में दर्द (lumbago) होने के कारण ट्रिकी का व्यायाम बंद हो गया था।"
+      },
+      "key_takeaway": {
+        "en": "No gardener = No exercise for Tricki.",
+        "hi": "माली नहीं = ट्रिकी के लिए कोई व्यायाम नहीं।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "What advice did Mr. Herriot give to Mrs. Pumphrey initially?",
+        "hi": "शुरुआत में मिस्टर हैरियट ने मिसेज पम्फ्रे को क्या सलाह दी थी?"
+      },
+      "options": {
+        "a": {"en": "To buy more toys for Tricki", "hi": "ट्रिकी के लिए और खिलौने खरीदने की"},
+        "b": {"en": "To cut down his food and give him more exercise", "hi": "उसका खाना कम करने और उसे अधिक व्यायाम देने की"},
+        "c": {"en": "To change his shampoo", "hi": "उसका शैम्पू बदलने की"},
+        "d": {"en": "To let him sleep all day", "hi": "उसे पूरा दिन सोने देने की"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He told her that if she didn't harden her heart, Tricki would be seriously ill.",
+        "hi": "उन्होंने उससे कहा था कि यदि उसने अपना दिल सख्त नहीं किया, तो ट्रिकी गंभीर रूप से बीमार हो जाएगा।"
+      },
+      "explanation": {
+        "en": "Mr. Herriot warned Mrs. Pumphrey that Tricki needed a strict diet and regular exercise. Unfortunately, her love made her too weak to follow this advice.",
+        "hi": "मिस्टर हैरियट ने चेतावनी दी थी कि ट्रिकी को सख्त डाइट और व्यायाम की ज़रूरत है।"
+      },
+      "key_takeaway": {
+        "en": "Prevention is better than cure, but it requires discipline.",
+        "hi": "इलाज से बचाव बेहतर है, लेकिन इसके लिए अनुशासन चाहिए।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "Why did Mrs. Pumphrey finally make a frantic call to Mr. Herriot?",
+        "hi": "मिसेज पम्फ्रे ने आखिरकार मिस्टर हैरियट को घबराहट में फोन क्यों किया?"
+      },
+      "options": {
+        "a": {"en": "Tricki ran away", "hi": "ट्रिकी भाग गया था"},
+        "b": {"en": "Tricki refused to eat even his favorite dishes and was vomiting", "hi": "ट्रिकी ने अपने पसंदीदा व्यंजन खाने से भी मना कर दिया था और वह उल्टियाँ कर रहा था"},
+        "c": {"en": "Tricki was barking at the postman", "hi": "ट्रिकी डाकिये पर भौंक रहा था"},
+        "d": {"en": "Tricki wanted a new coat", "hi": "ट्रिकी को नया कोट चाहिए था"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He spent all his time lying on a rug, panting.",
+        "hi": "वह अपना सारा समय एक कालीन पर लेटकर और हाँफते हुए बिताता था।"
+      },
+      "explanation": {
+        "en": "The situation became critical when Tricki stopped eating and had bouts of vomiting. He didn't even want to go for walks, which alarmed Mrs. Pumphrey.",
+        "hi": "जब ट्रिकी ने खाना बंद कर दिया और उल्टियाँ करने लगा, तब मिसेज पम्फ्रे घबरा गईं और डॉक्टर को बुलाया।"
+      },
+      "key_takeaway": {
+        "en": "Loss of appetite in a greedy dog is a sign of severe illness.",
+        "hi": "लालची कुत्ते में भूख की कमी गंभीर बीमारी का संकेत है।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "What plan did Mr. Herriot make to save Tricki?",
+        "hi": "मिस्टर हैरियट ने ट्रिकी को बचाने के लिए क्या योजना बनाई?"
+      },
+      "options": {
+        "a": {"en": "To perform a major surgery", "hi": "एक बड़ी सर्जरी करने की"},
+        "b": {"en": "To hospitalize him for a fortnight", "hi": "उसे पखवाड़े (15 दिन) के लिए अस्पताल में भर्ती करने की"},
+        "c": {"en": "To give him expensive injections", "hi": "उसे महंगे इंजेक्शन देने की"},
+        "d": {"en": "To hire a new trainer", "hi": "एक नया ट्रेनर रखने की"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He knew the only way was to get Tricki out of the house and away from Mrs. Pumphrey's feeding.",
+        "hi": "वे जानते थे कि एकमात्र तरीका ट्रिकी को घर से बाहर और मिसेज पम्फ्रे के लाड़-प्यार से दूर ले जाना है।"
+      },
+      "explanation": {
+        "en": "Mr. Herriot suggested that Tricki be hospitalized for about fifteen days (a fortnight) to be kept under observation. This was more of a trick to control his diet than a medical necessity.",
+        "hi": "मिस्टर हैरियट ने ट्रिकी को 15 दिनों के लिए अस्पताल में रखने का सुझाव दिया ताकि उसे निगरानी में रखा जा सके।"
+      },
+      "key_takeaway": {
+        "en": "Fortnight = A period of two weeks (14-15 days).",
+        "hi": "Fortnight = दो सप्ताह की अवधि (15 दिन)।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "How did Mrs. Pumphrey react when Tricki was being taken away to the surgery?",
+        "hi": "जब ट्रिकी को सर्जरी (अस्पताल) ले जाया जा रहा था, तब मिसेज पम्फ्रे की क्या प्रतिक्रिया थी?"
+      },
+      "options": {
+        "a": {"en": "She was happy to get some rest", "hi": "वह आराम पाकर खुश थी"},
+        "b": {"en": "She almost swooned and the whole staff was in tears", "hi": "वह लगभग बेहोश (swoon) हो गई थीं और पूरा स्टाफ रो रहा था"},
+        "c": {"en": "She was angry with the doctor", "hi": "वह डॉक्टर से नाराज़ थी"},
+        "d": {"en": "She went with them to the hospital", "hi": "वह उनके साथ अस्पताल गई"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "She was sure he would pine and die if he did not see her every day.",
+        "hi": "उन्हें यकीन था कि अगर वह उसे रोज़ नहीं देखेगा, तो वह तड़प-तड़प कर मर जाएगा।"
+      },
+      "explanation": {
+        "en": "Mrs. Pumphrey was devastated. The house was in chaos as maids rushed to bring all of Tricki’s beds, cushions, and bowls to the car.",
+        "hi": "मिसेज पम्फ्रे बहुत दुखी थीं। पूरे घर में अफरा-तफरी मच गई क्योंकि नौकर ट्रिकी का सारा सामान कार में रखने के लिए दौड़ रहे थे।"
+      },
+      "key_takeaway": {
+        "en": "The departure shows the extreme emotional attachment and luxury Tricki lived in.",
+        "hi": "विदाई ट्रिकी के प्रति अत्यधिक भावनात्मक लगाव और उस विलासिता को दर्शाती है जिसमें वह रहता था।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "What did Mr. Herriot give Tricki for the first two days at the surgery?",
+        "hi": "सर्जरी (अस्पताल) में पहले दो दिनों के लिए मिस्टर हैरियट ने ट्रिकी को क्या दिया?"
+      },
+      "options": {
+        "a": {"en": "Only milk", "hi": "केवल दूध"},
+        "b": {"en": "No food, but plenty of water", "hi": "कोई भोजन नहीं, लेकिन खूब सारा पानी"},
+        "c": {"en": "Rich cakes", "hi": "ढेर सारे केक"},
+        "d": {"en": "Medicines and pills", "hi": "दवाइयाँ और गोलियाँ"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The doctor wanted to flush out the excess fat and toxins naturally.",
+        "hi": "डॉक्टर प्राकृतिक रूप से अतिरिक्त वसा (fat) और विषाक्त पदार्थों को बाहर निकालना चाहते थे।"
+      },
+      "explanation": {
+        "en": "For two days, Mr. Herriot gave Tricki no food at all but provided him with lots of water. This helped the dog's digestive system to reset.",
+        "hi": "दो दिनों तक डॉक्टर ने ट्रिकी को कुछ नहीं खिलाया, बस खूब पानी पिलाया। इससे ट्रिकी के पाचन तंत्र को राहत मिली।"
+      },
+      "key_takeaway": {
+        "en": "Fasting and hydration were the first steps of the 'surgery'.",
+        "hi": "उपवास और पानी पिलाना 'सर्जरी' के पहले चरण थे।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "When did Tricki start showing interest in his surroundings at the surgery?",
+        "hi": "सर्जरी में ट्रिकी ने अपने आसपास की चीज़ों में दिलचस्पी दिखाना कब शुरू किया?"
+      },
+      "options": {
+        "a": {"en": "On the very first day", "hi": "पहले ही दिन"},
+        "b": {"en": "On the second day", "hi": "दूसरे दिन"},
+        "c": {"en": "On the third day", "hi": "तीसरे दिन"},
+        "d": {"en": "After a week", "hi": "एक हफ्ते बाद"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "He began to whimper when he heard the other dogs in the yard.",
+        "hi": "आँगन में दूसरे कुत्तों की आवाज़ सुनकर उसने धीमी आवाज़ (whimper) निकालनी शुरू की।"
+      },
+      "explanation": {
+        "en": "On the second day, he started responding, and by the third day, he began to show interest in other dogs and followed them into the garden.",
+        "hi": "तीसरे दिन ट्रिकी ने दूसरे कुत्तों में रुचि दिखाई और उनके पीछे बगीचे में जाने लगा।"
+      },
+      "key_takeaway": {
+        "en": "Socializing with other dogs helped in Tricki's recovery.",
+        "hi": "दूसरे कुत्तों के साथ घुलने-मिलने से ट्रिकी को ठीक होने में मदद मिली।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "What did the other dogs think of Tricki initially?",
+        "hi": "शुरुआत में दूसरे कुत्तों ने ट्रिकी के बारे में क्या सोचा?"
+      },
+      "options": {
+        "a": {"en": "That he was very handsome", "hi": "कि वह बहुत सुंदर है"},
+        "b": {"en": "An uninteresting object", "hi": "एक अरुचिकर वस्तु (uninteresting object)"},
+        "c": {"en": "A new leader", "hi": "एक नया नेता"},
+        "d": {"en": "A dangerous animal", "hi": "एक खतरनाक जानवर"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He lay motionless on the carpet and didn't react to them.",
+        "hi": "वह कालीन पर निश्चल पड़ा रहा और उन्होंने उसे सूंघा पर कोई प्रतिक्रिया नहीं मिली।"
+      },
+      "explanation": {
+        "en": "When the household dogs sniffed him, they found him dull and uninteresting because he had no energy to play. They decided to ignore him for a while.",
+        "hi": "जब घर के कुत्तों ने उसे सूंघा, तो उन्हें वह उबाऊ लगा क्योंकि उसमें खेलने की ताकत नहीं थी।"
+      },
+      "key_takeaway": {
+        "en": "Uninteresting object = How the energetic dogs viewed the lazy Tricki.",
+        "hi": "Uninteresting object = ऊर्जावान कुत्तों ने आलसी ट्रिकी को इसी नज़र से देखा।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "Who was Joe in the story?",
+        "hi": "कहानी में जो (Joe) कौन था?"
+      },
+      "options": {
+        "a": {"en": "A nurse", "hi": "एक नर्स"},
+        "b": {"en": "The greyhound", "hi": "ग्रेहाउंड कुत्ता (Greyhound)"},
+        "c": {"en": "Mr. Herriot's assistant", "hi": "मिस्टर हैरियट का सहायक"},
+        "d": {"en": "A cat", "hi": "एक बिल्ली"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He was one of the dogs at the surgery who played with Tricki.",
+        "hi": "वह अस्पताल के कुत्तों में से एक था जो ट्रिकी के साथ खेलता था।"
+      },
+      "explanation": {
+        "en": "Joe was a greyhound at the surgery. He and his friends eventually accepted Tricki into their 'gang' after he became active.",
+        "hi": "जो अस्पताल में एक शिकारी कुत्ता (greyhound) था।"
+      },
+      "key_takeaway": {
+        "en": "Joe = One of Tricki's new dog friends.",
+        "hi": "जो = ट्रिकी के नए कुत्ता मित्रों में से एक।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "What was the 'scrimmage' that Tricki enjoyed?",
+        "hi": "'स्क्रीमज' (scrimmage) क्या था जिसका ट्रिकी ने आनंद लिया?"
+      },
+      "options": {
+        "a": {"en": "A special dog food", "hi": "एक विशेष डॉग फूड"},
+        "b": {"en": "A rough, playful fight between the dogs", "hi": "कुत्तों के बीच एक मस्ती भरी लड़ाई (scrimmage)"},
+        "c": {"en": "A medical test", "hi": "एक मेडिकल टेस्ट"},
+        "d": {"en": "A long nap", "hi": "एक लंबी नींद"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It involves a lot of running and pushing around with other dogs.",
+        "hi": "इसमें दूसरे कुत्तों के साथ दौड़ना और धक्का-मुक्की करना शामिल है।"
+      },
+      "explanation": {
+        "en": "As Tricki recovered, he joined the other dogs in their friendly, rough plays known as scrimmages. This exercise helped him lose weight and become fit.",
+        "hi": "जैसे-जैसे ट्रिकी ठीक हुआ, वह दूसरे कुत्तों के साथ 'स्क्रीमज' (मस्ती भरी लड़ाई) में शामिल होने लगा।"
+      },
+      "key_takeaway": {
+        "en": "Scrimmage = Playful fighting/exercise for dogs.",
+        "hi": "Scrimmage = कुत्तों के लिए मस्ती भरा खेल या व्यायाम।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "What did Mrs. Pumphrey start sending to build Tricki's strength?",
+        "hi": "मिसेज पम्फ्रे ने ट्रिकी की ताकत बढ़ाने के लिए क्या भेजना शुरू किया?"
+      },
+      "options": {
+        "a": {"en": "Dog toys", "hi": "कुत्ते के खिलौने"},
+        "b": {"en": "Fresh eggs, two dozen at a time", "hi": "ताज़ा अंडे, एक बार में दो दर्जन"},
+        "c": {"en": "Medicine", "hi": "दवा"},
+        "d": {"en": "Milk", "hi": "दूध"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "She thought he needed more protein to recover from his 'illness'.",
+        "hi": "उन्हें लगा कि उसे अपनी 'बीमारी' से उबरने के लिए अधिक प्रोटीन की आवश्यकता है।"
+      },
+      "explanation": {
+        "en": "When she heard Tricki was recovering (convalescing), she started sending two dozen eggs at a time. However, the doctor never gave these to Tricki.",
+        "hi": "जब उन्हें पता चला कि ट्रिकी ठीक हो रहा है, तो उन्होंने दो दर्जन अंडे भेजने शुरू कर दिए।"
+      },
+      "key_takeaway": {
+        "en": "Mrs. Pumphrey's habit of overfeeding continued even during his recovery.",
+        "hi": "मिसेज पम्फ्रे की ज़रूरत से ज़्यादा खिलाने की आदत उसके ठीक होने के दौरान भी जारी रही।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "Who actually consumed the eggs, wine, and brandy sent for Tricki?",
+        "hi": "ट्रिकी के लिए भेजे गए अंडे, वाइन और ब्रांडी का सेवन वास्तव में किसने किया?"
+      },
+      "options": {
+        "a": {"en": "The other dogs", "hi": "दूसरे कुत्तों ने"},
+        "b": {"en": "Mr. Herriot and his partners", "hi": "मिस्टर हैरियट और उनके साथियों ने"},
+        "c": {"en": "The gardener", "hi": "माली ने"},
+        "d": {"en": "Tricki", "hi": "ट्रिकी ने"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It was a 'happy period' for the staff at the surgery.",
+        "hi": "यह अस्पताल के स्टाफ के लिए एक 'खुशनुमा समय' था।"
+      },
+      "explanation": {
+        "en": "The narrator didn't give the rich food to Tricki because that was the cause of his illness. Instead, he and his staff enjoyed the eggs, wine, and brandy themselves.",
+        "hi": "डॉक्टर ने ट्रिकी को वह भारी खाना नहीं दिया क्योंकि वही उसकी बीमारी की जड़ थी। इसके बजाय उन्होंने खुद उसका आनंद लिया।"
+      },
+      "key_takeaway": {
+        "en": "The staff benefited from Mrs. Pumphrey’s over-indulgence.",
+        "hi": "मिसेज पम्फ्रे के अत्यधिक लाड़-प्यार का फायदा स्टाफ को मिला।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "Why was Mr. Herriot tempted to keep Tricki as a permanent guest?",
+        "hi": "मिस्टर हैरियट ट्रिकी को एक स्थायी अतिथि के रूप में रखने के लिए क्यों ललचा रहे थे?"
+      },
+      "options": {
+        "a": {"en": "Because he loved Tricki", "hi": "क्योंकि वे ट्रिकी से प्यार करते थे"},
+        "b": {"en": "Because of the steady supply of eggs, wine, and brandy", "hi": "अंडे, वाइन और ब्रांडी की निरंतर आपूर्ति के कारण"},
+        "c": {"en": "Because Tricki was a very good guard dog", "hi": "क्योंकि ट्रिकी एक बहुत अच्छा गार्ड डॉग था"},
+        "d": {"en": "Because Mrs. Pumphrey paid a lot of rent", "hi": "क्योंकि मिसेज पम्फ्रे बहुत किराया देती थीं"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The luxuries sent for the dog were making the doctor's life very comfortable.",
+        "hi": "कुत्ते के लिए भेजी जा रही विलासिता की चीज़ें डॉक्टर के जीवन को बहुत आरामदायक बना रही थीं।"
+      },
+      "explanation": {
+        "en": "Mr. Herriot was tempted to keep Tricki forever because Mrs. Pumphrey was sending delicious items like two dozen eggs, wine, and brandy every day, which the doctor and his partners were enjoying.",
+        "hi": "मिस्टर हैरियट इसलिए ललचा गए क्योंकि रोज़ाना अंडे, वाइन और ब्रांडी आ रहे थे।"
+      },
+      "key_takeaway": {
+        "en": "Humorous irony: The luxuries meant for the dog were enjoyed by the humans.",
+        "hi": "मज़ाकिया विडंबना: जो ऐश-ओ-आराम कुत्ते के लिए था, उसका आनंद इंसानों ने लिया।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "What transformation did Tricki undergo in two weeks?",
+        "hi": "दो हफ्तों में ट्रिकी में क्या बदलाव आया?"
+      },
+      "options": {
+        "a": {"en": "He became even fatter", "hi": "वह और भी मोटा हो गया"},
+        "b": {"en": "He had been transformed into a lithe, hard-muscled animal", "hi": "वह एक फुर्तीले (lithe) और मजबूत मांसपेशियों वाले जानवर में बदल गया था"},
+        "c": {"en": "He forgot how to bark", "hi": "वह भौंकना भूल गया"},
+        "d": {"en": "He became very aggressive", "hi": "वह बहुत आक्रामक हो गया"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He was now keeping up well with the pack and stretching out in great bounds.",
+        "hi": "वह अब दूसरे कुत्तों के साथ अच्छी तरह दौड़ रहा था और लंबी छलांगें लगा रहा था।"
+      },
+      "explanation": {
+        "en": "Within a fortnight, Tricki recovered completely. From a bloated, lazy dog, he became a 'lithe, hard-muscled animal' who could run and play with other dogs.",
+        "hi": "पंद्रह दिनों में ट्रिकी पूरी तरह ठीक हो गया और एक फुर्तीला, मजबूत कुत्ता बन गया।"
+      },
+      "key_takeaway": {
+        "en": "Lithe = Graceful, flexible, and thin.",
+        "hi": "Lithe = लचीला, सुडौल और फुर्तीला।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "What did Tricki do when he saw Mrs. Pumphrey after two weeks?",
+        "hi": "दो हफ्तों के बाद जब ट्रिकी ने मिसेज पम्फ्रे को देखा, तो उसने क्या किया?"
+      },
+      "options": {
+        "a": {"en": "He hid under the car", "hi": "वह कार के नीचे छिप गया"},
+        "b": {"en": "He took a tremendous leap and sailed into her lap", "hi": "उसने एक ज़बरदस्त छलांग लगाई और उसकी गोद में जा पहुँचा"},
+        "c": {"en": "He started biting her shoes", "hi": "उसने उनके जूते काटने शुरू कर दिए"},
+        "d": {"en": "He didn't recognize her", "hi": "उसने उन्हें पहचाना नहीं"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He was overjoyed to see his mistress again.",
+        "hi": "अपनी मालकिन को दोबारा देखकर वह खुशी से झूम उठा।"
+      },
+      "explanation": {
+        "en": "As soon as Tricki saw Mrs. Pumphrey, he jumped from Mr. Herriot’s arms and sailed into her lap, licking her face and barking with excitement.",
+        "hi": "जैसे ही ट्रिकी ने मिसेज पम्फ्रे को देखा, वह डॉक्टर की गोद से कूदकर सीधे मालकिन की गोद में चला गया।"
+      },
+      "key_takeaway": {
+        "en": "The bond between a pet and owner is pure and emotional.",
+        "hi": "पालतू जानवर और मालिक का रिश्ता पवित्र और भावनात्मक होता है।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "Why did Mrs. Pumphrey call the recovery 'A Triumph of Surgery'?",
+        "hi": "मिसेज पम्फ्रे ने इस सुधार को 'सर्जरी की विजय' (A Triumph of Surgery) क्यों कहा?"
+      },
+      "options": {
+        "a": {"en": "Because a complicated operation was performed", "hi": "क्योंकि एक जटिल ऑपरेशन किया गया था"},
+        "b": {"en": "Because she believed Tricki was cured by the doctor's medical skills", "hi": "क्योंकि उनका मानना था कि ट्रिकी डॉक्टर के चिकित्सकीय कौशल से ठीक हुआ है"},
+        "c": {"en": "Because the hospital was very large", "hi": "क्योंकि अस्पताल बहुत बड़ा था"},
+        "d": {"en": "Because Tricki liked the surgery building", "hi": "क्योंकि ट्रिकी को सर्जरी की इमारत पसंद आई थी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "She didn't know that the only treatment Tricki received was a proper diet and exercise.",
+        "hi": "उन्हें नहीं पता था कि ट्रिकी का एकमात्र इलाज सही खान-पान और व्यायाम था।"
+      },
+      "explanation": {
+        "en": "Mrs. Pumphrey was so impressed by the rapid change in Tricki that she called it a 'triumph of surgery'. In reality, no surgery was performed; only his lifestyle was corrected.",
+        "hi": "मिसेज पम्फ्रे ट्रिकी के बदलाव से इतनी प्रभावित हुईं कि उन्होंने इसे 'सर्जरी की जीत' कहा, जबकि कोई सर्जरी हुई ही नहीं थी।"
+      },
+      "key_takeaway": {
+        "en": "The title is ironic because the cure was natural, not surgical.",
+        "hi": "शीर्षक विडंबनापूर्ण है क्योंकि इलाज प्राकृतिक था, सर्जरी से नहीं।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "What is the meaning of the word 'distraught' used for Mrs. Pumphrey?",
+        "hi": "मिसेज पम्फ्रे के लिए इस्तेमाल किए गए 'डिस्ट्राउट' (distraught) शब्द का क्या अर्थ है?"
+      },
+      "options": {
+        "a": {"en": "Very happy", "hi": "बहुत खुश"},
+        "b": {"en": "Extremely worried and upset", "hi": "बेहद चिंतित और परेशान (distraught)"},
+        "c": {"en": "Very angry", "hi": "बहुत नाराज़"},
+        "d": {"en": "Confident", "hi": "आत्मविश्वासी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It describes her state when Tricki stopped eating and kept vomiting.",
+        "hi": "यह उनकी उस स्थिति का वर्णन करता है जब ट्रिकी ने खाना बंद कर दिया और उल्टियाँ करने लगा।"
+      },
+      "explanation": {
+        "en": "Distraught means being deeply agitated or upset. Mrs. Pumphrey was distraught because she loved Tricki like a child and couldn't see him suffering.",
+        "hi": "Distraught का अर्थ है गहरे मानसिक संकट या चिंता में होना।"
+      },
+      "key_takeaway": {
+        "en": "Distraught = Deeply upset and worried.",
+        "hi": "Distraught = बहुत परेशान और चिंतित।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "What did the doctor do with the toys and cushions sent by Mrs. Pumphrey?",
+        "hi": "मिसेज पम्फ्रे द्वारा भेजे गए खिलौनों और कुशनों का डॉक्टर ने क्या किया?"
+      },
+      "options": {
+        "a": {"en": "He gave them to Tricki", "hi": "उन्होंने वे ट्रिकी को दे दिए"},
+        "b": {"en": "He never used them", "hi": "उन्होंने उनका कभी उपयोग नहीं किया"},
+        "c": {"en": "He sold them", "hi": "उन्होंने उन्हें बेच दिया"},
+        "d": {"en": "He gave them to the other dogs", "hi": "उन्होंने वे दूसरे कुत्तों को दे दिए"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The narrator mentioned at the end that the toys and cushions were 'unused'.",
+        "hi": "कथावाचक ने अंत में उल्लेख किया कि खिलौनों और कुशनों का 'उपयोग नहीं' किया गया था।"
+      },
+      "explanation": {
+        "en": "Mr. Herriot knew that Tricki needed a normal dog's life, not luxury. So, all the fancy beds, toys, and cushions remained unused in the surgery.",
+        "hi": "मिस्टर हैरियट जानते थे कि ट्रिकी को विलासिता नहीं, बल्कि एक सामान्य जीवन चाहिए। इसलिए सारा सामान बिना इस्तेमाल के पड़ा रहा।"
+      },
+      "key_takeaway": {
+        "en": "Recovery came from discipline, not from material comforts.",
+        "hi": "सुधार अनुशासन से आया, भौतिक सुख-सुविधाओं से नहीं।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "Which of these words best describes Mr. Herriot?",
+        "hi": "इनमें से कौन सा शब्द मिस्टर हैरियट का सबसे अच्छा वर्णन करता है?"
+      },
+      "options": {
+        "a": {"en": "Greedy", "hi": "लालची"},
+        "b": {"en": "Tactful and practical", "hi": "चतुर (tactful) और व्यावहारिक (practical)"},
+        "c": {"en": "Careless", "hi": "लापरवाह"},
+        "d": {"en": "Cruel", "hi": "क्रूर"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He knew exactly how to handle both the dog and its emotional owner.",
+        "hi": "वे जानते थे कि कुत्ते और उसकी भावुक मालकिन दोनों को कैसे संभालना है।"
+      },
+      "explanation": {
+        "en": "Mr. Herriot was tactful because he convinced Mrs. Pumphrey to hospitalize Tricki, knowing she wouldn't follow the diet at home. He was practical because he used exercise and fasting instead of surgery.",
+        "hi": "मिस्टर हैरियट चतुर थे क्योंकि उन्होंने मिसेज पम्फ्रे को ट्रिकी को अस्पताल भेजने के लिए मना लिया।"
+      },
+      "key_takeaway": {
+        "en": "A good professional knows how to manage people as well as problems.",
+        "hi": "एक अच्छा पेशेवर समस्याओं के साथ-साथ लोगों को भी मैनेज करना जानता है।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "What did the narrator see in the mirror before he turned the corner?",
+        "hi": "मोड़ मुड़ने से पहले कथावाचक ने शीशे (mirror) में क्या देखा?"
+      },
+      "options": {
+        "a": {"en": "A clear road", "hi": "एक साफ सड़क"},
+        "b": {"en": "Everybody in tears", "hi": "हर किसी की आँखों में आँसू"},
+        "c": {"en": "Tricki jumping", "hi": "ट्रिकी उछल रहा था"},
+        "d": {"en": "Mrs. Pumphrey waving", "hi": "मिसेज पम्फ्रे हाथ हिला रही थीं"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It was a very emotional moment for the entire household staff.",
+        "hi": "यह पूरे घर के स्टाफ के लिए बहुत ही भावुक क्षण था।"
+      },
+      "explanation": {
+        "en": "As Mr. Herriot drove away with Tricki, he looked in the mirror and saw that everyone—Mrs. Pumphrey and the servants—was in tears.",
+        "hi": "जैसे ही डॉक्टर ट्रिकी को लेकर चले, उन्होंने देखा कि मालकिन और नौकर सब रो रहे थे।"
+      },
+      "key_takeaway": {
+        "en": "The scene highlights the depth of the household's attachment to the pet.",
+        "hi": "यह दृश्य पालतू जानवर के प्रति घर के सदस्यों के गहरे लगाव को दर्शाता है।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "What is the meaning of 'convalescing'?",
+        "hi": "'Convalescing' का क्या अर्थ है?"
+      },
+      "options": {
+        "a": {"en": "Getting worse", "hi": "हालत खराब होना"},
+        "b": {"en": "Recovering from an illness", "hi": "बीमारी से उबरना (ठीक होना)"},
+        "c": {"en": "Sleeping deeply", "hi": "गहरी नींद में सोना"},
+        "d": {"en": "Crying loudly", "hi": "ज़ोर से रोना"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Mrs. Pumphrey started sending eggs as soon as she heard this word.",
+        "hi": "मिसेज पम्फ्रे ने जैसे ही यह शब्द सुना, उन्होंने अंडे भेजना शुरू कर दिया।"
+      },
+      "explanation": {
+        "en": "Convalescing means to recover one's health and strength after an illness. Tricki’s rapid recovery prompted Mrs. Pumphrey to send more food to help him.",
+        "hi": "Convalescing का अर्थ है बीमारी के बाद स्वास्थ्य में सुधार होना।"
+      },
+      "key_takeaway": {
+        "en": "Convalesce = Recovery period.",
+        "hi": "Convalesce = स्वास्थ्य लाभ की अवधि।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "What does 'triumph' mean?",
+        "hi": "'Triumph' का क्या अर्थ है?"
+      },
+      "options": {
+        "a": {"en": "A defeat", "hi": "एक हार"},
+        "b": {"en": "A great victory or achievement", "hi": "एक बड़ी जीत या उपलब्धि (triumph)"},
+        "c": {"en": "A hospital", "hi": "एक अस्पताल"},
+        "d": {"en": "A type of dog", "hi": "कुत्ते का एक प्रकार"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It is used in the title of the story to describe the successful recovery of Tricki.",
+        "hi": "इसका उपयोग कहानी के शीर्षक में ट्रिकी की सफल रिकवरी का वर्णन करने के लिए किया गया है।"
+      },
+      "explanation": {
+        "en": "Triumph refers to a significant success or victory. Mrs. Pumphrey viewed Tricki's health as a great victory for the doctor's surgery.",
+        "hi": "Triumph का अर्थ है एक बड़ी जीत या सफलता।"
+      },
+      "key_takeaway": {
+        "en": "Triumph = Victory.",
+        "hi": "Triumph = विजय।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "What lesson does 'A Triumph of Surgery' teach us?",
+        "hi": "'A Triumph of Surgery' हमें क्या सबक सिखाती है?"
+      },
+      "options": {
+        "a": {"en": "To always feed our pets well", "hi": "अपने पालतू जानवरों को हमेशा खूब खिलाना चाहिए"},
+        "b": {"en": "Excessive love and over-indulgence can be harmful", "hi": "अत्यधिक प्यार और बहुत ज़्यादा लाड़-प्यार हानिकारक हो सकता है"},
+        "c": {"en": "Surgery is always necessary for illness", "hi": "बीमारी के लिए सर्जरी हमेशा ज़रूरी होती है"},
+        "d": {"en": "Doctors should eat the patient's food", "hi": "डॉक्टरों को मरीज का खाना खाना चाहिए"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Think about how Mrs. Pumphrey's 'kindness' actually made Tricki sick.",
+        "hi": "सोचें कि मिसेज पम्फ्रे की 'दयालुता' ने वास्तव में ट्रिकी को कैसे बीमार किया।"
+      },
+      "explanation": {
+        "en": "The story teaches that too much pampering and overfeeding can harm those we love. Practicality and self-control are essential for good health.",
+        "hi": "कहानी सिखाती है कि बहुत ज़्यादा लाड़-प्यार और ज़रूरत से ज़्यादा खिलाना नुकसान पहुँचा सकता है।"
+      },
+      "key_takeaway": {
+        "en": "Balance and discipline are keys to a healthy life.",
+        "hi": "संतुलन और अनुशासन स्वस्थ जीवन की कुंजी हैं।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "What did the chauffeur do when the bus arrived?",
+        "hi": "जब बस (कार) पहुँची तो शोफ़र (ड्राइवर) ने क्या किया?"
+      },
+      "options": {
+        "a": {"en": "He ran away", "hi": "वह भाग गया"},
+        "b": {"en": "He opened the door and waited for Mrs. Pumphrey", "hi": "उसने दरवाज़ा खोला और मिसेज पम्फ्रे का इंतज़ार किया"},
+        "c": {"en": "He started cleaning the car", "hi": "वह कार साफ करने लगा"},
+        "d": {"en": "He went to fetch Tricki", "hi": "वह ट्रिकी को लेने गया"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The chauffeur is a private driver for a wealthy person.",
+        "hi": "शोफ़र (Chauffeur) एक अमीर व्यक्ति का निजी ड्राइवर होता है।"
+      },
+      "explanation": {
+        "en": "When Mrs. Pumphrey arrived in her gleaming black car, the chauffeur held the door open for her. This detail emphasizes her high social status.",
+        "hi": "जब मिसेज पम्फ्रे आईं, तो उनके ड्राइवर ने उनके लिए दरवाज़ा खोला।"
+      },
+      "key_takeaway": {
+        "en": "The chauffeur and the 'thirty feet of gleaming black metal' car signify wealth.",
+        "hi": "ड्राइवर और 'चमचमाती काली धातु' वाली कार अमीरी का संकेत हैं।"
+      }
+    }
+  ]
+}

@@ -1,0 +1,539 @@
+{
+  "metadata": {
+    "unit_number": 1,
+    "unit_title": "Poems by Robert Frost",
+    "poems": ["Dust of Snow", "Fire and Ice"],
+    "subject": "English (First Flight) - Class 10",
+    "board": "HPBOSE (NCERT)",
+    "total_questions": 20,
+    "version": "1.0",
+    "naming_convention": "10_EN_FF_P_Unit01_FrostPoems.json"
+  },
+  "validation_report": {
+    "is_valid": true,
+    "checked_by": "AI Tutor",
+    "notes": "Focused on literary devices, symbolism, and thematic depth for both poems."
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "Who is the poet of 'Dust of Snow'?",
+        "hi": "'डस्ट ऑफ स्नो' (Dust of Snow) के कवि कौन हैं?"
+      },
+      "options": {
+        "a": {"en": "Leslie Norris", "hi": "लेस्ली नॉरिस"},
+        "b": {"en": "Robert Frost", "hi": "रॉबर्ट फ्रॉस्ट"},
+        "c": {"en": "Carolyn Wells", "hi": "कैरोलिन वेल्स"},
+        "d": {"en": "Robin Klein", "hi": "रॉबिन क्लेन"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He is a famous American poet known for his simple yet deep poems about nature.",
+        "hi": "वे एक प्रसिद्ध अमेरिकी कवि हैं जो प्रकृति के बारे में अपनी सरल लेकिन गहरी कविताओं के लिए जाने जाते हैं।"
+      },
+      "explanation": {
+        "en": "Robert Frost wrote 'Dust of Snow'. He often uses natural elements to reflect complex human emotions and situations.",
+        "hi": "रॉबर्ट फ्रॉस्ट ने 'डस्ट ऑफ स्नो' लिखी है। वे अक्सर मानवीय भावनाओं को दर्शाने के लिए प्राकृतिक तत्वों का उपयोग करते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Robert Frost = Poet of nature and human psychology.",
+        "hi": "रॉबर्ट फ्रॉस्ट = प्रकृति और मानव मनोविज्ञान के कवि।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "What did the crow shake down on the poet?",
+        "hi": "कौवे ने कवि पर क्या गिराया?"
+      },
+      "options": {
+        "a": {"en": "Dust of soil", "hi": "मिट्टी की धूल"},
+        "b": {"en": "Dust of snow", "hi": "बर्फ के कण (Dust of snow)"},
+        "c": {"en": "Leaves", "hi": "पत्तियाँ"},
+        "d": {"en": "Fruit", "hi": "फल"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The title of the poem gives you the direct answer.",
+        "hi": "कविता का शीर्षक ही आपको सीधा उत्तर देता है।"
+      },
+      "explanation": {
+        "en": "A crow sitting on the tree shook down small particles or 'dust' of snow onto the poet, which changed his mood.",
+        "hi": "पेड़ पर बैठे एक कौवे ने कवि पर बर्फ के छोटे कण गिराए, जिससे उनका मूड बदल गया।"
+      },
+      "key_takeaway": {
+        "en": "Dust of Snow = Fine particles of snow.",
+        "hi": "Dust of Snow = बर्फ के बारीक कण।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "Where was the crow sitting?",
+        "hi": "कौवा कहाँ बैठा था?"
+      },
+      "options": {
+        "a": {"en": "On a Banyan tree", "hi": "बरगद के पेड़ पर"},
+        "b": {"en": "On a Hemlock tree", "hi": "एक हेमलॉक (धतूरे) के पेड़ पर"},
+        "c": {"en": "On a Peepal tree", "hi": "पीपल के पेड़ पर"},
+        "d": {"en": "On a Pine tree", "hi": "देवदार के पेड़ पर"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The tree mentioned is a poisonous plant with small white flowers.",
+        "hi": "उल्लेख किया गया पेड़ एक जहरीला पौधा है जिसमें छोटे सफेद फूल होते हैं।"
+      },
+      "explanation": {
+        "en": "The crow was sitting on a 'Hemlock tree'. In literature, both the crow and the hemlock tree are usually associated with sorrow or bad omens.",
+        "hi": "कौवा 'हेमलॉक' के पेड़ पर बैठा था। साहित्य में कौवा और हेमलॉक दोनों को आमतौर पर दुख का प्रतीक माना जाता है।"
+      },
+      "key_takeaway": {
+        "en": "Hemlock Tree = A poisonous tree symbolizing sorrow.",
+        "hi": "Hemlock Tree = दुख का प्रतीक एक जहरीला पेड़।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "How did the poet's mood change after the snow fell on him?",
+        "hi": "बर्फ गिरने के बाद कवि का मूड कैसे बदल गया?"
+      },
+      "options": {
+        "a": {"en": "He became angrier", "hi": "वह और अधिक क्रोधित हो गया"},
+        "b": {"en": "It changed from bad to good", "hi": "वह बुरे से अच्छे में बदल गया"},
+        "c": {"en": "He felt sleepy", "hi": "उसे नींद आने लगी"},
+        "d": {"en": "He started crying", "hi": "वह रोने लगा"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The snow gave his heart a 'change of mood'.",
+        "hi": "बर्फ ने उनके दिल के 'मूड को बदल' दिया।"
+      },
+      "explanation": {
+        "en": "The poet was having a bad day and felt depressed. The simple action of falling snow refreshed him and saved the rest of his day from being wasted in regret.",
+        "hi": "कवि का दिन खराब जा रहा था, लेकिन बर्फ गिरने से उन्हें खुशी मिली और उनका बाकी दिन बर्बाद होने से बच गया।"
+      },
+      "key_takeaway": {
+        "en": "Even small natural events can bring mental relief.",
+        "hi": "प्रकृति की छोटी-छोटी घटनाएँ भी मानसिक राहत दे सकती हैं।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "What is the meaning of the word 'rued'?",
+        "hi": "'Rued' शब्द का क्या अर्थ है?"
+      },
+      "options": {
+        "a": {"en": "Enjoyed", "hi": "आनंद लिया"},
+        "b": {"en": "Held in regret", "hi": "पछतावे में रहना"},
+        "c": {"en": "Forgotten", "hi": "भूल गया"},
+        "d": {"en": "Celebrated", "hi": "जश्न मनाया"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The poet said he had 'rued' part of a day before the snow fell.",
+        "hi": "कवि ने कहा कि बर्फ गिरने से पहले उन्होंने दिन का एक हिस्सा 'पछतावे' में बिताया था।"
+      },
+      "explanation": {
+        "en": "To 'rue' means to feel regret or sorrow over something. The poet felt bad about how his day was going until the crow intervened.",
+        "hi": "Rue का अर्थ है किसी बात पर पछताना। कवि को दुख था कि उनका दिन खराब जा रहा था।"
+      },
+      "key_takeaway": {
+        "en": "Rued = Regretted.",
+        "hi": "Rued = पछतावा किया।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "What does the poet try to convey through 'Dust of Snow'?",
+        "hi": "कवि 'डस्ट ऑफ स्नो' के माध्यम से क्या संदेश देना चाहता है?"
+      },
+      "options": {
+        "a": {"en": "Nature is scary", "hi": "प्रकृति डरावनी है"},
+        "b": {"en": "Small things can change our perspective and mood", "hi": "छोटी चीजें हमारे नजरिए और मूड को बदल सकती हैं"},
+        "c": {"en": "Crows are lucky birds", "hi": "कौवे भाग्यशाली पक्षी होते हैं"},
+        "d": {"en": "Snow is dangerous", "hi": "बर्फ खतरनाक है"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Think about how a simple crow and a poisonous tree helped the poet.",
+        "hi": "सोचें कि कैसे एक साधारण कौवे और एक जहरीले पेड़ ने कवि की मदद की।"
+      },
+      "explanation": {
+        "en": "The poem shows that nature is a healer. Even elements often considered 'negative' (like a crow or a hemlock tree) can bring positive change in a person's life.",
+        "hi": "कविता दिखाती है कि प्रकृति एक उपचारक (healer) है। नकारात्मक चीजें भी जीवन में सकारात्मक बदलाव ला सकती हैं।"
+      },
+      "key_takeaway": {
+        "en": "Positivity can be found in unconventional places.",
+        "hi": "सकारात्मकता अपरंपरागत जगहों पर भी मिल सकती है।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "What is the rhyme scheme of the poem 'Dust of Snow'?",
+        "hi": "'डस्ट ऑफ स्नो' कविता की तुकबंदी (Rhyme Scheme) क्या है?"
+      },
+      "options": {
+        "a": {"en": "aaaa", "hi": "aaaa"},
+        "b": {"en": "abab cdcd", "hi": "abab cdcd"},
+        "c": {"en": "aabb", "hi": "aabb"},
+        "d": {"en": "abba", "hi": "abba"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Look at the ending sounds: Crow/Snow (a), Me/Tree (b).",
+        "hi": "अंतिम ध्वनियों को देखें: Crow/Snow (a), Me/Tree (b)।"
+      },
+      "explanation": {
+        "en": "The first stanza rhymes Crow with Snow and Me with Tree (abab). The second stanza rhymes Heart with Part and Mood with Rued (cdcd).",
+        "hi": "पहली कविता में 'Crow' और 'Snow' तुकबंदी करते हैं, इसलिए यह abab cdcd पैटर्न है।"
+      },
+      "key_takeaway": {
+        "en": "The poem follows a simple, alternating rhyme scheme.",
+        "hi": "कविता एक सरल और वैकल्पिक तुकबंदी का अनुसरण करती है।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "Which poetic device is used in 'Has given my heart'?",
+        "hi": "'Has given my heart' में किस काव्य अलंकार (Poetic Device) का प्रयोग किया गया है?"
+      },
+      "options": {
+        "a": {"en": "Simile", "hi": "उपमा"},
+        "b": {"en": "Alliteration", "hi": "अनुप्रास (Alliteration)"},
+        "c": {"en": "Metaphor", "hi": "रूपक"},
+        "d": {"en": "Oxymoron", "hi": "विरोधाभास"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Notice the repetition of the 'h' sound at the beginning of the words.",
+        "hi": "शब्दों की शुरुआत में 'h' ध्वनि की पुनरावृत्ति पर ध्यान दें।"
+      },
+      "explanation": {
+        "en": "Alliteration is the repetition of consonant sounds at the beginning of neighboring words. Here, 'H' is repeated in 'Has' and 'Heart'.",
+        "hi": "जब एक ही वर्ण की आवृत्ति बार-बार होती है, तो उसे अनुप्रास (Alliteration) कहते हैं। यहाँ 'H' की आवृत्ति हुई है।"
+      },
+      "key_takeaway": {
+        "en": "Alliteration = Repetition of initial consonant sounds.",
+        "hi": "Alliteration = शुरुआती व्यंजन ध्वनियों की पुनरावृत्ति।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "What does the 'Crow' generally symbolize in poems?",
+        "hi": "कविताओं में 'कौवा' आम तौर पर किसका प्रतीक होता है?"
+      },
+      "options": {
+        "a": {"en": "Happiness", "hi": "खुशी"},
+        "b": {"en": "Ill-omen or sorrow", "hi": "अपशकुन या दुख"},
+        "c": {"en": "Beauty", "hi": "सुंदरता"},
+        "d": {"en": "Speed", "hi": "रफ्तार"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Crows are often considered dark and gloomy birds in literature.",
+        "hi": "साहित्य में कौवे को अक्सर अंधेरे और उदास पक्षी के रूप में माना जाता है।"
+      },
+      "explanation": {
+        "en": "Crows are typically symbols of bad luck or sadness. However, Frost uses it to bring a positive change, breaking the stereotype.",
+        "hi": "कौवे आमतौर पर अपशकुन के प्रतीक होते हैं, लेकिन फ्रॉस्ट ने इसका उपयोग सकारात्मक बदलाव लाने के लिए किया है।"
+      },
+      "key_takeaway": {
+        "en": "Frost uses 'negative' symbols to produce a 'positive' result.",
+        "hi": "फ्रॉस्ट सकारात्मक परिणाम देने के लिए 'नकारात्मक' प्रतीकों का उपयोग करते हैं।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "The dust of snow 'saved some part' of the day. What does this mean?",
+        "hi": "बर्फ के कणों ने दिन के 'कुछ हिस्से को बचा लिया'। इसका क्या अर्थ है?"
+      },
+      "options": {
+        "a": {"en": "The snow stopped the sun from rising", "hi": "बर्फ ने सूरज को उगने से रोक दिया"},
+        "b": {"en": "It prevented the rest of the day from being wasted in sadness", "hi": "इसने बाकी दिन को दुख में बर्बाद होने से बचा लिया"},
+        "c": {"en": "The poet collected the snow", "hi": "कवि ने बर्फ इकट्ठी की"},
+        "d": {"en": "The day became longer", "hi": "दिन लंबा हो गया"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The poet was unhappy, but the snow changed his mood for the better.",
+        "hi": "कवि दुखी था, लेकिन बर्फ ने उसका मूड बेहतर कर दिया।"
+      },
+      "explanation": {
+        "en": "The poet felt his whole day was ruined, but the experience with the snow refreshed him, allowing him to enjoy the remaining part of the day.",
+        "hi": "कवि को लगा कि उसका पूरा दिन खराब हो गया, लेकिन बर्फ के अनुभव ने उसे तरोताजा कर दिया।"
+      },
+      "key_takeaway": {
+        "en": "Perspective can save us from self-destruction.",
+        "hi": "नजरिया हमें खुद को दुखी करने से बचा सकता है।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "In 'Fire and Ice', what does 'Fire' symbolize?",
+        "hi": "'फायर एंड आइस' में 'अग्नि' (Fire) किसका प्रतीक है?"
+      },
+      "options": {
+        "a": {"en": "Love", "hi": "प्यार"},
+        "b": {"en": "Desire and Lust", "hi": "इच्छा और वासना (Desire and Lust)"},
+        "c": {"en": "Happiness", "hi": "खुशी"},
+        "d": {"en": "Coldness", "hi": "ठंडापन"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Fire represents the hot and uncontrolled emotions of humans.",
+        "hi": "अग्नि मनुष्य की तीव्र और अनियंत्रित भावनाओं का प्रतिनिधित्व करती है।"
+      },
+      "explanation": {
+        "en": "In the poem, 'fire' stands for greed, lust, and uncontrollable desires that can burn and destroy the world.",
+        "hi": "कविता में 'अग्नि' लालच और असीमित इच्छाओं का प्रतीक है जो दुनिया को नष्ट कर सकती हैं।"
+      },
+      "key_takeaway": {
+        "en": "Fire = Desire.",
+        "hi": "Fire = इच्छा।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "What does 'Ice' symbolize in the poem?",
+        "hi": "कविता में 'बर्फ' (Ice) किसका प्रतीक है?"
+      },
+      "options": {
+        "a": {"en": "Purity", "hi": "पवित्रता"},
+        "b": {"en": "Hatred and Rigidity", "hi": "नफरत और कठोरता (Hatred and Rigidity)"},
+        "c": {"en": "Peace", "hi": "शांति"},
+        "d": {"en": "Nature", "hi": "प्रकृति"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Ice is cold and silent, just like certain human emotions that divide people.",
+        "hi": "बर्फ ठंडी और शांत होती है, ठीक वैसी ही मानवीय भावनाएं जो लोगों को बांटती हैं।"
+      },
+      "explanation": {
+        "en": "'Ice' symbolizes hatred, coldness of heart, and indifference. It can slowly and silently destroy relationships and the world.",
+        "hi": "'बर्फ' नफरत और संवेदनहीनता का प्रतीक है। यह धीरे-धीरे और चुपचाप दुनिया को खत्म कर सकती है।"
+      },
+      "key_takeaway": {
+        "en": "Ice = Hatred.",
+        "hi": "Ice = नफरत।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "According to the poet, how will the world end?",
+        "hi": "कवि के अनुसार संसार का अंत कैसे होगा?"
+      },
+      "options": {
+        "a": {"en": "Only by fire", "hi": "केवल आग से"},
+        "b": {"en": "Only by ice", "hi": "केवल बर्फ से"},
+        "c": {"en": "Either by fire or by ice", "hi": "या तो आग से या बर्फ से"},
+        "d": {"en": "By an earthquake", "hi": "भूकंप से"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "The poet discusses two popular theories about the end of the world.",
+        "hi": "कवि दुनिया के अंत के बारे में दो लोकप्रिय सिद्धांतों पर चर्चा करता है।"
+      },
+      "explanation": {
+        "en": "The poet mentions that some people say the world will end in fire, while others say ice. He concludes that both are powerful enough to destroy it.",
+        "hi": "कवि का कहना है कि दुनिया के अंत के लिए आग और बर्फ दोनों ही काफी शक्तिशाली हैं।"
+      },
+      "key_takeaway": {
+        "en": "Both extreme emotions (desire and hate) are destructive.",
+        "hi": "दोनों ही भावनाएं (इच्छा और नफरत) विनाशकारी हैं।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "Who does the poet side with at first?",
+        "hi": "शुरुआत में कवि किसका पक्ष लेता है?"
+      },
+      "options": {
+        "a": {"en": "Those who favor ice", "hi": "जो बर्फ का पक्ष लेते हैं"},
+        "b": {"en": "Those who favor fire", "hi": "जो आग का पक्ष लेते हैं (Those who favor fire)"},
+        "c": {"en": "Those who say the world won't end", "hi": "जो कहते हैं दुनिया खत्म नहीं होगी"},
+        "d": {"en": "None of the above", "hi": "उपरोक्त में से कोई नहीं"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He says, 'I hold with those who favor fire' based on his experience with desire.",
+        "hi": "वे इच्छा के अपने अनुभव के आधार पर कहते हैं, 'मैं उन लोगों के साथ हूँ जो आग का पक्ष लेते हैं'।"
+      },
+      "explanation": {
+        "en": "The poet has tasted enough 'desire' (fire) to believe that fire will likely be the cause of the world's end.",
+        "hi": "कवि ने 'इच्छा' का स्वाद चखा है, इसलिए उसे लगता है कि आग ही दुनिया के अंत का कारण बनेगी।"
+      },
+      "key_takeaway": {
+        "en": "Personal experience often shapes our first opinion.",
+        "hi": "व्यक्तिगत अनुभव अक्सर हमारी पहली राय बनाता है।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "What is the meaning of 'perish'?",
+        "hi": "'Perish' का क्या अर्थ है?"
+      },
+      "options": {
+        "a": {"en": "To grow", "hi": "बढ़ना"},
+        "b": {"en": "To die or be destroyed", "hi": "मरना या नष्ट होना (To die)"},
+        "c": {"en": "To shine", "hi": "चमकना"},
+        "d": {"en": "To live forever", "hi": "हमेशा जीवित रहना"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The poet says 'if it had to perish twice...'",
+        "hi": "कवि कहता है 'अगर इसे दो बार नष्ट (perish) होना पड़े...'"
+      },
+      "explanation": {
+        "en": "'Perish' means to die or come to an end, especially in a violent or sudden way. Here, it refers to the end of the world.",
+        "hi": "Perish का अर्थ है समाप्त हो जाना या नष्ट हो जाना।"
+      },
+      "key_takeaway": {
+        "en": "Perish = Die/Destroyed.",
+        "hi": "Perish = नष्ट होना।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "Why is ice considered 'sufficient' for destruction?",
+        "hi": "विनाश के लिए बर्फ को 'पर्याप्त' (sufficient) क्यों माना गया है?"
+      },
+      "options": {
+        "a": {"en": "Because it is very cold", "hi": "क्योंकि यह बहुत ठंडी है"},
+        "b": {"en": "Because hatred is as powerful as desire in causing harm", "hi": "क्योंकि नफरत भी नुकसान पहुँचाने में इच्छा जितनी ही शक्तिशाली है"},
+        "c": {"en": "Because there is a lot of ice on Earth", "hi": "क्योंकि पृथ्वी पर बहुत सारी बर्फ है"},
+        "d": {"en": "Because people love ice", "hi": "क्योंकि लोग बर्फ पसंद करते हैं"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Hatred (ice) can kill a person or a world silently.",
+        "hi": "नफरत (बर्फ) चुपचाप किसी व्यक्ति या दुनिया को खत्म कर सकती है।"
+      },
+      "explanation": {
+        "en": "The poet believes that if the world were to end a second time, hatred (ice) would be just as effective and powerful as fire to destroy everything.",
+        "hi": "कवि का मानना है कि नफरत भी दुनिया को नष्ट करने के लिए उतनी ही 'पर्याप्त' है जितनी आग।"
+      },
+      "key_takeaway": {
+        "en": "Suffice = Be enough/adequate.",
+        "hi": "Suffice = पर्याप्त होना।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "What is the rhyme scheme of 'Fire and Ice'?",
+        "hi": "'फायर एंड आइस' की तुकबंदी (Rhyme Scheme) क्या है?"
+      },
+      "options": {
+        "a": {"en": "aabb ccdd", "hi": "aabb ccdd"},
+        "b": {"en": "aba abc bcb", "hi": "aba abc bcb"},
+        "c": {"en": "aaaa bbbb", "hi": "aaaa bbbb"},
+        "d": {"en": "abcd abcd", "hi": "abcd abcd"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Fire (a), Ice (b), Desire (a), Ice (b), Hate (c)...",
+        "hi": "Fire (a), Ice (b), Desire (a), Ice (b), Hate (c)..."
+      },
+      "explanation": {
+        "en": "The rhyme scheme is complex: Fire/Desire/Fire (a), Ice/Twice/Ice/Suffice (b), Hate/Great (c). It follows the pattern aba abc bcb.",
+        "hi": "यह कविता एक विशिष्ट तुकबंदी का पालन करती है जो इसके अर्थ को जोड़ती है।"
+      },
+      "key_takeaway": {
+        "en": "Frost uses rhyme to link opposing ideas (Fire/Ice).",
+        "hi": "फ्रॉस्ट विरोधी विचारों को जोड़ने के लिए तुकबंदी का उपयोग करते हैं।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "What is the tone of the poet in 'Fire and Ice'?",
+        "hi": "'फायर एंड आइस' में कवि का लहज़ा (Tone) कैसा है?"
+      },
+      "options": {
+        "a": {"en": "Joyful", "hi": "हर्षित"},
+        "b": {"en": "Serious and Philosophical", "hi": "गंभीर और दार्शनिक (Serious and Philosophical)"},
+        "c": {"en": "Romantic", "hi": "रोमांटिक"},
+        "d": {"en": "Silly", "hi": "मूर्खतापूर्ण"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He is talking about the end of the world and deep human emotions.",
+        "hi": "वह दुनिया के अंत और गहरी मानवीय भावनाओं के बारे में बात कर रहा है।"
+      },
+      "explanation": {
+        "en": "The poet uses a serious and thoughtful tone to discuss how human flaws can lead to global destruction.",
+        "hi": "कवि मानवीय दोषों और उनके विनाशकारी परिणामों पर चर्चा करने के लिए एक गंभीर लहज़ा अपनाता है।"
+      },
+      "key_takeaway": {
+        "en": "The poem is a warning for humanity.",
+        "hi": "यह कविता मानवता के लिए एक चेतावनी है।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "Which poetic device is used in 'To say that for destruction ice is also great'?",
+        "hi": "'To say that for destruction ice is also great' में किस काव्य अलंकार का प्रयोग है?"
+      },
+      "options": {
+        "a": {"en": "Personification", "hi": "मानवीकरण"},
+        "b": {"en": "Imagery", "hi": "चित्रात्मकता (Imagery)"},
+        "c": {"en": "Alliteration", "hi": "अनुप्रास"},
+        "d": {"en": "Simile", "hi": "उपमा"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The poet creates a mental picture of a world being destroyed by coldness.",
+        "hi": "कवि ठंड से नष्ट हो रही दुनिया की एक मानसिक तस्वीर बनाता है।"
+      },
+      "explanation": {
+        "en": "Imagery is used to create vivid mental pictures. The poet uses the images of fire and ice to represent intense human passions.",
+        "hi": "कवि आग और बर्फ के चित्रों का उपयोग मानवीय जुनून को दर्शाने के लिए करता है।"
+      },
+      "key_takeaway": {
+        "en": "Imagery = Descriptive language that appeals to the senses.",
+        "hi": "Imagery = वर्णनात्मक भाषा जो इंद्रियों को आकर्षित करती है।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "What is the main message of 'Fire and Ice'?",
+        "hi": "'फायर एंड आइस' का मुख्य संदेश क्या है?"
+      },
+      "options": {
+        "a": {"en": "Fire is better than ice", "hi": "आग बर्फ से बेहतर है"},
+        "b": {"en": "Human emotions, if unchecked, can lead to total destruction", "hi": "मानवीय भावनाएं, यदि अनियंत्रित हों, तो पूर्ण विनाश का कारण बन सकती हैं"},
+        "c": {"en": "We should live on Mars", "hi": "हमें मंगल ग्रह पर रहना चाहिए"},
+        "d": {"en": "Ice melts slowly", "hi": "बर्फ धीरे पिघलती है"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The poem uses natural elements to represent internal human conflicts.",
+        "hi": "कविता आंतरिक मानवीय संघर्षों को दर्शाने के लिए प्राकृतिक तत्वों का उपयोग करती है।"
+      },
+      "explanation": {
+        "en": "The message is that uncontrolled desire (fire) and cold hatred (ice) are both equally capable of bringing the world to an end. Humans must control their emotions.",
+        "hi": "संदेश यह है कि अनियंत्रित इच्छा और नफरत दोनों ही दुनिया को खत्म करने में समान रूप से सक्षम हैं।"
+      },
+      "key_takeaway": {
+        "en": "Self-control and emotional balance are essential for survival.",
+        "hi": "अस्तित्व के लिए आत्म-नियंत्रण और भावनात्मक संतुलन आवश्यक है।"
+      }
+    }
+  ]
+}

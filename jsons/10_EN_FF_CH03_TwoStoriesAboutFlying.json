@@ -1,0 +1,800 @@
+{
+  "metadata": {
+    "chapter_number": 3,
+    "chapter_title": "Two Stories about Flying",
+    "chapter_title_hindi": "उड़ान के बारे में दो कहानियाँ",
+    "subject": "English (First Flight) - Class 10",
+    "board": "HPBOSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.0",
+    "naming_convention": "10_EN_FF_CH03_TwoStoriesAboutFlying.json"
+  },
+  "validation_report": {
+    "is_valid": true,
+    "checked_by": "AI Tutor",
+    "checked_at": "2026-01-20T19:30:00Z",
+    "notes": "Covers both sub-stories with balanced question distribution and teaching-style explanations."
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "In 'His First Flight', why was the young seagull afraid to fly?",
+        "hi": "'His First Flight' में नन्हा समुद्री पक्षी (seagull) उड़ने से क्यों डर रहा था?"
+      },
+      "options": {
+        "a": {"en": "His wings were broken", "hi": "उसके पंख टूटे हुए थे"},
+        "b": {"en": "He was afraid his wings would not support him", "hi": "उसे डर था कि उसके पंख उसका साथ नहीं देंगे"},
+        "c": {"en": "He didn't like the sea", "hi": "उसे समुद्र पसंद नहीं था"},
+        "d": {"en": "His parents didn't want him to fly", "hi": "उसके माता-पिता नहीं चाहते थे कि वह उड़े"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He looked at the vast sea below and felt that he would fall down and drown.",
+        "hi": "उसने नीचे विशाल समुद्र को देखा और उसे महसूस हुआ कि वह नीचे गिर जाएगा और डूब जाएगा।"
+      },
+      "explanation": {
+        "en": "The young seagull lacked self-confidence. Even though his wings were actually strong enough, his mind made him believe that they would never support him during a flight over the sea.",
+        "hi": "नन्हे समुद्री पक्षी में आत्मविश्वास की कमी थी। भले ही उसके पंख वास्तव में काफी मजबूत थे, लेकिन उसके मन ने उसे विश्वास दिला दिया था कि वे कभी उसका साथ नहीं देंगे।"
+      },
+      "key_takeaway": {
+        "en": "Self-doubt is the biggest obstacle to success.",
+        "hi": "आत्म-संदेह सफलता की राह में सबसे बड़ी बाधा है।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "What did the seagull's parents threaten him with if he didn't fly?",
+        "hi": "यदि समुद्री पक्षी नहीं उड़ता, तो उसके माता-पिता ने उसे क्या धमकी दी थी?"
+      },
+      "options": {
+        "a": {"en": "They would leave him forever", "hi": "वे उसे हमेशा के लिए छोड़ देंगे"},
+        "b": {"en": "They would punish him", "hi": "वे उसे सजा देंगे"},
+        "c": {"en": "He would starve on his ledge", "hi": "वह अपनी चट्टान (ledge) पर भूखा मर जाएगा"},
+        "d": {"en": "They would push him off the cliff", "hi": "वे उसे चट्टान से नीचे धकेल देंगे"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "They wanted him to learn independence through necessity and hunger.",
+        "hi": "वे चाहते थे कि वह ज़रूरत और भूख के माध्यम से आत्मनिर्भरता सीखे।"
+      },
+      "explanation": {
+        "en": "His parents tried every method to encourage him, including scolding and threatening to let him 'starve on his ledge' unless he flew away to find his own food.",
+        "hi": "उसके माता-पिता ने उसे प्रोत्साहित करने के लिए हर तरीका अपनाया, जिसमें उसे डांटना और यह धमकी देना शामिल था कि जब तक वह खुद भोजन नहीं खोजेगा, वह भूखा मरेगा।"
+      },
+      "key_takeaway": {
+        "en": "Necessity is often the mother of invention (and courage).",
+        "hi": "आवश्यकता ही आविष्कार (और साहस) की जननी है।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "What was the young seagull's first catch?",
+        "hi": "नन्हे समुद्री पक्षी की पहली पकड़ (शिकार) क्या थी?"
+      },
+      "options": {
+        "a": {"en": "A dog-fish", "hi": "एक डॉग-फिश"},
+        "b": {"en": "A piece of bread", "hi": "रोटी का एक टुकड़ा"},
+        "c": {"en": "A herring", "hi": "एक हेरिंग (मछली)"},
+        "d": {"en": "An insect", "hi": "एक कीड़ा"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "The story mentions his older brother caught this fish first while the young seagull watched from the ledge.",
+        "hi": "कहानी में उल्लेख है कि उसके बड़े भाई ने इस मछली को पहले पकड़ा था जबकि नन्हा पक्षी चट्टान से देख रहा था।"
+      },
+      "explanation": {
+        "en": "The young seagull's older brother caught his first herring and devoured it, while his parents circled around praising him. This made the young seagull feel even more left behind.",
+        "hi": "नन्हे समुद्री पक्षी के बड़े भाई ने अपनी पहली हेरिंग मछली पकड़ी थी, जिससे नन्हे पक्षी को और भी अकेलापन महसूस हुआ।"
+      },
+      "key_takeaway": {
+        "en": "Herring = The first success of the siblings.",
+        "hi": "Herring = भाई-बहनों की पहली सफलता।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "What prompted the young seagull to finally fly?",
+        "hi": "नन्हे समुद्री पक्षी को अंततः उड़ने के लिए किसने प्रेरित किया?"
+      },
+      "options": {
+        "a": {"en": "The sight of food", "hi": "भोजन की दृष्टि (झलक)"},
+        "b": {"en": "His father's call", "hi": "उसके पिता की पुकार"},
+        "c": {"en": "A strong wind", "hi": "एक तेज़ हवा"},
+        "d": {"en": "Fear of a predator", "hi": "एक शिकारी का डर"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "He was maddened by hunger when he saw his mother carrying a piece of fish.",
+        "hi": "जब उसने अपनी माँ को मछली का एक टुकड़ा ले जाते देखा, तो वह भूख से बेहाल हो गया था।"
+      },
+      "explanation": {
+        "en": "It was 'hunger' that eventually overcame his 'fear'. When his mother flew near him with a piece of fish but stopped just out of reach, he dived at the food in desperation and began to fly.",
+        "hi": "यह 'भूख' ही थी जिसने अंततः उसके 'डर' पर विजय प्राप्त की। जब उसकी माँ मछली का टुकड़ा लेकर आई, तो वह उसे पाने के लिए कूद पड़ा और उड़ने लगा।"
+      },
+      "key_takeaway": {
+        "en": "Hunger and desperation can drive one to overcome deep fears.",
+        "hi": "भूख और बेबसी इंसान को गहरे डर से उबरने के लिए मजबूर कर सकती है।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "How did the seagull feel when he first started falling?",
+        "hi": "जब समुद्री पक्षी ने पहली बार गिरना शुरू किया तो उसे कैसा लगा?"
+      },
+      "options": {
+        "a": {"en": "Excited", "hi": "उत्साहित"},
+        "b": {"en": "Monstrous terror seized him", "hi": "भीषण आतंक ने उसे जकड़ लिया"},
+        "c": {"en": "He felt like sleeping", "hi": "उसे सोने का मन किया"},
+        "d": {"en": "He felt very happy", "hi": "उसे बहुत खुशी हुई"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "For a brief moment, his heart stood still and he couldn't hear anything.",
+        "hi": "एक पल के लिए, उसका दिल थम गया और उसे कुछ सुनाई नहीं दे रहा था।"
+      },
+      "explanation": {
+        "en": "As he dived from the ledge, a monstrous terror seized him for a minute. However, it lasted only a moment before he felt his wings spread outwards and he began to soar.",
+        "hi": "जैसे ही वह चट्टान से कूदा, एक मिनट के लिए भीषण आतंक ने उसे जकड़ लिया। लेकिन जल्द ही उसके पंख खुल गए।"
+      },
+      "key_takeaway": {
+        "en": "The first step toward change is often the most terrifying.",
+        "hi": "परिवर्तन की ओर पहला कदम अक्सर सबसे डरावना होता है।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "What was the 'green flooring' the seagull's family landed on?",
+        "hi": "वह 'हरा फर्श' (green flooring) क्या था जिस पर समुद्री पक्षी का परिवार उतरा था?"
+      },
+      "options": {
+        "a": {"en": "A grass field", "hi": "घास का मैदान"},
+        "b": {"en": "The green sea", "hi": "हरा समुद्र"},
+        "c": {"en": "A green colored rock", "hi": "हरे रंग की चट्टान"},
+        "d": {"en": "A forest", "hi": "एक जंगल"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "They were beckoning to him to land on this surface after his flight.",
+        "hi": "वे उसकी उड़ान के बाद उसे इस सतह पर उतरने के लिए इशारा कर रहे थे।"
+      },
+      "explanation": {
+        "en": "The author refers to the surface of the sea as 'green flooring'. When the seagull tried to stand on it, his legs sank, but he soon realized he could float on it.",
+        "hi": "लेखक ने समुद्र की सतह को 'हरा फर्श' कहा है। जब पक्षी उस पर उतरा, तो उसके पैर डूबने लगे, लेकिन फिर वह तैरने लगा।"
+      },
+      "key_takeaway": {
+        "en": "The sea is both a challenge and a home for a seagull.",
+        "hi": "समुद्र एक समुद्री पक्षी के लिए चुनौती और घर दोनों है।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "Why did the young seagull's mother stop near the ledge with the fish?",
+        "hi": "समुद्री पक्षी की माँ मछली लेकर चट्टान के पास क्यों रुक गई?"
+      },
+      "options": {
+        "a": {"en": "She was tired", "hi": "वह थक गई थी"},
+        "b": {"en": "She forgot the way", "hi": "वह रास्ता भूल गई थी"},
+        "c": {"en": "To trick him into diving for the food", "hi": "उसे भोजन के लिए गोता लगाने (कूदने) के लिए उकसाने के लिए"},
+        "d": {"en": "She saw a predator", "hi": "उसने एक शिकारी देखा"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "It was a clever 'teaching' technique used by the mother to force him to fly.",
+        "hi": "यह माँ द्वारा उसे उड़ने के लिए मजबूर करने के लिए इस्तेमाल की गई एक चतुर 'शिक्षण' तकनीक थी।"
+      },
+      "explanation": {
+        "en": "The mother knew that hunger would make him brave. By stopping just out of his reach, she forced him to dive, which automatically made him spread his wings and fly.",
+        "hi": "माँ जानती थी कि भूख उसे बहादुर बना देगी। पहुँच से बाहर रुककर, उन्होंने उसे कूदने के लिए मजबूर किया, जिससे उसने उड़ना सीखा।"
+      },
+      "key_takeaway": {
+        "en": "Sometimes, a little push is needed to realize our true potential.",
+        "hi": "कभी-कभी, अपनी वास्तविक क्षमता को पहचानने के लिए थोड़े से धक्के की आवश्यकता होती है।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "In 'The Black Aeroplane', which plane was the pilot flying?",
+        "hi": "'The Black Aeroplane' में पायलट कौन सा विमान उड़ा रहा था?"
+      },
+      "options": {
+        "a": {"en": "Airbus A380", "hi": "एयरबस A380"},
+        "b": {"en": "Old Dakota DS 088", "hi": "ओल्ड डकोटा DS 088"},
+        "c": {"en": "Boeing 747", "hi": "बोइंग 747"},
+        "d": {"en": "Fighter Jet", "hi": "लड़ाकू जेट"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The name starts with 'D' and it was an old model.",
+        "hi": "नाम 'D' से शुरू होता है और यह एक पुराना मॉडल था।"
+      },
+      "explanation": {
+        "en": "The pilot was flying his old Dakota DS 088 aeroplane over France back to England. He was looking forward to his holiday and a good English breakfast.",
+        "hi": "पायलट फ्रांस के ऊपर से अपना पुराना डकोटा DS 088 विमान उड़ाकर वापस इंग्लैंड जा रहा था।"
+      },
+      "key_takeaway": {
+        "en": "Dakota DS 088 = The narrator's aircraft.",
+        "hi": "Dakota DS 088 = कथावाचक का विमान।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "Where was the pilot going?",
+        "hi": "पायलट कहाँ जा रहा था?"
+      },
+      "options": {
+        "a": {"en": "From France to England", "hi": "फ्रांस से इंग्लैंड"},
+        "b": {"en": "From England to France", "hi": "इंग्लैंड से फ्रांस"},
+        "c": {"en": "From Germany to France", "hi": "जर्मनी से फ्रांस"},
+        "d": {"en": "From India to England", "hi": "भारत से इंग्लैंड"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "He was leaving France behind and heading home to England.",
+        "hi": "वह फ्रांस को पीछे छोड़ रहा था और अपने घर इंग्लैंड की ओर जा रहा था।"
+      },
+      "explanation": {
+        "en": "The pilot was flying from France to England. He was dreaming of his holiday and being with his family for breakfast.",
+        "hi": "पायलट फ्रांस से इंग्लैंड जा रहा था। वह अपनी छुट्टी और परिवार के साथ नाश्ते के सपने देख रहा था।"
+      },
+      "key_takeaway": {
+        "en": "Destination = England (Home).",
+        "hi": "गंतव्य = इंग्लैंड (घर)।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "What did the pilot see in the sky after he was 150 km away from Paris?",
+        "hi": "पेरिस से 150 किमी दूर होने के बाद पायलट ने आसमान में क्या देखा?"
+      },
+      "options": {
+        "a": {"en": "Clear sky", "hi": "साफ आसमान"},
+        "b": {"en": "Storm clouds", "hi": "तूफानी बादल"},
+        "c": {"en": "A beautiful sunset", "hi": "एक सुंदर सूर्यास्त"},
+        "d": {"en": "Other aeroplanes", "hi": "अन्य विमान"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "They looked like huge 'black mountains' standing in front of him.",
+        "hi": "वे उसके सामने खड़े विशाल 'काले पहाड़ों' की तरह लग रहे थे।"
+      },
+      "explanation": {
+        "en": "When he was 150 kilometres away from Paris, he saw huge storm clouds. They were black and looked like mountains in the sky.",
+        "hi": "जब वह पेरिस से 150 किलोमीटर दूर था, तो उसने आसमान में तूफानी बादल देखे जो काले पहाड़ों जैसे लग रहे थे।"
+      },
+      "key_takeaway": {
+        "en": "Storm clouds = A sudden challenge/danger.",
+        "hi": "तूफानी बादल = एक अचानक आई चुनौती/खतरा।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "Why didn't the pilot fly back to Paris when he saw the storm?",
+        "hi": "तूफान देखने के बाद पायलट वापस पेरिस क्यों नहीं उड़ा?"
+      },
+      "options": {
+        "a": {"en": "He didn't have enough fuel", "hi": "उसके पास पर्याप्त ईंधन नहीं था"},
+        "b": {"en": "He wanted to reach home for breakfast", "hi": "वह नाश्ते के लिए घर पहुँचना चाहता था"},
+        "c": {"en": "He was lost", "hi": "वह खो गया था"},
+        "d": {"en": "The radio was broken", "hi": "रेडियो खराब था"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He took the risk because of his desire to spend time with his family.",
+        "hi": "उसने अपने परिवार के साथ समय बिताने की इच्छा के कारण जोखिम उठाया।"
+      },
+      "explanation": {
+        "en": "Even though it was dangerous, the pilot decided to take the risk and fly into the storm because he wanted to get home for the English breakfast with his family.",
+        "hi": "खतरनाक होने के बावजूद, पायलट ने जोखिम उठाने का फैसला किया क्योंकि वह नाश्ते के समय तक घर पहुँचना चाहता था।"
+      },
+      "key_takeaway": {
+        "en": "Desire for home can make one take big risks.",
+        "hi": "घर पहुँचने की इच्छा इंसान से बड़े जोखिम उठवा सकती है।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "What happened to the instruments in the plane inside the storm?",
+        "hi": "तूफान के अंदर विमान के उपकरणों (instruments) का क्या हुआ?"
+      },
+      "options": {
+        "a": {"en": "They worked perfectly", "hi": "उन्होंने पूरी तरह से काम किया"},
+        "b": {"en": "They became brighter", "hi": "वे और चमकने लगे"},
+        "c": {"en": "They stopped working and the compass was dead", "hi": "उन्होंने काम करना बंद कर दिया और कम्पास खराब हो गया"},
+        "d": {"en": "They showed the wrong direction", "hi": "उन्होंने गलत दिशा दिखाई"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "The compass was 'turning round and round and round' and was useless.",
+        "hi": "कम्पास 'गोल-गोल' घूम रहा था और बेकार हो गया था।"
+      },
+      "explanation": {
+        "en": "Inside the storm, the plane jumped and twisted. The compass was dead, and other instruments like the radio also stopped working, leaving the pilot lost in the dark.",
+        "hi": "तूफान के अंदर, विमान कूदने और मुड़ने लगा। कम्पास और रेडियो जैसे उपकरणों ने काम करना बंद कर दिया।"
+      },
+      "key_takeaway": {
+        "en": "Technological failure in a storm increases danger.",
+        "hi": "तूफान में तकनीकी विफलता खतरे को बढ़ा देती है।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "Who helped the pilot in the dark clouds?",
+        "hi": "काले बादलों में पायलट की मदद किसने की?"
+      },
+      "options": {
+        "a": {"en": "The Paris Control room", "hi": "पेरिस कंट्रोल रूम"},
+        "b": {"en": "Another pilot in a black aeroplane", "hi": "एक काले विमान में दूसरे पायलट ने"},
+        "c": {"en": "The co-pilot", "hi": "सह-पायलट ने"},
+        "d": {"en": "His family", "hi": "उसके परिवार ने"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The mysterious plane had no lights on its wings.",
+        "hi": "रहस्यमय विमान के पंखों पर कोई लाइट नहीं थी।"
+      },
+      "explanation": {
+        "en": "In the middle of the black clouds, the pilot saw another aeroplane. It had no lights on its wings, but he could see the other pilot's face and was glad to see someone else.",
+        "hi": "काले बादलों के बीच, पायलट ने एक और विमान देखा। उसके पंखों पर कोई लाइट नहीं थी, लेकिन उसने दूसरे पायलट का चेहरा देखा।"
+      },
+      "key_takeaway": {
+        "en": "The black aeroplane appeared as a mysterious helper.",
+        "hi": "काले विमान ने एक रहस्यमय मददगार के रूप में दर्शन दिए।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "What was unusual about the black aeroplane?",
+        "hi": "काले विमान के बारे में क्या असामान्य था?"
+      },
+      "options": {
+        "a": {"en": "It was very fast", "hi": "वह बहुत तेज़ था"},
+        "b": {"en": "It had no lights on its wings", "hi": "उसके पंखों पर कोई लाइट नहीं थी"},
+        "c": {"en": "It was bigger than the Dakota", "hi": "वह डकोटा से बड़ा था"},
+        "d": {"en": "It was transparent", "hi": "वह पारदर्शी था"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Normally, every plane has lights for visibility in the dark.",
+        "hi": "आम तौर पर, अंधेरे में दृश्यता के लिए हर विमान में लाइट होती हैं।"
+      },
+      "explanation": {
+        "en": "The black aeroplane was strange because it had no lights on its wings, yet it flew right next to the Dakota through the storm.",
+        "hi": "काले विमान में कोई लाइट नहीं थी, फिर भी वह तूफान में डकोटा के ठीक बगल में उड़ रहा था।"
+      },
+      "key_takeaway": {
+        "en": "No lights = Element of mystery/supernatural.",
+        "hi": "कोई लाइट नहीं = रहस्य/अलौकिक तत्व।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "What did the lady at the control centre tell the pilot?",
+        "hi": "कंट्रोल सेंटर की महिला ने पायलट को क्या बताया?"
+      },
+      "options": {
+        "a": {"en": "That there were ten planes in the sky", "hi": "कि आसमान में दस विमान थे"},
+        "b": {"en": "That his friend had landed safely", "hi": "कि उसका दोस्त सुरक्षित उतर गया है"},
+        "c": {"en": "That there was no other aeroplane except his own", "hi": "कि उसके विमान के अलावा कोई दूसरा विमान नहीं था"},
+        "d": {"en": "That he was in Germany", "hi": "कि वह जर्मनी में था"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "She looked at him very strangely and laughed when he asked about the other pilot.",
+        "hi": "जब उसने दूसरे पायलट के बारे में पूछा, तो उसने उसे बहुत अजीब तरह से देखा और हँसी।"
+      },
+      "explanation": {
+        "en": "When the pilot asked about the other aeroplane, the lady at the control tower told him that no other planes were flying that night due to the storm. Only his plane was seen on the radar.",
+        "hi": "जब पायलट ने दूसरे विमान के बारे में पूछा, तो कंट्रोल टावर की महिला ने बताया कि उस रात कोई और विमान नहीं उड़ रहा था।"
+      },
+      "key_takeaway": {
+        "en": "The mysterious helper was not visible on the radar.",
+        "hi": "रहस्यमय मददगार रडार पर दिखाई नहीं दे रहा था।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "How did the other pilot signal the narrator to follow him?",
+        "hi": "दूसरे पायलट ने कथावाचक को अपने पीछे आने का संकेत कैसे दिया?"
+      },
+      "options": {
+        "a": {"en": "By flashing lights", "hi": "लाइट जलाकर"},
+        "b": {"en": "By using the radio", "hi": "रेडियो का उपयोग करके"},
+        "c": {"en": "By waving his hand", "hi": "अपना हाथ हिलाकर"},
+        "d": {"en": "By dropping a flare", "hi": "एक फ्लेयर गिराकर"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "The narrator saw the other pilot's face and his gesture.",
+        "hi": "कथावाचक ने दूसरे पायलट का चेहरा और उसका इशारा देखा।"
+      },
+      "explanation": {
+        "en": "The pilot of the black aeroplane lifted one hand and waved, signaling the narrator to follow him. The narrator followed like an obedient child.",
+        "hi": "काले विमान के पायलट ने अपना एक हाथ उठाकर हिलाया, जो पीछे आने का संकेत था।"
+      },
+      "key_takeaway": {
+        "en": "He followed the stranger like an obedient child.",
+        "hi": "उसने एक आज्ञाकारी बच्चे की तरह अजनबी का पीछा किया।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "The young seagull was 'maddened by hunger'. What does this phrase mean?",
+        "hi": "नन्हा समुद्री पक्षी 'भूख से पागल' (maddened by hunger) हो गया था। इस वाक्यांश का क्या अर्थ है?"
+      },
+      "options": {
+        "a": {"en": "He went insane", "hi": "वह पागल हो गया"},
+        "b": {"en": "He was so hungry that he forgot his fear", "hi": "वह इतना भूखा था कि अपना डर भूल गया"},
+        "c": {"en": "He was angry with his family", "hi": "वह अपने परिवार से नाराज था"},
+        "d": {"en": "He didn't want to eat", "hi": "वह खाना नहीं चाहता था"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Hunger became stronger than the fear of falling into the sea.",
+        "hi": "समुद्र में गिरने के डर से भी ज़्यादा प्रबल उसकी भूख हो गई थी।"
+      },
+      "explanation": {
+        "en": "Being without food for 24 hours, the seagull was desperate. This 'madness' caused by hunger finally pushed him to dive for the fish, which resulted in him flying for the first time.",
+        "hi": "24 घंटे से भूखे होने के कारण, पक्षी बेताब था। इसी भूख ने उसे मछली के लिए कूदने पर मजबूर किया।"
+      },
+      "key_takeaway": {
+        "en": "Sometimes extreme need helps us forget our fears.",
+        "hi": "कभी-कभी अत्यधिक आवश्यकता हमें हमारे डर को भूलने में मदद करती है।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "What was the pilot thinking about when he started his flight from France?",
+        "hi": "जब पायलट ने फ्रांस से अपनी उड़ान शुरू की तो वह किसके बारे में सोच रहा था?"
+      },
+      "options": {
+        "a": {"en": "His next mission", "hi": "अपना अगला मिशन"},
+        "b": {"en": "His holiday and his family", "hi": "अपनी छुट्टी और अपने परिवार के बारे में"},
+        "c": {"en": "The fuel in the plane", "hi": "विमान में ईंधन"},
+        "d": {"en": "The weather conditions", "hi": "मौसम की स्थिति"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He was looking forward to a typical English breakfast.",
+        "hi": "वह एक विशिष्ट इंग्लिश ब्रेकफास्ट (नाश्ते) का इंतज़ार कर रहा था।"
+      },
+      "explanation": {
+        "en": "The pilot was dreaming of his holiday and looking forward to being with his family. He checked his watch; it was 1:30 in the morning.",
+        "hi": "पायलट अपनी छुट्टियों के सपने देख रहा था और अपने परिवार के साथ रहने के लिए उत्सुक था।"
+      },
+      "key_takeaway": {
+        "en": "Family and comfort are great motivators.",
+        "hi": "परिवार और आराम बड़े प्रेरक होते हैं।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "Why was the pilot frightened again even after following the black aeroplane?",
+        "hi": "काले विमान का पीछा करने के बाद भी पायलट फिर से क्यों डर गया?"
+      },
+      "options": {
+        "a": {"en": "Because the other plane disappeared", "hi": "क्योंकि दूसरा विमान गायब हो गया था"},
+        "b": {"en": "Because there was very little fuel left", "hi": "क्योंकि बहुत कम ईंधन बचा था"},
+        "c": {"en": "Because he saw another storm", "hi": "क्योंकि उसने एक और तूफान देखा"},
+        "d": {"en": "Because his engine caught fire", "hi": "क्योंकि उसके इंजन में आग लग गई थी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He could only fly for five or ten minutes more.",
+        "hi": "वह केवल पांच या दस मिनट और उड़ सकता था।"
+      },
+      "explanation": {
+        "en": "After following the black aeroplane for half an hour, the narrator noticed that he only had enough fuel in his last tank to fly for five or ten minutes more, which scared him again.",
+        "hi": "आधे घंटे तक पीछा करने के बाद, उसे पता चला कि उसके पास केवल 5-10 मिनट का ईंधन बचा है।"
+      },
+      "key_takeaway": {
+        "en": "Running out of fuel is a pilot's nightmare.",
+        "hi": "ईंधन खत्म होना एक पायलट के लिए बुरा सपना है।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "What did the young seagull do to attract his mother's attention?",
+        "hi": "नन्हे समुद्री पक्षी ने अपनी माँ का ध्यान खींचने के लिए क्या किया?"
+      },
+      "options": {
+        "a": {"en": "He screamed loudly", "hi": "वह ज़ोर से चिल्लाया"},
+        "b": {"en": "He pretended to fall asleep on the ledge", "hi": "उसने चट्टान पर सोने का नाटक किया"},
+        "c": {"en": "He started dancing", "hi": "उसने नाचना शुरू कर दिया"},
+        "d": {"en": "He threw a stone", "hi": "उसने एक पत्थर फेंका"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He stood on one leg with the other hidden under his wing to show how weak he was.",
+        "hi": "वह एक पैर पर खड़ा हो गया और दूसरा पंख के नीचे छिपा लिया ताकि दिखा सके कि वह कितना कमज़ोर है।"
+      },
+      "explanation": {
+        "en": "To get his family's attention, he stood on the edge of the ledge on one leg and closed his eyes, pretending to fall asleep. He wanted them to feel sorry for him and help him.",
+        "hi": "परिवार का ध्यान खींचने के लिए, वह एक पैर पर खड़ा होकर सोने का नाटक करने लगा।"
+      },
+      "key_takeaway": {
+        "en": "He tried to use sympathy to get food.",
+        "hi": "उसने भोजन पाने के लिए सहानुभूति का उपयोग करने की कोशिश की।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "What is the message of the story 'His First Flight'?",
+        "hi": "'His First Flight' कहानी का संदेश क्या है?"
+      },
+      "options": {
+        "a": {"en": "Obey your parents", "hi": "अपने माता-पिता की आज्ञा मानें"},
+        "b": {"en": "One must be brave to succeed", "hi": "सफल होने के लिए बहादुर होना चाहिए"},
+        "c": {"en": "Flying is easy", "hi": "उड़ना आसान है"},
+        "d": {"en": "Seagulls are beautiful birds", "hi": "समुद्री पक्षी सुंदर पक्षी होते हैं"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Think about how the bird felt before and after he took the leap.",
+        "hi": "सोचें कि छलांग लगाने से पहले और बाद में पक्षी ने कैसा महसूस किया।"
+      },
+      "explanation": {
+        "en": "The story conveys that fear is a mental block. To achieve anything in life, we must have the courage to take the first step and trust our own abilities.",
+        "hi": "कहानी बताती है कि डर एक मानसिक बाधा है। जीवन में कुछ भी हासिल करने के लिए, हमें पहला कदम उठाने का साहस करना चाहिए।"
+      },
+      "key_takeaway": {
+        "en": "Courage is the key to overcoming obstacles.",
+        "hi": "साहस बाधाओं को दूर करने की कुंजी है।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "Who is the author of 'The Black Aeroplane'?",
+        "hi": "'The Black Aeroplane' के लेखक कौन हैं?"
+      },
+      "options": {
+        "a": {"en": "Liam O’Flaherty", "hi": "लियाम ओ'फ़्लाहर्टी"},
+        "b": {"en": "Frederick Forsyth", "hi": "फ्रेडरिक फोर्सिथ"},
+        "c": {"en": "Roald Dahl", "hi": "रोआल्ड डाहल"},
+        "d": {"en": "Paulo Coelho", "hi": "पाउलो कोएल्हो"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He is famous for writing thrillers and mystery stories.",
+        "hi": "वह थ्रिलर और रहस्यमयी कहानियाँ लिखने के लिए प्रसिद्ध हैं।"
+      },
+      "explanation": {
+        "en": "Frederick Forsyth is the author of 'The Black Aeroplane'. He is known for his detailed and gripping stories often related to pilots and military themes.",
+        "hi": "फ्रेडरिक फोर्सिथ 'The Black Aeroplane' के लेखक हैं।"
+      },
+      "key_takeaway": {
+        "en": "Frederick Forsyth = Author of the mystery flight.",
+        "hi": "फ्रेडरिक फोर्सिथ = रहस्यमयी उड़ान के लेखक।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "What does the pilot call the black clouds?",
+        "hi": "पायलट काले बादलों को क्या कहता है?"
+      },
+      "options": {
+        "a": {"en": "Dark shadows", "hi": "काली परछाइयाँ"},
+        "b": {"en": "Stormy mountains", "hi": "तूफानी पहाड़"},
+        "c": {"en": "Black mountains", "hi": "काले पहाड़"},
+        "d": {"en": "Rainy walls", "hi": "बारिश वाली दीवारें"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "They looked massive and impossible to fly over.",
+        "hi": "वे विशाल लग रहे थे और उनके ऊपर से उड़ना असंभव था।"
+      },
+      "explanation": {
+        "en": "The pilot describes the storm clouds as 'black mountains standing in front of me across the sky'. This emphasizes their huge size and the danger they posed.",
+        "hi": "पायलट तूफानी बादलों को 'आसमान में मेरे सामने खड़े काले पहाड़' बताता है।"
+      },
+      "key_takeaway": {
+        "en": "Metaphor: Black clouds = Mountains of difficulty.",
+        "hi": "रूपक: काले बादल = कठिनाई के पहाड़।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "Why was the pilot happy to see another person in the storm?",
+        "hi": "तूफान में दूसरे व्यक्ति को देखकर पायलट क्यों खुश हुआ?"
+      },
+      "options": {
+        "a": {"en": "Because he was lonely", "hi": "क्योंकि वह अकेला था"},
+        "b": {"en": "Because it meant he was not alone in danger", "hi": "क्योंकि इसका मतलब था कि वह खतरे में अकेला नहीं था"},
+        "c": {"en": "Because he wanted to race", "hi": "क्योंकि वह दौड़ (race) लगाना चाहता था"},
+        "d": {"en": "Because he knew the other pilot", "hi": "क्योंकि वह दूसरे पायलट को जानता था"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "When we are in trouble, seeing someone else gives us hope.",
+        "hi": "जब हम मुसीबत में होते हैं, तो किसी और को देखना हमें आशा देता है।"
+      },
+      "explanation": {
+        "en": "In the terrifying storm, the sight of another plane and pilot gave the narrator hope. He felt that help had arrived and he was no longer alone in the dark.",
+        "hi": "भयानक तूफान में, दूसरे विमान को देखकर कथावाचक को आशा मिली कि वह अब अकेला नहीं है।"
+      },
+      "key_takeaway": {
+        "en": "Shared danger feels less frightening.",
+        "hi": "साझा खतरा कम डरावना लगता है।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "What is the cliff's edge called in the story?",
+        "hi": "कहानी में चट्टान के किनारे को क्या कहा गया है?"
+      },
+      "options": {
+        "a": {"en": "Ridge", "hi": "रिज"},
+        "b": {"en": "Ledge", "hi": "लेज (चट्टान की मुंडेर)"},
+        "c": {"en": "Peak", "hi": "पीक (चोटी)"},
+        "d": {"en": "Valley", "hi": "घाटी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The seagull was standing alone on this narrow horizontal surface.",
+        "hi": "समुद्री पक्षी इस संकीर्ण क्षैतिज सतह पर अकेला खड़ा था।"
+      },
+      "explanation": {
+        "en": "A 'ledge' is a narrow horizontal surface projecting from a wall or cliff. The young seagull was alone on his ledge for 24 hours.",
+        "hi": "एक 'लेज' चट्टान से निकली हुई एक संकीर्ण सतह होती है। नन्हा समुद्री पक्षी वहाँ 24 घंटे अकेला रहा।"
+      },
+      "key_takeaway": {
+        "en": "Ledge = The seagull's starting point/cliff edge.",
+        "hi": "Ledge = समुद्री पक्षी का शुरुआती बिंदु।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "How did the seagull's family react after his successful flight?",
+        "hi": "सफल उड़ान के बाद समुद्री पक्षी के परिवार की क्या प्रतिक्रिया थी?"
+      },
+      "options": {
+        "a": {"en": "They were angry", "hi": "वे नाराज़ थे"},
+        "b": {"en": "They ignored him", "hi": "उन्होंने उसे नज़रअंदाज़ कर दिया"},
+        "c": {"en": "They were screaming, praising him, and offering him dog-fish", "hi": "वे चिल्ला रहे थे, उसकी प्रशंसा कर रहे थे और उसे मछली खिला रहे थे"},
+        "d": {"en": "They told him to fly again", "hi": "उन्होंने उसे फिर से उड़ने के लिए कहा"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "His family was full of joy and pride after seeing him overcome his fear.",
+        "hi": "उसे अपने डर पर विजय पाते देख उसका परिवार खुशी और गर्व से भर गया था।"
+      },
+      "explanation": {
+        "en": "The whole family joined him in his flight. They were 'curveting and soaring and diving', and finally offered him scraps of dog-fish as a reward.",
+        "hi": "पूरा परिवार उसकी उड़ान में शामिल हो गया और अंततः उसे ईनाम के रूप में मछली दी।"
+      },
+      "key_takeaway": {
+        "en": "Success is celebrated by those who pushed us to achieve it.",
+        "hi": "सफलता का जश्न उनके द्वारा मनाया जाता है जिन्होंने हमें इसे हासिल करने के लिए प्रेरित किया।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "What did the pilot discover about his radio?",
+        "hi": "पायलट को अपने रेडियो के बारे में क्या पता चला?"
+      },
+      "options": {
+        "a": {"en": "It was playing music", "hi": "उस पर संगीत बज रहा था"},
+        "b": {"en": "It was out of battery", "hi": "उसकी बैटरी खत्म हो गई थी"},
+        "c": {"en": "The radio was dead", "hi": "रेडियो खराब (dead) हो गया था"},
+        "d": {"en": "He could hear Paris Control clearly", "hi": "वह पेरिस कंट्रोल को साफ सुन सकता था"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "He tried calling 'Paris Control, can you hear me?' but there was no answer.",
+        "hi": "उसने 'पेरिस कंट्रोल' को पुकारने की कोशिश की लेकिन कोई जवाब नहीं मिला।"
+      },
+      "explanation": {
+        "en": "Inside the storm, the pilot found that the radio was dead. He could not contact anyone for help or direction, which made his situation even more critical.",
+        "hi": "तूफान में पायलट ने पाया कि रेडियो खराब हो गया था, जिससे वह किसी से संपर्क नहीं कर सका।"
+      },
+      "key_takeaway": {
+        "en": "The loss of communication is a major hazard in aviation.",
+        "hi": "विमानन में संचार का नुकसान एक बड़ा खतरा है।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "How many tanks of fuel did the Dakota have?",
+        "hi": "डकोटा में ईंधन के कितने टैंक थे?"
+      },
+      "options": {
+        "a": {"en": "One", "hi": "एक"},
+        "b": {"en": "Two", "hi": "दो"},
+        "c": {"en": "Three", "hi": "तीन"},
+        "d": {"en": "Four", "hi": "चार"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The narrator switched to the 'second and last' fuel tank.",
+        "hi": "कथावाचक ने 'दूसरे और आखिरी' ईंधन टैंक का उपयोग शुरू किया था।"
+      },
+      "explanation": {
+        "en": "The plane had two fuel tanks. Before entering the storm, the pilot had switched to his second and final tank.",
+        "hi": "विमान में दो ईंधन टैंक थे। पायलट ने अपने दूसरे और आखिरी टैंक का उपयोग करना शुरू कर दिया था।"
+      },
+      "key_takeaway": {
+        "en": "Limited resources require careful planning.",
+        "hi": "सीमित संसाधनों के लिए सावधानीपूर्वक योजना की आवश्यकता होती है।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "What is the possible explanation for the 'Black Aeroplane'?",
+        "hi": "'Black Aeroplane' के लिए संभावित स्पष्टीकरण क्या हो सकता है?"
+      },
+      "options": {
+        "a": {"en": "It was a ghost", "hi": "वह एक भूत था"},
+        "b": {"en": "It was the pilot's own imagination/willpower", "hi": "यह पायलट की अपनी कल्पना/इच्छाशक्ति थी"},
+        "c": {"en": "It was a secret government plane", "hi": "यह एक गुप्त सरकारी विमान था"},
+        "d": {"en": "It was a bird", "hi": "वह एक पक्षी था"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Since the radar showed nothing, it might have been his own mind helping him stay calm and fly.",
+        "hi": "चूंकि रडार ने कुछ नहीं दिखाया, इसलिए यह उसका अपना मन हो सकता है जो उसे शांत रहने और उड़ने में मदद कर रहा था।"
+      },
+      "explanation": {
+        "en": "The story leaves it to the reader's interpretation. One common idea is that the black aeroplane was a personification of the pilot's inner strength and willpower that guided him out of danger.",
+        "hi": "कहानी पाठक की व्याख्या पर निर्भर करती है। एक विचार यह है कि वह विमान पायलट की अपनी आंतरिक शक्ति थी।"
+      },
+      "key_takeaway": {
+        "en": "Sometimes our own courage appears to us as external help.",
+        "hi": "कभी-कभी हमारा अपना साहस हमें बाहरी मदद के रूप में दिखाई देता है।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "What did the young seagull do after his feet sank into the green sea?",
+        "hi": "हरे समुद्र में पैर डूबने के बाद नन्हे समुद्री पक्षी ने क्या किया?"
+      },
+      "options": {
+        "a": {"en": "He drowned", "hi": "वह डूब गया"},
+        "b": {"en": "He flapped his wings and rose again", "hi": "उसने अपने पंख फड़फड़ाए और फिर से ऊपर उठ गया"},
+        "c": {"en": "He cried for help", "hi": "उसने मदद के लिए पुकारा"},
+        "d": {"en": "He fell asleep", "hi": "वह सो गया"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He tried to fly again because he was scared of the water at first.",
+        "hi": "शुरू में पानी से डरने के कारण उसने फिर से उड़ने की कोशिश की।"
+      },
+      "explanation": {
+        "en": "When his legs sank into the water, he was scared and tried to rise again by flapping his wings. However, he soon found that he was floating safely.",
+        "hi": "जब उसके पैर पानी में डूबे, तो वह डर गया और पंख फड़फड़ाकर ऊपर उठने की कोशिश की, लेकिन जल्द ही वह तैरने लगा।"
+      },
+      "key_takeaway": {
+        "en": "Natural instincts take over when we stop panicking.",
+        "hi": "जब हम घबराना बंद कर देते हैं, तो प्राकृतिक प्रवृत्तियाँ काम करने लगती हैं।"
+      }
+    }
+  ]
+}

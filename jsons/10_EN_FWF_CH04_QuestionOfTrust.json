@@ -1,0 +1,800 @@
+{
+  "metadata": {
+    "chapter_number": 4,
+    "chapter_title": "A Question of Trust",
+    "chapter_title_hindi": "विश्वास का प्रश्न",
+    "subject": "English (Footprints Without Feet) - Class 10",
+    "board": "HPBOSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.0",
+    "naming_convention": "10_EN_FWF_CH04_QuestionOfTrust.json"
+  },
+  "validation_report": {
+    "is_valid": true,
+    "checked_by": "AI Tutor",
+    "checked_at": "2026-01-21T20:00:00Z",
+    "notes": "Focused on the irony of the plot and Horace Danby's character traits."
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "How old was Horace Danby and what was his marital status?",
+        "hi": "होरेस डैनबी की उम्र कितनी थी और उसकी वैवाहिक स्थिति क्या थी?"
+      },
+      "options": {
+        "a": {"en": "About forty and married", "hi": "लगभग चालीस साल और शादीशुदा"},
+        "b": {"en": "About fifty and unmarried", "hi": "लगभग पचास साल और अविवाहित"},
+        "c": {"en": "Thirty-five and a widower", "hi": "पैंतीस साल और विधुर"},
+        "d": {"en": "Twenty-five and single", "hi": "पच्चीस साल और कुँवारा"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He lived with a housekeeper who worried about his health.",
+        "hi": "वह एक हाउसकीपर के साथ रहता था जो उसके स्वास्थ्य की चिंता करती थी।"
+      },
+      "explanation": {
+        "en": "Horace Danby was about fifty years old and unmarried. He was considered a good, honest citizen, although he wasn't completely honest as he committed one robbery a year.",
+        "hi": "होरेस डैनबी लगभग पचास वर्ष का था और अविवाहित था। उसे एक अच्छा और ईमानदार नागरिक माना जाता था, हालाँकि वह पूरी तरह से ईमानदार नहीं था।"
+      },
+      "key_takeaway": {
+        "en": "Horace Danby = 50-year-old unmarried locksmith.",
+        "hi": "होरेस डैनबी = 50 वर्षीय अविवाहित ताला बनाने वाला।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "What was Horace Danby's profession?",
+        "hi": "होरेस डैनबी का पेशा क्या था?"
+      },
+      "options": {
+        "a": {"en": "He was a gardener", "hi": "वह एक माली था"},
+        "b": {"en": "He made locks and was successful", "hi": "वह ताले बनाता था और सफल था"},
+        "c": {"en": "He was a librarian", "hi": "वह एक पुस्तकालय अध्यक्ष था"},
+        "d": {"en": "He was a painter", "hi": "वह एक चित्रकार था"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He had two helpers in his business.",
+        "hi": "उसके व्यवसाय में उसके पास दो सहायक थे।"
+      },
+      "explanation": {
+        "en": "Horace made locks and was successful enough at his business to have two helpers. His expertise in locks made him an expert at opening safes as well.",
+        "hi": "होरेस ताले बनाता था और अपने काम में इतना सफल था कि उसके पास दो सहायक थे। ताले बनाने के उसके हुनर ने उसे तिजोरियाँ खोलने में भी माहिर बना दिया था।"
+      },
+      "key_takeaway": {
+        "en": "His professional skill as a locksmith aided his criminal activities.",
+        "hi": "ताला बनाने वाले के रूप में उनके पेशेवर कौशल ने उनकी आपराधिक गतिविधियों में मदद की।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "Why did Horace Danby rob a safe every year?",
+        "hi": "होरेस डैनबी हर साल एक तिजोरी क्यों लूटता था?"
+      },
+      "options": {
+        "a": {"en": "To pay off his debts", "hi": "अपना कर्ज चुकाने के लिए"},
+        "b": {"en": "To buy rare and expensive books", "hi": "दुर्लभ और महंगी किताबें खरीदने के लिए"},
+        "c": {"en": "To help the poor", "hi": "गरीबों की मदद करने के लिए"},
+        "d": {"en": "He did it for fun", "hi": "वह मजे के लिए ऐसा करता था"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He loved books more than anything and bought them through an agent.",
+        "hi": "उसे किताबों से किसी भी चीज़ से ज़्यादा प्यार था और वह उन्हें एक एजेंट के माध्यम से खरीदता था।"
+      },
+      "explanation": {
+        "en": "Horace was fond of rare and expensive books. He robbed a safe every year to finance his hobby, stealing enough to last for twelve months.",
+        "hi": "होरेस को दुर्लभ और महंगी किताबों का शौक था। वह अपने शौक को पूरा करने के लिए हर साल एक तिजोरी लूटता था ताकि बारह महीने का खर्च निकल सके।"
+      },
+      "key_takeaway": {
+        "en": "Horace was a 'refined' thief with a specific intellectual goal.",
+        "hi": "होरेस एक विशिष्ट बौद्धिक लक्ष्य वाला एक 'परिष्कृत' चोर था।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "Which physical ailment did Horace suffer from?",
+        "hi": "होरेस किस शारीरिक बीमारी से पीड़ित था?"
+      },
+      "options": {
+        "a": {"en": "Asthma", "hi": "दमा"},
+        "b": {"en": "Hay fever", "hi": "हे फीवर (पराग ज्वर)"},
+        "c": {"en": "Migraine", "hi": "माइग्रेन"},
+        "d": {"en": "Back pain", "hi": "पीठ दर्द"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It affected him in the summer and was triggered by the smell of flowers.",
+        "hi": "यह उसे गर्मियों में प्रभावित करता था और फूलों की गंध से बढ़ जाता था।"
+      },
+      "explanation": {
+        "en": "Horace suffered from attacks of hay fever in summer. This ailment eventually played a role in getting him caught during the robbery at Shotover Grange.",
+        "hi": "होरेस गर्मियों में 'हे फीवर' (पराग ज्वर) के हमलों से पीड़ित रहता था। इस बीमारी ने अंततः उसे पकड़े जाने में भूमिका निभाई।"
+      },
+      "key_takeaway": {
+        "en": "Hay fever = Horace's weakness that led to his sneezing.",
+        "hi": "हे फीवर = होरेस की कमजोरी जिसके कारण उसे छींकें आती थीं।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "Where was the robbery planned this year?",
+        "hi": "इस वर्ष डकैती की योजना कहाँ बनाई गई थी?"
+      },
+      "options": {
+        "a": {"en": "London Bank", "hi": "लंदन बैंक"},
+        "b": {"en": "Shotover Grange", "hi": "शोटोवर ग्रेंज (Shotover Grange)"},
+        "c": {"en": "The Manor House", "hi": "द मैनर हाउस"},
+        "d": {"en": "A jewelry shop", "hi": "एक आभूषण की दुकान"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He had studied this house for two weeks before the attempt.",
+        "hi": "उसने प्रयास करने से पहले दो सप्ताह तक इस घर का अध्ययन किया था।"
+      },
+      "explanation": {
+        "en": "For this year's robbery, Horace had chosen Shotover Grange. He studied its rooms, electric wiring, paths, and garden in detail.",
+        "hi": "इस साल की चोरी के लिए होरेस ने शोटोवर ग्रेंज को चुना था। उसने घर के कमरों, बिजली की वायरिंग और रास्ते का विस्तार से अध्ययन किया।"
+      },
+      "key_takeaway": {
+        "en": "Shotover Grange = The target house of the robbery.",
+        "hi": "शोटोवर ग्रेंज = डकैती का लक्षित घर।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "What valuable items were inside the safe at Shotover Grange?",
+        "hi": "शोटोवर ग्रेंज की तिजोरी में कौन सी कीमती वस्तुएं थीं?"
+      },
+      "options": {
+        "a": {"en": "Rare books", "hi": "दुर्लभ किताबें"},
+        "b": {"en": "About fifteen thousand pounds worth of jewels", "hi": "लगभग पंद्रह हजार पाउंड के गहने"},
+        "c": {"en": "Gold bars", "hi": "सोने की छड़ें"},
+        "d": {"en": "Important documents", "hi": "महत्वपूर्ण दस्तावेज"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Horace expected to get at least five thousand pounds if he sold them one by one.",
+        "hi": "होरेस को उम्मीद थी कि अगर वह उन्हें एक-एक करके बेचेगा तो कम से कम पांच हजार पाउंड मिल जाएंगे।"
+      },
+      "explanation": {
+        "en": "The safe contained about fifteen thousand pounds worth of jewels. Horace planned to sell them to buy three interesting books coming up for sale in the autumn.",
+        "hi": "तिजोरी में लगभग पंद्रह हजार पाउंड के गहने थे। होरेस ने उन्हें बेचकर पतझड़ में बिकने वाली तीन दिलचस्प किताबें खरीदने की योजना बनाई थी।"
+      },
+      "key_takeaway": {
+        "en": "The jewels were meant to fund Horace's expensive book collection.",
+        "hi": "गहने होरेस के महंगे किताबों के संग्रह के लिए धन जुटाने के लिए थे।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "Where was the safe hidden in the house?",
+        "hi": "घर में तिजोरी कहाँ छिपी थी?"
+      },
+      "options": {
+        "a": {"en": "In the bedroom", "hi": "बेडरूम में"},
+        "b": {"en": "Behind a poor painting in the drawing-room", "hi": "ड्राइंग रूम में एक खराब पेंटिंग के पीछे"},
+        "c": {"en": "In the library", "hi": "पुस्तकालय में"},
+        "d": {"en": "Under the floorboards", "hi": "फर्श के नीचे"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "For a moment, Horace thought about collecting paintings instead of books.",
+        "hi": "एक पल के लिए, होरेस ने किताबों के बजाय पेंटिंग इकट्ठा करने के बारे में सोचा।"
+      },
+      "explanation": {
+        "en": "The safe was in the drawing-room, hidden behind a rather poor painting. Horace knew this because he had read an article in a magazine describing the house.",
+        "hi": "तिजोरी ड्राइंग-रूम में एक पेंटिंग के पीछे छिपी थी। होरेस को यह एक पत्रिका में छपे लेख से पता चला था।"
+      },
+      "key_takeaway": {
+        "en": "Magazines and articles sometimes unintentionally help criminals plan robberies.",
+        "hi": "पत्रिकाएं और लेख कभी-कभी अनजाने में अपराधियों को चोरी की योजना बनाने में मदद करते हैं।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "Who was Sherry?",
+        "hi": "शेरी (Sherry) कौन था?"
+      },
+      "options": {
+        "a": {"en": "The housekeeper", "hi": "हाउसकीपर"},
+        "b": {"en": "The pet dog of the house", "hi": "घर का पालतू कुत्ता"},
+        "c": {"en": "Horace's assistant", "hi": "होरेस का सहायक"},
+        "d": {"en": "The neighbor", "hi": "पड़ोसी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Horace greeted it by name to keep it quiet.",
+        "hi": "होरेस ने इसे शांत रखने के लिए इसके नाम से पुकारा।"
+      },
+      "explanation": {
+        "en": "Sherry was the house dog. Horace knew that the right way to keep a dog quiet was to call them by their right names and show them love.",
+        "hi": "शेरी घर का कुत्ता था। होरेस जानता था कि कुत्तों को उनके सही नाम से पुकारने और प्यार दिखाने से वे शांत रहते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Knowing the pet's name is a trick professional thieves use.",
+        "hi": "पालतू जानवर का नाम जानना पेशेवर चोरों की एक चाल है।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "What started Horace's sneezing at Shotover Grange?",
+        "hi": "शोटोवर ग्रेंज में होरेस की छींकें किस वजह से शुरू हुईं?"
+      },
+      "options": {
+        "a": {"en": "Dust in the room", "hi": "कमरे की धूल"},
+        "b": {"en": "The smell of flowers in a bowl on the table", "hi": "मेज पर रखे कटोरे में फूलों की गंध"},
+        "c": {"en": "The cold weather", "hi": "ठंडा मौसम"},
+        "d": {"en": "Sherry's fur", "hi": "शेरी के बाल"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He felt a tickle in his nose because of his hay fever.",
+        "hi": "अपने 'हे फीवर' के कारण उसे नाक में खुजली महसूस हुई।"
+      },
+      "explanation": {
+        "en": "There was a big bowl of flowers on the table. The scent reached Horace and triggered his hay fever, causing him to sneeze repeatedly.",
+        "hi": "मेज पर फूलों का एक बड़ा कटोरा था। उनकी गंध से होरेस का पराग ज्वर (hay fever) भड़क गया और उसे छींकें आने लगीं।"
+      },
+      "key_takeaway": {
+        "en": "Nature's beauty (flowers) became a nuisance for the thief.",
+        "hi": "प्रकृति की सुंदरता (फूल) चोर के लिए परेशानी का सबब बन गई।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "Who interrupted Horace while he was sneezing?",
+        "hi": "जब होरेस छींक रहा था, तो उसे किसने टोका?"
+      },
+      "options": {
+        "a": {"en": "The police", "hi": "पुलिस"},
+        "b": {"en": "A young lady dressed in red", "hi": "लाल कपड़े पहनी एक युवा महिला"},
+        "c": {"en": "The gardener", "hi": "माली"},
+        "d": {"en": "The house owner", "hi": "घर का मालिक"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "She appeared in the doorway and spoke kindly but firmly.",
+        "hi": "वह दरवाजे पर दिखाई दी और दयालुता लेकिन दृढ़ता से बोली।"
+      },
+      "explanation": {
+        "en": "While Horace was sneezing, a voice from the doorway asked if it was a cold or hay fever. It was a young woman dressed in red who appeared to be the mistress of the house.",
+        "hi": "जब होरेस छींक रहा था, तभी एक महिला की आवाज़ आई। वह लाल रंग की पोशाक में थी और घर की मालकिन लग रही थी।"
+      },
+      "key_takeaway": {
+        "en": "The 'Lady in Red' is the most critical character in the twist.",
+        "hi": "'लाल रंग वाली महिला' कहानी के मोड़ में सबसे महत्वपूर्ण पात्र है।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "Why did Horace think the young woman was the owner of the house?",
+        "hi": "होरेस ने क्यों सोचा कि वह युवा महिला घर की मालकिन थी?"
+      },
+      "options": {
+        "a": {"en": "She had the keys", "hi": "उसके पास चाबियाँ थीं"},
+        "b": {"en": "She was very confident and Sherry rubbed against her affectionately", "hi": "वह बहुत आत्मविश्वासी थी और शेरी ने प्यार से उससे शरीर रगड़ा"},
+        "c": {"en": "She showed him her ID card", "hi": "उसने उसे अपना पहचान पत्र दिखाया"},
+        "d": {"en": "She was wearing expensive jewelry", "hi": "उसने महंगे गहने पहने थे"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The dog's reaction and her authoritative manner fooled him.",
+        "hi": "कुत्ते की प्रतिक्रिया और उसके अधिकारपूर्ण व्यवहार ने उसे बेवकूफ बना दिया।"
+      },
+      "explanation": {
+        "en": "She walked with confidence, adjusted the ornaments, and most importantly, the dog Sherry wagged its tail and moved towards her as if it knew her well.",
+        "hi": "वह आत्मविश्वास के साथ चली और कुत्ते ने भी उसे पहचान लिया, जिससे होरेस को लगा कि वह मालकिन है।"
+      },
+      "key_takeaway": {
+        "en": "The dog's friendly behavior confirmed Horace's false assumption.",
+        "hi": "कुत्ते के दोस्ताना व्यवहार ने होरेस की गलत धारणा की पुष्टि कर दी।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "What did the lady in red say about the jewels?",
+        "hi": "लाल कपड़ों वाली महिला ने गहनों के बारे में क्या कहा?"
+      },
+      "options": {
+        "a": {"en": "She wanted Horace to take them", "hi": "वह चाहती थी कि होरेस उन्हें ले जाए"},
+        "b": {"en": "She needed them for a party that night but had forgotten the numbers of the safe", "hi": "उसे उस रात एक पार्टी के लिए उनकी ज़रूरत थी लेकिन वह तिजोरी का नंबर भूल गई थी"},
+        "c": {"en": "They were all fake", "hi": "वे सब नकली थे"},
+        "d": {"en": "The safe was already empty", "hi": "तिजोरी पहले से ही खाली थी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "She used this excuse to get Horace to open the safe for her.",
+        "hi": "उसने होरेस से तिजोरी खुलवाने के लिए इस बहाने का इस्तेमाल किया।"
+      },
+      "explanation": {
+        "en": "The lady claimed she had promised her husband to take the jewels to the bank but left them in the safe. Now she needed them for a party but didn't remember the combination code.",
+        "hi": "महिला ने दावा किया कि वह तिजोरी का कोड भूल गई है और उसे पार्टी में जाने के लिए गहनों की ज़रूरत है।"
+      },
+      "key_takeaway": {
+        "en": "The woman successfully played the role of a forgetful owner.",
+        "hi": "महिला ने एक भुलक्कड़ मालकिन की भूमिका सफलतापूर्वक निभाई।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "What did Horace do to please the lady and avoid going to jail?",
+        "hi": "महिला को खुश करने और जेल जाने से बचने के लिए होरेस ने क्या किया?"
+      },
+      "options": {
+        "a": {"en": "He gave her all his money", "hi": "उसने उसे अपने सारे पैसे दे दिए"},
+        "b": {"en": "He opened the safe for her without wearing gloves", "hi": "उसने बिना दस्ताने पहने उसके लिए तिजोरी खोल दी"},
+        "c": {"en": "He ran away immediately", "hi": "वह तुरंत भाग गया"},
+        "d": {"en": "He called the police himself", "hi": "उसने खुद पुलिस को फोन किया"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He was so desperate to leave that he forgot his usual caution.",
+        "hi": "वह जाने के लिए इतना बेताब था कि वह अपनी सामान्य सावधानी भूल गया।"
+      },
+      "explanation": {
+        "en": "Thinking she was the mistress, Horace opened the safe for her. In his hurry and anxiety to please her, he took off his gloves, leaving his fingerprints all over the safe.",
+        "hi": "उसे मालकिन समझकर होरेस ने उसके लिए तिजोरी खोल दी, लेकिन जल्दबाजी में उसने दस्ताने उतार दिए और उंगलियों के निशान छोड़ दिए।"
+      },
+      "key_takeaway": {
+        "en": "Removing gloves was Horace's fatal mistake.",
+        "hi": "दस्ताने उतारना होरेस की घातक गलती थी।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "How many days passed before Horace was arrested?",
+        "hi": "होरेस की गिरफ्तारी से पहले कितने दिन बीत गए?"
+      },
+      "options": {
+        "a": {"en": "One day", "hi": "एक दिन"},
+        "b": {"en": "Three days", "hi": "तीन दिन"},
+        "c": {"en": "One week", "hi": "एक हफ्ता"},
+        "d": {"en": "He was never arrested", "hi": "वह कभी गिरफ्तार नहीं हुआ"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He spent two days thinking he was safe, but by noon of the third day, the police arrived.",
+        "hi": "उसने दो दिन सोचा कि वह सुरक्षित है, लेकिन तीसरे दिन दोपहर तक पुलिस आ गई।"
+      },
+      "explanation": {
+        "en": "On the third day, a policeman arrested Horace for the jewel robbery at Shotover Grange. His fingerprints were found all over the drawing-room.",
+        "hi": "तीसरे दिन, पुलिस ने होरेस को गिरफ्तार कर लिया क्योंकि उसके फिंगरप्रिंट पूरी जगह पाए गए थे।"
+      },
+      "key_takeaway": {
+        "en": "The third day brought the consequence of his carelessness.",
+        "hi": "तीसरे दिन उसे अपनी लापरवाही का परिणाम भुगतना पड़ा।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "What did the real mistress of the house look like?",
+        "hi": "घर की असली मालकिन कैसी दिखती थी?"
+      },
+      "options": {
+        "a": {"en": "A young girl", "hi": "एक युवा लड़की"},
+        "b": {"en": "A sharp-tongued woman of sixty", "hi": "साठ साल की एक तेज़-तर्रार महिला"},
+        "c": {"en": "She was also wearing red", "hi": "उसने भी लाल कपड़े पहने थे"},
+        "d": {"en": "She was very kind to Horace", "hi": "वह होरेस के प्रति बहुत दयालु थी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "She dismissed the story of the lady in red as 'nonsense'.",
+        "hi": "उसने लाल कपड़ों वाली महिला की कहानी को 'बकवास' कहकर खारिज कर दिया।"
+      },
+      "explanation": {
+        "en": "The actual owner of the jewels was a woman of sixty, with grey hair and a sharp tongue. She said Horace's story was nonsense, proving the young lady was also a thief.",
+        "hi": "असली मालकिन साठ साल की महिला थी। उसने होरेस की कहानी को बकवास बताया, जिससे साबित हुआ कि वह युवा महिला भी एक चोर थी।"
+      },
+      "key_takeaway": {
+        "en": "The young lady in red was an impostor (a clever thief).",
+        "hi": "लाल कपड़ों वाली युवती एक ढोंगी (एक चतुर चोर) थी।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "Where is Horace Danby now at the end of the story?",
+        "hi": "कहानी के अंत में अब होरेस डैनबी कहाँ है?"
+      },
+      "options": {
+        "a": {"en": "He is traveling the world", "hi": "वह दुनिया की यात्रा कर रहा है"},
+        "b": {"en": "He is the assistant librarian in prison", "hi": "वह जेल में सहायक पुस्तकालयाध्यक्ष (Assistant Librarian) है"},
+        "c": {"en": "He is still making locks", "hi": "वह अभी भी ताले बना रहा है"},
+        "d": {"en": "He is living in Shotover Grange", "hi": "वह शोटोवर ग्रेंज में रह रहा है"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Even in prison, he gets to be around the things he loves most.",
+        "hi": "जेल में भी, वह उन चीज़ों के आसपास रहता है जिन्हें वह सबसे ज़्यादा प्यार करता है।"
+      },
+      "explanation": {
+        "en": "Horace is now the assistant librarian in the prison. He often thinks of the charming, clever young lady who tricked him.",
+        "hi": "होरेस अब जेल में सहायक लाइब्रेरियन है और अक्सर उस महिला के बारे में सोचता है जिसने उसे धोखा दिया।"
+      },
+      "key_takeaway": {
+        "en": "Irony: He ended up with books, but in prison.",
+        "hi": "विडंबना: वह किताबों के पास तो पहुँचा, लेकिन जेल में।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "What does Horace feel about the phrase 'honor among thieves'?",
+        "hi": "होरेस 'चोरों के बीच सम्मान' (honor among thieves) वाक्यांश के बारे में कैसा महसूस करता है?"
+      },
+      "options": {
+        "a": {"en": "He strongly believes in it", "hi": "वह इसमें दृढ़ विश्वास रखता है"},
+        "b": {"en": "He gets very angry when anyone mentions it", "hi": "जब कोई इसका जिक्र करता है तो उसे बहुत गुस्सा आता है"},
+        "c": {"en": "He thinks it is a funny joke", "hi": "उसे लगता है कि यह एक मज़ाक है"},
+        "d": {"en": "He wants to write a book about it", "hi": "वह इस पर एक किताब लिखना चाहता है"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He was betrayed by a fellow thief, so he no longer respects this idea.",
+        "hi": "एक साथी चोर ने उसे धोखा दिया था, इसलिए वह अब इस विचार का सम्मान नहीं करता।"
+      },
+      "explanation": {
+        "en": "Horace was tricked by another thief. Because she broke the unwritten code of thieves by handing him over to the law (indirectly), he gets angry at the mention of 'honor among thieves'.",
+        "hi": "होरेस को एक अन्य चोर ने धोखा दिया था, इसलिए 'चोरों के बीच सम्मान' की बात सुनकर उसे गुस्सा आता है।"
+      },
+      "key_takeaway": {
+        "en": "Betrayal by a peer destroyed Horace's faith in criminal 'honor'.",
+        "hi": "एक साथी द्वारा दिए गए धोखे ने आपराधिक 'सम्मान' में होरेस के विश्वास को नष्ट कर दिया।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "How did the young lady describe herself to Horace?",
+        "hi": "युवा महिला ने होरेस को अपना परिचय कैसे दिया?"
+      },
+      "options": {
+        "a": {"en": "As a thief", "hi": "एक चोर के रूप में"},
+        "b": {"en": "As the wife of the house owner", "hi": "घर के मालिक की पत्नी के रूप में"},
+        "c": {"en": "As a neighbor", "hi": "एक पड़ोसी के रूप में"},
+        "d": {"en": "As a policewoman", "hi": "एक पुलिस वाली के रूप में"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "She said she came back because she needed her jewels.",
+        "hi": "उसने कहा कि वह वापस आई क्योंकि उसे अपने गहनों की ज़रूरत थी।"
+      },
+      "explanation": {
+        "en": "She acted as if she was the mistress of the house, returning unexpectedly. She said she had come back to get her jewels for a party.",
+        "hi": "उसने ऐसा व्यवहार किया जैसे वह घर की मालकिन हो और गहने लेने वापस आई हो।"
+      },
+      "key_takeaway": {
+        "en": "Confidence is the best tool for an impostor.",
+        "hi": "आत्मविश्वास एक ढोंगी के लिए सबसे अच्छा हथियार है।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "What did Horace do to prepare for the robbery?",
+        "hi": "डकैती की तैयारी के लिए होरेस ने क्या किया?"
+      },
+      "options": {
+        "a": {"en": "He bought a new car", "hi": "उसने एक नई कार खरीदी"},
+        "b": {"en": "He studied the house for two weeks", "hi": "उसने दो सप्ताह तक घर का अध्ययन किया"},
+        "c": {"en": "He hired a team", "hi": "उसने एक टीम को काम पर रखा"},
+        "d": {"en": "He practiced running", "hi": "उसने दौड़ने का अभ्यास किया"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He was a very meticulous and careful planner.",
+        "hi": "वह बहुत ही सूक्ष्म और सावधान योजनाकार था।"
+      },
+      "explanation": {
+        "en": "Horace was not a random thief. He spent two weeks studying Shotover Grange, its layout, and the habits of the servants to ensure a perfect robbery.",
+        "hi": "होरेस ने डकैती सुनिश्चित करने के लिए दो सप्ताह तक शोटोवर ग्रेंज का अध्ययन किया था।"
+      },
+      "key_takeaway": {
+        "en": "Meticulous planning does not guarantee success against a cleverer opponent.",
+        "hi": "सूक्ष्म योजना एक चतुर प्रतिद्वंद्वी के खिलाफ सफलता की गारंटी नहीं देती।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "Why did Horace not worry about the safe at first?",
+        "hi": "होरेस ने शुरू में तिजोरी के बारे में चिंता क्यों नहीं की?"
+      },
+      "options": {
+        "a": {"en": "It was already open", "hi": "वह पहले से ही खुली थी"},
+        "b": {"en": "He had spent his life with locks and safes", "hi": "उसने अपना जीवन तालों और तिजोरियों के साथ बिताया था"},
+        "c": {"en": "He didn't want the money", "hi": "उसे पैसे नहीं चाहिए थे"},
+        "d": {"en": "The safe was broken", "hi": "तिजोरी टूटी हुई थी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Opening a safe was an easy task for a professional locksmith.",
+        "hi": "एक पेशेवर ताला बनाने वाले के लिए तिजोरी खोलना एक आसान काम था।"
+      },
+      "explanation": {
+        "en": "Being a locksmith, Horace was very confident. He knew he could open the safe easily as he had been dealing with locks and safes all his life.",
+        "hi": "ताला बनाने वाला होने के कारण, होरेस को यकीन था कि वह आसानी से तिजोरी खोल लेगा।"
+      },
+      "key_takeaway": {
+        "en": "Professional confidence can sometimes lead to a lapse in security (removing gloves).",
+        "hi": "पेशेवर आत्मविश्वास कभी-कभी सुरक्षा में चूक (दस्ताने हटाना) का कारण बन सकता है।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "What was the 'burglar alarm' like in the house?",
+        "hi": "घर में 'चोर अलार्म' कैसा था?"
+      },
+      "options": {
+        "a": {"en": "Very advanced and loud", "hi": "बहुत उन्नत और तेज़"},
+        "b": {"en": "Poorly built", "hi": "खराब तरीके से बना हुआ"},
+        "c": {"en": "There was no alarm", "hi": "कोई अलार्म नहीं था"},
+        "d": {"en": "It was connected to the police station", "hi": "यह पुलिस स्टेशन से जुड़ा था"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Horace cut the wires easily because it wasn't a good system.",
+        "hi": "होरेस ने तारों को आसानी से काट दिया क्योंकि यह एक अच्छी प्रणाली नहीं थी।"
+      },
+      "explanation": {
+        "en": "Horace found the burglar alarm to be poorly built. He went into the hall to cut its wires before starting his work on the safe.",
+        "hi": "होरेस ने चोर अलार्म को खराब पाया और तिजोरी पर काम शुरू करने से पहले उसके तार काट दिए।"
+      },
+      "key_takeaway": {
+        "en": "Horace was technically proficient in bypassing security systems.",
+        "hi": "होरेस सुरक्षा प्रणालियों को बायपास करने में तकनीकी रूप से कुशल था।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "How much money did Horace usually spend on books each year?",
+        "hi": "होरेस आमतौर पर हर साल किताबों पर कितना पैसा खर्च करता था?"
+      },
+      "options": {
+        "a": {"en": "All the jewels' value", "hi": "गहनों का पूरा मूल्य"},
+        "b": {"en": "Enough to buy what he wanted for 12 months", "hi": "12 महीनों के लिए जो उसे चाहिए था उतना"},
+        "c": {"en": "Fifty pounds", "hi": "पचास पाउंड"},
+        "d": {"en": "Nothing, he stole books too", "hi": "कुछ नहीं, वह किताबें भी चुराता था"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "His robberies were precisely calculated for his annual needs.",
+        "hi": "उसकी डकैतियां उसकी वार्षिक आवश्यकताओं के लिए सटीक रूप से गणना की गई थीं।"
+      },
+      "explanation": {
+        "en": "Each year Horace stole enough to last for twelve months. He lived a quiet life otherwise and was well-served by his business and helpers.",
+        "hi": "हर साल होरेस बारह महीने की ज़रूरत के हिसाब से चोरी करता था।"
+      },
+      "key_takeaway": {
+        "en": "Horace's criminal activity was systematic and controlled.",
+        "hi": "होरेस की आपराधिक गतिविधि व्यवस्थित और नियंत्रित थी।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "What was the name of the magazine that described the house?",
+        "hi": "घर का वर्णन करने वाली पत्रिका का नाम क्या था?"
+      },
+      "options": {
+        "a": {"en": "The House Beautiful", "hi": "द हाउस ब्यूटीफुल"},
+        "b": {"en": "Country Life", "hi": "कंट्री लाइफ"},
+        "c": {"en": "Not mentioned specifically by name", "hi": "नाम से विशेष रूप से उल्लेख नहीं किया गया है"},
+        "d": {"en": "The Gardener's World", "hi": "द गार्डनर्स वर्ल्ड"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "The story just refers to it as 'a magazine article'.",
+        "hi": "कहानी सिर्फ इसे 'एक पत्रिका लेख' के रूप में संदर्भित करती है।"
+      },
+      "explanation": {
+        "en": "The text states that 'a magazine article had described this house', giving a plan of all the rooms and even mentioning the safe behind the painting.",
+        "hi": "पाठ में कहा गया है कि एक पत्रिका के लेख ने इस घर का वर्णन किया था और नक्शा भी दिया था।"
+      },
+      "key_takeaway": {
+        "en": "Details in public media can inadvertently aid criminal planning.",
+        "hi": "सार्वजनिक मीडिया में विवरण अनजाने में आपराधिक योजना में सहायता कर सकते हैं।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "How did the young woman handle Sherry the dog?",
+        "hi": "युवा महिला ने शेरी कुत्ते को कैसे संभाला?"
+      },
+      "options": {
+        "a": {"en": "She kicked it", "hi": "उसने उसे लात मारी"},
+        "b": {"en": "She called it by name and petted it", "hi": "उसने उसे नाम से पुकारा और थपथपाया"},
+        "c": {"en": "She gave it a biscuit", "hi": "उसने उसे एक बिस्कुट दिया"},
+        "d": {"en": "She ignored it", "hi": "उसने उसे नज़रअंदाज़ कर दिया"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "She said 'Quiet, Sherry' and the dog responded obediently.",
+        "hi": "उसने कहा 'शांत, शेरी' और कुत्ते ने आज्ञाकारी रूप से प्रतिक्रिया दी।"
+      },
+      "explanation": {
+        "en": "The young woman used the same trick Horace knew—calling the dog by name. This made her appear even more like the true owner.",
+        "hi": "उस महिला ने भी वही चाल चली जो होरेस जानता था—कुत्ते को नाम से पुकारना।"
+      },
+      "key_takeaway": {
+        "en": "The impostor was as well-prepared as Horace, if not more.",
+        "hi": "ढोंगी महिला होरेस की तरह ही अच्छी तरह से तैयार थी, यदि उससे अधिक नहीं।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "What did Horace offer to do for the lady in return for his freedom?",
+        "hi": "अपनी आज़ादी के बदले होरेस ने महिला के लिए क्या करने की पेशकश की?"
+      },
+      "options": {
+        "a": {"en": "Give her all his tools", "hi": "उसे अपने सारे औज़ार दे देने की"},
+        "b": {"en": "Open the safe for her", "hi": "उसके लिए तिजोरी खोलने की"},
+        "c": {"en": "Paint her house", "hi": "उसका घर पेंट करने की"},
+        "d": {"en": "Tell her about other houses", "hi": "उसे अन्य घरों के बारे में बताने की"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He thought this would make her let him go without calling the police.",
+        "hi": "उसने सोचा कि इससे वह पुलिस को बुलाए बिना उसे जाने देगी।"
+      },
+      "explanation": {
+        "en": "When the lady threatened to call the police, Horace pleaded with her. He offered to open the safe for her as she claimed to have forgotten the code.",
+        "hi": "जब महिला ने पुलिस को फोन करने की धमकी दी, तो होरेस ने उसके लिए तिजोरी खोलने की पेशकश की।"
+      },
+      "key_takeaway": {
+        "en": "Fear of the law made Horace a servant to the impostor.",
+        "hi": "कानून के डर ने होरेस को ढोंगी महिला का सेवक बना दिया।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "What color was the dress of the woman who tricked Horace?",
+        "hi": "होरेस को धोखा देने वाली महिला की पोशाक का रंग क्या था?"
+      },
+      "options": {
+        "a": {"en": "Blue", "hi": "नीला"},
+        "b": {"en": "Red", "hi": "लाल (Red)"},
+        "c": {"en": "Black", "hi": "काला"},
+        "d": {"en": "Green", "hi": "हरा"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "She is often referred to as the 'lady in ______'.",
+        "hi": "उसे अक्सर '______ रंग वाली महिला' कहा जाता है।"
+      },
+      "explanation": {
+        "en": "The woman was wearing a bright red dress. This color made her stand out and added to her confident appearance.",
+        "hi": "महिला ने चमकीले लाल रंग की पोशाक पहनी थी।"
+      },
+      "key_takeaway": {
+        "en": "Red = The symbolic color associated with the clever thief.",
+        "hi": "लाल = चतुर चोर से जुड़ा प्रतीकात्मक रंग।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "Why did the police catch Horace so easily?",
+        "hi": "पुलिस ने होरेस को इतनी आसानी से क्यों पकड़ लिया?"
+      },
+      "options": {
+        "a": {"en": "He left his bag behind", "hi": "उसने अपना बैग पीछे छोड़ दिया"},
+        "b": {"en": "He left his fingerprints everywhere because he didn't wear gloves", "hi": "उसने हर जगह उंगलियों के निशान छोड़ दिए क्योंकि उसने दस्ताने नहीं पहने थे"},
+        "c": {"en": "The lady gave the police his address", "hi": "महिला ने पुलिस को उसका पता दे दिया"},
+        "d": {"en": "He surrendered himself", "hi": "उसने आत्मसमर्पण कर दिया"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He opened the safe for the lady with bare hands.",
+        "hi": "उसने नंगे हाथों से महिला के लिए तिजोरी खोली थी।"
+      },
+      "explanation": {
+        "en": "Because Horace believed the woman was the owner, he opened the safe without his gloves to please her. His fingerprints were found all over the room.",
+        "hi": "चूंकि होरेस को लगा कि वह मालकिन है, इसलिए उसने बिना दस्ताने के तिजोरी खोल दी और पकड़ा गया।"
+      },
+      "key_takeaway": {
+        "en": "Even an expert can fail if they let their guard down.",
+        "hi": "अगर कोई विशेषज्ञ भी सावधानी हटा दे तो वह भी असफल हो सकता है।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "Who is the author of 'A Question of Trust'?",
+        "hi": "'ए क्वेश्चन ऑफ ट्रस्ट' (A Question of Trust) के लेखक कौन हैं?"
+      },
+      "options": {
+        "a": {"en": "Victor Canning", "hi": "विक्टर कैनिंग (Victor Canning)"},
+        "b": {"en": "Ruskin Bond", "hi": "रस्किन बॉन्ड"},
+        "c": {"en": "Robert Arthur", "hi": "रॉबर्ट ऑर्थर"},
+        "d": {"en": "H.G. Wells", "hi": "एच.जी. वेल्स"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "He was a prolific British writer of thrillers and detective novels.",
+        "hi": "वे थ्रिलर और जासूसी उपन्यासों के एक विपुल ब्रिटिश लेखक थे।"
+      },
+      "explanation": {
+        "en": "Victor Canning is the author of this story. He is known for creating suspenseful plots with ironic endings.",
+        "hi": "इस कहानी के लेखक विक्टर कैनिंग हैं।"
+      },
+      "key_takeaway": {
+        "en": "Victor Canning = Author of the ironic story about thieves.",
+        "hi": "विक्टर कैनिंग = चोरों के बारे में विडंबनापूर्ण कहानी के लेखक।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "What is the irony in the story's ending?",
+        "hi": "कहानी के अंत में विडंबना (Irony) क्या है?"
+      },
+      "options": {
+        "a": {"en": "A thief was robbed and tricked by another thief", "hi": "एक चोर को दूसरे चोर ने लूटा और धोखा दिया"},
+        "b": {"en": "Horace became a policeman", "hi": "होरेस पुलिसकर्मी बन गया"},
+        "c": {"en": "The safe was empty", "hi": "तिजोरी खाली थी"},
+        "d": {"en": "Sherry bit the lady in red", "hi": "शेरी ने लाल कपड़ों वाली महिला को काट लिया"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "Think about Horace's belief in 'honor among thieves'.",
+        "hi": "होरेस के 'चोरों के बीच सम्मान' के विश्वास के बारे में सोचें।"
+      },
+      "explanation": {
+        "en": "The irony is that Horace Danby, who thought he was a very careful thief, was easily tricked by another thief. He lost his freedom and the jewels while trying to help a 'colleague'.",
+        "hi": "विडंबना यह है कि होरेस डैनबी, जो खुद को एक बहुत ही सावधान चोर मानता था, दूसरे चोर द्वारा आसानी से ठगा गया।"
+      },
+      "key_takeaway": {
+        "en": "Irony = The opposite of what is expected (a thief robbed by a thief).",
+        "hi": "Irony = जो अपेक्षित है उसका विपरीत (एक चोर दूसरे चोर द्वारा लूटा गया)।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "What does the story suggest about trust?",
+        "hi": "यह कहानी विश्वास के बारे में क्या सुझाव देती है?"
+      },
+      "options": {
+        "a": {"en": "Trust everyone you meet", "hi": "जिससे भी मिलें उस पर विश्वास करें"},
+        "b": {"en": "Blind trust can be dangerous, especially in the world of crime", "hi": "अंधविश्वास खतरनाक हो सकता है, खासकर अपराध की दुनिया में"},
+        "c": {"en": "Thieves always trust each other", "hi": "चोर हमेशा एक-दूसरे पर भरोसा करते हैं"},
+        "d": {"en": "Trust is more important than law", "hi": "विश्वास कानून से अधिक महत्वपूर्ण है"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Horace's downfall was his decision to trust the young woman based on appearances.",
+        "hi": "होरेस के पतन का कारण दिखावे के आधार पर उस महिला पर विश्वास करने का उसका निर्णय था।"
+      },
+      "explanation": {
+        "en": "The story title 'A Question of Trust' highlights that one should not trust people blindly. Horace trusted the lady because she looked elegant and spoke firmly, which proved to be his undoing.",
+        "hi": "कहानी बताती है कि किसी पर भी अंधा भरोसा नहीं करना चाहिए।"
+      },
+      "key_takeaway": {
+        "en": "Appearances can be deceiving; verify before you trust.",
+        "hi": "दिखावा धोखा दे सकता है; विश्वास करने से पहले पुष्टि करें।"
+      }
+    }
+  ]
+}

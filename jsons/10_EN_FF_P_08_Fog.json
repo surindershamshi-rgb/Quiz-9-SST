@@ -1,0 +1,540 @@
+{
+  "metadata": {
+    "unit_number": 7,
+    "poem_title": "Fog",
+    "poem_title_hindi": "कोहरा (Fog)",
+    "author": "Carl Sandburg",
+    "subject": "English (First Flight) - Class 10",
+    "board": "HPBOSE (NCERT)",
+    "total_questions": 20,
+    "version": "1.0",
+    "naming_convention": "10_EN_FF_P_08_Fog.json"
+  },
+  "validation_report": {
+    "is_valid": true,
+    "checked_by": "AI Tutor",
+    "notes": "Focuses on the extended metaphor of the cat, imagery of the harbor/city, and the poem's unique structure."
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "Who is the poet of the poem 'Fog'?",
+        "hi": "'कोहरा' (Fog) कविता के कवि कौन हैं?"
+      },
+      "options": {
+        "a": {"en": "Robert Frost", "hi": "रॉबर्ट फ्रॉस्ट"},
+        "b": {"en": "Carl Sandburg", "hi": "कार्ल सैंडबर्ग (Carl Sandburg)"},
+        "c": {"en": "Walt Whitman", "hi": "वॉल्ट व्हिटमैन"},
+        "d": {"en": "Leslie Norris", "hi": "लेस्ली नॉरिस"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He was an American poet known for his descriptions of industrial cities and nature.",
+        "hi": "वे एक अमेरिकी कवि थे जो औद्योगिक शहरों और प्रकृति के अपने वर्णनों के लिए जाने जाते थे।"
+      },
+      "explanation": {
+        "en": "Carl Sandburg wrote 'Fog'. He is famous for capturing the essence of American landscapes and urban life in simple yet powerful language.",
+        "hi": "कार्ल सैंडबर्ग ने 'फॉग' कविता लिखी है। वे अमेरिकी परिदृश्य और शहरी जीवन को सरल लेकिन प्रभावशाली भाषा में चित्रित करने के लिए प्रसिद्ध हैं।"
+      },
+      "key_takeaway": {
+        "en": "Carl Sandburg = The poet of city life and nature.",
+        "hi": "कार्ल सैंडबर्ग = शहरी जीवन और प्रकृति के कवि।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "To which animal does the poet compare the fog?",
+        "hi": "कवि कोहरे की तुलना किस जानवर से करता है?"
+      },
+      "options": {
+        "a": {"en": "A dog", "hi": "एक कुत्ता"},
+        "b": {"en": "A cat", "hi": "एक बिल्ली (A cat)"},
+        "c": {"en": "A tiger", "hi": "एक बाघ"},
+        "d": {"en": "A bird", "hi": "एक पक्षी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The poem mentions that it comes on 'little feet'.",
+        "hi": "कविता में उल्लेख है कि यह 'छोटे पैरों' पर आता है।"
+      },
+      "explanation": {
+        "en": "The poet uses an extended metaphor, comparing the arrival and behavior of the fog to a cat. Both move silently and unpredictably.",
+        "hi": "कवि कोहरे के आगमन और व्यवहार की तुलना एक बिल्ली से करता है क्योंकि दोनों ही चुपचाप और अप्रत्याशित रूप से चलते हैं।"
+      },
+      "key_takeaway": {
+        "en": "The central metaphor of the poem is the comparison of fog to a cat.",
+        "hi": "कविता का मुख्य रूपक (metaphor) कोहरे की बिल्ली से तुलना है।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "How does the fog come?",
+        "hi": "कोहरा कैसे आता है?"
+      },
+      "options": {
+        "a": {"en": "With a loud noise", "hi": "ज़ोरदार आवाज़ के साथ"},
+        "b": {"en": "On little cat feet", "hi": "बिल्ली के छोटे पैरों की तरह चुपचाप"},
+        "c": {"en": "Very slowly like a snail", "hi": "घोंघे की तरह बहुत धीरे"},
+        "d": {"en": "With the wind", "hi": "हवा के साथ"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The movement is described as being very silent and soft.",
+        "hi": "इसकी गति को बहुत शांत और कोमल बताया गया है।"
+      },
+      "explanation": {
+        "en": "The line 'The fog comes on little cat feet' suggests that just as a cat enters a room without making a sound, the fog covers the area silently.",
+        "hi": "पंक्ति 'The fog comes on little cat feet' का अर्थ है कि जैसे बिल्ली बिना आवाज़ किए आती है, वैसे ही कोहरा भी चुपचाप छा जाता है।"
+      },
+      "key_takeaway": {
+        "en": "Silence and stealth are the key features of the fog's arrival.",
+        "hi": "खामोशी और चुपके से आना कोहरे के आगमन की मुख्य विशेषताएं हैं।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "Where does the fog look over?",
+        "hi": "कोहरा कहाँ देखता (छाता) है?"
+      },
+      "options": {
+        "a": {"en": "Over the mountains", "hi": "पहाड़ों के ऊपर"},
+        "b": {"en": "Over harbor and city", "hi": "बंदरगाह और शहर के ऊपर (Harbor and city)"},
+        "c": {"en": "Over the village", "hi": "गाँव के ऊपर"},
+        "d": {"en": "Over the forest", "hi": "जंगल के ऊपर"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The poet mentions two specific urban areas that the fog settles upon.",
+        "hi": "कवि दो विशिष्ट शहरी क्षेत्रों का उल्लेख करता है जिन पर कोहरा जम जाता है।"
+      },
+      "explanation": {
+        "en": "The poet says the fog sits 'looking over harbor and city'. It covers the entire landscape of the port and the residential/business areas.",
+        "hi": "कवि कहता है कि कोहरा बंदरगाह और शहर के ऊपर छाकर उन्हें देखता है।"
+      },
+      "key_takeaway": {
+        "en": "Harbor and City = The urban setting of the poem.",
+        "hi": "बंदरगाह और शहर = कविता का शहरी परिवेश।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "What does the fog do while looking over the city?",
+        "hi": "शहर को देखते समय कोहरा क्या करता है?"
+      },
+      "options": {
+        "a": {"en": "It starts raining", "hi": "बारिश शुरू कर देता है"},
+        "b": {"en": "It sits on silent haunches", "hi": "वह शांत कूल्हों (haunches) पर बैठता है"},
+        "c": {"en": "It disappears immediately", "hi": "वह तुरंत गायब हो जाता है"},
+        "d": {"en": "It makes a whistle sound", "hi": "वह सीटी जैसी आवाज़ करता है"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It mimics the sitting posture of a cat.",
+        "hi": "यह बिल्ली के बैठने की मुद्रा की नकल करता है।"
+      },
+      "explanation": {
+        "en": "The poet describes the fog as sitting on its 'silent haunches'. This image reinforces the comparison to a cat that sits quietly and observes its surroundings.",
+        "hi": "कवि कोहरे का वर्णन 'शांत कूल्हों' पर बैठने के रूप में करता है, जैसे बिल्ली चुपचाप बैठकर अपने आसपास देखती है।"
+      },
+      "key_takeaway": {
+        "en": "Silent haunches = A metaphor for the fog settling quietly over an area.",
+        "hi": "Silent haunches = किसी क्षेत्र पर चुपचाप जमने वाले कोहरे के लिए एक रूपक।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "What happens after the fog sits for a while?",
+        "hi": "थोड़ी देर बैठने के बाद कोहरे का क्या होता है?"
+      },
+      "options": {
+        "a": {"en": "It gets thicker", "hi": "वह और घना हो जाता है"},
+        "b": {"en": "It moves on", "hi": "वह आगे बढ़ जाता है (Moves on)"},
+        "c": {"en": "It turns into snow", "hi": "वह बर्फ में बदल जाता है"},
+        "d": {"en": "It stays there forever", "hi": "वह हमेशा के लिए वहीं रहता है"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Just like a cat that eventually gets up and walks away silently, the fog also leaves.",
+        "hi": "जैसे बिल्ली अंततः उठकर चुपचाप चली जाती है, वैसे ही कोहरा भी चला जाता है।"
+      },
+      "explanation": {
+        "en": "The poem ends with the words 'and then moves on'. This shows the temporary nature of the fog, which leaves as quietly as it arrived.",
+        "hi": "कविता का अंत 'और फिर आगे बढ़ जाता है' शब्दों के साथ होता है, जो कोहरे की अस्थायी प्रकृति को दर्शाता है।"
+      },
+      "key_takeaway": {
+        "en": "The fog's departure is as silent as its arrival.",
+        "hi": "कोहरे का जाना भी उसके आने की तरह ही खामोश होता है।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "Which poetic device is used throughout the poem?",
+        "hi": "पूरी कविता में किस काव्य अलंकार का प्रयोग किया गया है?"
+      },
+      "options": {
+        "a": {"en": "Simile", "hi": "उपमा"},
+        "b": {"en": "Metaphor", "hi": "रूपक (Metaphor)"},
+        "c": {"en": "Oxymoron", "hi": "विरोधाभास"},
+        "d": {"en": "Hyperbole", "hi": "अतिशयोक्ति"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The fog IS a cat in the poet's eyes, not just LIKE a cat.",
+        "hi": "कवि की आँखों में कोहरा बिल्ली के समान नहीं, बल्कि बिल्ली ही है।"
+      },
+      "explanation": {
+        "en": "The poem is an example of an 'Extended Metaphor' where the fog is directly compared to a cat without using words like 'like' or 'as'.",
+        "hi": "यह कविता 'रूपक' (Metaphor) का एक उदाहरण है जहाँ कोहरे की तुलना सीधे बिल्ली से की गई है।"
+      },
+      "key_takeaway": {
+        "en": "Metaphor = Direct comparison between two unlike things.",
+        "hi": "Metaphor = दो अलग-अलग चीज़ों के बीच सीधा मुकाबला।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "What is the rhyme scheme of the poem 'Fog'?",
+        "hi": "'कोहरा' कविता की तुकबंदी (Rhyme Scheme) क्या है?"
+      },
+      "options": {
+        "a": {"en": "abab", "hi": "abab"},
+        "b": {"en": "aabb", "hi": "aabb"},
+        "c": {"en": "Free Verse (No rhyme scheme)", "hi": "मुक्त छंद (कोई तुकबंदी नहीं)"},
+        "d": {"en": "abba", "hi": "abba"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "The lines do not end with matching sounds; they flow naturally.",
+        "hi": "पंक्तियाँ मेल खाने वाली ध्वनियों के साथ समाप्त नहीं होती हैं; वे स्वाभाविक रूप से बहती हैं।"
+      },
+      "explanation": {
+        "en": "The poem 'Fog' is written in free verse. It does not have a regular rhyme scheme or a fixed meter, which allows the poet to focus on imagery.",
+        "hi": "यह कविता मुक्त छंद (free verse) में लिखी गई है, इसमें कोई निश्चित तुकबंदी नहीं है।"
+      },
+      "key_takeaway": {
+        "en": "Free verse allows for a more natural, fluid expression of nature.",
+        "hi": "मुक्त छंद प्रकृति की अधिक स्वाभाविक अभिव्यक्ति की अनुमति देता है।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "What is the meaning of 'haunches'?",
+        "hi": "'Haunches' का क्या अर्थ है?"
+      },
+      "options": {
+        "a": {"en": "Hands", "hi": "हाथ"},
+        "b": {"en": "Hips or back legs of an animal", "hi": "जानवर के कूल्हे या पिछली टांगें (Hips)"},
+        "c": {"en": "A type of cloud", "hi": "एक प्रकार का बादल"},
+        "d": {"en": "The roof of a house", "hi": "घर की छत"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "A cat sits on its haunches when it is observing something quietly.",
+        "hi": "बिल्ली तब अपने 'haunches' पर बैठती है जब वह किसी चीज़ को चुपचाप देख रही होती है।"
+      },
+      "explanation": {
+        "en": "'Haunches' refers to the back parts of an animal's body. By saying the fog sits on its haunches, the poet creates a clear picture of a cat-like sitting posture.",
+        "hi": "Haunches का अर्थ है पशु के बैठने का पिछला हिस्सा (कूल्हे)।"
+      },
+      "key_takeaway": {
+        "en": "Sits on haunches = A posture of quiet observation.",
+        "hi": "Sits on haunches = शांत अवलोकन की एक मुद्रा।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "Why does the poet describe the fog as 'looking over' the city?",
+        "hi": "कवि कोहरे का वर्णन शहर को 'देखते हुए' क्यों करता है?"
+      },
+      "options": {
+        "a": {"en": "To show the fog is a living creature", "hi": "यह दिखाने के लिए कि कोहरा एक जीवित प्राणी है"},
+        "b": {"en": "To use personification and create a sense of mystery", "hi": "मानवीकरण का उपयोग करने और रहस्य की भावना पैदा करने के लिए"},
+        "c": {"en": "Because the fog has eyes", "hi": "क्योंकि कोहरे की आँखें हैं"},
+        "d": {"en": "Because it is high above the ground", "hi": "क्योंकि यह ज़मीन से बहुत ऊपर है"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Giving human or animal qualities to nature makes the poem more vivid.",
+        "hi": "प्रकृति को मानवीय या पशु गुण देने से कविता अधिक सजीव हो जाती है।"
+      },
+      "explanation": {
+        "en": "By saying the fog is 'looking over', the poet personifies it. It makes the fog seem like a conscious observer, adding a layer of mystery to the scene.",
+        "hi": "कोहरे को 'देखते हुए' कहना 'मानवीकरण' है, जो इसे एक जीवित पर्यवेक्षक जैसा बनाता है।"
+      },
+      "key_takeaway": {
+        "en": "Personification helps in making abstract elements of nature relatable.",
+        "hi": "मानवीकरण प्रकृति के अमूर्त तत्वों को समझने योग्य बनाने में मदद करता है।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "What kind of atmosphere does the poem create?",
+        "hi": "कविता किस प्रकार का वातावरण बनाती है?"
+      },
+      "options": {
+        "a": {"en": "Noisy and busy", "hi": "शोर भरा और व्यस्त"},
+        "b": {"en": "Silent and mysterious", "hi": "शांत और रहस्यमयी (Silent and mysterious)"},
+        "c": {"en": "Scary and dangerous", "hi": "डरावना और खतरनाक"},
+        "d": {"en": "Happy and celebratory", "hi": "खुशनुमा और उत्सवपूर्ण"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Words like 'little cat feet' and 'silent' suggest a very quiet setting.",
+        "hi": "'बिल्ली के छोटे पैर' और 'शांत' जैसे शब्द एक बहुत ही खामोश सेटिंग का सुझाव देते हैं।"
+      },
+      "explanation": {
+        "en": "The poem creates a quiet, reflective, and somewhat mysterious atmosphere. The silent movement of the fog and the cat imagery contribute to this feeling.",
+        "hi": "कविता एक शांत और रहस्यमयी माहौल बनाती है, जहाँ कोहरा चुपचाप आता है और चला जाता है।"
+      },
+      "key_takeaway": {
+        "en": "Atmosphere = The overall mood or feeling of the poem.",
+        "hi": "वातावरण = कविता का समग्र मिज़ाज या अहसास।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "How many lines are there in the poem 'Fog'?",
+        "hi": "'कोहरा' कविता में कितनी पंक्तियाँ हैं?"
+      },
+      "options": {
+        "a": {"en": "Two", "hi": "दो"},
+        "b": {"en": "Six", "hi": "छह (Six)"},
+        "c": {"en": "Ten", "hi": "दस"},
+        "d": {"en": "Four", "hi": "चार"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It is one of the shortest yet most famous poems in English literature.",
+        "hi": "यह अंग्रेजी साहित्य की सबसे छोटी लेकिन सबसे प्रसिद्ध कविताओं में से एक है।"
+      },
+      "explanation": {
+        "en": "The entire poem 'Fog' consists of only six lines divided into two stanzas. Its brevity is part of its artistic appeal.",
+        "hi": "पूरी कविता 'फॉग' में केवल छह पंक्तियाँ हैं।"
+      },
+      "key_takeaway": {
+        "en": "Short poems can deliver very powerful messages.",
+        "hi": "छोटी कविताएं बहुत शक्तिशाली संदेश दे सकती हैं।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "What is a 'harbor'?",
+        "hi": "'Harbor' (बंदरगाह) क्या है?"
+      },
+      "options": {
+        "a": {"en": "A type of animal", "hi": "एक प्रकार का जानवर"},
+        "b": {"en": "A place on the coast where ships can find shelter", "hi": "तट पर एक जगह जहाँ जहाज़ों को आश्रय मिलता है (Port)"},
+        "c": {"en": "A tall building", "hi": "एक ऊँची इमारत"},
+        "d": {"en": "A bridge", "hi": "एक पुल"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The fog looks over this area where water meets the city.",
+        "hi": "कोहरा उस क्षेत्र को देखता है जहाँ पानी शहर से मिलता है।"
+      },
+      "explanation": {
+        "en": "A harbor is a port or a coastal area where ships are docked. The fog settling over the harbor is a common and beautiful sight in maritime cities.",
+        "hi": "बंदरगाह वह स्थान है जहाँ जहाज़ रुकते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Harbor = A key element of the poem's urban landscape.",
+        "hi": "Harbor = कविता के शहरी परिदृश्य का एक मुख्य तत्व।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "Which word is repeated indirectly through imagery to show silence?",
+        "hi": "खामोशी दिखाने के लिए किस शब्द को चित्रात्मकता के माध्यम से अप्रत्यक्ष रूप से दोहराया गया है?"
+      },
+      "options": {
+        "a": {"en": "Loud", "hi": "ज़ोरदार"},
+        "b": {"en": "Silent", "hi": "शांत (Silent)"},
+        "c": {"en": "Fast", "hi": "तेज़"},
+        "d": {"en": "Bright", "hi": "चमकीला"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It is used to describe the haunches and the overall movement.",
+        "hi": "इसका उपयोग कूल्हों और समग्र गति का वर्णन करने के लिए किया गया है।"
+      },
+      "explanation": {
+        "en": "The poet uses the word 'silent' specifically in 'silent haunches' and implies it through 'little cat feet'. Silence is the most important theme of the poem.",
+        "hi": "कवि 'silent haunches' और 'cat feet' के माध्यम से खामोशी पर ज़ोर देता है।"
+      },
+      "key_takeaway": {
+        "en": "Silence = The defining quality of fog and cats.",
+        "hi": "खामोशी = कोहरे और बिल्लियों की परिभाषित विशेषता।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "The fog's behavior suggests it is ______.",
+        "hi": "कोहरे का व्यवहार बताता है कि वह ______ है।"
+      },
+      "options": {
+        "a": {"en": "Playful", "hi": "चंचल"},
+        "b": {"en": "Independent and detached", "hi": "स्वतंत्र और अलग-थलग (Independent and detached)"},
+        "c": {"en": "Angry", "hi": "क्रोधित"},
+        "d": {"en": "Helpful", "hi": "मददगार"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It comes, stays for a while without interacting, and then leaves.",
+        "hi": "यह आता है, बिना किसी बातचीत के थोड़ी देर रुकता है, और फिर चला जाता है।"
+      },
+      "explanation": {
+        "en": "Like a cat, the fog doesn't seek attention or interfere with the city. It is a detached observer that exists independently and then vanishes.",
+        "hi": "बिल्ली की तरह कोहरा भी किसी का ध्यान आकर्षित नहीं करता, वह बस आता है और चला जाता है।"
+      },
+      "key_takeaway": {
+        "en": "Detachment is a quality of both the cat and the natural phenomenon of fog.",
+        "hi": "अलग-थलग रहना बिल्ली और कोहरे दोनों का गुण है।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "What is the main image in the first stanza?",
+        "hi": "पहले छंद में मुख्य चित्र (Image) क्या है?"
+      },
+      "options": {
+        "a": {"en": "A ship in the water", "hi": "पानी में एक जहाज़"},
+        "b": {"en": "A cat walking on its paws", "hi": "अपने पंजों पर चलती एक बिल्ली (Cat walking)"},
+        "c": {"en": "A burning sun", "hi": "एक जलता हुआ सूरज"},
+        "d": {"en": "A tall mountain", "hi": "एक ऊँचा पहाड़"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The line 'comes on little cat feet' creates this mental picture.",
+        "hi": "'बिल्ली के छोटे पैरों पर आता है' पंक्ति यह मानसिक चित्र बनाती है।"
+      },
+      "explanation": {
+        "en": "The first stanza immediately establishes the image of a cat's silent walk, transferring that image to the slow, soundless arrival of the fog.",
+        "hi": "पहला छंद तुरंत एक बिल्ली की शांत चाल का चित्र बनाता है।"
+      },
+      "key_takeaway": {
+        "en": "Stanza 1 focuses on the arrival of the fog.",
+        "hi": "पहला छंद कोहरे के आने पर केंद्रित है।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "What does the poet mean by 'it sits looking'?",
+        "hi": "'यह बैठा देख रहा है' से कवि का क्या तात्पर्य है?"
+      },
+      "options": {
+        "a": {"en": "The fog is waiting for something", "hi": "कोहरा किसी चीज़ का इंतज़ार कर रहा है"},
+        "b": {"en": "The fog has covered the area and remains still", "hi": "कोहरे ने पूरे क्षेत्र को ढक लिया है और वह स्थिर बना हुआ है"},
+        "c": {"en": "The fog is tired", "hi": "कोहरा थक गया है"},
+        "d": {"en": "The fog is searching for food", "hi": "कोहरा भोजन की तलाश में है"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It describes the period when the fog has fully settled over the city.",
+        "hi": "यह उस अवधि का वर्णन करता है जब कोहरा पूरी तरह से शहर पर जम गया है।"
+      },
+      "explanation": {
+        "en": "When the fog 'sits looking', it means the weather is completely foggy and still. The city is invisible and silent under its blanket.",
+        "hi": "जब कोहरा 'बैठा देख रहा है' (sits looking), इसका मतलब है कि वह पूरे क्षेत्र पर स्थिर हो गया है।"
+      },
+      "key_takeaway": {
+        "en": "Stillness is another commonality between the fog and a cat.",
+        "hi": "स्थिरता कोहरे और बिल्ली के बीच एक और समानता है।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "In the poem, 'it' refers to ______.",
+        "hi": "कविता में 'it' (यह) ______ को संदर्भित करता है।"
+      },
+      "options": {
+        "a": {"en": "The city", "hi": "शहर को"},
+        "b": {"en": "The fog", "hi": "कोहरे को (The fog)"},
+        "c": {"en": "The harbor", "hi": "बंदरगाह को"},
+        "d": {"en": "The cat", "hi": "बिल्ली को"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It is the subject of the entire poem.",
+        "hi": "यह पूरी कविता का मुख्य विषय है।"
+      },
+      "explanation": {
+        "en": "Although the fog is compared to a cat, the pronoun 'it' is used for the fog itself. The poem describes its arrival, its stay, and its departure.",
+        "hi": "पूरी कविता में 'it' शब्द का प्रयोग कोहरे के लिए किया गया है।"
+      },
+      "key_takeaway": {
+        "en": "The fog is the invisible yet ever-present protagonist.",
+        "hi": "कोहरा अदृश्य लेकिन हमेशा मौजूद रहने वाला नायक है।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "Why is the comparison to a cat effective?",
+        "hi": "बिल्ली से तुलना प्रभावशाली क्यों है?"
+      },
+      "options": {
+        "a": {"en": "Because cats are scary", "hi": "क्योंकि बिल्लियाँ डरावनी होती हैं"},
+        "b": {"en": "Because both are quiet, mysterious, and move unpredictably", "hi": "क्योंकि दोनों शांत, रहस्यमयी हैं और अप्रत्याशित रूप से चलते हैं"},
+        "c": {"en": "Because cats like fog", "hi": "क्योंकि बिल्लियों को कोहरा पसंद है"},
+        "d": {"en": "Because both are found in the harbor", "hi": "क्योंकि दोनों बंदरगाह में पाए जाते हैं"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Think about the common physical traits shared by fog and a cat.",
+        "hi": "कोहरे और बिल्ली के बीच साझा शारीरिक लक्षणों के बारे में सोचें।"
+      },
+      "explanation": {
+        "en": "The comparison is effective because it perfectly captures the silent, soft-footed arrival and the still, watchful nature of the fog using a familiar animal's behavior.",
+        "hi": "यह तुलना प्रभावशाली है क्योंकि यह कोहरे की खामोशी और उसके ठहरने के अंदाज़ को बखूबी दर्शाती है।"
+      },
+      "key_takeaway": {
+        "en": "Good metaphors use familiar images to explain complex phenomena.",
+        "hi": "अच्छे रूपक जटिल घटनाओं को समझाने के लिए परिचित चित्रों का उपयोग करते हैं।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "What is the message of the poem 'Fog'?",
+        "hi": "'कोहरा' कविता का संदेश क्या है?"
+      },
+      "options": {
+        "a": {"en": "We should protect animals", "hi": "हमें जानवरों की रक्षा करनी चाहिए"},
+        "b": {"en": "Nature is powerful but acts in subtle, silent ways", "hi": "प्रकृति शक्तिशाली है लेकिन सूक्ष्म और शांत तरीके से कार्य करती है"},
+        "c": {"en": "Cities are better than villages", "hi": "शहर गाँवों से बेहतर हैं"},
+        "d": {"en": "Fog is dangerous for ships", "hi": "कोहरा जहाज़ों के लिए खतरनाक है"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The poem focuses on the quiet beauty and power of natural changes.",
+        "hi": "कविता प्राकृतिक परिवर्तनों की शांत सुंदरता और शक्ति पर केंद्रित है।"
+      },
+      "explanation": {
+        "en": "The poem suggests that nature has its own pace and rhythm. Some of its most powerful changes, like the arrival of fog, happen without any noise or drama.",
+        "hi": "कविता बताती है कि प्रकृति की अपनी गति है। इसके सबसे शक्तिशाली बदलाव खामोशी से होते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Beauty and power can be found in silence.",
+        "hi": "खामोशी में भी सुंदरता और शक्ति मिल सकती है।"
+      }
+    }
+  ]
+}

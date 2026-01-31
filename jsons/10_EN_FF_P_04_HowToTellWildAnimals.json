@@ -1,0 +1,540 @@
+{
+  "metadata": {
+    "unit_number": 3,
+    "poem_title": "How to Tell Wild Animals",
+    "poem_title_hindi": "जंगली जानवरों की पहचान कैसे करें",
+    "author": "Carolyn Wells",
+    "subject": "English (First Flight) - Class 10",
+    "board": "HPBOSE (NCERT)",
+    "total_questions": 20,
+    "version": "1.0",
+    "naming_convention": "10_EN_FF_P_04_HowToTellWildAnimals.json"
+  },
+  "validation_report": {
+    "is_valid": true,
+    "checked_by": "AI Tutor",
+    "notes": "Covers humor, irony, and specific animal traits mentioned in the poem."
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "Where might you encounter the 'Asian Lion' according to the poet?",
+        "hi": "कवि के अनुसार 'एशियाई शेर' (Asian Lion) से आपकी मुलाकात कहाँ हो सकती है?"
+      },
+      "options": {
+        "a": {"en": "In the jungles of the West", "hi": "पश्चिम के जंगलों में"},
+        "b": {"en": "In the jungles of the East", "hi": "पूर्व के जंगलों में (Jungles of the East)"},
+        "c": {"en": "In a city zoo", "hi": "शहर के चिड़ियाघर में"},
+        "d": {"en": "In a snowy mountain", "hi": "बर्फीले पहाड़ पर"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The first stanza mentions the geographical direction where this large, 'tawny' beast is found.",
+        "hi": "पहले छंद में उस भौगोलिक दिशा का उल्लेख है जहाँ यह विशाल, 'नारंगी-भूरा' जानवर पाया जाता है।"
+      },
+      "explanation": {
+        "en": "The poet says that if you ever go by chance to the 'jungles in the East', you might see a large and tawny beast, which is the Asian Lion.",
+        "hi": "कवि कहता है कि यदि आप कभी 'पूर्व के जंगलों' की ओर जाएं, तो आपकी मुलाकात एशियाई शेर से हो सकती है।"
+      },
+      "key_takeaway": {
+        "en": "The Asian Lion is found in the jungles of the East.",
+        "hi": "एशियाई शेर पूर्व के जंगलों में पाया जाता है।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "What is the meaning of the word 'tawny'?",
+        "hi": "'Tawny' शब्द का क्या अर्थ है?"
+      },
+      "options": {
+        "a": {"en": "Bright green", "hi": "चमकीला हरा"},
+        "b": {"en": "Yellowish-brown or orange-brown", "hi": "पीलापन लिए हुए भूरा या नारंगी-भूरा"},
+        "c": {"en": "Pure white", "hi": "बिल्कुल सफेद"},
+        "d": {"en": "Jet black", "hi": "गहरा काला"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It describes the color of a lion's fur.",
+        "hi": "यह शेर के फर के रंग का वर्णन करता है।"
+      },
+      "explanation": {
+        "en": "Tawny refers to a warm, brownish-orange or yellowish-brown color, which is typical of the Asian Lion's coat.",
+        "hi": "Tawny का अर्थ है पीला-भूरा या नारंगी-भूरा रंग।"
+      },
+      "key_takeaway": {
+        "en": "Tawny = The characteristic color of a lion.",
+        "hi": "Tawny = शेर का विशिष्ट रंग।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "How will you know it is an Asian Lion when it attacks you?",
+        "hi": "जब एशियाई शेर आप पर हमला करेगा, तो आपको कैसे पता चलेगा कि वह वही है?"
+      },
+      "options": {
+        "a": {"en": "It will start playing with you", "hi": "वह आपके साथ खेलने लगेगा"},
+        "b": {"en": "It roars so loudly that you feel like you are dying", "hi": "वह इतनी ज़ोर से दहाड़ता है कि आपको लगेगा कि आप मर रहे हैं"},
+        "c": {"en": "It will run away", "hi": "वह भाग जाएगा"},
+        "d": {"en": "It will bark like a dog", "hi": "वह कुत्ते की तरह भौंकेगा"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The poet says 'if he roars at you as you're dyin', you'll know...'",
+        "hi": "कवि कहता है कि 'यदि वह आप पर तब दहाड़े जब आप मर रहे हों, तो आप जान जाएंगे...'"
+      },
+      "explanation": {
+        "en": "The humor in the poem lies in the fact that the 'identification' happens at the moment of death. If the beast's roar is terrifying enough to kill you, it's the Asian Lion.",
+        "hi": "कवि मज़ाक में कहता है कि यदि शेर की दहाड़ आपको मौत के करीब पहुँचा दे, तो समझ लेना कि वह एशियाई शेर है।"
+      },
+      "key_takeaway": {
+        "en": "The roar of the Asian Lion is its identifying (and deadly) feature.",
+        "hi": "एशियाई शेर की दहाड़ उसकी पहचान (और घातक) विशेषता है।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "What does a 'noble wild beast' (the Bengal Tiger) have on his yellow ground?",
+        "hi": "एक 'राजसी जंगली जानवर' (बंगाल टाइगर) के पीले शरीर (yellow ground) पर क्या होता है?"
+      },
+      "options": {
+        "a": {"en": "White spots", "hi": "सफेद धब्बे"},
+        "b": {"en": "Black stripes", "hi": "काली धारियाँ (Black stripes)"},
+        "c": {"en": "Green patches", "hi": "हरे चकत्ते"},
+        "d": {"en": "No marks", "hi": "कोई निशान नहीं"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The poet describes them as 'black stripes on a yellow ground'.",
+        "hi": "कवि उनका वर्णन 'पीली पृष्ठभूमि पर काली धारियों' के रूप में करता है।"
+      },
+      "explanation": {
+        "en": "The Bengal Tiger is identified by black stripes on its yellow-colored body. The poet calls him 'noble' because of his majestic appearance.",
+        "hi": "बंगाल टाइगर की पहचान उसके पीले शरीर पर काली धारियों से होती है।"
+      },
+      "key_takeaway": {
+        "en": "Bengal Tiger = Black stripes on a yellow coat.",
+        "hi": "बंगाल टाइगर = पीले शरीर पर काली धारियाँ।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "What is the 'simple rule' to identify the Bengal Tiger?",
+        "hi": "बंगाल टाइगर को पहचानने का 'सरल नियम' (simple rule) क्या है?"
+      },
+      "options": {
+        "a": {"en": "If he greets you with a smile", "hi": "यदि वह मुस्कुराहट के साथ आपका स्वागत करे"},
+        "b": {"en": "If he eats you the moment he sees you", "hi": "यदि वह देखते ही आपको खा जाए"},
+        "c": {"en": "If he barks at you", "hi": "यदि वह आप पर भौंके"},
+        "d": {"en": "If he helps you find your way", "hi": "यदि वह आपको रास्ता ढूँढने में मदद करे"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This is another example of the poet's dark humor regarding identification.",
+        "hi": "यह पहचान के संबंध में कवि के गहरे हास्य का एक और उदाहरण है।"
+      },
+      "explanation": {
+        "en": "The 'simple rule' is that if the beast eats you, you can be sure it's the Bengal Tiger. Obviously, this identification is useless because you wouldn't be alive to use it.",
+        "hi": "कवि कहता है कि यदि वह जानवर आपको खा जाता है, तो समझ लें कि वह बंगाल टाइगर है। यह एक व्यंग्य (irony) है।"
+      },
+      "key_takeaway": {
+        "en": "The poem uses irony: identification through death.",
+        "hi": "कविता विडंबना (irony) का उपयोग करती है: मृत्यु के माध्यम से पहचान।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "Which animal has a hide 'peppered with spots'?",
+        "hi": "किस जानवर की खाल 'धब्बों से भरी' (peppered with spots) होती है?"
+      },
+      "options": {
+        "a": {"en": "The Tiger", "hi": "बाघ"},
+        "b": {"en": "The Leopard", "hi": "तेंदुआ (The Leopard)"},
+        "c": {"en": "The Bear", "hi": "भालू"},
+        "d": {"en": "The Lion", "hi": "शेर"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This animal leaps on its prey again and again.",
+        "hi": "यह जानवर अपने शिकार पर बार-बार झपटता (leaps) है।"
+      },
+      "explanation": {
+        "en": "The poet describes the leopard as having a skin covered with spots, like black pepper scattered on a surface. It is known for its ability to leap.",
+        "hi": "कवि तेंदुए का वर्णन करते हुए कहता है कि उसकी खाल काली मिर्च जैसे धब्बों से ढकी होती है।"
+      },
+      "key_takeaway": {
+        "en": "Leopard = Hide peppered with spots.",
+        "hi": "तेंदुआ = धब्बों वाली खाल।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "What will the leopard do if you 'do' (shout) with pain?",
+        "hi": "यदि आप दर्द से चिल्लाएंगे, तो तेंदुआ क्या करेगा?"
+      },
+      "options": {
+        "a": {"en": "He will stop attacking", "hi": "वह हमला करना बंद कर देगा"},
+        "b": {"en": "He will only lep and lep again", "hi": "वह बार-बार झपटता (leap) रहेगा"},
+        "c": {"en": "He will call for help", "hi": "वह मदद के लिए पुकारेगा"},
+        "d": {"en": "He will start crying", "hi": "वह रोने लगेगा"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The poet uses the word 'lep' as a shorter form of 'leap' to create a rhyme.",
+        "hi": "कवि ने तुकबंदी बनाने के लिए 'leap' के छोटे रूप 'lep' का उपयोग किया है।"
+      },
+      "explanation": {
+        "en": "The poet says that it's no use crying with pain when a leopard attacks, because the only thing it will do is keep leaping on you until you are caught.",
+        "hi": "कवि कहता है कि तेंदुए के हमले के दौरान दर्द से चिल्लाने का कोई फायदा नहीं है, क्योंकि वह बार-बार आप पर झपटता रहेगा।"
+      },
+      "key_takeaway": {
+        "en": "The leopard is known for its persistent leaping/jumping on prey.",
+        "hi": "तेंदुआ शिकार पर लगातार झपटने के लिए जाना जाता है।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "How can you identify a Bear in your yard?",
+        "hi": "आप अपने आँगन में भालू की पहचान कैसे कर सकते हैं?"
+      },
+      "options": {
+        "a": {"en": "He will steal your food", "hi": "वह आपका खाना चुरा लेगा"},
+        "b": {"en": "He hugs you very, very hard", "hi": "वह आपको बहुत, बहुत ज़ोर से गले लगाता है"},
+        "c": {"en": "He will dance for you", "hi": "वह आपके लिए नाचेगा"},
+        "d": {"en": "He will climb a tree", "hi": "वह पेड़ पर चढ़ जाएगा"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This is often called a 'Bear Hug', but the poet warns it's not a friendly one.",
+        "hi": "इसे अक्सर 'बीयर हग' कहा जाता है, लेकिन कवि चेतावनी देता है कि यह कोई दोस्ताना गले मिलना नहीं है।"
+      },
+      "explanation": {
+        "en": "When a bear meets you, it will embrace you tightly. The poet uses the term 'hug' ironically, as the bear's tight embrace is actually a way of killing its prey.",
+        "hi": "भालू आपको कसकर गले लगाएगा (embrace)। कवि इसे मज़ाक में 'हग' कहता है, जो वास्तव में जानलेवा होता है।"
+      },
+      "key_takeaway": {
+        "en": "The 'Bear Hug' is the identifying characteristic of the bear.",
+        "hi": "भालू की पहचान उसका कसकर गले लगाना है।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "What will the bear do if you have a 'doubt' about its identity?",
+        "hi": "यदि आपको उसकी पहचान के बारे में कोई 'संदेह' (doubt) हो, तो भालू क्या करेगा?"
+      },
+      "options": {
+        "a": {"en": "He will leave you alone", "hi": "वह आपको अकेला छोड़ देगा"},
+        "b": {"en": "He will give you just one more caress (gentle touch/hug)", "hi": "वह आपको एक बार फिर प्यार से (ज़ोर से) छुएगा या गले लगाएगा"},
+        "c": {"en": "He will show you his ID", "hi": "वह आपको अपनी पहचान दिखाएगा"},
+        "d": {"en": "He will walk away", "hi": "वह चला जाएगा"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The word 'caress' is used here to mean another deadly squeeze.",
+        "hi": "यहाँ 'caress' शब्द का उपयोग एक और जानलेवा दबाव (squeeze) के लिए किया गया है।"
+      },
+      "explanation": {
+        "en": "The poet says that if you are still not sure if it's a bear, it will give you another 'caress' (hug), which will surely clarify any doubts as it kills you.",
+        "hi": "कवि कहता है कि यदि आपको शक है, तो भालू आपको फिर से कसकर पकड़ेगा जिससे सारा शक दूर हो जाएगा।"
+      },
+      "key_takeaway": {
+        "en": "Caress = A touch of love (ironically used for a deadly grip).",
+        "hi": "Caress = प्यार भरा स्पर्श (यहाँ जानलेवा पकड़ के लिए व्यंग्य स्वरूप उपयोग किया गया है)।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "How can you tell the difference between a Hyena and a Crocodile?",
+        "hi": "आप एक लकड़बग्घे (Hyena) और एक मगरमच्छ (Crocodile) के बीच अंतर कैसे बता सकते हैं?"
+      },
+      "options": {
+        "a": {"en": "By their size", "hi": "उनके आकार से"},
+        "b": {"en": "Hyenas come with merry smiles, but Crocodiles weep", "hi": "लकड़बग्घे मुस्कुराहट के साथ आते हैं, लेकिन मगरमच्छ रोते हैं"},
+        "c": {"en": "One is green and one is brown", "hi": "एक हरा है और एक भूरा"},
+        "d": {"en": "One lives on land and one in water", "hi": "एक ज़मीन पर रहता है और एक पानी में"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "These are popular myths: 'laughing hyenas' and 'crocodile tears'.",
+        "hi": "ये लोकप्रिय मिथक हैं: 'हँसते हुए लकड़बग्घे' और 'मगरमच्छ के आँसू'।"
+      },
+      "explanation": {
+        "en": "A hyena's cry sounds like a human laugh, so it appears to be smiling. A crocodile is said to shed tears while eating its prey. This helps in distinguishing between the two 'beasts of prey'.",
+        "hi": "लकड़बग्घा हँसता हुआ प्रतीत होता है और मगरमच्छ रोता हुआ, जो उनकी पहचान का अनोखा तरीका है।"
+      },
+      "key_takeaway": {
+        "en": "Hyena = Smiles; Crocodile = Tears.",
+        "hi": "लकड़बग्घा = मुस्कान; मगरमच्छ = आँसू।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "Which of these is a 'true' Chameleon according to the poet?",
+        "hi": "कवि के अनुसार इनमें से कौन 'असली' गिरगिट (Chameleon) है?"
+      },
+      "options": {
+        "a": {"en": "A large dinosaur", "hi": "एक बड़ा डायनासोर"},
+        "b": {"en": "A small lizard-like creature", "hi": "छिपकली जैसा एक छोटा जीव"},
+        "c": {"en": "A colorful bird", "hi": "एक रंगीन पक्षी"},
+        "d": {"en": "A small snake", "hi": "एक छोटा साँप"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It has no ears at all and not a single wing.",
+        "hi": "इसके बिल्कुल भी कान नहीं होते और एक भी पंख नहीं होता।"
+      },
+      "explanation": {
+        "en": "The poet describes the chameleon as a small, lizard-like creature. It has no ears and no wings, which makes it distinct from other small animals.",
+        "hi": "कवि गिरगिट को छिपकली जैसा एक छोटा जीव बताता है जिसके कान और पंख नहीं होते।"
+      },
+      "key_takeaway": {
+        "en": "Chameleon = Small, lizard-like, no ears, no wings.",
+        "hi": "गिरगिट = छोटा, छिपकली जैसा, बिना कान और पंख वाला।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "Why might you see 'nothing' on the tree if a chameleon is there?",
+        "hi": "यदि पेड़ पर गिरगिट है, तो आपको वहाँ 'कुछ भी' क्यों नहीं दिखाई दे सकता?"
+      },
+      "options": {
+        "a": {"en": "Because it has run away", "hi": "क्योंकि वह भाग गया है"},
+        "b": {"en": "Because it changes its color to match the tree", "hi": "क्योंकि वह पेड़ के रंग से मेल खाने के लिए अपना रंग बदल लेता है"},
+        "c": {"en": "Because it is too small to see", "hi": "क्योंकि वह देखने में बहुत छोटा है"},
+        "d": {"en": "Because it is invisible like Griffin", "hi": "क्योंकि वह ग्रिफिन की तरह अदृश्य है"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This is a natural ability called camouflage.",
+        "hi": "यह एक प्राकृतिक क्षमता है जिसे छलावरण (camouflage) कहा जाता है।"
+      },
+      "explanation": {
+        "en": "A chameleon can change its body color according to its surroundings. If you see nothing on the tree, it means the chameleon is there, but blended in with the bark or leaves.",
+        "hi": "गिरगिट अपना रंग बदल सकता है, इसलिए पेड़ पर होने के बावजूद वह दिखाई नहीं देता।"
+      },
+      "key_takeaway": {
+        "en": "Camouflage is the chameleon's most famous trait.",
+        "hi": "रंग बदलना (Camouflage) गिरगिट की सबसे प्रसिद्ध विशेषता है।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "What is the rhyme scheme of the poem?",
+        "hi": "कविता की तुकबंदी (Rhyme Scheme) क्या है?"
+      },
+      "options": {
+        "a": {"en": "ababcc", "hi": "ababcc"},
+        "b": {"en": "aabbcc", "hi": "aabbcc"},
+        "c": {"en": "abcbcc", "hi": "abcbcc"},
+        "d": {"en": "abcabc", "hi": "abcabc"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "Chance (a), East (b), Advance (a), Beast (b), Dyin' (c), Lion (c).",
+        "hi": "Chance (a), East (b), Advance (a), Beast (b), Dyin' (c), Lion (c)।"
+      },
+      "explanation": {
+        "en": "The poem follows an ababcc rhyme scheme in each stanza, which helps maintain its humorous and rhythmic tone.",
+        "hi": "कविता के प्रत्येक छंद में ababcc तुकबंदी का पालन किया गया है।"
+      },
+      "key_takeaway": {
+        "en": "The structured rhyme scheme adds to the poem's musicality.",
+        "hi": "निश्चित तुकबंदी कविता की लयात्मकता को बढ़ाती है।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "Who is the poet of 'How to Tell Wild Animals'?",
+        "hi": "'How to Tell Wild Animals' के कवि कौन हैं?"
+      },
+      "options": {
+        "a": {"en": "Robert Frost", "hi": "रॉबर्ट फ्रॉस्ट"},
+        "b": {"en": "Carolyn Wells", "hi": "कैरोलिन वेल्स (Carolyn Wells)"},
+        "c": {"en": "John Berryman", "hi": "जॉन बेरीमैन"},
+        "d": {"en": "Leslie Norris", "hi": "लेस्ली नॉरिस"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "She was an American writer and poet, known for her mystery novels and humorous verses.",
+        "hi": "वह एक अमेरिकी लेखिका और कवयित्री थीं, जो अपने रहस्यमयी उपन्यासों और मज़ेदार कविताओं के लिए जानी जाती थीं।"
+      },
+      "explanation": {
+        "en": "Carolyn Wells is the poet who wrote this humorous guide to identifying wild animals.",
+        "hi": "इस मज़ेदार कविता की कवयित्री कैरोलिन वेल्स हैं।"
+      },
+      "key_takeaway": {
+        "en": "Carolyn Wells = Author of the humorous guide to wildlife.",
+        "hi": "कैरोलिन वेल्स = वन्यजीवों की इस मज़ेदार गाइड की लेखिका।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "What literary device is used when the poet says 'He’ll only lep and lep again'?",
+        "hi": "जब कवि कहता है 'He’ll only lep and lep again', तो किस साहित्यिक उपकरण का उपयोग किया जाता है?"
+      },
+      "options": {
+        "a": {"en": "Simile", "hi": "उपमा"},
+        "b": {"en": "Poetic License", "hi": "काव्यात्मक स्वतंत्रता (Poetic License)"},
+        "c": {"en": "Oxymoron", "hi": "विरोधाभास"},
+        "d": {"en": "Personification", "hi": "मानवीकरण"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The poet has changed the spelling of 'leap' to 'lep' to match the rhyme and rhythm.",
+        "hi": "कवि ने तुकबंदी और लय को मिलाने के लिए 'leap' की स्पेलिंग बदलकर 'lep' कर दी है।"
+      },
+      "explanation": {
+        "en": "Poetic License is the freedom given to a poet to change spellings or grammar to maintain the rhyme and rhythm of the poem. 'Lep' for 'leap' is a clear example.",
+        "hi": "काव्यात्मक स्वतंत्रता (Poetic License) वह छूट है जो कवि को लय बनाए रखने के लिए स्पेलिंग बदलने की अनुमति देती है।"
+      },
+      "key_takeaway": {
+        "en": "Poetic License = Breaking rules for artistic effect.",
+        "hi": "Poetic License = कलात्मक प्रभाव के लिए नियमों को तोड़ना।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "What is the mood of the poem?",
+        "hi": "कविता का मिज़ाज (Mood) कैसा है?"
+      },
+      "options": {
+        "a": {"en": "Sad and depressing", "hi": "दुखद और निराशाजनक"},
+        "b": {"en": "Humorous and light-hearted", "hi": "हास्यपूर्ण और खुशनुमा (Humorous)"},
+        "c": {"en": "Fearful and serious", "hi": "डरावना और गंभीर"},
+        "d": {"en": "Angry", "hi": "क्रोधित"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The poet suggests very dangerous ways to identify animals, which makes it funny rather than scary.",
+        "hi": "कवि जानवरों की पहचान करने के बहुत खतरनाक तरीके सुझाता है, जो इसे डरावने के बजाय मज़ेदार बनाता है।"
+      },
+      "explanation": {
+        "en": "The poem is a parody of a textbook guide. It treats life-threatening situations with a sense of humor, creating a light-hearted mood.",
+        "hi": "यह कविता एक मज़ेदार पैरोडी है जो जानलेवा स्थितियों को भी हास्य के साथ पेश करती है।"
+      },
+      "key_takeaway": {
+        "en": "Humor can be found even in dangerous situations.",
+        "hi": "हास्य खतरनाक स्थितियों में भी पाया जा सकता है।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "The phrase 'Beasts of prey' refers to ______.",
+        "hi": "'Beasts of prey' (शिकारी जानवर) वाक्यांश का अर्थ है ______।",
+      },
+      "options": {
+        "a": {"en": "Animals that eat grass", "hi": "वे जानवर जो घास खाते हैं"},
+        "b": {"en": "Animals that hunt and eat other animals", "hi": "वे जानवर जो दूसरे जानवरों का शिकार करते हैं और उन्हें खाते हैं"},
+        "c": {"en": "Domestic animals", "hi": "पालतू जानवर"},
+        "d": {"en": "Insects", "hi": "कीड़े-मकोड़े"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Hyenas and crocodiles are examples of such animals in the poem.",
+        "hi": "लकड़बग्घे और मगरमच्छ कविता में ऐसे जानवरों के उदाहरण हैं।"
+      },
+      "explanation": {
+        "en": "A 'beast of prey' is an animal that naturally preys on others. The poet discusses how to distinguish between these dangerous creatures.",
+        "hi": "'Beast of prey' का अर्थ है शिकारी जानवर।"
+      },
+      "key_takeaway": {
+        "en": "Beast of prey = Predator.",
+        "hi": "Beast of prey = शिकारी।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "Why does the poet call the Bengal Tiger 'noble'?",
+        "hi": "कवि बंगाल टाइगर को 'राजसी' (noble) क्यों कहता है?"
+      },
+      "options": {
+        "a": {"en": "Because it is very kind", "hi": "क्योंकि वह बहुत दयालु है"},
+        "b": {"en": "Because of its grand and majestic appearance", "hi": "उसकी भव्य और राजसी बनावट के कारण"},
+        "c": {"en": "Because it never hunts", "hi": "क्योंकि वह कभी शिकार नहीं करता"},
+        "d": {"en": "Because it lives in a palace", "hi": "क्योंकि वह महल में रहता है"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Despite being deadly, the tiger has a look of royalty and importance.",
+        "hi": "घातक होने के बावजूद, बाघ में एक शाही अंदाज़ और महत्व झलकता है।"
+      },
+      "explanation": {
+        "en": "The word 'noble' suggests a high social rank or dignity. The Bengal Tiger, with its beautiful coat and powerful build, looks like royalty in the jungle.",
+        "hi": "'Noble' शब्द का अर्थ है महान या राजसी। बाघ अपनी सुंदरता और शक्ति के कारण जंगल का राजा जैसा लगता है।"
+      },
+      "key_takeaway": {
+        "en": "Physical majesty often leads to animals being called 'noble'.",
+        "hi": "शारीरिक भव्यता के कारण ही जानवरों को अक्सर 'राजसी' कहा जाता है।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "What is the identifying sound of a Hyena?",
+        "hi": "लकड़बग्घे की पहचान वाली आवाज़ कौन सी है?"
+      },
+      "options": {
+        "a": {"en": "A roar", "hi": "एक दहाड़"},
+        "b": {"en": "A sound that resembles a human laugh", "hi": "एक आवाज़ जो मानव हँसी से मिलती-जुलती है"},
+        "c": {"en": "A bark", "hi": "एक भौंक"},
+        "d": {"en": "A hiss", "hi": "एक फुफकार"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It comes with a 'merry smile'.",
+        "hi": "यह एक 'खुशहाल मुस्कान' के साथ आता है।"
+      },
+      "explanation": {
+        "en": "Hyenas are known for their high-pitched vocalizations that sound like human hysterical laughter. The poet uses this trait for identification.",
+        "hi": "लकड़बग्घे की आवाज़ मानव हँसी जैसी लगती है, जिसे अक्सर 'merry smile' कहा जाता है।"
+      },
+      "key_takeaway": {
+        "en": "Laughing = Hyena's auditory signature.",
+        "hi": "हँसना = लकड़बग्घे की आवाज़ वाली पहचान।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "What happens if you have no money to give a bear?",
+        "hi": "यदि आपके पास भालू को देने के लिए पैसे नहीं हैं तो क्या होगा?"
+      },
+      "options": {
+        "a": {"en": "He will ask for a loan", "hi": "वह ऋण मांगेगा"},
+        "b": {"en": "The poem doesn't mention money; it says he will just keep hugging you", "hi": "कविता में पैसे का ज़िक्र नहीं है; इसमें कहा गया है कि वह बस आपको गले लगाता रहेगा"},
+        "c": {"en": "He will sell you", "hi": "वह आपको बेच देगा"},
+        "d": {"en": "He will work for you", "hi": "वह आपके लिए काम करेगा"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The poem focuses on natural instincts, not human economics.",
+        "hi": "कविता प्राकृतिक प्रवृत्तियों पर ध्यान केंद्रित करती है, न कि मानव अर्थशास्त्र पर।"
+      },
+      "explanation": {
+        "en": "The poet focuses solely on the bear’s physical interaction (the hug). The idea is that once a bear catches you, it won't let go, regardless of anything else.",
+        "hi": "कविता में भालू के पकड़ने (गले लगाने) पर ध्यान दिया गया है, जो उसकी पहचान है।"
+      },
+      "key_takeaway": {
+        "en": "Wild animals follow their nature without exception.",
+        "hi": "जंगली जानवर बिना किसी अपवाद के अपने स्वभाव का पालन करते हैं।"
+      }
+    }
+  ]
+}

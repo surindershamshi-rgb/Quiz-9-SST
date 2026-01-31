@@ -1,0 +1,800 @@
+{
+  "metadata": {
+    "chapter_number": 7,
+    "chapter_title": "Madam Rides the Bus",
+    "chapter_title_hindi": "मैडम की बस यात्रा",
+    "subject": "English (First Flight) - Class 10",
+    "board": "HPBOSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.0",
+    "naming_convention": "10_EN_FF_CH07_MadamRidesTheBus.json"
+  },
+  "validation_report": {
+    "is_valid": true,
+    "checked_by": "AI Tutor",
+    "checked_at": "2026-01-21T12:00:00Z",
+    "notes": "Verified pedagogical flow and bilingual accuracy for Class 10 Himachal Pradesh board students."
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "What was Valli's full name and age?",
+        "hi": "वल्ली का पूरा नाम और उम्र क्या थी?"
+      },
+      "options": {
+        "a": {"en": "Valliammai, 8 years old", "hi": "वल्लीअम्मई, 8 साल"},
+        "b": {"en": "Valliammai, 10 years old", "hi": "वल्लीअम्मई, 10 साल"},
+        "c": {"en": "Vallika, 8 years old", "hi": "वल्लिका, 8 साल"},
+        "d": {"en": "Vallika, 12 years old", "hi": "वल्लिका, 12 साल"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "She was a very curious girl for her age. Valli was her short name.",
+        "hi": "वह अपनी उम्र के हिसाब से बहुत जिज्ञासु लड़की थी। वल्ली उसका छोटा नाम था।"
+      },
+      "explanation": {
+        "en": "The story introduces the protagonist as Valliammai, an eight-year-old girl who was very curious about things and had no playmates of her own age.",
+        "hi": "कहानी की मुख्य पात्र वल्लीअम्मई है, जो आठ साल की एक जिज्ञासु लड़की है। उसके साथ खेलने वाला उसकी उम्र का कोई दोस्त नहीं था।"
+      },
+      "key_takeaway": {
+        "en": "Valliammai (Valli) = 8-year-old curious protagonist.",
+        "hi": "वल्लीअम्मई (वल्ली) = 8 साल की जिज्ञासु मुख्य पात्र।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "What was Valli's favorite pastime?",
+        "hi": "वल्ली का पसंदीदा शगल (passitime) क्या था?"
+      },
+      "options": {
+        "a": {"en": "Playing with friends", "hi": "दोस्तों के साथ खेलना"},
+        "b": {"en": "Standing at the front doorway of her house", "hi": "अपने घर के सामने के दरवाजे पर खड़े होना"},
+        "c": {"en": "Reading books", "hi": "किताबें पढ़ना"},
+        "d": {"en": "Traveling to the city", "hi": "शहर की यात्रा करना"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Since she had no friends, she enjoyed watching what was happening in the street outside.",
+        "hi": "चूंकि उसका कोई दोस्त नहीं था, इसलिए उसे बाहर सड़क पर हो रही चीज़ों को देखना अच्छा लगता था।"
+      },
+      "explanation": {
+        "en": "Valli's favorite pastime was standing in the front doorway of her house to watch what was happening in the street, as she had no playmates on her street.",
+        "hi": "वल्ली का सबसे पसंदीदा काम अपने घर के दरवाज़े पर खड़े होकर गली की हलचल देखना था, क्योंकि गली में उसके साथ खेलने वाला कोई नहीं था।"
+      },
+      "key_takeaway": {
+        "en": "Observing the world from her doorstep was Valli's daily joy.",
+        "hi": "दरवाजे पर खड़े होकर दुनिया को देखना वल्ली की रोज़ाना की खुशी थी।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "What was the most fascinating thing Valli saw in the street?",
+        "hi": "वल्ली ने गली में जो सबसे आकर्षक चीज़ देखी, वह क्या थी?"
+      },
+      "options": {
+        "a": {"en": "A neighbor's dog", "hi": "पड़ोसी का कुत्ता"},
+        "b": {"en": "The bus that traveled between her village and the town", "hi": "उसके गाँव और शहर के बीच चलने वाली बस"},
+        "c": {"en": "A new toy shop", "hi": "खिलौनों की नई दुकान"},
+        "d": {"en": "The mailman's bicycle", "hi": "डाकिये की साइकिल"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It came every hour, filled with a new set of passengers each time.",
+        "hi": "यह हर घंटे आती थी, और हर बार इसमें नए यात्री भरे होते थे।"
+      },
+      "explanation": {
+        "en": "The bus was the source of unending joy for Valli. Watching it pass every hour with a fresh set of passengers was the most fascinating experience for her.",
+        "hi": "बस वल्ली के लिए कभी न खत्म होने वाली खुशी का स्रोत थी। हर घंटे नए यात्रियों के साथ बस को जाते देखना उसके लिए सबसे रोमांचक था।"
+      },
+      "key_takeaway": {
+        "en": "The bus represented a connection to the unknown world for Valli.",
+        "hi": "बस वल्ली के लिए अनजान दुनिया से जुड़ने का एक जरिया थी।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "What 'tiny wish' crept into Valli's head?",
+        "hi": "वल्ली के दिमाग में कौन सी 'छोटी सी इच्छा' घर कर गई थी?"
+      },
+      "options": {
+        "a": {"en": "To buy a bicycle", "hi": "साइकिल खरीदने की"},
+        "b": {"en": "To go to school in the city", "hi": "शहर के स्कूल जाने की"},
+        "c": {"en": "To ride on the bus at least once", "hi": "कम से कम एक बार बस में सवारी करने की"},
+        "d": {"en": "To make new friends", "hi": "नए दोस्त बनाने की"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "Watching the bus every day created a deep longing in her heart to experience the journey herself.",
+        "hi": "रोजाना बस को देखने से उसके मन में खुद यात्रा करने की गहरी इच्छा पैदा हो गई थी।"
+      },
+      "explanation": {
+        "en": "After watching the bus for days, a tiny wish to ride it grew into an overwhelming desire. She wanted to ride on that bus, even if it was just once.",
+        "hi": "दिनों तक बस को देखने के बाद, उसकी एक छोटी सी इच्छा एक बड़ी चाहत में बदल गई—वह बस में एक बार सवारी करना चाहती थी।"
+      },
+      "key_takeaway": {
+        "en": "Desire often starts small and grows through observation.",
+        "hi": "इच्छा अक्सर छोटी शुरू होती है और लगातार देखने से बढ़ती जाती है।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "How did Valli gather details about the bus journey?",
+        "hi": "वल्ली ने बस यात्रा के बारे में विवरण कैसे जुटाए?"
+      },
+      "options": {
+        "a": {"en": "She asked her mother", "hi": "उसने अपनी माँ से पूछा"},
+        "b": {"en": "She read a travel book", "hi": "उसने यात्रा की किताब पढ़ी"},
+        "c": {"en": "By listening to conversations and asking discrete questions", "hi": "बातचीत सुनकर और सावधानी से प्रश्न पूछकर"},
+        "d": {"en": "The bus driver told her", "hi": "बस ड्राइवर ने उसे बताया"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "She was a clever planner who didn't want anyone to know her secret plan.",
+        "hi": "वह एक चतुर योजनाकार थी जो नहीं चाहती थी कि किसी को उसकी गुप्त योजना के बारे में पता चले।"
+      },
+      "explanation": {
+        "en": "Valli listened carefully to the neighbors who used the bus frequently and asked a few careful questions here and there to understand the fare and the time required.",
+        "hi": "वल्ली ने उन पड़ोसियों की बातें ध्यान से सुनीं जो अक्सर बस का उपयोग करते थे और जानकारी जुटाने के लिए कुछ चुनिंदा सवाल भी पूछे।"
+      },
+      "key_takeaway": {
+        "en": "Resourcefulness: Valli was a great listener and observer.",
+        "hi": "संसाधनशीलता: वल्ली एक बेहतरीन श्रोता और अवलोकनकर्ता थी।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "What was the distance between Valli's village and the town?",
+        "hi": "वल्ली के गाँव और शहर के बीच की दूरी कितनी थी?"
+      },
+      "options": {
+        "a": {"en": "Six miles", "hi": "छह मील"},
+        "b": {"en": "Ten miles", "hi": "दस मील"},
+        "c": {"en": "Three miles", "hi": "तीन मील"},
+        "d": {"en": "Twelve miles", "hi": "बारह मील"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "The town was not very far, but for a small girl, it was a significant distance.",
+        "hi": "शहर बहुत दूर नहीं था, लेकिन एक छोटी लड़की के लिए यह काफी दूरी थी।"
+      },
+      "explanation": {
+        "en": "Through her investigation, Valli found out that the town was six miles from her village.",
+        "hi": "अपनी छानबीन के दौरान वल्ली को पता चला कि उसका गाँव शहर से छह मील दूर था।"
+      },
+      "key_takeaway": {
+        "en": "Village to Town = 6 miles.",
+        "hi": "गाँव से शहर = 6 मील।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "How much was the one-way bus fare?",
+        "hi": "बस का एक तरफ का किराया कितना था?"
+      },
+      "options": {
+        "a": {"en": "Fifty paise", "hi": "पचास पैसे"},
+        "b": {"en": "Sixty paise", "hi": "साठ पैसे"},
+        "c": {"en": "Thirty paise", "hi": "तीस पैसे"},
+        "d": {"en": "Twenty paise", "hi": "बीस पैसे"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "A well-dressed man once called it 'scarcely anything', but for Valli, it was a lot of money.",
+        "hi": "एक अच्छे कपड़े पहने व्यक्ति ने इसे 'शायद ही कुछ' कहा था, लेकिन वल्ली के लिए यह बहुत पैसा था।"
+      },
+      "explanation": {
+        "en": "The one-way fare was thirty paise. To go and come back, Valli needed a total of sixty paise.",
+        "hi": "एक तरफ का किराया तीस पैसे था। जाने और वापस आने के लिए वल्ली को कुल साठ पैसे चाहिए थे।"
+      },
+      "key_takeaway": {
+        "en": "One-way fare = 30 paise.",
+        "hi": "एक तरफ का किराया = 30 पैसे।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "How long did the bus trip take to reach the town?",
+        "hi": "बस यात्रा को शहर पहुँचने में कितना समय लगता था?"
+      },
+      "options": {
+        "a": {"en": "Thirty minutes", "hi": "तीस मिनट"},
+        "b": {"en": "Forty-five minutes", "hi": "पैंतालीस मिनट"},
+        "c": {"en": "One hour", "hi": "एक घंटा"},
+        "d": {"en": "Fifteen minutes", "hi": "पंद्रह मिनट"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It was less than an hour, but more than half an hour.",
+        "hi": "यह एक घंटे से कम था, लेकिन आधे घंटे से अधिक था।"
+      },
+      "explanation": {
+        "en": "The trip to the town took forty-five minutes. Valli planned to take the one o'clock bus so she could return by 2:45 PM.",
+        "hi": "शहर तक की यात्रा में पैंतालीस मिनट लगते थे। वल्ली ने एक बजे वाली बस लेने की योजना बनाई ताकि वह 2:45 तक वापस आ सके।"
+      },
+      "key_takeaway": {
+        "en": "Travel time = 45 minutes one way.",
+        "hi": "यात्रा का समय = एक तरफ से 45 मिनट।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "How did Valli save money for the bus fare?",
+        "hi": "वल्ली ने बस के किराए के लिए पैसे कैसे बचाए?"
+      },
+      "options": {
+        "a": {"en": "She worked for a neighbor", "hi": "उसने एक पड़ोसी के लिए काम किया"},
+        "b": {"en": "She resisted every temptation to buy candies, toys, and peppermint", "hi": "उसने कैंडी, खिलौने और पिपरमिंट खरीदने के हर लालच को रोका"},
+        "c": {"en": "Her mother gave her the money", "hi": "उसकी माँ ने उसे पैसे दिए"},
+        "d": {"en": "She found the money on the street", "hi": "उसे सड़क पर पैसे मिले"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "She even controlled her desire to ride the merry-go-round at the village fair.",
+        "hi": "उसने गाँव के मेले में मेरी-गो-राउंड (झूला) झूलने की अपनी इच्छा को भी काबू में रखा।"
+      },
+      "explanation": {
+        "en": "Valli had thriftily saved whatever stray coins came her way, stifling every strong desire to buy peppermints, toys, balloons, and candies to collect sixty paise.",
+        "hi": "वल्ली ने बड़े ही किफ़ायत से पैसे बचाए थे। उसने पिपरमिंट, खिलौने और गुब्बारे खरीदने के अपने लालच को दबाकर साठ पैसे जमा किए।"
+      },
+      "key_takeaway": {
+        "en": "Determination and sacrifice are needed to achieve goals.",
+        "hi": "लक्ष्यों को प्राप्त करने के लिए दृढ़ संकल्प और बलिदान की आवश्यकता होती है।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "What time of day did Valli choose for her journey and why?",
+        "hi": "वल्ली ने अपनी यात्रा के लिए दिन का कौन सा समय चुना और क्यों?"
+      },
+      "options": {
+        "a": {"en": "Early morning while her mother was sleeping", "hi": "सुबह जल्दी जब उसकी माँ सो रही थी"},
+        "b": {"en": "Afternoon while her mother took her daily nap", "hi": "दोपहर में जब उसकी माँ रोज़ाना झपकी लेती थी"},
+        "c": {"en": "Late evening after dinner", "hi": "देर शाम रात के खाने के बाद"},
+        "d": {"en": "On a Sunday morning", "hi": "रविवार की सुबह"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Her mother usually slept from one to four every afternoon.",
+        "hi": "उसकी माँ आमतौर पर हर दोपहर एक से चार बजे तक सोती थी।"
+      },
+      "explanation": {
+        "en": "Valli knew her mother took a nap every afternoon from one to four. She used this time for her 'excursion' so her absence wouldn't be noticed.",
+        "hi": "वल्ली जानती थी कि उसकी माँ दोपहर में सोती है। उसने इसी समय का उपयोग अपनी गुप्त यात्रा के लिए किया ताकि किसी को पता न चले।"
+      },
+      "key_takeaway": {
+        "en": "Strategic planning: Valli used her mother's routine to her advantage.",
+        "hi": "रणनीतिक योजना: वल्ली ने अपनी माँ की दिनचर्या का फायदा उठाया।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "How did the conductor react to Valli when she boarded the bus?",
+        "hi": "जब वल्ली बस में चढ़ी तो कंडक्टर ने उसके प्रति कैसी प्रतिक्रिया दी?"
+      },
+      "options": {
+        "a": {"en": "He was angry and told her to go home", "hi": "वह क्रोधित था और उसने उसे घर जाने को कहा"},
+        "b": {"en": "He was a jolly man and joked with her, calling her 'Madam'", "hi": "वह एक खुशमिजाज आदमी था और उसने उसे 'मैडम' कहकर मज़ाक किया"},
+        "c": {"en": "He ignored her completely", "hi": "उसने उसे पूरी तरह नज़रअंदाज़ कर दिया"},
+        "d": {"en": "He was surprised to see her mother wasn't there", "hi": "वह यह देखकर हैरान था कि उसकी माँ साथ नहीं थी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He was impressed by Valli's confidence and independent behavior.",
+        "hi": "वह वल्ली के आत्मविश्वास और स्वतंत्र व्यवहार से प्रभावित था।"
+      },
+      "explanation": {
+        "en": "The conductor was a 'jolly sort', fond of joking. Seeing Valli's adult-like behavior and confidence, he mockingly called her 'Madam' and offered her a seat.",
+        "hi": "कंडक्टर एक मज़ाकिया आदमी था। वल्ली का बड़ों जैसा व्यवहार देखकर उसने उसे मज़ाक में 'मैडम' कहा।"
+      },
+      "key_takeaway": {
+        "en": "Valli's confidence earned her respect (and a nickname) from the conductor.",
+        "hi": "वल्ली के आत्मविश्वास ने कंडक्टर से उसे सम्मान (और एक उपनाम) दिलाया।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "What was the color and appearance of the new bus?",
+        "hi": "नई बस का रंग और बनावट कैसी थी?"
+      },
+      "options": {
+        "a": {"en": "Red with black stripes", "hi": "काली पट्टियों के साथ लाल"},
+        "b": {"en": "Blue with yellow stripes", "hi": "पीली पट्टियों के साथ नीली"},
+        "c": {"en": "White with soft green stripes", "hi": "नरम हरी पट्टियों के साथ सफेद"},
+        "d": {"en": "Yellow with red stripes", "hi": "लाल पट्टियों के साथ पीली"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "Valli found it very beautiful, especially the gleaming overhead bars.",
+        "hi": "वल्ली को यह बहुत सुंदर लगी, विशेष रूप से ऊपर की चमकती हुई छड़ें।"
+      },
+      "explanation": {
+        "en": "The bus was a new one, painted a gleaming white with some soft green stripes along the sides. Inside, the overhead bars shone like silver.",
+        "hi": "बस नई थी, सफेद रंग की और उस पर हरी पट्टियां थीं। अंदर की छड़ें चांदी की तरह चमक रही थीं।"
+      },
+      "key_takeaway": {
+        "en": "The bus was clean and attractive, matching Valli's excitement.",
+        "hi": "बस साफ और आकर्षक थी, जो वल्ली के उत्साह के अनुकूल थी।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "Why did Valli stand up on her seat during the journey?",
+        "hi": "यात्रा के दौरान वल्ली अपनी सीट पर क्यों खड़ी हो गई?"
+      },
+      "options": {
+        "a": {"en": "To reach the luggage rack", "hi": "सामान रखने की जगह तक पहुँचने के लिए"},
+        "b": {"en": "Because she was bored sitting down", "hi": "क्योंकि वह बैठे-बैठे ऊब गई थी"},
+        "c": {"en": "Because the window curtain blocked her view of the outside", "hi": "क्योंकि खिड़की के पर्दे ने बाहर का नज़ारा रोक दिया था"},
+        "d": {"en": "To talk to the conductor", "hi": "कंडक्टर से बात करने के लिए"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "A canvas blind covered the lower part of the window.",
+        "hi": "खिड़की के निचले हिस्से को एक कैनवास के पर्दे ने ढक रखा था।"
+      },
+      "explanation": {
+        "en": "Valli found her view cut off by a canvas blind that covered the lower part of her window. So she stood up on the seat to peer over the blind and see the world outside.",
+        "hi": "वल्ली को लगा कि पर्दे की वजह से वह बाहर नहीं देख पा रही है, इसलिए वह सीट पर खड़ी हो गई ताकि वह बाहर की दुनिया देख सके।"
+      },
+      "key_takeaway": {
+        "en": "Valli was determined to experience every part of her journey.",
+        "hi": "वल्ली अपनी यात्रा के हर हिस्से का अनुभव करने के लिए दृढ़ थी।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "What did Valli see outside the bus window on one side?",
+        "hi": "वल्ली ने बस की खिड़की के बाहर एक तरफ क्या देखा?"
+      },
+      "options": {
+        "a": {"en": "A busy market", "hi": "एक व्यस्त बाज़ार"},
+        "b": {"en": "The canal, palm trees, mountains, and the blue sky", "hi": "नहर, ताड़ के पेड़, पहाड़ और नीला आसमान"},
+        "c": {"en": "A dense forest", "hi": "एक घना जंगल"},
+        "d": {"en": "Only other buses", "hi": "सिर्फ दूसरी बसें"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It was a beautiful natural landscape, very different from her village street.",
+        "hi": "यह एक सुंदर प्राकृतिक दृश्य था, जो उसकी गाँव की गली से बहुत अलग था।"
+      },
+      "explanation": {
+        "en": "On one side there was the canal and, beyond it, palm trees, grassland, distant mountains, and the blue, blue sky.",
+        "hi": "एक तरफ नहर थी और उसके पार ताड़ के पेड़, घास के मैदान, दूर के पहाड़ और नीला आसमान था।"
+      },
+      "key_takeaway": {
+        "en": "Nature provided a magnificent backdrop to Valli's adventure.",
+        "hi": "प्रकृति ने वल्ली के साहसिक कार्य को एक शानदार पृष्ठभूमि प्रदान की।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "How did Valli react when an elderly man called her a 'child' and told her to sit down?",
+        "hi": "जब एक बुजुर्ग व्यक्ति ने उसे 'बच्चा' कहा और बैठने के लिए कहा, तो वल्ली ने कैसी प्रतिक्रिया दी?"
+      },
+      "options": {
+        "a": {"en": "She sat down immediately and started crying", "hi": "वह तुरंत बैठ गई और रोने लगी"},
+        "b": {"en": "She haughtily replied that she wasn't a child and had paid her fare", "hi": "उसने घमंड से जवाब दिया कि वह बच्चा नहीं है और उसने अपना किराया दिया है"},
+        "c": {"en": "She ignored him and kept standing", "hi": "उसने उसे नज़रअंदाज़ किया और खड़ी रही"},
+        "d": {"en": "She asked him for his ticket", "hi": "उसने उससे उसका टिकट माँगा"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "She wanted to be treated like an adult passenger, not a helpless child.",
+        "hi": "वह चाहती थी कि उसके साथ एक वयस्क यात्री की तरह व्यवहार किया जाए, न कि एक असहाय बच्चे की तरह।"
+      },
+      "explanation": {
+        "en": "Valli was annoyed by the man's concern. She told him proudly that there was nobody there who was a child and that she had paid her thirty paise like everyone else.",
+        "hi": "वल्ली को उस आदमी की चिंता से चिढ़ हुई। उसने गर्व से कहा कि यहाँ कोई बच्चा नहीं है और उसने भी सबकी तरह पैसे दिए हैं।"
+      },
+      "key_takeaway": {
+        "en": "Independent spirit: Valli rejected the label of a 'vulnerable child'.",
+        "hi": "स्वतंत्र भावना: वल्ली ने 'कमज़ोर बच्चे' के लेबल को खारिज कर दिया।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "Why did Valli find the elderly woman who sat next to her repulsive?",
+        "hi": "वल्ली को अपने पास बैठी बुजुर्ग महिला घृणास्पद (repulsive) क्यों लगी?"
+      },
+      "options": {
+        "a": {"en": "She was wearing dirty clothes", "hi": "उसने गंदे कपड़े पहने थे"},
+        "b": {"en": "She had big holes in her earlobes and was chewing betel nut", "hi": "उसके कान के छेदों में बड़े छेद थे और वह सुपारी चबा रही थी"},
+        "c": {"en": "She was shouting at the driver", "hi": "वह ड्राइवर पर चिल्ला रही थी"},
+        "d": {"en": "She tried to steal Valli's money", "hi": "उसने वल्ली के पैसे चुराने की कोशिश की"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The woman looked very 'unrefined' to Valli, with betel juice almost spilling from her mouth.",
+        "hi": "वह महिला वल्ली को बहुत 'अशिष्ट' लगी, जिसके मुँह से सुपारी का रस टपकने ही वाला था।"
+      },
+      "explanation": {
+        "en": "Valli found the woman repulsive because of the large holes in her earlobes, the ugly earrings, and the smell of the betel nut she was chewing.",
+        "hi": "वल्ली को वह महिला पसंद नहीं आई क्योंकि उसके कान के छेद बड़े थे और वह सुपारी चबा रही थी जिससे उसे बदबू आ रही थी।"
+      },
+      "key_takeaway": {
+        "en": "Repulsive = Arousing intense distaste or disgust.",
+        "hi": "Repulsive = तीव्र अरुचि या घृणा पैदा करने वाला।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "What made Valli laugh heartily during her journey to the town?",
+        "hi": "शहर की यात्रा के दौरान वल्ली को किस बात पर ज़ोर से हँसी आई?"
+      },
+      "options": {
+        "a": {"en": "The conductor's jokes", "hi": "कंडक्टर के मज़ाक पर"},
+        "b": {"en": "A young cow running right in front of the bus", "hi": "बस के ठीक सामने दौड़ती एक युवा गाय को देखकर"},
+        "c": {"en": "A funny poster on the street", "hi": "गली में एक मज़ाकिया पोस्टर देखकर"},
+        "d": {"en": "The elderly woman's stories", "hi": "बुजुर्ग महिला की कहानियों पर"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The cow had its tail high in the air and kept running faster the more the driver honked.",
+        "hi": "गाय की पूंछ हवा में ऊँची थी और ड्राइवर जितना हॉर्न बजाता, वह उतनी ही तेज़ दौड़ती थी।"
+      },
+      "explanation": {
+        "en": "Valli saw a cow running in the middle of the road, right in front of the bus. The faster the driver honked, the more frightened the animal became and the faster it galloped. Valli found this very funny.",
+        "hi": "वल्ली ने सड़क के बीचों-बीच बस के सामने एक गाय को दौड़ते देखा। ड्राइवर जितना हॉर्न बजाता, गाय उतनी ही तेज़ भागती। वल्ली को यह बहुत मज़ेदार लगा।"
+      },
+      "key_takeaway": {
+        "en": "The sight of the galloping cow was the highlight of Valli's journey.",
+        "hi": "दौड़ती हुई गाय का दृश्य वल्ली की यात्रा का सबसे मुख्य आकर्षण था।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "What did Valli do when the bus reached the town terminal?",
+        "hi": "जब बस शहर के टर्मिनल पर पहुँची तो वल्ली ने क्या किया?"
+      },
+      "options": {
+        "a": {"en": "She got off to explore the shops", "hi": "वह दुकानों को देखने के लिए नीचे उतर गई"},
+        "b": {"en": "She stayed in her seat and paid for the return trip", "hi": "वह अपनी सीट पर बैठी रही और वापसी की यात्रा के लिए पैसे दिए"},
+        "c": {"en": "She went to talk to the driver", "hi": "वह ड्राइवर से बात करने गई"},
+        "d": {"en": "She lost her way in the crowd", "hi": "वह भीड़ में रास्ता भटक गई"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "She didn't want to leave the bus because she was afraid of getting lost and only wanted the ride.",
+        "hi": "वह बस से उतरना नहीं चाहती थी क्योंकि उसे खो जाने का डर था और वह केवल बस की सवारी करना चाहती थी।"
+      },
+      "explanation": {
+        "en": "Valli did not get off the bus. She told the conductor that she only wanted the bus ride and handed him another thirty paise for the trip back home.",
+        "hi": "वल्ली बस से नहीं उतरी। उसने कंडक्टर से कहा कि वह केवल बस की सवारी करना चाहती है और वापसी के लिए तीस पैसे दे दिए।"
+      },
+      "key_takeaway": {
+        "en": "Valli was cautious and stuck to her plan of just enjoying the ride.",
+        "hi": "वल्ली सतर्क थी और केवल सवारी का आनंद लेने की अपनी योजना पर टिकी रही।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "What did the conductor offer to buy for Valli in the town?",
+        "hi": "शहर में कंडक्टर ने वल्ली के लिए क्या खरीदने की पेशकश की?"
+      },
+      "options": {
+        "a": {"en": "A toy", "hi": "एक खिलौना"},
+        "b": {"en": "A cold drink", "hi": "एक कोल्ड ड्रिंक"},
+        "c": {"en": "A new dress", "hi": "एक नई ड्रेस"},
+        "d": {"en": "A ticket for the cinema", "hi": "सिनेमा का टिकट"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It was hot, and he wanted to be kind to the little 'Madam'.",
+        "hi": "गर्मी थी, और वह छोटी 'मैडम' के प्रति दयालु होना चाहता था।"
+      },
+      "explanation": {
+        "en": "The conductor kindly offered to get her a cold drink from a stall. However, Valli firmly refused, showing her self-respect and caution.",
+        "hi": "कंडक्टर ने उदारतापूर्वक उसे कोल्ड ड्रिंक दिलाने की पेशकश की। लेकिन वल्ली ने अपने स्वाभिमान और सावधानी दिखाते हुए मना कर दिया।"
+      },
+      "key_takeaway": {
+        "en": "Valli's refusal of the drink showed her maturity and self-reliance.",
+        "hi": "कोल्ड ड्रिंक के लिए वल्ली का मना करना उसकी परिपक्वता और आत्मनिर्भरता को दर्शाता है।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "What sad sight did Valli see on her way back to the village?",
+        "hi": "गाँव वापस आते समय वल्ली ने कौन सा दुखद दृश्य देखा?"
+      },
+      "options": {
+        "a": {"en": "The bus broke down", "hi": "बस खराब हो गई"},
+        "b": {"en": "The same cow lying dead by the roadside", "hi": "वही गाय सड़क के किनारे मृत पड़ी थी"},
+        "c": {"en": "It started raining heavily", "hi": "भारी बारिश होने लगी"},
+        "d": {"en": "She lost her money", "hi": "उसके पैसे खो गए"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The creature that was so full of life earlier was now lifeless and frightening.",
+        "hi": "जो जीव पहले जीवन से भरपूर था, वह अब निर्जीव और डरावना था।"
+      },
+      "explanation": {
+        "en": "Valli saw a young cow lying dead by the roadside, apparently struck by some fast-moving vehicle. It was the same cow that had made her laugh earlier.",
+        "hi": "वल्ली ने सड़क के किनारे एक मृत गाय को देखा। यह वही गाय थी जिसे देखकर वह पहले हँसी थी।"
+      },
+      "key_takeaway": {
+        "en": "The contrast between life and death changed Valli's mood.",
+        "hi": "जीवन और मृत्यु के बीच के अंतर ने वल्ली के मूड को बदल दिया।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "How did the sight of the dead cow affect Valli?",
+        "hi": "मृत गाय के दृश्य ने वल्ली को कैसे प्रभावित किया?"
+      },
+      "options": {
+        "a": {"en": "She didn't care", "hi": "उसे कोई फर्क नहीं पड़ा"},
+        "b": {"en": "She became sad and lost her enthusiasm to look outside", "hi": "वह दुखी हो गई और बाहर देखने का अपना उत्साह खो दिया"},
+        "c": {"en": "She asked the driver to stop", "hi": "उसने ड्राइवर को रुकने के लिए कहा"},
+        "d": {"en": "She started laughing again", "hi": "वह फिर से हँसने लगी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The memory of the dead cow haunted her for the rest of the journey.",
+        "hi": "मृत गाय की याद ने बाकी यात्रा के दौरान उसे परेशान किया।"
+      },
+      "explanation": {
+        "en": "Valli was overcome with sadness. The sight of the dead animal dampened her spirits, and she no longer wanted to look out of the window.",
+        "hi": "वल्ली बहुत दुखी हो गई। मृत जानवर को देखकर उसका उत्साह ठंडा पड़ गया और वह अब बाहर नहीं देखना चाहती थी।"
+      },
+      "key_takeaway": {
+        "en": "Experiences can quickly turn from joyful to somber.",
+        "hi": "अनुभव बहुत जल्दी सुखद से दुखद में बदल सकते हैं।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "What did Valli find her mother doing when she reached home?",
+        "hi": "घर पहुँचने पर वल्ली ने अपनी माँ को क्या करते हुए पाया?"
+      },
+      "options": {
+        "a": {"en": "Searching for Valli", "hi": "वल्ली को ढूँढते हुए"},
+        "b": {"en": "Talking to one of Valli's aunts", "hi": "वल्ली की एक चाची से बात करते हुए"},
+        "c": {"en": "Cooking dinner", "hi": "रात का खाना बनाते हुए"},
+        "d": {"en": "Reading a newspaper", "hi": "अखबार पढ़ते हुए"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This aunt was from 'Ackelam' and was a real chatterbox.",
+        "hi": "यह चाची 'अक्कुलम' की थीं और बहुत बातूनी थीं।"
+      },
+      "explanation": {
+        "en": "When Valli entered her home, she found her mother awake and talking to an aunt from Akkelam. The aunt was a 'real chatterbox' who never closed her mouth once she started talking.",
+        "hi": "जब वल्ली घर पहुँची, तो उसकी माँ जगी हुई थी और अपनी एक चाची से बात कर रही थी।"
+      },
+      "key_takeaway": {
+        "en": "Life at home was continuing normally, unaware of Valli's big adventure.",
+        "hi": "घर पर जीवन सामान्य रूप से चल रहा था, वल्ली के बड़े साहसिक कार्य से अनजान।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "What were the mother and the aunt discussing?",
+        "hi": "माँ और चाची किस बारे में चर्चा कर रही थीं?"
+      },
+      "options": {
+        "a": {"en": "Valli's missing 60 paise", "hi": "वल्ली के खोए हुए 60 पैसों के बारे में"},
+        "b": {"en": "Things happening in the world outside without their knowledge", "hi": "बाहर की दुनिया में उनकी जानकारी के बिना होने वाली चीज़ों के बारे में"},
+        "c": {"en": "The price of vegetables", "hi": "सब्जियों की कीमत के बारे में"},
+        "d": {"en": "A wedding in the village", "hi": "गाँव में एक शादी के बारे में"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This was ironic because Valli had just returned from such an 'outside' experience.",
+        "hi": "यह विडंबनापूर्ण था क्योंकि वल्ली अभी-अभी ऐसे 'बाहरी' अनुभव से लौटी थी।"
+      },
+      "explanation": {
+        "en": "They were talking about how many things happen in the world outside that we can't possibly know about or understand even if we do know.",
+        "hi": "वे बात कर रहे थे कि दुनिया में कितनी चीज़ें ऐसी होती हैं जिनकी हमें जानकारी भी नहीं होती।"
+      },
+      "key_takeaway": {
+        "en": "Irony: The adults discussed the 'unknown world' while the child had just explored it.",
+        "hi": "विडंबना: बड़े 'अज्ञात दुनिया' की चर्चा कर रहे थे जबकि बच्चा अभी उसे देखकर लौटा था।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "Why did Valli smile to herself at the end of the story?",
+        "hi": "कहानी के अंत में वल्ली मन ही मन क्यों मुस्कुराई?"
+      },
+      "options": {
+        "a": {"en": "Because she was happy to see her aunt", "hi": "क्योंकि वह अपनी चाची को देखकर खुश थी"},
+        "b": {"en": "Because she knew a secret that the adults didn't know", "hi": "क्योंकि उसे एक ऐसा रहस्य पता था जो बड़ों को नहीं पता था"},
+        "c": {"en": "Because she found more money", "hi": "क्योंकि उसे और पैसे मिल गए थे"},
+        "d": {"en": "Because she was going to have tea", "hi": "क्योंकि वह चाय पीने वाली थी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "She agreed with her mother's comment about things happening without one's knowledge.",
+        "hi": "वह अपनी माँ की उस बात से सहमत थी कि इंसान की जानकारी के बिना बहुत कुछ होता है।"
+      },
+      "explanation": {
+        "en": "Valli smiled because she had just successfully completed a journey to the town and back without her mother ever knowing. Her secret made her feel powerful and independent.",
+        "hi": "वल्ली इसलिए मुस्कुराई क्योंकि उसने माँ को पता चले बिना शहर की यात्रा पूरी कर ली थी। उसका रहस्य उसे शक्तिशाली महसूस करा रहा था।"
+      },
+      "key_takeaway": {
+        "en": "Secrets can be a bridge to personal growth and independence.",
+        "hi": "रहस्य व्यक्तिगत विकास और स्वतंत्रता का एक जरिया हो सकते हैं।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "What does the word 'curious' mean in the context of Valli?",
+        "hi": "वल्ली के संदर्भ में 'Curious' शब्द का क्या अर्थ है?"
+      },
+      "options": {
+        "a": {"en": "Always crying", "hi": "हमेशा रोने वाली"},
+        "b": {"en": "Eager to know or learn something", "hi": "कुछ जानने या सीखने के लिए उत्सुक"},
+        "c": {"en": "Very tall", "hi": "बहुत लंबी"},
+        "d": {"en": "Afraid of strangers", "hi": "अजनबियों से डरने वाली"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It describes her desire to watch the street and ride the bus.",
+        "hi": "यह गली को देखने और बस की सवारी करने की उसकी इच्छा को दर्शाता है।"
+      },
+      "explanation": {
+        "en": "Curious means having a strong desire to learn or know more about something. Valli's curiosity about the bus led her to plan and execute her journey.",
+        "hi": "Curious का अर्थ है किसी चीज़ के बारे में और जानने की तीव्र इच्छा होना।"
+      },
+      "key_takeaway": {
+        "en": "Curiosity is the engine of discovery.",
+        "hi": "जिज्ञासा खोज का इंजन है।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "What did Valli see in the town that was 'overwhelming'?",
+        "hi": "वल्ली ने शहर में ऐसा क्या देखा जो 'अभिभूत' (overwhelming) कर देने वाला था?"
+      },
+      "options": {
+        "a": {"en": "A quiet park", "hi": "एक शांत पार्क"},
+        "b": {"en": "Big shops with shimmering clothes and crowds of people", "hi": "चमकते कपड़ों वाली बड़ी दुकानें और लोगों की भीड़"},
+        "c": {"en": "The village pond", "hi": "गाँव का तालाब"},
+        "d": {"en": "Her own school", "hi": "उसका अपना स्कूल"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It was a scene of bright colors and lots of noise, much bigger than her village.",
+        "hi": "यह चमकीले रंगों और बहुत शोर वाला दृश्य था, जो उसके गाँव से बहुत बड़ा था।"
+      },
+      "explanation": {
+        "en": "The town had big shops with 'glittering' displays of clothes and other merchandise. Valli was struck by the size of the shops and the huge crowd.",
+        "hi": "शहर में चमकते कपड़ों वाली बड़ी दुकानें और भारी भीड़ थी, जिसे देखकर वल्ली हैरान रह गई।"
+      },
+      "key_takeaway": {
+        "en": "The town represented a world of abundance and movement.",
+        "hi": "शहर प्रचुरता और हलचल की दुनिया का प्रतिनिधित्व करता था।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "Why didn't Valli get off the bus even once?",
+        "hi": "वल्ली एक बार भी बस से नीचे क्यों नहीं उतरी?"
+      },
+      "options": {
+        "a": {"en": "She was too tired", "hi": "वह बहुत थक गई थी"},
+        "b": {"en": "She was afraid of the town and getting lost", "hi": "वह शहर और खो जाने से डरती थी"},
+        "c": {"en": "She had no more money", "hi": "उसके पास और पैसे नहीं थे"},
+        "d": {"en": "The conductor told her to stay", "hi": "कंडक्टर ने उसे रुकने के लिए कहा था"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "She told the conductor, 'I am afraid' when he asked if she wanted to see the sights.",
+        "hi": "जब कंडक्टर ने पूछा कि क्या वह नज़ारे देखना चाहती है, तो उसने कहा, 'मुझे डर लग रहा है'।"
+      },
+      "explanation": {
+        "en": "Valli was a cautious traveler. She knew her limits and preferred to stay in the safety of the bus rather than venturing into the unknown town alone.",
+        "hi": "वल्ली एक सतर्क यात्री थी। उसने अनजान शहर में अकेले जाने के बजाय बस की सुरक्षा में रहना बेहतर समझा।"
+      },
+      "key_takeaway": {
+        "en": "Bravery and caution can exist together.",
+        "hi": "बहादुरी और सावधानी साथ-साथ हो सकती हैं।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "Who is the author of the story 'Madam Rides the Bus'?",
+        "hi": "'Madam Rides the Bus' कहानी के लेखक कौन हैं?"
+      },
+      "options": {
+        "a": {"en": "Gavin Maxwell", "hi": "गैविन मैक्सवेल"},
+        "b": {"en": "Vallikkannan", "hi": "वल्लीक्कन्नन (Vallikkannan)"},
+        "c": {"en": "Liam O’Flaherty", "hi": "लियाम ओ'फ़्लाहर्टी"},
+        "d": {"en": "Frederick Forsyth", "hi": "फ्रेडरिक फोर्सिथ"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The name sounds similar to the protagonist's name.",
+        "hi": "यह नाम कहानी की मुख्य पात्र के नाम से मिलता-जुलता है।"
+      },
+      "explanation": {
+        "en": "The story was originally written in Tamil by Vallikkannan and translated into English. It captures the essence of South Indian village life.",
+        "hi": "यह कहानी मूल रूप से वल्लीक्कन्नन द्वारा तमिल में लिखी गई थी।"
+      },
+      "key_takeaway": {
+        "en": "Vallikkannan = Author of Valli's story.",
+        "hi": "वल्लीक्कन्नन = वल्ली की कहानी के लेखक।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "What did Valli's aunt call her at the end of the story?",
+        "hi": "कहानी के अंत में वल्ली की चाची ने उसे क्या कहा?"
+      },
+      "options": {
+        "a": {"en": "A naughty child", "hi": "एक शरारती बच्ची"},
+        "b": {"en": "A 'chit of a girl' who pokes her nose into conversation", "hi": "एक 'छोटी सी लड़की' जो बड़ों की बातचीत में नाक घुसाती है"},
+        "c": {"en": "A clever student", "hi": "एक चतुर छात्रा"},
+        "d": {"en": "Madam", "hi": "मैडम"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The aunt was annoyed because Valli behaved like a grown-up lady.",
+        "hi": "चाची चिढ़ गई थीं क्योंकि वल्ली एक बड़ी महिला की तरह व्यवहार कर रही थी।"
+      },
+      "explanation": {
+        "en": "When Valli agreed with their conversation, her aunt was surprised and called her a 'chit of a girl' who thinks she is a grown lady.",
+        "hi": "जब वल्ली उनकी बातचीत के बीच में बोली, तो उसकी चाची ने उसे टोकते हुए कहा कि वह बड़ों की तरह व्यवहार कर रही है।"
+      },
+      "key_takeaway": {
+        "en": "Valli's journey had truly made her feel like a 'grown lady'.",
+        "hi": "वल्ली की यात्रा ने उसे वास्तव में एक 'बड़ी महिला' जैसा महसूस करा दिया था।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "What is the central theme of 'Madam Rides the Bus'?",
+        "hi": "'Madam Rides the Bus' का केंद्रीय विषय क्या है?"
+      },
+      "options": {
+        "a": {"en": "The dangers of traveling alone", "hi": "अकेले यात्रा करने के खतरे"},
+        "b": {"en": "A child's curiosity, planning, and their first encounter with the reality of life and death", "hi": "एक बच्चे की जिज्ञासा, योजना और जीवन और मृत्यु की वास्तविकता के साथ उनका पहला सामना"},
+        "c": {"en": "How to save money", "hi": "पैसे कैसे बचाएं"},
+        "d": {"en": "The beauty of South Indian towns", "hi": "दक्षिण भारतीय शहरों की सुंदरता"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The story is about Valli's desire to explore and what she learns about the world through her trip.",
+        "hi": "यह कहानी वल्ली की खोज करने की इच्छा और अपनी यात्रा के माध्यम से वह दुनिया के बारे में क्या सीखती है, उस पर आधारित है।"
+      },
+      "explanation": {
+        "en": "The story highlights Valli's transition from a naive child to someone who understands the cycle of life and death. Her curiosity leads her to a journey that matures her thinking.",
+        "hi": "यह कहानी वल्ली के एक मासूम बच्चे से एक समझदार व्यक्ति बनने के सफर को दर्शाती है।"
+      },
+      "key_takeaway": {
+        "en": "Journeying out of our comfort zone helps us grow.",
+        "hi": "अपने आराम के दायरे (comfort zone) से बाहर निकलना हमें बढ़ने में मदद करता है।"
+      }
+    }
+  ]
+}

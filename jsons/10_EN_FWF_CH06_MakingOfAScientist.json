@@ -1,0 +1,800 @@
+{
+  "metadata": {
+    "chapter_number": 6,
+    "chapter_title": "The Making of a Scientist",
+    "chapter_title_hindi": "एक वैज्ञानिक का बनना",
+    "subject": "English (Footprints Without Feet) - Class 10",
+    "board": "HPBOSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.0",
+    "naming_convention": "10_EN_FWF_CH06_MakingOfAScientist.json"
+  },
+  "validation_report": {
+    "is_valid": true,
+    "checked_by": "AI Tutor",
+    "checked_at": "2026-01-21T23:00:00Z",
+    "notes": "Covers Richard Ebright’s journey from butterfly collecting to DNA research."
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "At what age did Richard Ebright publish his first scientific theory in a major journal?",
+        "hi": "रिचर्ड एब्राइट ने किस उम्र में एक प्रमुख पत्रिका में अपना पहला वैज्ञानिक सिद्धांत प्रकाशित किया था?"
+      },
+      "options": {
+        "a": {"en": "Fifteen", "hi": "पंद्रह"},
+        "b": {"en": "Twenty-two", "hi": "बाईस"},
+        "c": {"en": "Thirty", "hi": "तीस"},
+        "d": {"en": "Eighteen", "hi": "अठारह"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It was considered a huge achievement for a college student, compared to a home run in baseball.",
+        "hi": "इसे एक कॉलेज छात्र के लिए एक बड़ी उपलब्धि माना गया था, जिसकी तुलना बेसबॉल में होम रन से की गई थी।"
+      },
+      "explanation": {
+        "en": "At the age of twenty-two, Richard Ebright and his college roommate published a paper on how cells work in the 'Proceedings of the National Academy of Sciences'.",
+        "hi": "बाईस साल की उम्र में, रिचर्ड एब्राइट और उनके रूममेट ने एक प्रसिद्ध विज्ञान पत्रिका में कोशिकाओं के काम करने के तरीके पर एक पेपर प्रकाशित किया।"
+      },
+      "key_takeaway": {
+        "en": "Age 22 = Significant milestone in Ebright's scientific career.",
+        "hi": "22 वर्ष = एब्राइट के वैज्ञानिक करियर का एक महत्वपूर्ण पड़ाव।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "What did Ebright start collecting in kindergarten?",
+        "hi": "एब्राइट ने किंडरगार्टन में क्या इकट्ठा करना शुरू किया था?"
+      },
+      "options": {
+        "a": {"en": "Stamps", "hi": "डाक टिकट"},
+        "b": {"en": "Butterflies", "hi": "तितलियाँ (Butterflies)"},
+        "c": {"en": "Coins", "hi": "सिक्के"},
+        "d": {"en": "Rocks", "hi": "चट्टानें/पत्थर"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He did this with the same determination that marked all his activities.",
+        "hi": "उन्होंने यह काम उसी दृढ़ संकल्प के साथ किया जो उनकी सभी गतिविधियों में झलकता था।"
+      },
+      "explanation": {
+        "en": "Ebright had a habit of collecting things since childhood. In kindergarten, he started collecting butterflies, along with rocks, fossils, and coins.",
+        "hi": "एब्राइट को बचपन से ही चीजें इकट्ठा करने का शौक था। किंडरगार्टन में उन्होंने तितलियाँ इकट्ठा करना शुरू किया।"
+      },
+      "key_takeaway": {
+        "en": "Collecting butterflies was the starting point of his curiosity.",
+        "hi": "तितलियाँ इकट्ठा करना उनकी जिज्ञासा का शुरुआती बिंदु था।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "Who was Ebright's only companion and biggest supporter during his childhood?",
+        "hi": "बचपन में एब्राइट का एकमात्र साथी और सबसे बड़ा समर्थक कौन था?"
+      },
+      "options": {
+        "a": {"en": "His father", "hi": "उसके पिता"},
+        "b": {"en": "His mother", "hi": "उनकी माँ"},
+        "c": {"en": "His brother", "hi": "उसका भाई"},
+        "d": {"en": "His teacher", "hi": "उसका शिक्षक"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "She encouraged his interest in learning and took him on trips.",
+        "hi": "उन्होंने सीखने में उनकी रुचि को प्रोत्साहित किया और उन्हें यात्राओं पर ले गईं।"
+      },
+      "explanation": {
+        "en": "Ebright's mother was his constant companion after his father died. She encouraged his curiosity and bought him telescopes, microscopes, and cameras.",
+        "hi": "पिता की मृत्यु के बाद एब्राइट की माँ उनकी सबसे बड़ी समर्थक बनीं। उन्होंने उनकी जिज्ञासा को बढ़ाने के लिए टेलिस्कोप और सूक्ष्मदर्शी खरीदे।"
+      },
+      "key_takeaway": {
+        "en": "A supportive parent plays a crucial role in a child's success.",
+        "hi": "बच्चे की सफलता में सहायक माता-पिता की महत्वपूर्ण भूमिका होती है।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "What was the name of the book that changed Ebright's life?",
+        "hi": "उस किताब का नाम क्या था जिसने एब्राइट का जीवन बदल दिया?"
+      },
+      "options": {
+        "a": {"en": "The World of Insects", "hi": "कीड़ों की दुनिया"},
+        "b": {"en": "The Travels of Monarch X", "hi": "द ट्रेवल्स ऑफ मोनार्क एक्स (The Travels of Monarch X)"},
+        "c": {"en": "The Story of DNA", "hi": "डीएनए की कहानी"},
+        "d": {"en": "Life on Earth", "hi": "पृथ्वी पर जीवन"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This children's book was about the migration of monarch butterflies to Central America.",
+        "hi": "बच्चों की यह किताब मध्य अमेरिका में मोनार्क तितलियों के प्रवास के बारे में थी।"
+      },
+      "explanation": {
+        "en": "The book 'The Travels of Monarch X' opened the world of science to Ebright. It described how monarch butterflies migrate, sparking his scientific interest.",
+        "hi": "'The Travels of Monarch X' नामक किताब ने एब्राइट के लिए विज्ञान की दुनिया खोल दी।"
+      },
+      "key_takeaway": {
+        "en": "A single book can ignite a lifelong passion.",
+        "hi": "एक अकेली किताब जीवन भर का जुनून पैदा कर सकती है।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "Who wrote 'The Travels of Monarch X' and asked readers to tag butterflies?",
+        "hi": "'The Travels of Monarch X' किसने लिखी थी और पाठकों से तितलियों को टैग करने के लिए कहा था?"
+      },
+      "options": {
+        "a": {"en": "Richard Ebright", "hi": "रिचर्ड एब्राइट"},
+        "b": {"en": "Dr. Frederick A. Urquhart", "hi": "डॉ. फ्रेडरिक ए. उर्कहार्ट (Dr. Frederick A. Urquhart)"},
+        "c": {"en": "Mr. Weiherer", "hi": "मिस्टर वेहरर"},
+        "d": {"en": "Albert Einstein", "hi": "अल्बर्ट आइंस्टीन"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He was a professor at the University of Toronto in Canada.",
+        "hi": "वे कनाडा में टोरंटो विश्वविद्यालय के प्रोफेसर थे।"
+      },
+      "explanation": {
+        "en": "Dr. Frederick A. Urquhart of the University of Toronto wrote the book. At the end of it, he invited readers to help study butterfly migration by tagging them.",
+        "hi": "टोरंटो विश्वविद्यालय के डॉ. फ्रेडरिक ए. उर्कहार्ट ने यह किताब लिखी थी और पाठकों को शोध में मदद करने के लिए आमंत्रित किया था।"
+      },
+      "key_takeaway": {
+        "en": "Dr. Urquhart was Ebright's early mentor through his book.",
+        "hi": "डॉ. उर्कहार्ट अपनी किताब के ज़रिए एब्राइट के शुरुआती मार्गदर्शक थे।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "How many species of butterflies did Ebright collect in his hometown?",
+        "hi": "एब्राइट ने अपने गृहनगर में तितलियों की कितनी प्रजातियाँ इकट्ठा की थीं?"
+      },
+      "options": {
+        "a": {"en": "Twelve", "hi": "बारह"},
+        "b": {"en": "Twenty-five", "hi": "पच्चीस"},
+        "c": {"en": "Fifty", "hi": "पचास"},
+        "d": {"en": "Ten", "hi": "दस"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He collected all the species found around Reading, Pennsylvania by the time he was in second grade.",
+        "hi": "दूसरी कक्षा तक उन्होंने रीडिंग, पेंसिल्वेनिया के आसपास पाई जाने वाली सभी प्रजातियाँ जमा कर ली थीं।"
+      },
+      "explanation": {
+        "en": "By the time he was in the second grade, Ebright had collected all twenty-five species of butterflies found around his hometown.",
+        "hi": "दूसरी कक्षा तक पहुँचते-पहुँचते एब्राइट ने अपने आसपास मिलने वाली सभी 25 प्रजातियाँ जमा कर ली थीं।"
+      },
+      "key_takeaway": {
+        "en": "Ebright showed extreme focus and dedication even as a small child.",
+        "hi": "एक छोटे बच्चे के रूप में भी एब्राइट ने अत्यधिक ध्यान और समर्पण दिखाया।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "What did Ebright do when catching butterflies one by one became difficult?",
+        "hi": "जब एक-एक करके तितलियाँ पकड़ना मुश्किल हो गया, तो एब्राइट ने क्या किया?"
+      },
+      "options": {
+        "a": {"en": "He stopped collecting", "hi": "उसने इकट्ठा करना बंद कर दिया"},
+        "b": {"en": "He started raising butterflies in his basement", "hi": "उसने अपने बेसमेंट में तितलियाँ पालना शुरू कर दिया"},
+        "c": {"en": "He hired helpers", "hi": "उसने सहायक रख लिए"},
+        "d": {"en": "He bought them from shops", "hi": "उसने उन्हें दुकानों से खरीदा"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He would catch a female monarch, take her eggs, and raise them through their entire life cycle.",
+        "hi": "वह एक मादा मोनार्क पकड़ते, उसके अंडे लेते और उन्हें उनके पूरे जीवन चक्र में पालते थे।"
+      },
+      "explanation": {
+        "en": "To tag enough butterflies for research, Ebright decided to raise them. He would raise thousands of monarchs in his basement from egg to adult butterfly.",
+        "hi": "अनुसंधान के लिए पर्याप्त तितलियाँ पाने के लिए एब्राइट ने उन्हें अपने बेसमेंट में ही पालना शुरू कर दिया।"
+      },
+      "key_takeaway": {
+        "en": "Scientific research often requires innovative ways to gather data.",
+        "hi": "वैज्ञानिक अनुसंधान के लिए अक्सर डेटा जुटाने के नए तरीकों की आवश्यकता होती है।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "What happened when Ebright first entered the County Science Fair in seventh grade?",
+        "hi": "जब एब्राइट ने पहली बार सातवीं कक्षा में काउंटी साइंस फेयर में भाग लिया, तो क्या हुआ?"
+      },
+      "options": {
+        "a": {"en": "He won the first prize", "hi": "उसने प्रथम पुरस्कार जीता"},
+        "b": {"en": "He lost and didn't win anything", "hi": "वह हार गया और उसे कुछ नहीं मिला"},
+        "c": {"en": "He was disqualified", "hi": "उसे अयोग्य घोषित कर दिया गया"},
+        "d": {"en": "He didn't go to the fair", "hi": "वह मेले में नहीं गया"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It was a 'sad feeling' for him, but it taught him a very important lesson.",
+        "hi": "यह उनके लिए एक 'दुखद एहसास' था, लेकिन इसने उन्हें एक बहुत ही महत्वपूर्ण सबक सिखाया।"
+      },
+      "explanation": {
+        "en": "Ebright showed slides of frog tissues under a microscope, which was just a neat display. He lost because he didn't do a 'real experiment' while the winners did.",
+        "hi": "एब्राइट ने मेंढक के ऊतकों को सूक्ष्मदर्शी के नीचे दिखाया, जो केवल एक प्रदर्शन था। वे हार गए क्योंकि उन्होंने कोई 'असली प्रयोग' नहीं किया था।"
+      },
+      "key_takeaway": {
+        "en": "True science is about experimentation, not just neat display.",
+        "hi": "सच्चा विज्ञान प्रयोगों के बारे में है, न कि केवल दिखावे के बारे में।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "What did Ebright realize was necessary to win at a science fair?",
+        "hi": "एब्राइट ने क्या महसूस किया कि साइंस फेयर में जीतने के लिए क्या ज़रूरी है?"
+      },
+      "options": {
+        "a": {"en": "Expensive equipment", "hi": "महंगे उपकरण"},
+        "b": {"en": "Real experiments", "hi": "वास्तविक प्रयोग (Real experiments)"},
+        "c": {"en": "Colorful posters", "hi": "रंगीन पोस्टर"},
+        "d": {"en": "Help from parents", "hi": "माता-पिता की मदद"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He understood that simple displays are not enough for scientific recognition.",
+        "hi": "उन्होंने समझा कि वैज्ञानिक मान्यता के लिए केवल साधारण प्रदर्शन पर्याप्त नहीं हैं।"
+      },
+      "explanation": {
+        "en": "After losing the fair, Ebright realized that to win, he had to perform real experiments and show actual results, not just make a pretty display.",
+        "hi": "मेले में हारने के बाद, एब्राइट ने महसूस किया कि जीतने के लिए प्रयोग करके परिणाम दिखाना अनिवार्य है।"
+      },
+      "key_takeaway": {
+        "en": "The competitive spirit drives scientists to seek deeper truths.",
+        "hi": "प्रतिस्पर्धा की भावना वैज्ञानिकों को गहरे सच खोजने के लिए प्रेरित करती है।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "In eighth grade, what was Ebright's project about butterflies?",
+        "hi": "आठवीं कक्षा में, तितलियों के बारे में एब्राइट का प्रोजेक्ट क्या था?"
+      },
+      "options": {
+        "a": {"en": "Coloring the wings", "hi": "पंखों को रंगना"},
+        "b": {"en": "Finding the cause of a viral disease that kills monarch caterpillars", "hi": "उस वायरल बीमारी के कारण का पता लगाना जो मोनार्क कैटरपिलर को मार देती है"},
+        "c": {"en": "Making butterflies fly faster", "hi": "तितलियों को तेज़ उड़ाना"},
+        "d": {"en": "Counting the eggs", "hi": "अंडों की गिनती करना"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He suspected that a beetle might carry the virus.",
+        "hi": "उन्हें संदेह था कि एक भृंग (beetle) उस वायरस को ले जा सकता है।"
+      },
+      "explanation": {
+        "en": "Ebright tried to find the cause of a disease that killed many monarch caterpillars. Although his experiment with beetles didn't give results, he showed he did an experiment and won.",
+        "hi": "एब्राइट ने उस बीमारी के कारण को खोजने की कोशिश की जो कैटरपिलर को मार रही थी। हालांकि उन्हें पक्का सबूत नहीं मिला, पर उनके प्रयोग ने उन्हें जिता दिया।"
+      },
+      "key_takeaway": {
+        "en": "Investigating the 'why' and 'how' of nature is the core of science.",
+        "hi": "प्रकृति के 'क्यों' और 'कैसे' की जांच करना ही विज्ञान का मूल है।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "Why do Viceroy butterflies copy Monarch butterflies?",
+        "hi": "वायसराय तितलियाँ मोनार्क तितलियों की नकल क्यों करती हैं?"
+      },
+      "options": {
+        "a": {"en": "To look pretty", "hi": "सुंदर दिखने के लिए"},
+        "b": {"en": "To avoid being eaten by birds", "hi": "पक्षियों द्वारा खाए जाने से बचने के लिए"},
+        "c": {"en": "Because they are friends", "hi": "क्योंकि वे दोस्त हैं"},
+        "d": {"en": "By accident", "hi": "दुर्घटना से"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Monarchs do not taste good to birds, but Viceroys do.",
+        "hi": "पक्षियों को मोनार्क का स्वाद अच्छा नहीं लगता, लेकिन वायसराय का लगता है।"
+      },
+      "explanation": {
+        "en": "Birds find Viceroys tasty but avoid Monarchs because they taste bad. By looking like Monarchs, Viceroys trick birds into leaving them alone. This was one of Ebright's winning projects.",
+        "hi": "पक्षी मोनार्क को नहीं खाते क्योंकि वे बेस्वाद होती हैं। वायसराय खुद को बचाने के लिए मोनार्क जैसा दिखने की कोशिश करती हैं।"
+      },
+      "key_takeaway": {
+        "en": "Mimicry in nature is a survival strategy.",
+        "hi": "प्रकृति में 'मिमिक्री' (नकल) उत्तरजीविता की एक रणनीति है।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "What was the purpose of the 12 tiny gold spots on a monarch pupa?",
+        "hi": "मोनार्क प्यूपा पर 12 छोटे सुनहरे धब्बों का उद्देश्य क्या था?"
+      },
+      "options": {
+        "a": {"en": "They were just ornamental", "hi": "वे केवल सजावटी थे"},
+        "b": {"en": "They produced a hormone necessary for the butterfly's full development", "hi": "वे तितली के पूर्ण विकास के लिए आवश्यक हार्मोन का उत्पादन करते थे"},
+        "c": {"en": "They were eyes to see", "hi": "वे देखने के लिए आँखें थीं"},
+        "d": {"en": "They helped the pupa hide", "hi": "उन्होंने प्यूपा को छिपने में मदद की"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Ebright and another student proved this using a specially built device.",
+        "hi": "एब्राइट और एक अन्य छात्र ने एक विशेष उपकरण का उपयोग करके इसे साबित किया।"
+      },
+      "explanation": {
+        "en": "Most people thought the gold spots were just decorative. Ebright proved that these spots produced a vital hormone, without which the butterfly would not develop properly.",
+        "hi": "लोगों को लगता था कि सुनहरे धब्बे केवल सजावट के लिए हैं, लेकिन एब्राइट ने साबित किया कि वे विकास के लिए ज़रूरी हार्मोन बनाते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Questioning common assumptions leads to new discoveries.",
+        "hi": "सामान्य मान्यताओं पर सवाल उठाना नई खोजों की ओर ले जाता है।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "What new theory did Ebright's study of the monarch hormone lead to?",
+        "hi": "मोनार्क हार्मोन के एब्राइट के अध्ययन ने किस नए सिद्धांत को जन्म दिया?"
+      },
+      "options": {
+        "a": {"en": "A theory on how cells can 'read' their DNA", "hi": "एक सिद्धांत कि कोशिकाएं अपने डीएनए को कैसे 'पढ़' सकती हैं"},
+        "b": {"en": "A theory on butterfly flight", "hi": "तितली की उड़ान पर एक सिद्धांत"},
+        "c": {"en": "A theory on the solar system", "hi": "सौर मंडल पर एक सिद्धांत"},
+        "d": {"en": "A theory on plant growth", "hi": "पौधों की वृद्धि पर एक सिद्धांत"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "It involves the chemical structure of a hormone and the blueprint of life.",
+        "hi": "इसमें एक हार्मोन की रासायनिक संरचना और जीवन का ब्लूप्रिंट शामिल है।"
+      },
+      "explanation": {
+        "en": "While looking at X-ray photos of the hormone's chemical structure, Ebright realized that DNA is the blueprint for life and the nucleus of a cell controls heredity.",
+        "hi": "हार्मोन की रासायनिक संरचना को देखते हुए, एब्राइट ने महसूस किया कि डीएनए जीवन का ब्लूप्रिंट है।"
+      },
+      "key_takeaway": {
+        "en": "DNA = The blueprint for life.",
+        "hi": "DNA = जीवन का ब्लूप्रिंट।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "What are the essential qualities for 'the making of a scientist' mentioned at the end?",
+        "hi": "अंत में बताए गए 'एक वैज्ञानिक के बनने' के लिए आवश्यक गुण क्या हैं?"
+      },
+      "options": {
+        "a": {"en": "Money, luck, and fame", "hi": "पैसा, भाग्य और प्रसिद्धि"},
+        "b": {"en": "First-rate mind, curiosity, and the will to win for the right reasons", "hi": "प्रथम श्रेणी का दिमाग, जिज्ञासा और सही कारणों से जीतने की इच्छा"},
+        "c": {"en": "Strong muscles and speed", "hi": "मजबूत मांसपेशियां और गति"},
+        "d": {"en": "A large collection of books", "hi": "किताबों का एक बड़ा संग्रह"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It is a combination of intelligence and the drive to do the best work.",
+        "hi": "यह बुद्धिमत्ता और बेहतरीन काम करने के जुनून का मेल है।"
+      },
+      "explanation": {
+        "en": "The author concludes that a scientist needs a first-rate mind, plenty of curiosity, and the determination to win not for prizes, but to do the best job possible.",
+        "hi": "लेखक के अनुसार एक वैज्ञानिक के लिए तेज़ दिमाग, जिज्ञासा और कुछ अच्छा करने की इच्छा सबसे ज़रूरी है।"
+      },
+      "key_takeaway": {
+        "en": "Science is driven by passion and curiosity, not just awards.",
+        "hi": "विज्ञान पुरस्कारों से नहीं, बल्कि जुनून और जिज्ञासा से चलता है।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "Who was Richard A. Weiherer?",
+        "hi": "रिचर्ड ए. वेहरर (Richard A. Weiherer) कौन थे?"
+      },
+      "options": {
+        "a": {"en": "Ebright's college roommate", "hi": "एब्राइट के कॉलेज रूममेट"},
+        "b": {"en": "Ebright's Social Studies teacher and mentor", "hi": "एब्राइट के सामाजिक अध्ययन के शिक्षक और मार्गदर्शक"},
+        "c": {"en": "A butterfly expert", "hi": "एक तितली विशेषज्ञ"},
+        "d": {"en": "A famous athlete", "hi": "एक प्रसिद्ध एथलीट"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He opened Ebright's mind to new ideas and was the advisor to the Debating Club.",
+        "hi": "उन्होंने एब्राइट के दिमाग को नए विचारों के लिए खोला और डिबेटिंग क्लब के सलाहकार थे।"
+      },
+      "explanation": {
+        "en": "Mr. Weiherer was a teacher who admired Ebright’s hard work and competitive spirit. He helped Ebright balance his interests in science with debating and other activities.",
+        "hi": "मिस्टर वेहरर एब्राइट के शिक्षक थे जिन्होंने उनके व्यक्तित्व को निखारने में मदद की।"
+      },
+      "key_takeaway": {
+        "en": "Mentors help students explore a variety of interests.",
+        "hi": "मार्गदर्शक छात्रों को विभिन्न रुचियों का पता लगाने में मदद करते हैं।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "What other activities was Ebright interested in besides science?",
+        "hi": "विज्ञान के अलावा एब्राइट की और किन गतिविधियों में रुचि थी?"
+      },
+      "options": {
+        "a": {"en": "Singing and dancing", "hi": "गाना और नाचना"},
+        "b": {"en": "Debating, public speaking, and canoeing", "hi": "वाद-विवाद (Debating), सार्वजनिक भाषण और नौकायन (Canoeing)"},
+        "c": {"en": "Cooking and gardening", "hi": "खाना बनाना और बागवानी"},
+        "d": {"en": "Video games", "hi": "वीडियो गेम"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He was an all-rounder and an expert photographer as well.",
+        "hi": "वे एक ऑल-राउंडर थे और एक विशेषज्ञ फोटोग्राफर भी थे।"
+      },
+      "explanation": {
+        "en": "Ebright was not just a science student. He was a champion debater, a public speaker, a good canoeist, and an all-around outdoors-person.",
+        "hi": "एब्राइट केवल विज्ञान के छात्र नहीं थे, वे वाद-विवाद और नौकायन में भी माहिर थे।"
+      },
+      "key_takeaway": {
+        "en": "A well-rounded personality contributes to scientific success.",
+        "hi": "एक बहुमुखी व्यक्तित्व वैज्ञानिक सफलता में योगदान देता है।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "What did Ebright find out about the 'blueprint of life'?",
+        "hi": "एब्राइट ने 'जीवन के ब्लूप्रिंट' के बारे में क्या पता लगाया?"
+      },
+      "options": {
+        "a": {"en": "That cells are made of wood", "hi": "कि कोशिकाएं लकड़ी की बनी होती हैं"},
+        "b": {"en": "That DNA is the substance that controls heredity", "hi": "कि डीएनए वह पदार्थ है जो आनुवंशिकता को नियंत्रित करता है"},
+        "c": {"en": "That butterflies carry books", "hi": "कि तितलियाँ किताबें ले जाती हैं"},
+        "d": {"en": "That life starts from gold spots", "hi": "कि जीवन सुनहरे धब्बों से शुरू होता है"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He discovered that this chemical in the nucleus determines the form and function of the cell.",
+        "hi": "उन्होंने पाया कि केंद्रक में मौजूद यह रसायन कोशिका के रूप और कार्य को निर्धारित करता है।"
+      },
+      "explanation": {
+        "en": "Ebright’s research showed that DNA carries the information necessary for life and inheritance. He explained how DNA acts as a blueprint for the organism.",
+        "hi": "एब्राइट के शोध ने दिखाया कि डीएनए में जीवन और आनुवंशिकता के लिए आवश्यक जानकारी होती है।"
+      },
+      "key_takeaway": {
+        "en": "DNA = Blueprint for heredity and function.",
+        "hi": "DNA = आनुवंशिकता और कार्य का ब्लूप्रिंट।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "How did Ebright collect butterflies in the beginning?",
+        "hi": "शुरुआत में एब्राइट तितलियाँ कैसे इकट्ठा करते थे?"
+      },
+      "options": {
+        "a": {"en": "With a net, one by one", "hi": "एक जाल के साथ, एक-एक करके"},
+        "b": {"en": "With a sticky trap", "hi": "एक चिपचिपे जाल से"},
+        "c": {"en": "He bought them", "hi": "उसने उन्हें खरीदा"},
+        "d": {"en": "He used a vacuum cleaner", "hi": "उसने वैक्यूम क्लीनर का इस्तेमाल किया"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "This method was slow and meant he wouldn't catch very many.",
+        "hi": "यह तरीका धीमा था और इसका मतलब था कि वह बहुत अधिक तितलियाँ नहीं पकड़ पाएंगे।"
+      },
+      "explanation": {
+        "en": "Initially, Ebright went around with a butterfly net to catch them one by one. This proved to be inefficient for large-scale research, leading him to raise them.",
+        "hi": "शुरू में एब्राइट जाल लेकर एक-एक करके तितलियाँ पकड़ते थे, जो कि बड़े शोध के लिए काफी नहीं था।"
+      },
+      "key_takeaway": {
+        "en": "Efficiency is important in scientific data collection.",
+        "hi": "वैज्ञानिक डेटा संग्रह में दक्षता महत्वपूर्ण है।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "Why did many tagged butterflies not provide much information?",
+        "hi": "कई टैग की गई तितलियों ने बहुत अधिक जानकारी क्यों नहीं दी?"
+      },
+      "options": {
+        "a": {"en": "They flew away too fast", "hi": "वे बहुत तेज़ उड़ गईं"},
+        "b": {"en": "Only two were recaptured, and they were not far from where they were released", "hi": "केवल दो को ही वापस पकड़ा जा सका, और वे जहाँ से छोड़ी गई थीं उससे ज़्यादा दूर नहीं थीं"},
+        "c": {"en": "The tags were too heavy", "hi": "टैग बहुत भारी थे"},
+        "d": {"en": "They changed their color", "hi": "उन्होंने अपना रंग बदल लिया"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Migration studies depend on people finding the tagged animals in distant places.",
+        "hi": "प्रवास का अध्ययन इस बात पर निर्भर करता है कि लोग दूर के स्थानों में टैग किए गए जानवरों को खोजें।"
+      },
+      "explanation": {
+        "en": "Out of the thousands of butterflies Ebright tagged, only two were ever found and reported back. They were caught only 75 miles from where he lived.",
+        "hi": "हज़ारों तितलियों में से केवल दो ही वापस मिलीं, जो कि उनके घर से केवल 75 मील दूर थीं।"
+      },
+      "key_takeaway": {
+        "en": "Research results can sometimes be discouraging but still lead to growth.",
+        "hi": "शोध के परिणाम कभी-कभी निराशाजनक हो सकते हैं लेकिन फिर भी वे प्रगति की ओर ले जाते हैं।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "What was the significance of the 'neat display' Ebright made in 7th grade?",
+        "hi": "सातवीं कक्षा में एब्राइट द्वारा बनाए गए 'सुव्यवस्थित प्रदर्शन' (neat display) का क्या महत्व था?"
+      },
+      "options": {
+        "a": {"en": "It showed he was a genius", "hi": "इसने दिखाया कि वह एक प्रतिभाशाली व्यक्ति था"},
+        "b": {"en": "It taught him that science is about results, not just looking good", "hi": "इसने उसे सिखाया कि विज्ञान परिणामों के बारे में है, न कि केवल अच्छा दिखने के बारे में"},
+        "c": {"en": "It was the best project in the fair", "hi": "यह मेले का सबसे अच्छा प्रोजेक्ट था"},
+        "d": {"en": "It was about DNA", "hi": "यह डीएनए के बारे में था"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He saw others performing experiments and winning, while his display won nothing.",
+        "hi": "उन्होंने दूसरों को प्रयोग करते और जीतते देखा, जबकि उनके प्रदर्शन को कुछ नहीं मिला।"
+      },
+      "explanation": {
+        "en": "The loss in the seventh grade was a turning point. Ebright understood that science requires evidence from active experimentation, which changed his approach to future projects.",
+        "hi": "सातवीं कक्षा की हार एब्राइट के लिए एक मोड़ थी। उन्होंने समझा कि विज्ञान के लिए प्रयोग ज़रूरी है।"
+      },
+      "key_takeaway": {
+        "en": "Failure is the first step toward understanding the right method.",
+        "hi": "हार सही पद्धति को समझने की दिशा में पहला कदम है।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "Which butterfly species looks like a Monarch but isn't?",
+        "hi": "कौन सी तितली प्रजाति मोनार्क जैसी दिखती है लेकिन वह नहीं है?"
+      },
+      "options": {
+        "a": {"en": "Swallowtail", "hi": "स्वलोटेल"},
+        "b": {"en": "Viceroy", "hi": "वायसराय (Viceroy)"},
+        "c": {"en": "Cabbage White", "hi": "कैबेज व्हाइट"},
+        "d": {"en": "Admiral", "hi": "एडमिरल"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It copies the Monarch to protect itself from predators.",
+        "hi": "यह खुद को शिकारियों से बचाने के लिए मोनार्क की नकल करती है।"
+      },
+      "explanation": {
+        "en": "Viceroy butterflies mimic Monarchs because birds find Viceroys tasty but avoid Monarchs. This is an example of evolutionary mimicry.",
+        "hi": "वायसराय तितलियाँ मोनार्क की नकल करती हैं क्योंकि पक्षी मोनार्क को नहीं खाते।"
+      },
+      "key_takeaway": {
+        "en": "Viceroy = The mimic of the Monarch butterfly.",
+        "hi": "वायसराय = मोनार्क तितली की नकल करने वाली।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "What device did Ebright use to prove the hormone theory of the gold spots?",
+        "hi": "सुनहरे धब्बों के हार्मोन सिद्धांत को साबित करने के लिए एब्राइट ने किस उपकरण का उपयोग किया?"
+      },
+      "options": {
+        "a": {"en": "A smartphone", "hi": "एक स्मार्टफोन"},
+        "b": {"en": "A device built by him and another student", "hi": "उनके और एक अन्य छात्र द्वारा बनाया गया एक उपकरण"},
+        "c": {"en": "A kitchen knife", "hi": "एक रसोई का चाकू"},
+        "d": {"en": "A magnifying glass", "hi": "एक आवर्धक लेंस"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This project won them first place at the County Fair and entry into the International Science and Engineering Fair.",
+        "hi": "इस प्रोजेक्ट ने उन्हें काउंटी मेले में पहला स्थान और अंतर्राष्ट्रीय विज्ञान मेले में प्रवेश दिलाया।"
+      },
+      "explanation": {
+        "en": "Ebright and another student built a device that showed the spots were producing a hormone necessary for the butterfly's full development.",
+        "hi": "एब्राइट और एक अन्य छात्र ने एक ऐसा उपकरण बनाया जिसने साबित किया कि वे धब्बे हार्मोन बनाते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Collaborative efforts and custom tools are often needed in science.",
+        "hi": "विज्ञान में अक्सर सहयोगात्मक प्रयासों और कस्टम उपकरणों की आवश्यकता होती है।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "What was the result of Ebright's project on the gold spots at the International Fair?",
+        "hi": "अंतर्राष्ट्रीय मेले में सुनहरे धब्बों पर एब्राइट के प्रोजेक्ट का क्या परिणाम रहा?"
+      },
+      "options": {
+        "a": {"en": "He won first place in Biology", "hi": "उन्होंने जीव विज्ञान (Biology) में प्रथम स्थान जीता"},
+        "b": {"en": "He came last", "hi": "वे आखिरी स्थान पर आए"},
+        "c": {"en": "He won the second prize in Physics", "hi": "उन्होंने भौतिकी में दूसरा पुरस्कार जीता"},
+        "d": {"en": "He was given a scholarship to Oxford", "hi": "उन्हें ऑक्सफोर्ड के लिए छात्रवृत्ति दी गई"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "Winning this led to his chance to work in a famous lab over the summer.",
+        "hi": "यह जीतने से उन्हें गर्मियों में एक प्रसिद्ध लैब में काम करने का मौका मिला।"
+      },
+      "explanation": {
+        "en": "Ebright’s project on the pupa hormone won first place in biology at the International Science and Engineering Fair and gave him an opportunity to work at a top lab.",
+        "hi": "एब्राइट के प्यूपा हार्मोन प्रोजेक्ट ने अंतर्राष्ट्रीय मेले में जीव विज्ञान में पहला स्थान प्राप्त किया।"
+      },
+      "key_takeaway": {
+        "en": "International recognition opens doors to advanced research opportunities.",
+        "hi": "अंतर्राष्ट्रीय मान्यता उन्नत अनुसंधान के अवसरों के द्वार खोलती है।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "Where did Ebright work during his summers as a high school junior and senior?",
+        "hi": "हाई स्कूल जूनियर और सीनियर के रूप में एब्राइट ने अपनी गर्मियों के दौरान कहाँ काम किया?"
+      },
+      "options": {
+        "a": {"en": "At a local farm", "hi": "एक स्थानीय खेत में"},
+        "b": {"en": "At the Walter Reed Army Institute of Research", "hi": "वाल्टर रीड आर्मी इंस्टीट्यूट ऑफ रिसर्च (Walter Reed Army Institute of Research) में"},
+        "c": {"en": "In a library", "hi": "एक पुस्तकालय में"},
+        "d": {"en": "In a bakery", "hi": "एक बेकरी में"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It was an advanced entomology laboratory.",
+        "hi": "यह एक उन्नत कीट विज्ञान (entomology) प्रयोगशाला थी।"
+      },
+      "explanation": {
+        "en": "Ebright worked at the entomology lab of the Walter Reed Army Institute of Research, where he could use sophisticated instruments to further his butterfly research.",
+        "hi": "एब्राइट ने वाल्टर रीड आर्मी इंस्टीट्यूट ऑफ रिसर्च की लैब में काम किया।"
+      },
+      "key_takeaway": {
+        "en": "Access to high-tech labs accelerates scientific discovery.",
+        "hi": "हाई-टेक प्रयोगशालाओं तक पहुँच वैज्ञानिक खोजों को तेज़ करती है।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "How did Ebright discover the chemical structure of the hormone?",
+        "hi": "एब्राइट ने हार्मोन की रासायनिक संरचना का पता कैसे लगाया?"
+      },
+      "options": {
+        "a": {"en": "By tasting it", "hi": "उसे चखकर"},
+        "b": {"en": "Using X-ray photos of the chemical", "hi": "रसायन की एक्स-रे तस्वीरों का उपयोग करके"},
+        "c": {"en": "In a dream", "hi": "सपने में"},
+        "d": {"en": "By using a telescope", "hi": "टेलीस्कोप का उपयोग करके"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Advanced technology allowed him to see the structure that invisible to the naked eye.",
+        "hi": "उन्नत तकनीक ने उन्हें उस संरचना को देखने की अनुमति दी जो नग्न आँखों के लिए अदृश्य थी।"
+      },
+      "explanation": {
+        "en": "As a junior at Harvard, Ebright used the university's lab equipment to take X-ray photos of the hormone's chemical structure. This led to his DNA theory.",
+        "hi": "हार्वर्ड में रहते हुए एब्राइट ने एक्स-रे तस्वीरों के ज़रिए हार्मोन की रासायनिक संरचना को समझा।"
+      },
+      "key_takeaway": {
+        "en": "X-ray crystallography is a key tool in understanding molecular biology.",
+        "hi": "आणविक जीव विज्ञान को समझने में एक्स-रे क्रिस्टलोग्राफी एक महत्वपूर्ण उपकरण है।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "Ebright's teacher, Mr. Weiherer, said Ebright was competitive, but not in a bad way. What did he mean?",
+        "hi": "एब्राइट के शिक्षक मिस्टर वेहरर ने कहा कि एब्राइट प्रतिस्पर्धी थे, लेकिन बुरे तरीके से नहीं। उनका क्या मतलब था?"
+      },
+      "options": {
+        "a": {"en": "Ebright wanted to win all the prizes", "hi": "एब्राइट सभी पुरस्कार जीतना चाहता था"},
+        "b": {"en": "Ebright wanted to win to do the best job he could", "hi": "एब्राइट सर्वश्रेष्ठ काम करने के लिए जीतना चाहता था"},
+        "c": {"en": "Ebright was mean to his classmates", "hi": "एब्राइट अपने सहपाठियों के प्रति नीच था"},
+        "d": {"en": "Ebright didn't care about the results", "hi": "एब्राइट को परिणामों की परवाह नहीं थी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He wasn't interested in winning just for the sake of winning or for prizes.",
+        "hi": "उनकी रुचि केवल जीतने या पुरस्कार पाने में नहीं थी।"
+      },
+      "explanation": {
+        "en": "Mr. Weiherer explained that Ebright was competitive for the right reasons. He wanted to be the best, not to show off, but to genuinely achieve excellence in his work.",
+        "hi": "मिस्टर वेहरर ने समझाया कि एब्राइट केवल सर्वश्रेष्ठ कार्य करने के लिए प्रतिस्पर्धी थे।"
+      },
+      "key_takeaway": {
+        "en": "Healthy competition leads to excellence.",
+        "hi": "स्वस्थ प्रतिस्पर्धा उत्कृष्टता की ओर ले जाती है।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "What does a cell's nucleus contain that Ebright studied?",
+        "hi": "कोशिका के केंद्रक (nucleus) में क्या होता है जिसका एब्राइट ने अध्ययन किया?"
+      },
+      "options": {
+        "a": {"en": "Water and air", "hi": "पानी और हवा"},
+        "b": {"en": "Chromosomes, which contain DNA", "hi": "गुणसूत्र (Chromosomes), जिनमें डीएनए होता है"},
+        "c": {"en": "Food particles", "hi": "भोजन के कण"},
+        "d": {"en": "Tiny butterflies", "hi": "छोटी तितलियाँ"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "These thread-like structures carry all the genetic information.",
+        "hi": "ये धागे जैसी संरचनाएं सभी आनुवंशिक जानकारी ले जाती हैं।"
+      },
+      "explanation": {
+        "en": "Ebright discovered that the nucleus of a cell contains chromosomes, which carry DNA. DNA is the substance that determines the hereditary characteristics of an organism.",
+        "hi": "एब्राइट ने पाया कि कोशिका के केंद्रक में गुणसूत्र होते हैं जिनमें डीएनए होता है।"
+      },
+      "key_takeaway": {
+        "en": "Chromosomes and DNA are the control centers of heredity.",
+        "hi": "गुणसूत्र और डीएनए आनुवंशिकता के नियंत्रण केंद्र हैं।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "Why did Ebright's mother buy him a telescope and microscope?",
+        "hi": "एब्राइट की माँ ने उनके लिए टेलिस्कोप और माइक्रोस्कोप क्यों खरीदे?"
+      },
+      "options": {
+        "a": {"en": "Because he was bored", "hi": "क्योंकि वह ऊब गया था"},
+        "b": {"en": "To support and encourage his interest in learning", "hi": "सीखने में उनकी रुचि को सहारा देने और प्रोत्साहित करने के लिए"},
+        "c": {"en": "They were on sale", "hi": "वे सेल (छूट) पर थे"},
+        "d": {"en": "He asked for them as birthday gifts", "hi": "उसने उन्हें जन्मदिन के उपहार के रूप में माँगा था"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "She realized that her son had a 'driving curiosity' and needed tools to explore it.",
+        "hi": "उन्होंने महसूस किया कि उनके बेटे में 'गहन जिज्ञासा' थी और उसे इसे खोजने के लिए उपकरणों की आवश्यकता थी।"
+      },
+      "explanation": {
+        "en": "His mother recognized his bright mind and provided him with all the necessary tools and equipment to explore his scientific curiosity.",
+        "hi": "उनकी माँ ने उनकी प्रतिभा को पहचाना और जिज्ञासा को बढ़ावा देने के लिए उपकरण प्रदान किए।"
+      },
+      "key_takeaway": {
+        "en": "Encouragement and resources are the foundations of scientific growth.",
+        "hi": "प्रोत्साहन और संसाधन वैज्ञानिक विकास की नींव हैं।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "Which university did Richard Ebright attend for his graduation?",
+        "hi": "रिचर्ड एब्राइट ने अपनी स्नातक की पढ़ाई किस विश्वविद्यालय से की?"
+      },
+      "options": {
+        "a": {"en": "Oxford University", "hi": "ऑक्सफोर्ड विश्वविद्यालय"},
+        "b": {"en": "Harvard University", "hi": "हार्वर्ड विश्वविद्यालय (Harvard University)"},
+        "c": {"en": "Toronto University", "hi": "टोरंटो विश्वविद्यालय"},
+        "d": {"en": "Delhi University", "hi": "दिल्ली विश्वविद्यालय"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He graduated with highest honors, second in his class of 1,510 students.",
+        "hi": "उन्होंने 1,510 छात्रों की अपनी कक्षा में दूसरा स्थान प्राप्त किया और सर्वोच्च सम्मान के साथ स्नातक किया।"
+      },
+      "explanation": {
+        "en": "Ebright went to Harvard University, where he continued his advanced scientific research and graduated with exceptional results.",
+        "hi": "एब्राइट ने हार्वर्ड विश्वविद्यालय से स्नातक की उपाधि प्राप्त की।"
+      },
+      "key_takeaway": {
+        "en": "Harvard = The prestigious institution where Ebright refined his skills.",
+        "hi": "Harvard = वह प्रतिष्ठित संस्थान जहाँ एब्राइट ने अपने कौशल को निखारा।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "What did Ebright think of the 'will to win'?",
+        "hi": "एब्राइट 'जीतने की इच्छा' (will to win) के बारे में क्या सोचते थे?"
+      },
+      "options": {
+        "a": {"en": "He didn't want to win at all", "hi": "वह बिल्कुल भी जीतना नहीं चाहता था"},
+        "b": {"en": "He wanted to win for the right reasons—to do the best job possible", "hi": "वह सही कारणों से जीतना चाहता था—ताकि वह सबसे अच्छा काम कर सके"},
+        "c": {"en": "He wanted to win to get more money", "hi": "वह ज़्यादा पैसे पाने के लिए जीतना चाहता था"},
+        "d": {"en": "He wanted to win to prove others wrong", "hi": "वह दूसरों को गलत साबित करने के लिए जीतना चाहता था"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It wasn't about the prize, but about the quality of the work itself.",
+        "hi": "यह पुरस्कार के बारे में नहीं था, बल्कि काम की गुणवत्ता के बारे में था।"
+      },
+      "explanation": {
+        "en": "For Ebright, winning was a result of his passion for excellence. He was competitive but driven by a desire to contribute meaningfully to science.",
+        "hi": "एब्राइट के लिए, जीतना उत्कृष्टता के प्रति उनके जुनून का परिणाम था।"
+      },
+      "key_takeaway": {
+        "en": "The pursuit of excellence is more important than the pursuit of prizes.",
+        "hi": "उत्कृष्टता की खोज पुरस्कारों की खोज से अधिक महत्वपूर्ण है।"
+      }
+    }
+  ]
+}

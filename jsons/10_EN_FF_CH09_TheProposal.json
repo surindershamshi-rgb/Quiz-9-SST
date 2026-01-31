@@ -1,0 +1,799 @@
+{
+  "metadata": {
+    "chapter_number": 9,
+    "chapter_title": "The Proposal",
+    "chapter_title_hindi": "प्रस्ताव (The Proposal)",
+    "subject": "English (First Flight) - Class 10",
+    "board": "HPBOSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.0",
+    "naming_convention": "10_EN_FF_CH09_TheProposal.json"
+  },
+  "validation_report": {
+    "is_valid": true,
+    "checked_by": "AI Tutor",
+    "notes": "Covers the farcical elements, character dynamics, and key arguments of the play."
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "Who is the author of the play 'The Proposal'?",
+        "hi": "'द प्रपोज़ल' (The Proposal) नाटक के लेखक कौन हैं?"
+      },
+      "options": {
+        "a": {"en": "Guy de Maupassant", "hi": "गाय डी मोपासंत"},
+        "b": {"en": "Anton Chekhov", "hi": "एंटोन चेखव (Anton Chekhov)"},
+        "c": {"en": "Robert Frost", "hi": "रॉबर्ट फ्रॉस्ट"},
+        "d": {"en": "Adrienne Rich", "hi": "एड्रिएन रिच"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He was a famous Russian playwright and short-story writer.",
+        "hi": "वे एक प्रसिद्ध रूसी नाटककार और लघु कथाकार थे।"
+      },
+      "explanation": {
+        "en": "Anton Chekhov wrote 'The Proposal'. He is known for his ability to use humor and satire to critique the social life of 19th-century Russia.",
+        "hi": "एंटोन चेखव ने यह नाटक लिखा है। वे 19वीं सदी के रूस के सामाजिक जीवन पर व्यंग्य करने के लिए जाने जाते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Anton Chekhov = Master of irony and farce.",
+        "hi": "एंटोन चेखव = विडंबना और प्रहसन के उस्ताद।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "What is the primary genre of the play 'The Proposal'?",
+        "hi": "'द प्रपोज़ल' नाटक की मुख्य शैली (Genre) क्या है?"
+      },
+      "options": {
+        "a": {"en": "Tragedy", "hi": "त्रासदी (दुखांत)"},
+        "b": {"en": "Farce (Comedy)", "hi": "प्रहसन / प्रहसनपूर्ण कॉमेडी (Farce)"},
+        "c": {"en": "Science Fiction", "hi": "विज्ञान कथा"},
+        "d": {"en": "Horror", "hi": "डरावनी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It involves exaggerated characters and ridiculous situations.",
+        "hi": "इसमें बढ़ा-चढ़ाकर दिखाए गए पात्र और हास्यास्पद स्थितियाँ शामिल हैं।"
+      },
+      "explanation": {
+        "en": "The play is a 'farce', which is a type of comedy characterized by highly improbable situations and stereotyped characters who often argue over nothing.",
+        "hi": "यह नाटक एक 'प्रहसन' (Farce) है, जहाँ पात्र छोटी-छोटी बातों पर बेतुकी बहस करते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Farce = Exaggerated humor for social critique.",
+        "hi": "Farce = सामाजिक आलोचना के लिए अतिरंजित हास्य।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "Who are the three main characters in the play?",
+        "hi": "नाटक में तीन मुख्य पात्र कौन हैं?"
+      },
+      "options": {
+        "a": {"en": "Lomov, Natalya, and Chubukov", "hi": "लोमोव, नताल्या और चुबुकोव (Lomov, Natalya, and Chubukov)"},
+        "b": {"en": "Ivan, Maria, and Stephan", "hi": "इवान, मारिया और स्टीफन"},
+        "c": {"en": "Griffin, Mrs. Hall, and Jaffers", "hi": "ग्रिफिन, मिसेज हॉल और जैफर्स"},
+        "d": {"en": "Custard, Belinda, and Mustard", "hi": "कस्टर्ड, बेलिंडा और मस्टर्ड"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "They are neighbors who live in the Russian countryside.",
+        "hi": "वे पड़ोसी हैं जो रूसी ग्रामीण इलाकों में रहते हैं।"
+      },
+      "explanation": {
+        "en": "The characters are Stepan Stepanovitch Chubukov (a landowner), his daughter Natalya Stepanovna, and their neighbor Ivan Vassilevitch Lomov.",
+        "hi": "मुख्य पात्र चुबुकोव, उसकी बेटी नताल्या और उनका पड़ोसी लोमोव हैं।"
+      },
+      "key_takeaway": {
+        "en": "Lomov, Natalya, Chubukov = The central trio of the play.",
+        "hi": "लोमोव, नताल्या, चुबुकोव = नाटक की केंद्रीय तिकड़ी।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "Why does Lomov come to Chubukov's house at the beginning?",
+        "hi": "शुरुआत में लोमोव चुबुकोव के घर क्यों आता है?"
+      },
+      "options": {
+        "a": {"en": "To borrow money", "hi": "पैसे उधार लेने के लिए"},
+        "b": {"en": "To propose marriage to Natalya", "hi": "नताल्या को शादी का प्रस्ताव देने के लिए (To propose marriage)"},
+        "c": {"en": "To fight over land", "hi": "ज़मीन के लिए लड़ने के लिए"},
+        "d": {"en": "To attend a party", "hi": "एक पार्टी में शामिल होने के लिए"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He is wearing a formal dress (evening coat and gloves).",
+        "hi": "उसने औपचारिक पोशाक (इवनिंग कोट और दस्ताने) पहनी हुई है।"
+      },
+      "explanation": {
+        "en": "Lomov visits Chubukov specifically to ask for his daughter Natalya's hand in marriage. He is nervous and formal about it.",
+        "hi": "लोमोव नताल्या से शादी का हाथ माँगने के लिए चुबुकोव के घर आता है।"
+      },
+      "key_takeaway": {
+        "en": "The 'Proposal' is the initial motive of the plot.",
+        "hi": "'प्रस्ताव' ही कहानी का शुरुआती मकसद है।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "What did Chubukov initially think Lomov had come for?",
+        "hi": "चुबुकोव ने शुरू में क्या सोचा था कि लोमोव किसलिए आया है?"
+      },
+      "options": {
+        "a": {"en": "To fight", "hi": "लड़ने के लिए"},
+        "b": {"en": "To borrow money", "hi": "पैसे उधार लेने के लिए (To borrow money)"},
+        "c": {"en": "To sell his dog", "hi": "अपना कुत्ता बेचने के लिए"},
+        "d": {"en": "To invite him to dinner", "hi": "उसे रात के खाने पर आमंत्रित करने के लिए"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Chubukov says to himself, 'He's come to borrow money. Shan't give him any!'",
+        "hi": "चुबुकोव मन ही मन कहता है, 'वह पैसे उधार लेने आया है। मैं उसे बिल्कुल नहीं दूँगा!'"
+      },
+      "explanation": {
+        "en": "Because Lomov was so formal and nervous, Chubukov assumed he needed a loan. He was pleasantly surprised when he found out it was a marriage proposal.",
+        "hi": "लोमोव को औपचारिक कपड़ों में देखकर चुबुकोव को लगा कि वह पैसे माँगने आया है, लेकिन सच जानकर वह खुश हो गया।"
+      },
+      "key_takeaway": {
+        "en": "Money and material wealth are constant thoughts for these characters.",
+        "hi": "इन पात्रों के मन में पैसा और भौतिक संपत्ति हमेशा बनी रहती है।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "How does Lomov describe his physical condition?",
+        "hi": "लोमोव अपनी शारीरिक स्थिति का वर्णन कैसे करता है?"
+      },
+      "options": {
+        "a": {"en": "Strong and healthy", "hi": "मज़बूत और स्वस्थ"},
+        "b": {"en": "A hypochondriac with palpitations and sleep issues", "hi": "एक रोगभ्रमी (hypochondriac) जिसे दिल की धड़कन और नींद की समस्या है"},
+        "c": {"en": "Athletic and fast", "hi": "एथलेटिक और तेज़"},
+        "d": {"en": "Blind and deaf", "hi": "अंधा और बहरा"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He frequently complains about his heart jumping and his leg going numb.",
+        "hi": "वह अक्सर अपने दिल के धड़कने और पैर के सुन्न होने की शिकायत करता है।"
+      },
+      "explanation": {
+        "en": "Lomov is a hypochondriac (someone constantly worried about their health). He suffers from palpitations, a nervous breakdown, and a strange pull in his side when he sleeps.",
+        "hi": "लोमोव अपनी सेहत को लेकर बहुत परेशान रहता है। उसे घबराहट और नींद में झटके लगने जैसी समस्याएँ हैं।"
+      },
+      "key_takeaway": {
+        "en": "Lomov's ailments add to the comic and nervous energy of the play.",
+        "hi": "लोमोव की बीमारियाँ नाटक में हास्य और घबराहट पैदा करती हैं।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "What is the first topic that Lomov and Natalya fight over?",
+        "hi": "लोमोव और नताल्या के बीच सबसे पहले किस विषय पर लड़ाई होती है?"
+      },
+      "options": {
+        "a": {"en": "Their wedding date", "hi": "उनकी शादी की तारीख पर"},
+        "b": {"en": "The ownership of 'Oxen Meadows'", "hi": "'ऑक्सन मीडोज' (Oxen Meadows) के मालिकाना हक पर"},
+        "c": {"en": "The weather", "hi": "मौसम पर"},
+        "d": {"en": "Chubukov's health", "hi": "चुबुकोव की सेहत पर"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It is a piece of land squeezed between Birchwoods and the Burnt Marsh.",
+        "hi": "यह ज़मीन का एक टुकड़ा है जो बर्चवुड्स और बर्न्ट मार्श के बीच स्थित है।"
+      },
+      "explanation": {
+        "en": "While trying to make conversation, Lomov mentions 'my Oxen Meadows'. Natalya immediately objects, claiming they belong to her family. This starts their first massive argument.",
+        "hi": "बातचीत के दौरान लोमोव 'मेरे ऑक्सन मीडोज' का ज़िक्र करता है, जिस पर नताल्या भड़क जाती है और कहती है कि वे उसके हैं।"
+      },
+      "key_takeaway": {
+        "en": "Oxen Meadows = The symbolic center of their greed and pride.",
+        "hi": "ऑक्सन मीडोज = उनके लालच और घमंड का प्रतीकात्मक केंद्र।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "According to Lomov, how did Oxen Meadows come to belong to him?",
+        "hi": "लोमोव के अनुसार, ऑक्सन मीडोज उसके पास कैसे आए?"
+      },
+      "options": {
+        "a": {"en": "He bought them", "hi": "उसने उन्हें खरीदा था"},
+        "b": {"en": "His aunt's grandmother gave their use to Natalya's father's grandfather's peasants", "hi": "उसकी चाची की दादी ने नताल्या के पिता के दादा के किसानों को उनका उपयोग करने के लिए दिया था"},
+        "c": {"en": "He won them in a bet", "hi": "उसने उन्हें एक शर्त में जीता था"},
+        "d": {"en": "They were a gift from the Czar", "hi": "वे ज़ार (राजा) की ओर से उपहार थे"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The ownership history is very old and confusing, involving peasants and bricks.",
+        "hi": "मालिकाना हक का इतिहास बहुत पुराना और उलझा हुआ है, जिसमें किसान और ईंटें शामिल हैं।"
+      },
+      "explanation": {
+        "en": "Lomov explains that his aunt's grandmother gave the Meadows to the peasants of Natalya's grandfather for making bricks, and they used it for 40 years until it felt like their own.",
+        "hi": "लोमोव का तर्क है कि उसके पूर्वजों ने नताल्या के पूर्वजों के किसानों को वह ज़मीन केवल ईंटें बनाने के लिए दी थी।"
+      },
+      "key_takeaway": {
+        "en": "Confusion over ancestral property is a common source of conflict in the play.",
+        "hi": "पैतृक संपत्ति को लेकर भ्रम नाटक में संघर्ष का एक सामान्य स्रोत है।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "What does Natalya call Lomov during the land argument?",
+        "hi": "ज़मीन की बहस के दौरान नताल्या लोमोव को क्या कहकर पुकारती है?"
+      },
+      "options": {
+        "a": {"en": "A thief", "hi": "एक चोर"},
+        "b": {"en": "A land-grabber", "hi": "एक ज़मीन हड़पने वाला (Land-grabber)"},
+        "c": {"en": "A sweet neighbor", "hi": "एक प्यारा पड़ोसी"},
+        "d": {"en": "A prince", "hi": "एक राजकुमार"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "She insults him by suggesting he is trying to steal her property.",
+        "hi": "वह यह कहकर उसका अपमान करती है कि वह उसकी संपत्ति चुराने की कोशिश कर रहा है।"
+      },
+      "explanation": {
+        "en": "Natalya becomes very aggressive and calls Lomov a 'land-grabber'. The argument escalates quickly from civil conversation to shouting and insults.",
+        "hi": "नताल्या गुस्से में लोमोव को 'ज़मीन हड़पने वाला' (land-grabber) कहती है।"
+      },
+      "key_takeaway": {
+        "en": "Land-grabber = An insulting term for someone who takes land illegally.",
+        "hi": "Land-grabber = किसी ऐसे व्यक्ति के लिए अपमानजनक शब्द जो अवैध रूप से ज़मीन लेता है।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "What happens to Lomov's health during the fight over Oxen Meadows?",
+        "hi": "ऑक्सन मीडोज की लड़ाई के दौरान लोमोव की सेहत का क्या होता है?"
+      },
+      "options": {
+        "a": {"en": "He feels great", "hi": "वह बहुत अच्छा महसूस करता है"},
+        "b": {"en": "He has palpitations and his foot goes to sleep", "hi": "उसे घबराहट (palpitations) होती है और उसका पैर सुन्न हो जाता है"},
+        "c": {"en": "He starts singing", "hi": "वह गाने लगता है"},
+        "d": {"en": "He falls asleep", "hi": "वह सो जाता है"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Stress triggers his hypochondria and physical symptoms.",
+        "hi": "तनाव उसके रोगभ्रम और शारीरिक लक्षणों को बढ़ा देता है।"
+      },
+      "explanation": {
+        "en": "As the argument heat ups, Lomov starts feeling sick. He complains that his heart is 'palpitating', his 'side' hurts, and his 'foot' has gone to sleep.",
+        "hi": "बहस बढ़ने पर लोमोव की घबराहट बढ़ जाती है और उसे शारीरिक तकलीफ होने लगती है।"
+      },
+      "key_takeaway": {
+        "en": "Lomov uses his health as a way to cope with or escape conflict.",
+        "hi": "लोमोव अपने स्वास्थ्य का उपयोग संघर्ष से निपटने या बचने के तरीके के रूप में करता है।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "Whose side does Chubukov take during the land argument?",
+        "hi": "ज़मीन की बहस के दौरान चुबुकोव किसका पक्ष लेता है?"
+      },
+      "options": {
+        "a": {"en": "Lomov's side", "hi": "लोमोव का पक्ष"},
+        "b": {"en": "His daughter Natalya's side", "hi": "अपनी बेटी नताल्या का पक्ष (Natalya's side)"},
+        "c": {"en": "He remains neutral", "hi": "वह तटस्थ रहता है"},
+        "d": {"en": "He calls the police", "hi": "वह पुलिस को बुलाता है"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He is also a greedy landowner and wants to keep the property.",
+        "hi": "वह भी एक लालची ज़मींदार है और संपत्ति अपने पास रखना चाहता है।"
+      },
+      "explanation": {
+        "en": "Chubukov enters the room and immediately supports Natalya. He also insults Lomov and insists that the Meadows belong to the Chubukovs.",
+        "hi": "चुबुकोव कमरे में आते ही नताल्या का साथ देता है और लोमोव का अपमान करता है।"
+      },
+      "key_takeaway": {
+        "en": "Property is more important to Chubukov than his daughter's suitor.",
+        "hi": "चुबुकोव के लिए अपनी बेटी के रिश्ते से ज़्यादा ज़रूरी संपत्ति है।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "Why does Natalya ask her father to bring Lomov back after he leaves?",
+        "hi": "लोमोव के जाने के बाद नताल्या अपने पिता से उसे वापस लाने के लिए क्यों कहती है?"
+      },
+      "options": {
+        "a": {"en": "She wants to apologize for the land", "hi": "वह ज़मीन के लिए माफ़ी माँगना चाहती है"},
+        "b": {"en": "She finds out that he had come to propose to her", "hi": "उसे पता चलता है कि वह उसे प्रपोज़ करने आया था (To propose to her)"},
+        "c": {"en": "She wants to fight more", "hi": "वह और लड़ना चाहती है"},
+        "d": {"en": "She wants his money", "hi": "वह उसके पैसे चाहती है"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Her attitude changes instantly from anger to desperation when she hears the word 'proposal'.",
+        "hi": "'प्रपोज़ल' शब्द सुनते ही उसका रवैया गुस्से से बदलकर बेताबी में बदल जाता है।"
+      },
+      "explanation": {
+        "en": "Once Lomov is gone, Chubukov tells Natalya that he had come to propose. Natalya, realizing she might miss her chance to get married, becomes frantic and demands her father bring him back.",
+        "hi": "जब नताल्या को पता चलता है कि लोमोव शादी का प्रस्ताव लाया था, तो वह उसे तुरंत वापस लाने की ज़िद करने लगती है।"
+      },
+      "key_takeaway": {
+        "en": "The desire for marriage outweighs the argument over land.",
+        "hi": "शादी की इच्छा ज़मीन के झगड़े से कहीं ऊपर है।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "What is the second topic that Lomov and Natalya argue about?",
+        "hi": "लोमोव और नताल्या के बीच बहस का दूसरा विषय क्या है?"
+      },
+      "options": {
+        "a": {"en": "Who is smarter", "hi": "कौन ज़्यादा होशियार है"},
+        "b": {"en": "Whose dog is better (Guess vs. Squeezer)", "hi": "किसका कुत्ता बेहतर है (गेस बनाम स्क्वीज़र)"},
+        "c": {"en": "The price of wheat", "hi": "गेहूँ की कीमत"},
+        "d": {"en": "Their house cleaning", "hi": "उनके घर की सफाई"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "They compare 'Guess' (Lomov's dog) and 'Squeezer' (Natalya's dog).",
+        "hi": "वे 'गेस' (लोमोव का कुत्ता) और 'स्क्वीज़र' (नताल्या का कुत्ता) की तुलना करते हैं।"
+      },
+      "explanation": {
+        "en": "After Lomov returns, they briefly agree on the land, but soon start a fresh argument over whose dog is superior—Lomov’s 'Guess' or Natalya’s 'Squeezer'.",
+        "hi": "लोमोव के वापस आने पर, वे कुत्तों—गेस और स्क्वीज़र—की श्रेष्ठता को लेकर फिर से लड़ने लगते हैं।"
+      },
+      "key_takeaway": {
+        "en": "The characters find it impossible to stay in peace for more than a minute.",
+        "hi": "पात्रों के लिए एक मिनट से ज़्यादा शांति से रहना असंभव है।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "How much did Lomov pay for his dog, Guess?",
+        "hi": "लोमोव ने अपने कुत्ते, गेस (Guess) के लिए कितने पैसे दिए थे?"
+      },
+      "options": {
+        "a": {"en": "Eighty-five roubles", "hi": "पचासी रूबल"},
+        "b": {"en": "One hundred and twenty-five roubles", "hi": "एक सौ पच्चीस रूबल (125 Roubles)"},
+        "c": {"en": "Fifty roubles", "hi": "पचास रूबल"},
+        "d": {"en": "It was free", "hi": "यह मुफ्त था"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Natalya thinks it was too much for an old, lame dog.",
+        "hi": "नताल्या को लगता है कि एक बूढ़े, लंगड़े कुत्ते के लिए यह बहुत ज़्यादा था।"
+      },
+      "explanation": {
+        "en": "Lomov paid 125 roubles for Guess. Natalya argues that her dog Squeezer, which cost only 85 roubles, is far better than Guess.",
+        "hi": "लोमोव ने गेस के लिए 125 रूबल दिए थे, जबकि नताल्या का कुत्ता स्क्वीज़र केवल 85 रूबल का था।"
+      },
+      "key_takeaway": {
+        "en": "125 Roubles = A significant amount, showing Lomov's attachment to the dog.",
+        "hi": "125 रूबल = एक बड़ी राशि, जो कुत्ते के प्रति लोमोव के लगाव को दर्शाती है।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "What defect does Lomov find in Natalya's dog, Squeezer?",
+        "hi": "लोमोव नताल्या के कुत्ते, स्क्वीज़र (Squeezer) में क्या दोष बताता है?"
+      },
+      "options": {
+        "a": {"en": "He is too fast", "hi": "वह बहुत तेज़ है"},
+        "b": {"en": "He is 'overshot' (his lower jaw is shorter than the upper)", "hi": "वह 'ओवरशॉट' (overshot) है—उसका निचला जबड़ा ऊपर वाले से छोटा है"},
+        "c": {"en": "He is too young", "hi": "वह बहुत छोटा है"},
+        "d": {"en": "He cannot bark", "hi": "वह भौंक नहीं सकता"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Lomov says this makes the dog a poor hunter.",
+        "hi": "लोमोव का कहना है कि इससे वह एक खराब शिकारी बन जाता है।"
+      },
+      "explanation": {
+        "en": "Lomov critiques Squeezer by saying he is 'overshot', meaning he cannot grip his prey well. Natalya denies this vehemently.",
+        "hi": "लोमोव का कहना है कि स्क्वीज़र 'ओवरशॉट' है, इसलिए वह शिकार को अच्छी तरह पकड़ नहीं सकता।"
+      },
+      "key_takeaway": {
+        "en": "Technical defects in pets become tools for personal insults.",
+        "hi": "पालतू जानवरों के तकनीकी दोष व्यक्तिगत अपमान के साधन बन जाते हैं।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "What does Chubukov say about Guess's age and health?",
+        "hi": "चुबुकोव गेस की उम्र और सेहत के बारे में क्या कहता है?"
+      },
+      "options": {
+        "a": {"en": "He is the best dog in the world", "hi": "वह दुनिया का सबसे अच्छा कुत्ता है"},
+        "b": {"en": "He is old and 'short in the muzzle'", "hi": "वह बूढ़ा है और उसका मुँह (muzzle) छोटा है"},
+        "c": {"en": "He is very strong", "hi": "वह बहुत मज़बूत है"},
+        "d": {"en": "He is very beautiful", "hi": "वह बहुत सुंदर है"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He joins Natalya in insulting Lomov's dog.",
+        "hi": "वह लोमोव के कुत्ते का अपमान करने में नताल्या का साथ देता है।"
+      },
+      "explanation": {
+        "en": "Chubukov admits Guess has good qualities but claims he is old and has a short muzzle, making him inferior to Squeezer.",
+        "hi": "चुबुकोव का कहना है कि गेस अब बूढ़ा हो चुका है और उसकी थूथन (muzzle) छोटी है।"
+      },
+      "key_takeaway": {
+        "en": "Muzzle = The projecting part of an animal's face (nose/mouth).",
+        "hi": "Muzzle = जानवर के चेहरे का उभरा हुआ हिस्सा (नाक/मुँह)।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "What happens to Lomov at the peak of the argument about dogs?",
+        "hi": "कुत्तों की बहस के चरम पर लोमोव का क्या होता है?"
+      },
+      "options": {
+        "a": {"en": "He wins the argument", "hi": "वह बहस जीत जाता है"},
+        "b": {"en": "He faints and falls into an armchair", "hi": "वह बेहोश होकर आर्मचेयर पर गिर जाता है (Faints)"},
+        "c": {"en": "He leaves the house again", "hi": "वह फिर से घर छोड़ देता है"},
+        "d": {"en": "He starts laughing", "hi": "वह हँसने लगता है"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Natalya and Chubukov think he is dead for a moment.",
+        "hi": "नताल्या और चुबुकोव को एक पल के लिए लगता है कि वह मर गया है।"
+      },
+      "explanation": {
+        "en": "Lomov gets so overwhelmed by his palpitations and the shouting that he collapses into a chair. Natalya and Chubukov panic, thinking he has died.",
+        "hi": "बहस और घबराहट के कारण लोमोव बेहोश हो जाता है, जिससे नताल्या और चुबुकोव डर जाते हैं।"
+      },
+      "key_takeaway": {
+        "en": "The physical collapse highlights the absurdity of their fighting.",
+        "hi": "शारीरिक पतन उनकी लड़ाई की बेरुखी को उजागर करता है।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "What does Chubukov do as soon as Lomov regains consciousness?",
+        "hi": "जैसे ही लोमोव को होश आता है, चुबुकोव क्या करता है?"
+      },
+      "options": {
+        "a": {"en": "He tells him to go home", "hi": "वह उसे घर जाने के लिए कहता है"},
+        "b": {"en": "He hurries them to get married and blesses them", "hi": "वह जल्दी से उनकी शादी करवाता है और उन्हें आशीर्वाद देता है"},
+        "c": {"en": "He starts another fight", "hi": "वह एक और लड़ाई शुरू कर देता है"},
+        "d": {"en": "He calls a doctor", "hi": "वह डॉक्टर को बुलाता है"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He wants to finish the business before they start fighting again.",
+        "hi": "वह चाहता है कि इससे पहले कि वे फिर से लड़ना शुरू करें, काम खत्म हो जाए।"
+      },
+      "explanation": {
+        "en": "Chubukov quickly forces Lomov and Natalya to kiss and agree to the marriage, saying 'Hurry up and get married... She’s willing!' to avoid any further delay.",
+        "hi": "चुबुकोव बिना देर किए लोमोव और नताल्या की शादी पक्की कर देता है ताकि वे फिर से न लड़ने लगें।"
+      },
+      "key_takeaway": {
+        "en": "The 'Proposal' happens in a chaotic and unromantic way.",
+        "hi": "'प्रस्ताव' बहुत ही अव्यवस्थित और अरुचिकर तरीके से होता है।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "How does the play end?",
+        "hi": "नाटक का अंत कैसे होता है?"
+      },
+      "options": {
+        "a": {"en": "They live happily ever after in silence", "hi": "वे चुपचाप सुख से रहने लगते हैं"},
+        "b": {"en": "They continue arguing about the dogs", "hi": "वे कुत्तों को लेकर बहस जारी रखते हैं (Continue arguing)"},
+        "c": {"en": "The wedding is cancelled", "hi": "शादी रद्द हो जाती है"},
+        "d": {"en": "Lomov dies", "hi": "लोमोव मर जाता है"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Natalya says, 'He's worse!' and the argument about Guess and Squeezer starts again.",
+        "hi": "नताल्या कहती है, 'वह बदतर है!' और गेस और स्क्वीज़र के बारे में बहस फिर से शुरू हो जाती है।"
+      },
+      "explanation": {
+        "en": "Even after being officially engaged, the couple immediately starts arguing about Squeezer and Guess again. Chubukov shouts for champagne to drown out their noise.",
+        "hi": "सगाई होने के तुरंत बाद भी दोनों फिर से कुत्तों के लिए लड़ने लगते हैं।"
+      },
+      "key_takeaway": {
+        "en": "The ending reinforces that the marriage is based on convenience, not harmony.",
+        "hi": "अंत यह स्पष्ट करता है कि यह शादी तालमेल के बजाय सुविधा पर आधारित है।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "What is the age of Natalya?",
+        "hi": "नताल्या की उम्र क्या है?"
+      },
+      "options": {
+        "a": {"en": "Twenty", "hi": "बीस"},
+        "b": {"en": "Twenty-five", "hi": "पच्चीस (Twenty-five)"},
+        "c": {"en": "Thirty", "hi": "तीस"},
+        "d": {"en": "Eighteen", "hi": "अठारह"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Lomov mentions her age while explaining why he must get married soon.",
+        "hi": "लोमोव उसकी उम्र का ज़िक्र यह बताते हुए करता है कि उसे जल्द ही शादी क्यों कर लेनी चाहिए।"
+      },
+      "explanation": {
+        "en": "Lomov says Natalya is twenty-five years old, an 'excellent housekeeper, not bad-looking, well-educated'. He thinks she is the right choice for his 'critical age'.",
+        "hi": "लोमोव के अनुसार नताल्या 25 साल की है और एक अच्छी हाउसकीपर है।"
+      },
+      "key_takeaway": {
+        "en": "25 Years = Considered an age where one must be married in that society.",
+        "hi": "25 साल = उस समाज में शादी के लिए अनिवार्य समझी जाने वाली उम्र।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "What is the age of Lomov?",
+        "hi": "लोमोव की उम्र क्या है?"
+      },
+      "options": {
+        "a": {"en": "Twenty-five", "hi": "पच्चीस"},
+        "b": {"en": "Thirty-five", "hi": "पैंतीस (Thirty-five)"},
+        "c": {"en": "Forty", "hi": "चालीस"},
+        "d": {"en": "Thirty", "hi": "तीस"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He calls it a 'critical age' for marriage.",
+        "hi": "वह इसे शादी के लिए एक 'नाजुक उम्र' कहता है।"
+      },
+      "explanation": {
+        "en": "Lomov is thirty-five years old. He feels he must lead a 'quiet and regular life' and needs to settle down quickly because of his health issues.",
+        "hi": "लोमोव पैंतीस साल का है और उसे लगता है कि अब उसे घर बसा लेना चाहिए।"
+      },
+      "key_takeaway": {
+        "en": "Lomov's proposal is driven by logic and age rather than romance.",
+        "hi": "लोमोव का प्रस्ताव रोमांस के बजाय तर्क और उम्र से प्रेरित है।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "What does Chubukov call Lomov affectionately at first?",
+        "hi": "शुरू में चुबुकोव प्यार से लोमोव को क्या बुलाता है?"
+      },
+      "options": {
+        "a": {"en": "My angel / My darling", "hi": "मेरे फरिश्ते (My angel) / मेरे प्रिय"},
+        "b": {"en": "My enemy", "hi": "मेरे दुश्मन"},
+        "c": {"en": "Mr. Lomov", "hi": "मिस्टर लोमोव"},
+        "d": {"en": "A fool", "hi": "एक मूर्ख"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "He uses very sweet words but they change to insults during arguments.",
+        "hi": "वह बहुत मीठे शब्दों का उपयोग करता है लेकिन बहस के दौरान वे अपमान में बदल जाते हैं।"
+      },
+      "explanation": {
+        "en": "Initially, Chubukov is very polite and calls Lomov 'my angel', 'my precious', and 'my beauty'. This is typical of the hypocritical social behavior portrayed in the play.",
+        "hi": "शुरू में चुबुकोव लोमोव को 'मेरा फरिश्ता' और 'मेरा कीमती' जैसे शब्दों से संबोधित करता है।"
+      },
+      "key_takeaway": {
+        "en": "Superficial politeness masks deep-seated greed.",
+        "hi": "सतही शिष्टाचार गहरे लालच को छिपाए रखता है।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "What is the meaning of 'palpitations'?",
+        "hi": "'पल्पिटेशन्स' (palpitations) का क्या अर्थ है?"
+      },
+      "options": {
+        "a": {"en": "A type of dance", "hi": "एक प्रकार का नृत्य"},
+        "b": {"en": "Rapid, strong, or irregular heartbeat due to agitation or illness", "hi": "घबराहट या बीमारी के कारण दिल की तेज़, मज़बूत या अनियमित धड़कन"},
+        "c": {"en": "Deep sleep", "hi": "गहरी नींद"},
+        "d": {"en": "A piece of land", "hi": "ज़मीन का एक टुकड़ा"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Lomov says, 'My heart is ______', whenever he is nervous.",
+        "hi": "लोमोव कहता है, 'मेरा दिल ______ रहा है', जब भी वह घबराता है।"
+      },
+      "explanation": {
+        "en": "Palpitations refer to the sensation that the heart is racing or thumping. Lomov uses this term constantly to describe his nervous state.",
+        "hi": "Palpitations का अर्थ है दिल की धड़कन का बहुत तेज़ हो जाना।"
+      },
+      "key_takeaway": {
+        "en": "Palpitations = The key symptom of Lomov's nervous personality.",
+        "hi": "Palpitations = लोमोव के घबराए हुए व्यक्तित्व का मुख्य लक्षण।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "What is the 'Birchwoods'?",
+        "hi": "'बर्चवुड्स' (Birchwoods) क्या है?"
+      },
+      "options": {
+        "a": {"en": "A river", "hi": "एक नदी"},
+        "b": {"en": "A forest or group of birch trees", "hi": "एक जंगल या बर्च के पेड़ों का समूह (Birchwoods)"},
+        "c": {"en": "A city in Russia", "hi": "रूस का एक शहर"},
+        "d": {"en": "Chubukov's dog", "hi": "चुबुकोव का कुत्ता"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It is mentioned as one of the boundaries of the Oxen Meadows.",
+        "hi": "इसका उल्लेख ऑक्सन मीडोज की सीमाओं में से एक के रूप में किया गया है।"
+      },
+      "explanation": {
+        "en": "Oxen Meadows are described as being 'wedged in between your Birchwoods and the Burnt Marsh'. It helps locate the disputed land.",
+        "hi": "बर्चवुड्स उन जंगलों को कहा गया है जो विवादित ज़मीन के पास थे।"
+      },
+      "key_takeaway": {
+        "en": "Geography is used to define property boundaries precisely.",
+        "hi": "संपत्ति की सीमाओं को सटीक रूप से परिभाषित करने के लिए भूगोल का उपयोग किया गया है।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "How does Natalya react when she thinks Lomov is dead?",
+        "hi": "जब नताल्या को लगता है कि लोमोव मर गया है तो वह कैसी प्रतिक्रिया देती है?"
+      },
+      "options": {
+        "a": {"en": "She laughs", "hi": "वह हँसती है"},
+        "b": {"en": "She screams and cries, calling for a doctor", "hi": "वह चिल्लाती और रोती है, और डॉक्टर को बुलाती है (Screams and cries)"},
+        "c": {"en": "She ignores him", "hi": "वह उसे नज़रअंदाज़ करती है"},
+        "d": {"en": "She takes his money", "hi": "वह उसके पैसे ले लेती है"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "She is devastated because she thinks her chance of marriage is gone.",
+        "hi": "वह टूट जाती है क्योंकि उसे लगता है कि उसकी शादी का मौका हाथ से निकल गया।"
+      },
+      "explanation": {
+        "en": "Natalya falls into a state of hysteria, crying 'A doctor! A doctor!' and 'What have I done?'. Her grief is as exaggerated as her anger was.",
+        "hi": "नताल्या बदहवास होकर रोने लगती है और डॉक्टर को बुलाने के लिए चिल्लाती है।"
+      },
+      "key_takeaway": {
+        "en": "Hysteria = Exaggerated or uncontrollable emotion.",
+        "hi": "Hysteria = अतिरंजित या अनियंत्रित भावना (मिर्गी जैसा व्यवहार)।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "What does Chubukov mean when he says 'What a weight off my shoulders!'?",
+        "hi": "जब चुबुकोव कहता है 'मेरे कंधों से कितना बड़ा बोझ उतर गया!', तो उसका क्या मतलब है?"
+      },
+      "options": {
+        "a": {"en": "He had a physical pain", "hi": "उसे शारीरिक दर्द था"},
+        "b": {"en": "He is relieved that his daughter is finally getting married", "hi": "उसे राहत मिली है कि उसकी बेटी की आखिरकार शादी हो रही है"},
+        "c": {"en": "He lost some weight", "hi": "उसने अपना वजन कम कर लिया"},
+        "d": {"en": "He sold the land", "hi": "उसने ज़मीन बेच दी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "In that society, marrying off a daughter was seen as a major parental responsibility.",
+        "hi": "उस समाज में, बेटी की शादी करना माता-पिता की एक बड़ी ज़िम्मेदारी माना जाता था।"
+      },
+      "explanation": {
+        "en": "Chubukov feels immense relief. As a father, he viewed having a grown-up daughter as a burden until she was married. Getting her engaged to Lomov was the 'weight' being lifted.",
+        "hi": "चुबुकोव को राहत मिली क्योंकि एक जवान बेटी का पिता होना उसके लिए एक बोझ जैसा था, जो अब खत्म हो गया।"
+      },
+      "key_takeaway": {
+        "en": "Relief = The feeling of happiness after a worry is gone.",
+        "hi": "Relief = चिंता दूर होने के बाद मिलने वाली खुशी (राहत)।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "What is 'champagne' used for at the end of the play?",
+        "hi": "नाटक के अंत में 'शैंपेन' (champagne) का उपयोग किसलिए किया जाता है?"
+      },
+      "options": {
+        "a": {"en": "To celebrate the engagement and stop the noise", "hi": "सगाई का जश्न मनाने और शोर को रोकने के लिए"},
+        "b": {"en": "To clean the house", "hi": "घर साफ करने के लिए"},
+        "c": {"en": "As a medicine for Lomov", "hi": "लोमोव की दवा के रूप में"},
+        "d": {"en": "To give to the dogs", "hi": "कुत्तों को देने के लिए"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "Chubukov shouts for it as the couple starts fighting again.",
+        "hi": "जब जोड़ा फिर से लड़ने लगता है तो चुबुकोव इसके लिए चिल्लाता है।"
+      },
+      "explanation": {
+        "en": "The play ends on a chaotic note. To celebrate and perhaps to drown out the noise of the fighting couple, Chubukov calls for champagne.",
+        "hi": "चुबुकोव शैंपेन मँगवाता है ताकि सगाई का जश्न मनाया जा सके और उनका झगड़ा बंद हो।"
+      },
+      "key_takeaway": {
+        "en": "Champagne = A symbol of hollow social celebration.",
+        "hi": "शैंपेन = खोखले सामाजिक उत्सव का प्रतीक।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "Which of these words best describes the behavior of all three characters?",
+        "hi": "इनमें से कौन सा शब्द तीनों पात्रों के व्यवहार का सबसे अच्छा वर्णन करता है?"
+      },
+      "options": {
+        "a": {"en": "Calm", "hi": "शांत"},
+        "b": {"en": "Quarrelsome and Argumentative", "hi": "झगड़ालू और बहस करने वाले (Quarrelsome)"},
+        "c": {"en": "Generous", "hi": "उदार"},
+        "d": {"en": "Logical", "hi": "तार्किक"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "They cannot have a simple conversation without ending up in a fight.",
+        "hi": "वे बिना लड़ाई के एक साधारण बातचीत भी नहीं कर सकते।"
+      },
+      "explanation": {
+        "en": "All three characters are highly argumentative. They prioritize their pride and property over their relationships and feelings, leading to constant quarrels.",
+        "hi": "तीनों ही पात्र बहुत झगड़ालू हैं और छोटी-छोटी बातों पर लड़ने लगते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Quarrelsome = Always ready to argue or fight.",
+        "hi": "Quarrelsome = हमेशा बहस या लड़ाई के लिए तैयार।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "The play satirizes the ______ of the Russian land-owning class.",
+        "hi": "यह नाटक रूसी ज़मींदार वर्ग के ______ पर व्यंग्य (satire) करता है।"
+      },
+      "options": {
+        "a": {"en": "Hard work", "hi": "कड़ी मेहनत"},
+        "b": {"en": "Greed and superficiality", "hi": "लालच और सतहीपन (Greed and superficiality)"},
+        "c": {"en": "Kindness", "hi": "दयालुता"},
+        "d": {"en": "Poverty", "hi": "गरीबी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The characters care more about land and status than real emotions.",
+        "hi": "पात्रों को वास्तविक भावनाओं से ज़्यादा ज़मीन और रुतबे की परवाह है।"
+      },
+      "explanation": {
+        "en": "The play is a satire on the marriage practices and greed of the wealthy class. They treat marriage as a business deal to combine lands, not as a union of hearts.",
+        "hi": "यह नाटक अमीर वर्ग के लालच और उनके द्वारा शादी को एक बिज़नेस डील समझने पर व्यंग्य है।"
+      },
+      "key_takeaway": {
+        "en": "Satire = The use of humor or irony to criticize people's stupidity or vices.",
+        "hi": "Satire = लोगों की मूर्खता या बुराइयों की आलोचना करने के लिए हास्य का उपयोग (व्यंग्य)।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "What is a 'Landowner' in the context of this play?",
+        "hi": "इस नाटक के संदर्भ में 'ज़मींदार' (Landowner) क्या है?"
+      },
+      "options": {
+        "a": {"en": "A person who builds houses", "hi": "मकान बनाने वाला व्यक्ति"},
+        "b": {"en": "A person who owns large areas of land", "hi": "वह व्यक्ति जिसके पास ज़मीन का बड़ा हिस्सा हो (Landowner)"},
+        "c": {"en": "A farmer who has no land", "hi": "एक किसान जिसके पास ज़मीन न हो"},
+        "d": {"en": "A government clerk", "hi": "एक सरकारी क्लर्क"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Lomov and Chubukov are both defined by this status.",
+        "hi": "लोमोव और चुबुकोव दोनों इसी स्थिति से पहचाने जाते हैं।"
+      },
+      "explanation": {
+        "en": "Lomov and Chubukov belong to the Russian landed gentry. Their status and wealth come from the land they own, which is why they are so protective and argumentative about it.",
+        "hi": "लोमोव और चुबुकोव के पास अपनी ज़मीनें हैं, जिससे उन्हें समाज में रुतबा मिलता है।"
+      },
+      "key_takeaway": {
+        "en": "Land ownership = The basis of power and conflict in the play.",
+        "hi": "ज़मीन का मालिकाना हक = नाटक में शक्ति और संघर्ष का आधार।"
+      }
+    }
+  ]
+}

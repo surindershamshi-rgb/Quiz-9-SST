@@ -1,0 +1,540 @@
+{
+  "metadata": {
+    "unit_number": 4,
+    "poem_title": "The Ball Poem",
+    "poem_title_hindi": "द बॉल पोयम (गेंद की कविता)",
+    "author": "John Berryman",
+    "subject": "English (First Flight) - Class 10",
+    "board": "HPBOSE (NCERT)",
+    "total_questions": 20,
+    "version": "1.0",
+    "naming_convention": "10_EN_FF_P_05_TheBallPoem.json"
+  },
+  "validation_report": {
+    "is_valid": true,
+    "checked_by": "AI Tutor",
+    "notes": "Covers symbolism of the ball, the concept of responsibility, and literary devices like anaphora and metaphor."
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "Who is the poet of 'The Ball Poem'?",
+        "hi": "'द बॉल पोयम' के कवि कौन हैं?"
+      },
+      "options": {
+        "a": {"en": "Leslie Norris", "hi": "लेस्ली नॉरिस"},
+        "b": {"en": "John Berryman", "hi": "जॉन बेरीमैन (John Berryman)"},
+        "c": {"en": "Robert Frost", "hi": "रॉबर्ट फ्रॉस्ट"},
+        "d": {"en": "Carolyn Wells", "hi": "कैरोलिन वेल्स"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He was a famous American poet known for his unique style and emotional depth.",
+        "hi": "वे अपनी अनूठी शैली और भावनात्मक गहराई के लिए जाने जाने वाले एक प्रसिद्ध अमेरिकी कवि थे।"
+      },
+      "explanation": {
+        "en": "John Berryman wrote 'The Ball Poem'. Through this poem, he explores the psychological state of a child experiencing their first loss.",
+        "hi": "जॉन बेरीमैन ने 'द बॉल पोयम' लिखी है। इस कविता के माध्यम से, वे एक बच्चे की पहली हानि (loss) के मनोवैज्ञानिक प्रभाव का वर्णन करते हैं।"
+      },
+      "key_takeaway": {
+        "en": "John Berryman = Poet of human experience and loss.",
+        "hi": "जॉन बेरीमैन = मानवीय अनुभव और हानि के कवि।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "What happened to the boy's ball?",
+        "hi": "लड़के की गेंद के साथ क्या हुआ?"
+      },
+      "options": {
+        "a": {"en": "It was stolen", "hi": "वह चोरी हो गई थी"},
+        "b": {"en": "It went into the water", "hi": "वह पानी में चली गई थी"},
+        "c": {"en": "It was burst", "hi": "वह फट गई थी"},
+        "d": {"en": "He gave it to a friend", "hi": "उसने इसे एक दोस्त को दे दिया था"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The poet says it went 'merrily bouncing, down the street, and then merrily over—there it is in the water!'",
+        "hi": "कवि कहता है कि वह 'खुशी से उछलती हुई सड़क पर गई, और फिर—वह पानी में चली गई!'"
+      },
+      "explanation": {
+        "en": "While the boy was playing, his ball skipped away from him, bounced down the street, and finally fell into the harbor water, where it was lost forever.",
+        "hi": "खेलते समय लड़के की गेंद उसके हाथ से निकलकर सड़क पर उछलती हुई अंततः बंदरगाह के पानी में जा गिरी।"
+      },
+      "key_takeaway": {
+        "en": "The loss of the ball is the central event of the poem.",
+        "hi": "गेंद का खोना कविता की मुख्य घटना है।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "Where did the ball land eventually?",
+        "hi": "गेंद अंततः कहाँ गिरी?"
+      },
+      "options": {
+        "a": {"en": "In a garden", "hi": "एक बगीचे में"},
+        "b": {"en": "In the harbor water", "hi": "बंदरगाह के पानी में (In the harbor water)"},
+        "c": {"en": "In a deep hole", "hi": "एक गहरे गड्ढे में"},
+        "d": {"en": "Under a car", "hi": "एक कार के नीचे"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The setting is near a place where ships are docked.",
+        "hi": "यह स्थान उस जगह के पास है जहाँ जहाज़ रुकते हैं।"
+      },
+      "explanation": {
+        "en": "The ball fell into the water of the harbor. For the boy, seeing the ball go into the deep water made him realize it was gone for good.",
+        "hi": "गेंद बंदरगाह (harbor) के पानी में गिर गई। उसे गहरे पानी में जाते देख लड़के को अहसास हुआ कि वह हमेशा के लिए खो गई है।"
+      },
+      "key_takeaway": {
+        "en": "Harbor = A place representing the vast, deep world where things get lost.",
+        "hi": "बंदरगाह = उस विशाल दुनिया का प्रतीक जहाँ चीज़ें खो जाती हैं।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "What was the boy's reaction to the loss of his ball?",
+        "hi": "अपनी गेंद खोने पर लड़के की क्या प्रतिक्रिया थी?"
+      },
+      "options": {
+        "a": {"en": "He started playing with another toy", "hi": "वह दूसरे खिलौने से खेलने लगा"},
+        "b": {"en": "He stood rigid, trembling, and staring down", "hi": "वह स्थिर खड़ा रहा, कांपता रहा और नीचे घूरता रहा"},
+        "c": {"en": "He laughed at his mistake", "hi": "वह अपनी गलती पर हँसा"},
+        "d": {"en": "He ran away immediately", "hi": "वह तुरंत भाग गया"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He was deeply affected by the loss and couldn't move from his place.",
+        "hi": "वह इस नुकसान से बहुत प्रभावित हुआ और अपनी जगह से हिल नहीं सका।"
+      },
+      "explanation": {
+        "en": "The boy was grief-stricken. He stood frozen (rigid) and trembling, staring at the spot where his ball had disappeared, showing how much the ball meant to him.",
+        "hi": "लड़का दुख से भर गया। वह जड़ (स्थिर) खड़ा होकर कांपने लगा और उस जगह को घूरने लगा जहाँ गेंद गायब हुई थी।"
+      },
+      "key_takeaway": {
+        "en": "Rigid and trembling = Physical signs of emotional shock.",
+        "hi": "Rigid and trembling = भावनात्मक सदमे के शारीरिक संकेत।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "What does the 'ball' symbolize in the poem?",
+        "hi": "कविता में 'गेंद' किसका प्रतीक है?"
+      },
+      "options": {
+        "a": {"en": "A cheap toy", "hi": "एक सस्ता खिलौना"},
+        "b": {"en": "The boy's innocent childhood days", "hi": "लड़के के मासूम बचपन के दिन"},
+        "c": {"en": "Sports equipment", "hi": "खेल का सामान"},
+        "d": {"en": "The harbor", "hi": "बंदरगाह"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The poet says 'All his young days into the harbor went with the ball'.",
+        "hi": "कवि कहता है कि 'उसके बचपन के सभी दिन गेंद के साथ बंदरगाह में चले गए'।"
+      },
+      "explanation": {
+        "en": "The ball represents the boy's childhood and his memories. Losing the ball is a metaphor for losing the innocence of childhood and entering the world of adult responsibilities.",
+        "hi": "गेंद लड़के के बचपन और उसकी यादों का प्रतीक है। इसे खोना बचपन की मासूमियत खोने का रूपक (metaphor) है।"
+      },
+      "key_takeaway": {
+        "en": "Ball = Symbol of childhood/memories.",
+        "hi": "गेंद = बचपन और यादों का प्रतीक।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "Why does the poet decide not to console the boy with another ball?",
+        "hi": "कवि लड़के को दूसरी गेंद देकर सांत्वना न देने का निर्णय क्यों लेता है?"
+      },
+      "options": {
+        "a": {"en": "Because another ball is too expensive", "hi": "क्योंकि दूसरी गेंद बहुत महंगी है"},
+        "b": {"en": "Because it would be worthless and won't replace his memories", "hi": "क्योंकि वह बेकार होगी और उसकी यादों की जगह नहीं ले पाएगी"},
+        "c": {"en": "Because the poet has no money", "hi": "क्योंकि कवि के पास पैसे नहीं हैं"},
+        "d": {"en": "Because the boy doesn't want another ball", "hi": "क्योंकि लड़के को दूसरी गेंद नहीं चाहिए"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The poet says 'An ultimate shaking grief fixes the boy... a dime, another ball, is worthless'.",
+        "hi": "कवि कहता है कि 'एक गहरा दुख लड़के को जकड़ लेता है... एक सिक्का, दूसरी गेंद, सब बेकार है'।"
+      },
+      "explanation": {
+        "en": "The poet believes that giving another ball won't help because the boy is mourning the specific memories attached to the lost ball. He needs to learn the lesson of loss.",
+        "hi": "कवि का मानना है कि दूसरी गेंद देना बेकार है क्योंकि लड़का उस विशेष गेंद से जुड़ी यादों के लिए दुखी है।"
+      },
+      "key_takeaway": {
+        "en": "Material objects cannot replace sentimental value.",
+        "hi": "भौतिक वस्तुएं भावनात्मक लगाव की जगह नहीं ले सकतीं।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "What is the first lesson the boy is learning?",
+        "hi": "लड़का कौन सा पहला सबक सीख रहा है?"
+      },
+      "options": {
+        "a": {"en": "How to play football", "hi": "फुटबॉल कैसे खेलें"},
+        "b": {"en": "His first responsibility in a world of possessions", "hi": "चीजों की इस दुनिया में अपनी पहली ज़िम्मेदारी (Responsibility)"},
+        "c": {"en": "How to swim in the harbor", "hi": "बंदरगाह में कैसे तैरें"},
+        "d": {"en": "How to buy new things", "hi": "नई चीज़ें कैसे खरीदें"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The poet says, 'He senses first responsibility'.",
+        "hi": "कवि कहता है, 'वह पहली ज़िम्मेदारी महसूस करता है'।"
+      },
+      "explanation": {
+        "en": "The boy is learning that in this world, we own things and sometimes we lose them. This is his first encounter with the responsibility of looking after things and accepting their loss.",
+        "hi": "लड़का सीख रहा है कि इस दुनिया में चीज़ें हमारी होती हैं और कभी-कभी हम उन्हें खो देते हैं। यह उसकी पहली ज़िम्मेदारी का अहसास है।"
+      },
+      "key_takeaway": {
+        "en": "Responsibility includes accepting loss.",
+        "hi": "ज़िम्मेदारी में नुकसान को स्वीकार करना भी शामिल है।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "What does the phrase 'Money is external' mean?",
+        "hi": "'Money is external' (पैसा बाहरी है) वाक्यांश का क्या अर्थ है?"
+      },
+      "options": {
+        "a": {"en": "Money is everything", "hi": "पैसा ही सब कुछ है"},
+        "b": {"en": "Money can only buy material things, not memories or lost time", "hi": "पैसा केवल भौतिक चीज़ें खरीद सकता है, यादें या खोया हुआ समय नहीं"},
+        "c": {"en": "Money should be kept outside the house", "hi": "पैसा घर के बाहर रखना चाहिए"},
+        "d": {"en": "The boy has no money", "hi": "लड़के के पास पैसे नहीं हैं"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Money cannot buy back the emotional connection the boy had with his old ball.",
+        "hi": "पैसा उस भावनात्मक लगाव को वापस नहीं खरीद सकता जो लड़के का अपनी पुरानी गेंद के साथ था।"
+      },
+      "explanation": {
+        "en": "The poet states 'Money is external' to highlight that it can only replace the physical object, not the feelings or the time associated with the lost item.",
+        "hi": "कवि का कहना है कि पैसा केवल वस्तु को बदल सकता है, लेकिन उस वस्तु से जुड़ी भावनाओं को वापस नहीं ला सकता।"
+      },
+      "key_takeaway": {
+        "en": "The most valuable things in life are priceless.",
+        "hi": "जीवन की सबसे मूल्यवान चीज़ें अनमोल होती हैं।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "What is the 'epistemology of loss'?",
+        "hi": "'Epistemology of loss' (हानि का ज्ञान-मीमांसा) क्या है?"
+      },
+      "options": {
+        "a": {"en": "A medical term for memory loss", "hi": "याददाश्त खोने के लिए एक चिकित्सा शब्द"},
+        "b": {"en": "Understanding the nature of loss and how to stand up after it", "hi": "नुकसान की प्रकृति को समझना और उसके बाद फिर से खड़े होना सीखना"},
+        "c": {"en": "The study of balls", "hi": "गेंदों का अध्ययन"},
+        "d": {"en": "The history of the harbor", "hi": "बंदरगाह का इतिहास"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The boy is learning 'how to stand up' by understanding what it means to lose something.",
+        "hi": "लड़का यह समझकर 'खड़े होना' सीख रहा है कि किसी चीज़ को खोने का क्या मतलब होता है।"
+      },
+      "explanation": {
+        "en": "Epistemology means the study of knowledge. The 'epistemology of loss' refers to gaining the knowledge of how to deal with loss and move forward in life despite it.",
+        "hi": "नुकसान के बाद जीवन में आगे बढ़ने के ज्ञान को 'epistemology of loss' कहा गया है।"
+      },
+      "key_takeaway": {
+        "en": "Learning to handle loss is an essential part of growing up.",
+        "hi": "नुकसान को संभालना सीखना बड़े होने का एक अनिवार्य हिस्सा है।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "Which poetic device is used in the line: 'What is the boy now, who has lost his ball, / What, what is he to do?'",
+        "hi": "इन पंक्तियों में किस काव्य अलंकार का प्रयोग किया गया है?"
+      },
+      "options": {
+        "a": {"en": "Simile", "hi": "उपमा"},
+        "b": {"en": "Anaphora", "hi": "एनाफोरा (Anaphora)"},
+        "c": {"en": "Personification", "hi": "मानवीकरण"},
+        "d": {"en": "Oxymoron", "hi": "विरोधाभास"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It is the repetition of a word or phrase at the beginning of consecutive lines.",
+        "hi": "यह लगातार पंक्तियों की शुरुआत में किसी शब्द या वाक्यांश की पुनरावृत्ति है।"
+      },
+      "explanation": {
+        "en": "Anaphora is the repetition of words at the start of lines (e.g., 'What...' and 'What...'). It is also seen in 'Merrily bouncing...' and 'Merrily over...'.",
+        "hi": "जब लगातार पंक्तियाँ एक ही शब्द (जैसे 'What') से शुरू होती हैं, तो उसे एनाफोरा कहते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Anaphora emphasizes the poet's curiosity and the boy's situation.",
+        "hi": "एनाफोरा कवि की जिज्ञासा और लड़के की स्थिति पर ज़ोर देता है।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "What is the tone of the poem?",
+        "hi": "कविता का लहज़ा (Tone) कैसा है?"
+      },
+      "options": {
+        "a": {"en": "Very funny and light", "hi": "बहुत मज़ाकिया और हल्का"},
+        "b": {"en": "Somber, serious, and philosophical", "hi": "गंभीर, विचारशील और दार्शनिक (Somber and philosophical)"},
+        "c": {"en": "Angry and loud", "hi": "क्रोधित और तेज़"},
+        "d": {"en": "Sarcastic", "hi": "व्यंग्यात्मक"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The poet deals with the difficult reality of losing something dear.",
+        "hi": "कवि किसी प्रिय चीज़ को खोने की कठिन वास्तविकता के बारे में बात करता है।"
+      },
+      "explanation": {
+        "en": "The tone of the poem is reflective and somber. It doesn't treat the loss of the ball as a small thing but as a significant life lesson for the child.",
+        "hi": "कविता का लहज़ा गंभीर और दार्शनिक है। यह गेंद के खोने को एक बड़े जीवन के सबक के रूप में पेश करती है।"
+      },
+      "key_takeaway": {
+        "en": "The poem mirrors the gravity of a child's internal struggle.",
+        "hi": "यह कविता एक बच्चे के आंतरिक संघर्ष की गंभीरता को दर्शाती है।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "According to the poet, why can 'no one buy a ball back'?",
+        "hi": "कवि के अनुसार, क्यों 'कोई भी गेंद वापस नहीं खरीद सकता'?"
+      },
+      "options": {
+        "a": {"en": "Because they are no longer sold", "hi": "क्योंकि वे अब बेची नहीं जातीं"},
+        "b": {"en": "Because a new ball cannot bring back the old memories and time", "hi": "क्योंकि नई गेंद पुरानी यादों और समय को वापस नहीं ला सकती"},
+        "c": {"en": "Because balls are too expensive", "hi": "क्योंकि गेंदें बहुत महंगी हैं"},
+        "d": {"en": "Because the boy doesn't like new balls", "hi": "क्योंकि लड़के को नई गेंदें पसंद नहीं हैं"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The specific ball that was lost is gone forever along with the childhood days associated with it.",
+        "hi": "खोई हुई वह विशेष गेंद उससे जुड़े बचपन के दिनों के साथ हमेशा के लिए चली गई है।"
+      },
+      "explanation": {
+        "en": "The poet says 'No one buys a ball back' metaphorically. You can buy a new object, but you can't buy back the emotional value and history of the lost one.",
+        "hi": "कवि कहता है कि कोई भी खोई हुई गेंद (और उससे जुड़ी यादें) वापस नहीं खरीद सकता।"
+      },
+      "key_takeaway": {
+        "en": "Sentiment cannot be commercialized.",
+        "hi": "भावनाओं का व्यापार नहीं किया जा सकता।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "What poetic device is used in 'balls, balls will be lost always'?",
+        "hi": "'balls, balls will be lost always' में किस काव्य अलंकार का प्रयोग है?",
+      },
+      "options": {
+        "a": {"en": "Simile", "hi": "उपमा"},
+        "b": {"en": "Repetition", "hi": "पुनरावृत्ति (Repetition)"},
+        "c": {"en": "Alliteration", "hi": "अनुप्रास"},
+        "d": {"en": "Hyperbole", "hi": "अतिशयोक्ति"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The word 'balls' is used twice to emphasize that loss is a constant part of life.",
+        "hi": "यह ज़ोर देने के लिए 'गेंद' शब्द का दो बार उपयोग किया गया है कि नुकसान जीवन का एक हिस्सा है।"
+      },
+      "explanation": {
+        "en": "Repetition is used here to underscore the inevitability of loss. It's not just one ball, but many things ('balls') will be lost throughout life.",
+        "hi": "यहाँ 'पुनरावृत्ति' का उपयोग यह बताने के लिए किया गया है कि जीवन में नुकसान होना निश्चित है।"
+      },
+      "key_takeaway": {
+        "en": "Repetition emphasizes the universality of the theme.",
+        "hi": "पुनरावृत्ति विषय की सार्वभौमिकता पर ज़ोर देती है।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "How does the poet describe the movement of the ball?",
+        "hi": "कवि गेंद की गति का वर्णन कैसे करता है?"
+      },
+      "options": {
+        "a": {"en": "Slowly rolling", "hi": "धीरे-धीरे लुढ़कती हुई"},
+        "b": {"en": "Merrily bouncing", "hi": "खुशी से उछलती हुई (Merrily bouncing)"},
+        "c": {"en": "Flying in the air", "hi": "हवा में उड़ती हुई"},
+        "d": {"en": "Sliding down", "hi": "नीचे खिसकती हुई"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The word 'merrily' creates a contrast with the boy's later sadness.",
+        "hi": "'Merrily' शब्द लड़के के बाद के दुख के साथ एक विपरीत स्थिति (contrast) पैदा करता है।"
+      },
+      "explanation": {
+        "en": "The poet uses the phrase 'Merrily bouncing' to describe the carefree and happy movement of the ball before it was lost, mirroring the boy's own state of mind before the accident.",
+        "hi": "गेंद के खोने से पहले उसकी गति को 'खुशी से उछलती' बताया गया है, जो लड़के की अपनी बेफिक्र स्थिति को दर्शाता है।"
+      },
+      "key_takeaway": {
+        "en": "Merrily bouncing = Symbolizes carefree childhood.",
+        "hi": "Merrily bouncing = बेफिक्र बचपन का प्रतीक।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "Which word in the poem means 'fixed' or 'immobile'?",
+        "hi": "कविता में किस शब्द का अर्थ 'स्थिर' या 'अचल' है?"
+      },
+      "options": {
+        "a": {"en": "Trembling", "hi": "कांपते हुए"},
+        "b": {"en": "Rigid", "hi": "जड़/कठोर (Rigid)"},
+        "c": {"en": "Staring", "hi": "घूरते हुए"},
+        "d": {"en": "Harbor", "hi": "बंदरगाह"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It describes how the boy stood still when he saw his ball fall into the water.",
+        "hi": "यह बताता है कि जब लड़के ने अपनी गेंद को पानी में गिरते देखा तो वह कैसे स्थिर खड़ा हो गया।"
+      },
+      "explanation": {
+        "en": "Rigid means stiff or unable to bend or move. The boy was so shocked that he stood rigid by the water.",
+        "hi": "Rigid का अर्थ है बिल्कुल स्थिर हो जाना।"
+      },
+      "key_takeaway": {
+        "en": "Rigid = Inability to move due to shock.",
+        "hi": "Rigid = सदमे के कारण हिलने-डुलने में असमर्थता।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "What is the meaning of 'a dime' in the poem?",
+        "hi": "कविता में 'ए डाइम' (a dime) का क्या अर्थ है?"
+      },
+      "options": {
+        "a": {"en": "A type of ball", "hi": "एक प्रकार की गेंद"},
+        "b": {"en": "A ten-cent coin (currency)", "hi": "दस सेंट का सिक्का (मुद्रा)"},
+        "c": {"en": "A brand of toys", "hi": "खिलौनों का एक ब्रांड"},
+        "d": {"en": "A heavy stone", "hi": "एक भारी पत्थर"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It represents a very small amount of money needed to buy a new ball.",
+        "hi": "यह एक नई गेंद खरीदने के लिए आवश्यक बहुत कम राशि का प्रतिनिधित्व करता है।"
+      },
+      "explanation": {
+        "en": "A dime is a ten-cent coin in the US. The poet uses it to show that although a ball is very cheap, money cannot fix the emotional pain of the boy.",
+        "hi": "डाइम अमेरिकी मुद्रा का एक सिक्का है। कवि कहता है कि भले ही गेंद सस्ती है, पर पैसा दुख दूर नहीं कर सकता।"
+      },
+      "key_takeaway": {
+        "en": "Dime = Symbol of the low material cost of the ball.",
+        "hi": "डाइम = गेंद की कम भौतिक कीमत का प्रतीक।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "The boy is 'learning to stand up'. What does this imply?",
+        "hi": "लड़का 'खड़े होना' (stand up) सीख रहा है। इसका क्या तात्पर्य है?"
+      },
+      "options": {
+        "a": {"en": "He is learning to walk", "hi": "वह चलना सीख रहा है"},
+        "b": {"en": "He is learning to be brave and bear the loss", "hi": "वह बहादुर बनना और नुकसान को सहना सीख रहा है"},
+        "c": {"en": "He is standing near the water", "hi": "वह पानी के पास खड़ा है"},
+        "d": {"en": "He is waiting for a chair", "hi": "वह कुर्सी का इंतज़ार कर रहा है"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It is about emotional resilience and maturity.",
+        "hi": "यह भावनात्मक सहनशीलता और परिपक्वता के बारे में है।"
+      },
+      "explanation": {
+        "en": "To 'stand up' means to recover from a setback. The boy is learning the most important lesson of life—how to accept grief and keep living.",
+        "hi": "'खड़े होने' का अर्थ है किसी दुख से उबरना और जीवन में आगे बढ़ना सीखना।"
+      },
+      "key_takeaway": {
+        "en": "Resilience is the ability to bounce back from loss.",
+        "hi": "सहनशीलता नुकसान के बाद फिर से संभलने की क्षमता है।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "What is the rhyme scheme of 'The Ball Poem'?",
+        "hi": "'द बॉल पोयम' की तुकबंदी (Rhyme Scheme) क्या है?"
+      },
+      "options": {
+        "a": {"en": "abab", "hi": "abab"},
+        "b": {"en": "Free Verse (No rhyme scheme)", "hi": "मुक्त छंद (कोई तुकबंदी नहीं) - Free Verse"},
+        "c": {"en": "aabb", "hi": "aabb"},
+        "d": {"en": "abba", "hi": "abba"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The poem flows like a conversation or a stream of thought without matching end-sounds.",
+        "hi": "कविता बिना अंत-ध्वनियों के मेल के एक बातचीत या विचारों की धारा की तरह बहती है।"
+      },
+      "explanation": {
+        "en": "The poem is written in free verse. It does not follow any specific rhyme scheme, which helps in focusing on the natural flow of emotions and ideas.",
+        "hi": "यह कविता मुक्त छंद (free verse) में लिखी गई है, इसमें कोई निश्चित तुकबंदी नहीं है।"
+      },
+      "key_takeaway": {
+        "en": "Free verse allows for a more natural and sincere expression of grief.",
+        "hi": "मुक्त छंद दुख की अधिक स्वाभाविक और सच्ची अभिव्यक्ति की अनुमति देता है।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "Why does the poet say 'Balls, balls will be lost always, little boy'?",
+        "hi": "कवि ऐसा क्यों कहता है कि 'गेंदें, गेंदें हमेशा खोती रहेंगी, छोटे लड़के'?"
+      },
+      "options": {
+        "a": {"en": "To scare the boy", "hi": "लड़के को डराने के लिए"},
+        "b": {"en": "To remind us that loss is a continuous part of life", "hi": "हमें यह याद दिलाने के लिए कि नुकसान जीवन का एक निरंतर हिस्सा है"},
+        "c": {"en": "To tell him to buy more balls", "hi": "उसे और गेंदें खरीदने के लिए कहने के लिए"},
+        "d": {"en": "Because he hates balls", "hi": "क्योंकि उसे गेंदों से नफरत है"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The poet is preparing the boy for future losses in life.",
+        "hi": "कवि लड़के को जीवन में भविष्य में होने वाले नुकसानों के लिए तैयार कर रहा है।"
+      },
+      "explanation": {
+        "en": "The poet uses this line to convey that losing things we value is an inevitable part of human existence. We must get used to the idea of losing and moving on.",
+        "hi": "कवि बताना चाहता है कि मूल्यवान चीज़ों का खोना मानव जीवन का एक अनिवार्य हिस्सा है।"
+      },
+      "key_takeaway": {
+        "en": "Accepting the permanence of loss is a sign of maturity.",
+        "hi": "नुकसान की स्थायित्व को स्वीकार करना परिपक्वता का संकेत है।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "What is the central theme of 'The Ball Poem'?",
+        "hi": "'द बॉल पोयम' का केंद्रीय विषय क्या है?"
+      },
+      "options": {
+        "a": {"en": "The importance of sports", "hi": "खेलों का महत्व"},
+        "b": {"en": "Gaining maturity through the experience of loss", "hi": "नुकसान के अनुभव के माध्यम से परिपक्वता प्राप्त करना"},
+        "c": {"en": "How to save money", "hi": "पैसे कैसे बचाएं"},
+        "d": {"en": "The beauty of the harbor", "hi": "बंदरगाह की सुंदरता"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Think about the boy's transition from a child with a ball to a person who understands loss.",
+        "hi": "गेंद के साथ एक बच्चे से लेकर नुकसान को समझने वाले व्यक्ति के रूप में लड़के के बदलाव के बारे में सोचें।"
+      },
+      "explanation": {
+        "en": "The poem's central theme is that loss is a part of life, and learning to cope with it is essential for growing up. It highlights the transformation from innocence to maturity.",
+        "hi": "कविता का मुख्य विषय यह है कि नुकसान जीवन का हिस्सा है और इससे निपटना सीखना ही असली विकास है।"
+      },
+      "key_takeaway": {
+        "en": "Growing up involves learning the 'epistemology of loss'.",
+        "hi": "बड़े होने में 'नुकसान की समझ' (epistemology of loss) सीखना शामिल है।"
+      }
+    }
+  ]
+}

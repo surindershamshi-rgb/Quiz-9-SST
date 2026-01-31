@@ -1,0 +1,800 @@
+{
+  "metadata": {
+    "chapter_number": 6,
+    "chapter_title": "Mijbil the Otter",
+    "chapter_title_hindi": "मिजबिल: एक ऊदबिलाव",
+    "subject": "English (First Flight) - Class 10",
+    "board": "HPBOSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.0",
+    "naming_convention": "10_EN_FF_CH06_MijbilTheOtter.json"
+  },
+  "validation_report": {
+    "is_valid": true,
+    "checked_by": "AI Tutor",
+    "checked_at": "2026-01-21T11:00:00Z",
+    "notes": "Pedagogical content tailored for Class 10 HP Board students."
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "Where did the author live when the story began?",
+        "hi": "कहानी शुरू होने पर लेखक कहाँ रहता था?"
+      },
+      "options": {
+        "a": {"en": "London", "hi": "लंदन"},
+        "b": {"en": "Basra", "hi": "बसरा"},
+        "c": {"en": "Camusfearna", "hi": "कैमसफ़ियरना (Camusfearna)"},
+        "d": {"en": "Paris", "hi": "पेरिस"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "It was a house in the West Highlands of Scotland.",
+        "hi": "यह स्कॉटलैंड के पश्चिमी हाइलैंड्स में एक घर था।"
+      },
+      "explanation": {
+        "en": "Gavin Maxwell lived in a place called Camusfearna in Scotland. After his dog Jonnie died, he felt lonely and decided he wanted to keep an otter as a pet instead of another dog.",
+        "hi": "गैविन मैक्सवेल स्कॉटलैंड में 'कैमसफ़ियरना' नामक स्थान पर रहते थे। अपने पालतू कुत्ते जॉनी की मृत्यु के बाद, उन्होंने एक ऊदबिलाव (otter) पालने का फैसला किया।"
+      },
+      "key_takeaway": {
+        "en": "Camusfearna = The author's home in Scotland.",
+        "hi": "Camusfearna = स्कॉटलैंड में लेखक का घर।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "Why did the author decide to keep an otter instead of a dog?",
+        "hi": "लेखक ने कुत्ते के बजाय ऊदबिलाव पालने का निर्णय क्यों लिया?"
+      },
+      "options": {
+        "a": {"en": "He hated dogs", "hi": "उसे कुत्तों से नफरत थी"},
+        "b": {"en": "Camusfearna was surrounded by water and suitable for an otter", "hi": "कैमसफ़ियरना पानी से घिरा था और ऊदबिलाव के लिए उपयुक्त था"},
+        "c": {"en": "Otters are easier to train than dogs", "hi": "ऊदबिलाव को कुत्तों से अधिक आसानी से प्रशिक्षित किया जा सकता है"},
+        "d": {"en": "His friend suggested it was cheaper", "hi": "उसके दोस्त ने कहा कि यह सस्ता है"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The location was a 'stone’s throw' from the water, which is an otter's natural habitat.",
+        "hi": "लेखक का घर पानी के बहुत करीब था, जो ऊदबिलाव का प्राकृतिक आवास होता है।"
+      },
+      "explanation": {
+        "en": "Camusfearna was situated very close to the water. The author felt it would be an ideal place for an otter, an animal that loves water and needs it to stay happy.",
+        "hi": "कैमसफ़ियरना पानी के बिल्कुल पास था। लेखक को लगा कि ऊदबिलाव के लिए यह जगह एकदम सही होगी क्योंकि उन्हें पानी बहुत पसंद होता है।"
+      },
+      "key_takeaway": {
+        "en": "Environmental suitability is key when choosing a pet.",
+        "hi": "पालतू जानवर चुनते समय वातावरण की उपयुक्तता महत्वपूर्ण होती है।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "From where did the author get the otter?",
+        "hi": "लेखक को ऊदबिलाव कहाँ से मिला?"
+      },
+      "options": {
+        "a": {"en": "From a pet shop in London", "hi": "लंदन की एक पेट शॉप से"},
+        "b": {"en": "Through two Arabs sent by his friend", "hi": "अपने दोस्त द्वारा भेजे गए दो अरबों के माध्यम से"},
+        "c": {"en": "From the local zoo", "hi": "स्थानीय चिड़ियाघर से"},
+        "d": {"en": "He caught it himself in the marsh", "hi": "उसने इसे खुद दलदल में पकड़ा था"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He went to the Consulate-General to collect his mail and found his friend had sent the pet.",
+        "hi": "वह अपनी डाक लेने के लिए वाणिज्य दूतावास गया था और वहां उसे अपने दोस्त द्वारा भेजा गया यह उपहार मिला।"
+      },
+      "explanation": {
+        "en": "While the author was in Basra (Iraq), his friend arranged for two Arabs to bring an otter in a sack as a gift for him.",
+        "hi": "जब लेखक इराक के बसरा में थे, तब उनके दोस्त ने दो अरबों के जरिए एक बोरी में ऊदबिलाव भिजवाया था।"
+      },
+      "key_takeaway": {
+        "en": "The otter was a gift from a friend in Iraq.",
+        "hi": "ऊदबिलाव इराक के एक दोस्त की ओर से उपहार था।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "What was the race or species of the otter named after the author?",
+        "hi": "ऊदबिलाव की उस प्रजाति का नाम लेखक के नाम पर क्या रखा गया था?"
+      },
+      "options": {
+        "a": {"en": "Maxwell's Otter", "hi": "मैक्सवेल का ऊदबिलाव"},
+        "b": {"en": "Camusfearna Otter", "hi": "कैमसफ़ियरना ऊदबिलाव"},
+        "c": {"en": "Mijbil Otter", "hi": "मिजबिल ऊदबिलाव"},
+        "d": {"en": "Basra Otter", "hi": "बसरा ऊदबिलाव"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "In biology, it was named 'Maxwelli' because it was a sub-species previously unknown to science.",
+        "hi": "विज्ञान में इसे 'मैक्सवेली' नाम दिया गया था क्योंकि यह पहले अज्ञात प्रजाति थी।"
+      },
+      "explanation": {
+        "en": "The otter belonged to a race previously unknown to science and was finally christened by zoologists as *Lutrogale perspicillata maxwelli*, or Maxwell's otter.",
+        "hi": "ऊदबिलाव एक ऐसी प्रजाति का था जिसे विज्ञान पहले नहीं जानता था, इसलिए इसका नाम लेखक के नाम पर 'मैक्सवेल का ऊदबिलाव' रखा गया।"
+      },
+      "key_takeaway": {
+        "en": "Mijbil belonged to a new sub-species discovered by Maxwell.",
+        "hi": "मिजबिल मैक्सवेल द्वारा खोजी गई एक नई उप-प्रजाति से संबंधित था।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "How did the otter behave for the first twenty-four hours?",
+        "hi": "पहले चौबीस घंटों के दौरान ऊदबिलाव का व्यवहार कैसा था?"
+      },
+      "options": {
+        "a": {"en": "Very aggressive and angry", "hi": "बहुत आक्रामक और क्रोधी"},
+        "b": {"en": "Extremely friendly and playful", "hi": "बेहद मिलनसार और चंचल"},
+        "c": {"en": "Neither hostile nor friendly; aloof and indifferent", "hi": "न दुश्मन, न दोस्त; अलग-थलग और उदासीन"},
+        "d": {"en": "He kept crying loudly", "hi": "वह ज़ोर-ज़ोर से रोता रहा"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "He was in a new environment and felt strange, so he chose to stay away from the author.",
+        "hi": "वह एक नए वातावरण में था और अजीब महसूस कर रहा था, इसलिए उसने लेखक से दूर रहना चुना।"
+      },
+      "explanation": {
+        "en": "For the first day, Mijbil was neither hostile nor friendly. He was simply 'aloof and indifferent', preferring to sleep on the floor as far from the author's bed as possible.",
+        "hi": "पहले दिन मिजबिल उदासीन (indifferent) था। वह न तो गुस्से में था और न ही दोस्ताना, बस लेखक से दूर फर्श पर सोता रहा।"
+      },
+      "key_takeaway": {
+        "en": "Animals often need time to adjust to new surroundings.",
+        "hi": "जानवरों को अक्सर नए परिवेश में ढलने के लिए समय की आवश्यकता होती है।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "What did Mijbil do to the tap in the bathroom?",
+        "hi": "मिजबिल ने बाथरूम के नल के साथ क्या किया?"
+      },
+      "options": {
+        "a": {"en": "He broke it", "hi": "उसने उसे तोड़ दिया"},
+        "b": {"en": "He learned to turn it on to make water flow", "hi": "उसने पानी बहाने के लिए उसे खोलना सीख लिया"},
+        "c": {"en": "He hid behind it", "hi": "वह उसके पीछे छिप गया"},
+        "d": {"en": "He tried to eat it", "hi": "उसने उसे खाने की कोशिश की"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He used his paws to fumble with the chrome handle until the water came out.",
+        "hi": "उसने अपने पंजों से क्रोम हैंडल को तब तक घुमाया जब तक पानी बाहर नहीं आ गया।"
+      },
+      "explanation": {
+        "en": "Mijbil was very intelligent. One day, the author found him in the bathroom fumbling with the taps. Within moments, he had turned the tap far enough to produce a trickle of water.",
+        "hi": "मिजबिल बहुत बुद्धिमान था। उसने अपने पंजों से नल को घुमाकर खुद पानी खोलना सीख लिया था।"
+      },
+      "key_takeaway": {
+        "en": "Otters are highly intelligent and curious creatures.",
+        "hi": "ऊदबिलाव बहुत बुद्धिमान और जिज्ञासु प्राणी होते हैं।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "How does an otter feel about static or still water?",
+        "hi": "एक ऊदबिलाव स्थिर (रुके हुए) पानी के बारे में कैसा महसूस करता है?"
+      },
+      "options": {
+        "a": {"en": "They love to drink it", "hi": "वे इसे पीना पसंद करते हैं"},
+        "b": {"en": "They find it boring and try to splash or move it", "hi": "वे इसे उबाऊ मानते हैं और इसे हिलाने या उछालने की कोशिश करते हैं"},
+        "c": {"en": "They are afraid of it", "hi": "वे इससे डरते हैं"},
+        "d": {"en": "They use it to hide from enemies", "hi": "वे दुश्मनों से छिपने के लिए इसका इस्तेमाल करते हैं"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "According to the author, an otter must always keep water in motion.",
+        "hi": "लेखक के अनुसार, एक ऊदबिलाव को हमेशा पानी को गति में रखना चाहिए।"
+      },
+      "explanation": {
+        "en": "To an otter, water must be kept on the move. Still water is considered 'wasted'. They love splashing it, jumping in it, and making it flow or roll.",
+        "hi": "ऊदबिलाव के लिए रुके हुए पानी का कोई मतलब नहीं है। वे इसे तब तक उछालते और हिलाते हैं जब तक यह गति में न आ जाए।"
+      },
+      "key_takeaway": {
+        "en": "Dynamic water is a source of joy for an otter.",
+        "hi": "गतिशील पानी ऊदबिलाव के लिए खुशी का स्रोत है।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "Why did the author have to put Mijbil in a box?",
+        "hi": "लेखक को मिजबिल को एक डिब्बे में क्यों रखना पड़ा?"
+      },
+      "options": {
+        "a": {"en": "To punish him", "hi": "उसे सजा देने के लिए"},
+        "b": {"en": "To transport him by air to London", "hi": "उसे हवाई जहाज से लंदन ले जाने के लिए"},
+        "c": {"en": "To keep him warm", "hi": "उसे गर्म रखने के लिए"},
+        "d": {"en": "To hide him from the neighbors", "hi": "उसे पड़ोसियों से छिपाने के लिए"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The airlines insisted that the pet should be packed in a small container.",
+        "hi": "एयरलाइंस ने ज़ोर दिया कि पालतू जानवर को एक छोटे कंटेनर में पैक किया जाना चाहिए।"
+      },
+      "explanation": {
+        "en": "The airline rules required Mijbil to be carried in a box not more than eighteen inches square, to be placed on the floor at the author's feet.",
+        "hi": "एयरलाइन के नियमों के अनुसार, मिजबिल को एक 18-इंच के वर्गाकार डिब्बे में ले जाना अनिवार्य था।"
+      },
+      "key_takeaway": {
+        "en": "Travel regulations often require pets to be in crates.",
+        "hi": "यात्रा नियमों के कारण पालतू जानवरों को क्रेट (डिब्बे) में रखना पड़ता है।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "What did Mijbil do to the lining of the box?",
+        "hi": "मिजबिल ने डिब्बे के अंदरूनी अस्तर (lining) के साथ क्या किया?"
+      },
+      "options": {
+        "a": {"en": "He painted it", "hi": "उसने उसे पेंट कर दिया"},
+        "b": {"en": "He tore it into shreds", "hi": "उसने उसे फाड़कर टुकड़े-टुकड़े कर दिया"},
+        "c": {"en": "He used it as a blanket", "hi": "उसने इसे कंबल की तरह इस्तेमाल किया"},
+        "d": {"en": "He ignored it", "hi": "उसने उसे नज़रअंदाज कर दिया"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "When the author returned, he saw blood trickling from the air holes because Mijbil was hurt while tearing the box.",
+        "hi": "जब लेखक लौटा, तो उसने हवा के छेदों से खून टपकता देखा क्योंकि डिब्बे को फाड़ते समय मिजबिल घायल हो गया था।"
+      },
+      "explanation": {
+        "en": "In an attempt to escape, Mijbil had torn the metal lining of the box to shreds. In doing so, he cut himself, and blood was coming out of the box.",
+        "hi": "आज़ाद होने की कोशिश में मिजबिल ने डिब्बे के धातु के अस्तर को फाड़ दिया, जिससे उसे चोट लग गई और खून बहने लगा।"
+      },
+      "key_takeaway": {
+        "en": "Caging wild animals can lead to self-injury due to stress.",
+        "hi": "तनाव के कारण पिंजरे में बंद जंगली जानवर खुद को चोट पहुँचा सकते हैं।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "How did the author describe the air hostess?",
+        "hi": "लेखक ने एयर होस्टेस का वर्णन कैसे किया?"
+      },
+      "options": {
+        "a": {"en": "Strict and unfriendly", "hi": "सख्त और अमिलनसार"},
+        "b": {"en": "The very queen of her kind", "hi": "अपनी तरह की साक्षात् रानी (The very queen of her kind)"},
+        "c": {"en": "Clumsy and loud", "hi": "बेढंगी और तेज़ आवाज़ वाली"},
+        "d": {"en": "Nervous and afraid", "hi": "घबराई हुई और डरी हुई"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "She was extremely kind and cooperative when she heard the author's story about the otter.",
+        "hi": "ऊदबिलाव के बारे में लेखक की कहानी सुनकर वह बहुत दयालु और सहयोगी थी।"
+      },
+      "explanation": {
+        "en": "The author called her 'the very queen of her kind' because she was extremely understanding and suggested that the author keep his pet on his knee.",
+        "hi": "लेखक ने उसे 'अपनी तरह की रानी' कहा क्योंकि वह बहुत समझदार थी और उसने लेखक को मिजबिल को अपनी गोद में रखने की अनुमति दी।"
+      },
+      "key_takeaway": {
+        "en": "Kindness and empathy make people exceptional in their professions.",
+        "hi": "दया और सहानुभूति लोगों को उनके पेशे में असाधारण बनाती है।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "What happened when the author opened the box in the plane?",
+        "hi": "हवाई जहाज में जब लेखक ने डिब्बा खोला तो क्या हुआ?"
+      },
+      "options": {
+        "a": {"en": "Mijbil fell asleep", "hi": "मिजबिल सो गया"},
+        "b": {"en": "Mijbil disappeared at high speed down the aircraft", "hi": "मिजबिल तेज़ गति से विमान में ओझल हो गया"},
+        "c": {"en": "Mijbil started dancing", "hi": "मिजबिल नाचने लगा"},
+        "d": {"en": "Mijbil bit the pilot", "hi": "मिजबिल ने पायलट को काट लिया"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It caused a lot of chaos and a woman stood up on her seat screaming.",
+        "hi": "इससे काफी अफरा-तफरी मच गई और एक महिला अपनी सीट पर खड़ी होकर चिल्लाने लगी।"
+      },
+      "explanation": {
+        "en": "As soon as the box was opened, Mijbil flashed out and vanished down the plane. This caused panic among the passengers, with one woman even screaming 'A rat! A rat!'.",
+        "hi": "जैसे ही डिब्बा खुला, मिजबिल तेज़ी से बाहर निकल गया और पूरे विमान में भगदड़ मच गई। एक महिला तो उसे चूहा समझकर चिल्लाने लगी।"
+      },
+      "key_takeaway": {
+        "en": "Unexpected events in a flight can cause mass panic.",
+        "hi": "उड़ान में अचानक होने वाली घटनाएं लोगों में घबराहट पैदा कर सकती हैं।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "Where did the author eventually find Mijbil in the plane?",
+        "hi": "लेखक को विमान में आखिरकार मिजबिल कहाँ मिला?"
+      },
+      "options": {
+        "a": {"en": "In the cockpit", "hi": "कॉकपिट में"},
+        "b": {"en": "Under a passenger's legs", "hi": "एक यात्री के पैरों के नीचे"},
+        "c": {"en": "Mijbil returned to him on his own", "hi": "मिजबिल खुद उसके पास वापस आ गया"},
+        "d": {"en": "In the luggage area", "hi": "सामान रखने की जगह में"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "The author tried to catch him but failed, and then the otter nuzzled his face.",
+        "hi": "लेखक ने उसे पकड़ने की कोशिश की लेकिन असफल रहा, फिर ऊदबिलाव ने खुद आकर उसके चेहरे को सूंघा।"
+      },
+      "explanation": {
+        "en": "After the chaos, the air hostess asked the author to be seated. Soon, Mijbil climbed onto the author's knee and began to nuzzle his face and neck.",
+        "hi": "हंगामा शांत होने के बाद, मिजबिल खुद लेखक के पास आया और उनकी गोद में चढ़कर उन्हें प्यार करने लगा।"
+      },
+      "key_takeaway": {
+        "en": "The bond between a pet and owner provides comfort in stressful times.",
+        "hi": "पालतू जानवर और मालिक का रिश्ता तनावपूर्ण समय में सुकून देता है।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "What games did Mijbil play in London?",
+        "hi": "लंदन में मिजबिल कौन से खेल खेलता था?"
+      },
+      "options": {
+        "a": {"en": "Playing with marbles and ping-pong balls", "hi": "कंचों और पिंग-पोंग गेंदों के साथ खेलना"},
+        "b": {"en": "Chasing cats", "hi": "बिल्लियों का पीछा करना"},
+        "c": {"en": "Watching television", "hi": "टेलीविजन देखना"},
+        "d": {"en": "Sleeping all day", "hi": "पूरा दिन सोना"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "He would lie on his back and juggle small objects with his paws.",
+        "hi": "वह अपनी पीठ के बल लेटकर अपने पंजों से छोटी चीज़ों के साथ खेलता था।"
+      },
+      "explanation": {
+        "en": "Mijbil spent hours playing with a selection of toys—ping-pong balls, marbles, rubber fruit, and a terrapin shell. He was particularly fond of juggling marbles on his stomach.",
+        "hi": "मिजबिल घंटों खिलौनों, कंचों और गेंदों के साथ खेलता था। उसे अपनी पीठ के बल लेटकर कंचों से खेलना बहुत पसंद था।"
+      },
+      "key_takeaway": {
+        "en": "Play is essential for the mental health of animals.",
+        "hi": "जानवरों के मानसिक स्वास्थ्य के लिए खेल बहुत ज़रूरी है।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "What did Mijbil invent with a ping-pong ball and a broken suitcase?",
+        "hi": "मिजबिल ने पिंग-पोंग गेंद और एक टूटे हुए सूटकेस के साथ क्या आविष्कार किया था?"
+      },
+      "options": {
+        "a": {"en": "A new way to sleep", "hi": "सोने का नया तरीका"},
+        "b": {"en": "A game where the ball would roll down the slope of the lid", "hi": "एक खेल जिसमें गेंद ढक्कन की ढलान से नीचे लुढ़कती थी"},
+        "c": {"en": "A way to hide his food", "hi": "अपना खाना छिपाने का तरीका"},
+        "d": {"en": "He used it to escape", "hi": "उसने इसका इस्तेमाल भागने के लिए किया"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He would place the ball at the high end and run to catch it at the bottom.",
+        "hi": "वह गेंद को ऊंचे सिरे पर रखता और नीचे उसे पकड़ने के लिए दौड़ता था।"
+      },
+      "explanation": {
+        "en": "Mijbil discovered that if he put the ball on the high end of the sloping lid of a broken suitcase, it would run down the length of the case. He would then rush to the other end to ambush it.",
+        "hi": "मिजबिल ने एक खेल खोजा जिसमें वह गेंद को सूटकेस की ढलान पर छोड़ता और दूसरी तरफ उसे पकड़ने के लिए झपटता था।"
+      },
+      "key_takeaway": {
+        "en": "Animals are capable of imaginative and independent play.",
+        "hi": "जानवर कल्पनाशील और स्वतंत्र खेल खेलने में सक्षम होते हैं।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "How did Londoners react to seeing Mijbil on the street?",
+        "hi": "सड़क पर मिजबिल को देखकर लंदनवासियों की क्या प्रतिक्रिया थी?"
+      },
+      "options": {
+        "a": {"en": "They all knew it was an otter", "hi": "वे सभी जानते थे कि यह एक ऊदबिलाव है"},
+        "b": {"en": "They made wild guesses about what kind of animal it was", "hi": "वे अंदाज़ा लगाने लगे कि यह किस तरह का जानवर है"},
+        "c": {"en": "They ran away in fear", "hi": "वे डर के मारे भाग गए"},
+        "d": {"en": "They ignored him completely", "hi": "उन्होंने उसे पूरी तरह नज़रअंदाज़ कर दिया"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Otters are not common in London, so people had never seen one.",
+        "hi": "लंदन में ऊदबिलाव आम नहीं हैं, इसलिए लोगों ने उन्हें पहले कभी नहीं देखा था।"
+      },
+      "explanation": {
+        "en": "Since most Londoners had never seen an otter, they guessed he was a baby seal, a squirrel, a walrus, a hippo, or even a 'brontosaur'.",
+        "hi": "लंदन में लोगों ने पहले कभी ऊदबिलाव नहीं देखा था, इसलिए उन्होंने उसे सील, दरियाई घोड़ा या यहाँ तक कि डायनासोर तक समझ लिया।"
+      },
+      "key_takeaway": {
+        "en": "People often try to relate the unknown to the known.",
+        "hi": "लोग अक्सर अज्ञात चीज़ों की तुलना ज्ञात चीज़ों से करने की कोशिश करते हैं।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "What did a laborer digging a hole in the street ask the author?",
+        "hi": "सड़क पर गड्ढा खोद रहे एक मजदूर ने लेखक से क्या पूछा?"
+      },
+      "options": {
+        "a": {"en": "Is it a dog?", "hi": "क्या यह कुत्ता है?"},
+        "b": {"en": "Here, Mister, what is that supposed to be?", "hi": "सुनिए जनाब, आखिर यह है क्या? (What is that supposed to be?)"},
+        "c": {"en": "Can I buy it?", "hi": "क्या मैं इसे खरीद सकता हूँ?"},
+        "d": {"en": "Why are you walking a rat?", "hi": "आप चूहे को क्यों घुमा रहे हैं?"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This was the question that 'awarded the author the highest score' for the most original reaction.",
+        "hi": "यह वह सवाल था जिसे लेखक ने सबसे अनोखी प्रतिक्रिया माना।"
+      },
+      "explanation": {
+        "en": "A workman digging a hole put down his tool and stared at the otter. His question 'what is that supposed to be?' showed total confusion about what kind of creature Mijbil was.",
+        "hi": "गड्ढा खोद रहे एक मजदूर ने हैरान होकर पूछा कि यह आखिर कौन सा जीव है।"
+      },
+      "key_takeaway": {
+        "en": "Directness can sometimes highlight the strangeness of a situation.",
+        "hi": "कभी-कभी सीधा सवाल किसी स्थिति की विचित्रता को उजागर कर देता है।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "What were the 'compulsive habits' Mijbil developed in London?",
+        "hi": "लंदन में मिजबिल ने कौन सी 'अनिवार्य आदतें' (compulsive habits) विकसित की थीं?"
+      },
+      "options": {
+        "a": {"en": "Touching every lamp post", "hi": "हर लैंप पोस्ट को छूना"},
+        "b": {"en": "Jumping on the wall of a primary school", "hi": "प्राइमरी स्कूल की दीवार पर कूदना"},
+        "c": {"en": "Barking at cars", "hi": "कारों पर भौंकना"},
+        "d": {"en": "Chasing birds", "hi": "पक्षियों का पीछा करना"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He would gallop along the full length of a low wall on his way home.",
+        "hi": "वह घर लौटते समय एक छोटी दीवार पर पूरी लंबाई तक दौड़ता था।"
+      },
+      "explanation": {
+        "en": "On their walks, Mijbil would always jump onto a low wall of a primary school and gallop the full length of it, causing distraction to the pupils and teachers inside.",
+        "hi": "मिजबिल को प्राइमरी स्कूल की दीवार पर दौड़ना बहुत पसंद था, जिससे स्कूल के बच्चे और शिक्षक उसे देखते रह जाते थे।"
+      },
+      "key_takeaway": {
+        "en": "Animals, like children, develop routines and habits.",
+        "hi": "बच्चों की तरह जानवरों में भी आदतें और दिनचर्या विकसित होती है।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "How did the author travel from Basra to London?",
+        "hi": "लेखक ने बसरा से लंदन की यात्रा कैसे की?"
+      },
+      "options": {
+        "a": {"en": "By a direct British flight", "hi": "ब्रिटिश एयरवेज की सीधी उड़ान से"},
+        "b": {"en": "By taking different airlines because British airlines wouldn't carry pets", "hi": "अलग-अलग एयरलाइंस के ज़रिए क्योंकि ब्रिटिश एयरलाइंस पालतू जानवरों को नहीं ले जाती थी"},
+        "c": {"en": "By ship", "hi": "जहाज से"},
+        "d": {"en": "By train", "hi": "ट्रेन से"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "British Airways would not fly with animals, so he had to book a flight to Paris first.",
+        "hi": "ब्रिटिश एयरवेज जानवरों के साथ उड़ान नहीं भरती थी, इसलिए उन्हें पहले पेरिस के लिए टिकट बुक करना पड़ा।"
+      },
+      "explanation": {
+        "en": "Since British airlines did not allow pets, the author had to book a flight to Paris on another airline and then take a second flight to London.",
+        "hi": "ब्रिटिश एयरलाइंस में पालतू जानवरों की अनुमति नहीं थी, इसलिए लेखक को पहले पेरिस और फिर वहां से लंदन जाना पड़ा।"
+      },
+      "key_takeaway": {
+        "en": "Traveling with unconventional pets requires extra planning.",
+        "hi": "असामान्य पालतू जानवरों के साथ यात्रा करने के लिए अतिरिक्त योजना की आवश्यकता होती है।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "What did the author do to the box after finding blood on it?",
+        "hi": "डिब्बे पर खून देखने के बाद लेखक ने क्या किया?"
+      },
+      "options": {
+        "a": {"en": "He threw it away", "hi": "उसने उसे फेंक दिया"},
+        "b": {"en": "He removed the sharp metal lining and put Mijbil back in", "hi": "उसने नुकीले धातु के अस्तर को हटा दिया और मिजबिल को वापस अंदर रखा"},
+        "c": {"en": "He left Mijbil at the airport", "hi": "उसने मिजबिल को एयरपोर्ट पर ही छोड़ दिया"},
+        "d": {"en": "He cried", "hi": "वह रोने लगा"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He had only ten minutes left for his flight, so he had to act quickly.",
+        "hi": "उनकी उड़ान में केवल दस मिनट बचे थे, इसलिए उन्हें तेज़ी से काम करना पड़ा।"
+      },
+      "explanation": {
+        "en": "The author realized the metal lining was hurting Mijbil. He tore it all out, which made him very late for the flight, but it was safer for the otter.",
+        "hi": "लेखक ने महसूस किया कि धातु का अस्तर मिजबिल को चोट पहुँचा रहा है, इसलिए उन्होंने उसे हटा दिया ताकि मिजबिल सुरक्षित रहे।"
+      },
+      "key_takeaway": {
+        "en": "A pet's safety is a priority, even in a rush.",
+        "hi": "जल्दबाजी में भी पालतू जानवर की सुरक्षा प्राथमिकता होनी चाहिए।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "Why did the author feel it was 'maddening' when his mail did not arrive in Basra?",
+        "hi": "जब बसरा में लेखक की डाक नहीं पहुँची, तो उसे 'पागलपन' जैसा (maddening) क्यों महसूस हुआ?"
+      },
+      "options": {
+        "a": {"en": "He was waiting for money", "hi": "वह पैसों का इंतज़ार कर रहा था"},
+        "b": {"en": "His friend's mail arrived but his didn't", "hi": "उसके दोस्त की डाक आ गई लेकिन उसकी नहीं"},
+        "c": {"en": "He wanted to go home", "hi": "वह घर जाना चाहता था"},
+        "d": {"en": "He had no other work", "hi": "उसके पास कोई और काम नहीं था"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He had to wait several days and make many phone calls to get his letters.",
+        "hi": "अपनी चिट्ठियां पाने के लिए उन्हें कई दिनों तक इंतज़ार करना पड़ा और कई फोन कॉल्स करने पड़े।"
+      },
+      "explanation": {
+        "en": "The author was waiting for important mail from England. While his friend received his letters and left, the author had to wait for five days, which was very frustrating for him.",
+        "hi": "लेखक इंग्लैंड से ज़रूरी डाक का इंतज़ार कर रहे थे। उनके दोस्त की डाक आ गई थी लेकिन उन्हें पांच दिन और रुकना पड़ा, जिससे वे बहुत परेशान थे।"
+      },
+      "key_takeaway": {
+        "en": "Waiting and uncertainty can be very stressful.",
+        "hi": "प्रतीक्षा और अनिश्चितता बहुत तनावपूर्ण हो सकती है।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "What is the meaning of the word 'terrapin' mentioned in the story?",
+        "hi": "कहानी में बताए गए 'टेरापिन' (terrapin) शब्द का क्या अर्थ है?"
+      },
+      "options": {
+        "a": {"en": "A type of bird", "hi": "एक प्रकार का पक्षी"},
+        "b": {"en": "A small turtle", "hi": "एक छोटा कछुआ (Turtle)"},
+        "c": {"en": "A water plant", "hi": "एक जलीय पौधा"},
+        "d": {"en": "A toy car", "hi": "एक खिलौना कार"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Mijbil used its shell as a toy to play with.",
+        "hi": "मिजबिल इसके खोल (shell) का इस्तेमाल खिलौने के रूप में करता था।"
+      },
+      "explanation": {
+        "en": "A terrapin is a small turtle found in North America and elsewhere. Mijbil had a terrapin shell that he brought from Iraq to play with.",
+        "hi": "टेरापिन एक छोटा कछुआ होता है। मिजबिल के पास एक कछुए का खोल था जिससे वह खेलता था।"
+      },
+      "key_takeaway": {
+        "en": "Terrapin = A small turtle shell used as a toy.",
+        "hi": "Terrapin = खिलौने के रूप में इस्तेमाल किया जाने वाला कछुए का खोल।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "What did Mijbil look like when he first came out of the sack?",
+        "hi": "जब मिजबिल पहली बार बोरी से बाहर निकला तो वह कैसा दिख रहा था?"
+      },
+      "options": {
+        "a": {"en": "Clean and shiny", "hi": "साफ और चमकदार"},
+        "b": {"en": "Like a very small dragon covered in mud", "hi": "कीचड़ से लथपथ एक बहुत छोटे ड्रैगन जैसा"},
+        "c": {"en": "Very white and fluffy", "hi": "बिल्कुल सफेद और मुलायम"},
+        "d": {"en": "Like a small cat", "hi": "एक छोटी बिल्ली जैसा"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He was covered with mud from head to tail, showing only his velvet fur in some places.",
+        "hi": "वह सिर से पूंछ तक कीचड़ से ढका हुआ था, केवल कुछ जगहों पर उसका मखमली फर दिख रहा था।"
+      },
+      "explanation": {
+        "en": "Mijbil emerged as a 'chocolate-brown' creature, but he was completely covered in dried mud. He looked like a small, medievally-conceived dragon.",
+        "hi": "मिजबिल कीचड़ में इतना लथपथ था कि वह किसी पुराने ज़माने के छोटे ड्रैगन जैसा लग रहा था।"
+      },
+      "key_takeaway": {
+        "en": "Initial appearances can be misleading due to environmental factors.",
+        "hi": "वातावरण के कारण शुरुआती बनावट भ्रामक हो सकती है।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "How long did it take for the author to see the 'true color' of Mijbil's fur?",
+        "hi": "मिजबिल के फर का 'असली रंग' देखने में लेखक को कितना समय लगा?"
+      },
+      "options": {
+        "a": {"en": "One day", "hi": "एक दिन"},
+        "b": {"en": "A few hours", "hi": "कुछ घंटे"},
+        "c": {"en": "Nearly a month", "hi": "लगभग एक महीना"},
+        "d": {"en": "One week", "hi": "एक हफ्ता"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "The mud was so thick that it took many cleanings to remove it all.",
+        "hi": "कीचड़ इतना गाढ़ा था कि उसे पूरी तरह हटाने में कई बार सफाई करनी पड़ी।"
+      },
+      "explanation": {
+        "en": "It took nearly a month of constant cleaning for the author to remove the mud and reveal the soft, velvet fur of the otter.",
+        "hi": "लगातार सफाई करने के करीब एक महीने बाद मिजबिल का असली मखमली फर सामने आया।"
+      },
+      "key_takeaway": {
+        "en": "Patience is required when rehabilitating or cleaning animals.",
+        "hi": "जानवरों की सफाई या पुनर्वास करते समय धैर्य की आवश्यकता होती है।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "What did the author use to keep the otter under control in the aircraft?",
+        "hi": "हवाई जहाज में ऊदबिलाव को नियंत्रित रखने के लिए लेखक ने क्या इस्तेमाल किया?"
+      },
+      "options": {
+        "a": {"en": "A metal chain", "hi": "लोहे की चेन"},
+        "b": {"en": "A leash", "hi": "एक पट्टा (Leash)"},
+        "c": {"en": "He held him in his hands", "hi": "उसने उसे अपने हाथों में पकड़ रखा था"},
+        "d": {"en": "A net", "hi": "एक जाल"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It is a standard tool used to walk dogs.",
+        "hi": "यह कुत्तों को घुमाने के लिए इस्तेमाल किया जाने वाला एक मानक साधन है।"
+      },
+      "explanation": {
+        "en": "The author mentions that he led Mijbil on a leash, much like a dog. This was the only way to guide him during their travels.",
+        "hi": "लेखक ने मिजबिल को कुत्ते की तरह पट्टे (leash) पर बांधकर घुमाया और नियंत्रित किया।"
+      },
+      "key_takeaway": {
+        "en": "Leash = A strap or cord for controlling an animal.",
+        "hi": "Leash = किसी जानवर को नियंत्रित करने के लिए पट्टा।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "What was the 'otter's ritual' when walking along the streets of London?",
+        "hi": "लंदन की सड़कों पर टहलते समय 'ऊदबिलाव का अनुष्ठान' (ritual) क्या था?"
+      },
+      "options": {
+        "a": {"en": "Singing loudly", "hi": "ज़ोर-ज़ोर से गाना"},
+        "b": {"en": "Taking a fixed path and jumping on certain structures", "hi": "एक निश्चित रास्ते पर चलना और कुछ संरचनाओं पर कूदना"},
+        "c": {"en": "Biting everyone's shoes", "hi": "सबके जूतों को काटना"},
+        "d": {"en": "Running into shops", "hi": "दुकानों में भाग जाना"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Just like children play on railings, Mijbil had specific habits during his walks.",
+        "hi": "जैसे बच्चे रेलिंग पर खेलते हैं, मिजबिल की भी टहलते समय कुछ खास आदतें थीं।"
+      },
+      "explanation": {
+        "en": "Mijbil developed several habits on their walks, like touching every seventh upright of a railing and jumping on a specific low wall.",
+        "hi": "मिजबिल को रेलिंग के खंभों को छूना और एक खास छोटी दीवार पर कूदना बहुत पसंद था।"
+      },
+      "key_takeaway": {
+        "en": "Habits and rituals are common in many intelligent animal species.",
+        "hi": "कई बुद्धिमान जानवरों में आदतें और अनुष्ठान आम होते हैं।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "The author calls the air hostess 'an angel'. Why?",
+        "hi": "लेखक एयर होस्टेस को 'एक फरिश्ता' (an angel) कहता है। क्यों?"
+      },
+      "options": {
+        "a": {"en": "She gave him free food", "hi": "उसने उसे मुफ्त खाना दिया"},
+        "b": {"en": "She suggested he keep the otter on his knee", "hi": "उसने सुझाव दिया कि वह ऊदबिलाव को अपनी गोद में रखे"},
+        "c": {"en": "She found the otter in the cockpit", "hi": "उसने कॉकपिट में ऊदबिलाव को पाया"},
+        "d": {"en": "She was very beautiful", "hi": "वह बहुत सुंदर थी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "She understood the owner's anxiety about his pet.",
+        "hi": "वह अपने पालतू जानवर के बारे में मालिक की चिंता को समझ गई थी।"
+      },
+      "explanation": {
+        "en": "The air hostess was extremely understanding. When the author told her about the otter, she agreed to let him keep it on his lap, which greatly relieved him.",
+        "hi": "एयर होस्टेस ने लेखक की चिंता समझी और मिजबिल को गोद में रखने की अनुमति दी, जिससे लेखक को बहुत राहत मिली।"
+      },
+      "key_takeaway": {
+        "en": "Understanding and empathy can make a professional seem like an angel.",
+        "hi": "समझदारी और सहानुभूति एक पेशेवर व्यक्ति को फरिश्ते जैसा बना सकती है।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "What does the author compare the otter to when he is playing with marbles?",
+        "hi": "जब ऊदबिलाव कंचों से खेल रहा होता है, तो लेखक उसकी तुलना किससे करता है?"
+      },
+      "options": {
+        "a": {"en": "A juggler", "hi": "एक बाजीगर (Juggler)"},
+        "b": {"en": "A small child", "hi": "एक छोटा बच्चा"},
+        "c": {"en": "A magician", "hi": "एक जादूगर"},
+        "d": {"en": "An athlete", "hi": "एक एथलीट"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "He would roll them on his stomach without dropping any to the floor.",
+        "hi": "वह उन्हें फर्श पर गिराए बिना अपने पेट पर लुढ़काता था।"
+      },
+      "explanation": {
+        "en": "Mijbil would lie on his back and roll two or more marbles on his flat belly. The author describes this skillfully, much like a juggler performing a trick.",
+        "hi": "मिजबिल अपनी पीठ के बल लेटकर अपने पेट पर कंचों को संतुलित करता था, जैसे कोई बाजीगर करतब दिखा रहा हो।"
+      },
+      "key_takeaway": {
+        "en": "Juggling = Skillfully handling several objects at once.",
+        "hi": "Juggling = एक साथ कई वस्तुओं को कुशलतापूर्वक संभालना।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "Why did the author take a long time to get his mail in Basra?",
+        "hi": "बसरा में लेखक को अपनी डाक पाने में इतना समय क्यों लगा?"
+      },
+      "options": {
+        "a": {"en": "The post office was closed", "hi": "डाकघर बंद था"},
+        "b": {"en": "Communication lines were broken or delayed", "hi": "संचार लाइनें टूटी हुई थीं या देरी हो रही थी"},
+        "c": {"en": "He forgot his address", "hi": "वह अपना पता भूल गया था"},
+        "d": {"en": "He didn't have a passport", "hi": "उसके पास पासपोर्ट नहीं था"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "In those days, international phone calls had to be booked 24 hours in advance.",
+        "hi": "उन दिनों, अंतर्राष्ट्रीय फोन कॉल को 24 घंटे पहले बुक करना पड़ता था।"
+      },
+      "explanation": {
+        "en": "International communication in 1956 was not as easy as today. The author had to wait days for his letters and struggle with booked phone calls.",
+        "hi": "1956 में अंतर्राष्ट्रीय संचार आज की तरह आसान नहीं था। लेखक को अपनी चिट्ठियों के लिए कई दिनों तक संघर्ष करना पड़ा।"
+      },
+      "key_takeaway": {
+        "en": "Technology has drastically changed how we communicate globally.",
+        "hi": "तकनीक ने वैश्विक स्तर पर हमारे संचार के तरीके को पूरी तरह बदल दिया है।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "Which of these was NOT a guess made by Londoners about Mijbil?",
+        "hi": "लंदनवासियों द्वारा मिजबिल के बारे में लगाया गया इनमें से कौन सा अंदाज़ा गलत है?"
+      },
+      "options": {
+        "a": {"en": "A walrus", "hi": "एक वालरस (Walrus)"},
+        "b": {"en": "A beaver", "hi": "एक बीवर (Beaver)"},
+        "c": {"en": "A tiger", "hi": "एक बाघ (Tiger)"},
+        "d": {"en": "A bear cub", "hi": "भालू का बच्चा"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "People guessed small or water-living animals, not large predators.",
+        "hi": "लोगों ने छोटे या पानी में रहने वाले जानवरों का अंदाज़ा लगाया, न कि बड़े शिकारियों का।"
+      },
+      "explanation": {
+        "en": "Londoners guessed many things like baby seal, squirrel, walrus, and beaver, but no one guessed he was a tiger. He was too small and looked different.",
+        "hi": "लोगों ने मिजबिल को सील या बीवर तो समझा, लेकिन किसी ने भी उसे बाघ नहीं कहा क्योंकि वह छोटा और अलग दिखता था।"
+      },
+      "key_takeaway": {
+        "en": "Logic often guides human guesses about the unknown.",
+        "hi": "अज्ञात चीज़ों के बारे में मानवीय अंदाज़े अक्सर तर्क पर आधारित होते हैं।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "What does the story 'Mijbil the Otter' mainly celebrate?",
+        "hi": "कहानी 'मिजबिल: एक ऊदबिलाव' मुख्य रूप से क्या दर्शाती है?"
+      },
+      "options": {
+        "a": {"en": "The beauty of Scotland", "hi": "स्कॉटलैंड की सुंदरता"},
+        "b": {"en": "The unique personality and bond between a human and an animal", "hi": "इंसान और जानवर के बीच का अनोखा रिश्ता और व्यक्तित्व"},
+        "c": {"en": "The history of Iraq", "hi": "इराक का इतिहास"},
+        "d": {"en": "Travel by aircraft", "hi": "हवाई जहाज से यात्रा"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The story focus is on how Mijbil became a part of the author's life.",
+        "hi": "कहानी का मुख्य केंद्र इस बात पर है कि मिजबिल लेखक के जीवन का हिस्सा कैसे बना।"
+      },
+      "explanation": {
+        "en": "The central theme is the friendship between Maxwell and his otter. It shows that animals have their own characters, intelligence, and emotions.",
+        "hi": "कहानी का मुख्य विषय मैक्सवेल और उनके ऊदबिलाव के बीच की दोस्ती है। यह दिखाता है कि जानवरों का भी अपना व्यक्तित्व और भावनाएं होती हैं।"
+      },
+      "key_takeaway": {
+        "en": "Empathy and observation lead to a deeper understanding of animals.",
+        "hi": "सहानुभूति और अवलोकन से जानवरों की गहरी समझ विकसित होती है।"
+      }
+    }
+  ]
+}

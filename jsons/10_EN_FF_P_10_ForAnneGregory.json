@@ -1,0 +1,540 @@
+{
+  "metadata": {
+    "unit_number": 9,
+    "poem_title": "For Anne Gregory",
+    "poem_title_hindi": "एन ग्रेगरी के लिए (For Anne Gregory)",
+    "author": "W.B. Yeats",
+    "subject": "English (First Flight) - Class 10",
+    "board": "HPBOSE (NCERT)",
+    "total_questions": 20,
+    "version": "1.0",
+    "naming_convention": "10_EN_FF_P_10_ForAnneGregory.json"
+  },
+  "validation_report": {
+    "is_valid": true,
+    "checked_by": "AI Tutor",
+    "notes": "Covers symbolism of hair, the religious context, and the central theme of inner vs. outer beauty."
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "Who is the poet of 'For Anne Gregory'?",
+        "hi": "'एन ग्रेगरी के लिए' (For Anne Gregory) के कवि कौन हैं?"
+      },
+      "options": {
+        "a": {"en": "Robert Frost", "hi": "रॉबर्ट फ्रॉस्ट"},
+        "b": {"en": "W.B. Yeats", "hi": "डब्ल्यू.बी. यीट्स (W.B. Yeats)"},
+        "c": {"en": "Walt Whitman", "hi": "वॉल्ट व्हिटमैन"},
+        "d": {"en": "John Berryman", "hi": "जॉन बेरीमैन"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He was a famous Irish poet and one of the greatest figures of 20th-century literature.",
+        "hi": "वे एक प्रसिद्ध आयरिश कवि थे और 20वीं सदी के साहित्य की सबसे महान हस्तियों में से एक थे।"
+      },
+      "explanation": {
+        "en": "William Butler Yeats (W.B. Yeats) wrote this poem as a conversation between a young man and a young woman named Anne Gregory.",
+        "hi": "विलियम बटलर यीट्स (W.B. Yeats) ने यह कविता एक युवक और एन ग्रेगरी नामक एक युवती के बीच बातचीत के रूप में लिखी है।"
+      },
+      "key_takeaway": {
+        "en": "W.B. Yeats = Famous Irish Nobel laureate poet.",
+        "hi": "W.B. Yeats = प्रसिद्ध आयरिश नोबेल पुरस्कार विजेता कवि।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "What color is Anne Gregory's hair?",
+        "hi": "एन ग्रेगरी के बालों का रंग क्या है?"
+      },
+      "options": {
+        "a": {"en": "Brown", "hi": "भूरा"},
+        "b": {"en": "Honey-colored (Yellow)", "hi": "शहद जैसा रंग (पीला)"},
+        "c": {"en": "Jet black", "hi": "गहरा काला"},
+        "d": {"en": "Red", "hi": "लाल"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The poet calls it 'honey-coloured' and 'yellow hair'.",
+        "hi": "कवि इसे 'शहद जैसा रंग' और 'पीले बाल' कहता है।"
+      },
+      "explanation": {
+        "en": "Anne Gregory has beautiful golden or yellow hair, which the poet describes as 'honey-coloured ramparts' at her ear.",
+        "hi": "एन ग्रेगरी के बाल सुनहरे या पीले रंग के हैं, जिन्हें कवि ने 'शहद के रंग की दीवारें' (ramparts) कहा है।"
+      },
+      "key_takeaway": {
+        "en": "Honey-colored hair = The symbol of Anne's outward beauty.",
+        "hi": "शहद जैसे बाल = एन की बाहरी सुंदरता का प्रतीक।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "What does the poet mean by 'honey-coloured ramparts at your ear'?",
+        "hi": "'आपके कान के पास शहद के रंग की प्राचीर (ramparts)' से कवि का क्या तात्पर्य है?"
+      },
+      "options": {
+        "a": {"en": "She has very big ears", "hi": "उसके कान बहुत बड़े हैं"},
+        "b": {"en": "Her yellow hair hanging down around her ears like a protective wall", "hi": "उसके कानों के चारों ओर एक सुरक्षा दीवार की तरह लटके पीले बाल"},
+        "c": {"en": "She is wearing yellow earrings", "hi": "उसने पीले रंग के झुमके पहने हैं"},
+        "d": {"en": "She has honey inside her ears", "hi": "उसके कानों में शहद है"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "A rampart is a protective wall around a castle. Here, it is a metaphor for her hair.",
+        "hi": "रैम्पर्ट (rampart) एक किले के चारों ओर एक सुरक्षात्मक दीवार होती है। यहाँ, यह उसके बालों के लिए एक रूपक है।"
+      },
+      "explanation": {
+        "en": "The poet uses 'ramparts' as a metaphor for Anne's thick, yellow hair that covers her ears and acts like a barrier that prevents men from seeing her inner self.",
+        "hi": "कवि ने 'रैम्पर्ट्स' का उपयोग एन के घने पीले बालों के लिए किया है जो उसके कानों को ढक लेते हैं और पुरुषों को उसके आंतरिक स्वभाव को देखने से रोकते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Ramparts = A metaphor for hair blocking the view of inner beauty.",
+        "hi": "Ramparts = आंतरिक सुंदरता को ओझल करने वाले बालों का रूपक।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "Why does a young man fall into 'despair' when he sees Anne?",
+        "hi": "एन को देखकर एक युवक 'निराशा' (despair) में क्यों पड़ जाता है?"
+      },
+      "options": {
+        "a": {"en": "Because she is mean to him", "hi": "क्योंकि वह उसके साथ बुरा व्यवहार करती है"},
+        "b": {"en": "Because he is so dazzled by her outer beauty that he cannot reach her heart", "hi": "क्योंकि वह उसकी बाहरी सुंदरता से इतना चकित है कि उसके दिल तक नहीं पहुँच पाता"},
+        "c": {"en": "Because he hates yellow hair", "hi": "क्योंकि उसे पीले बालों से नफरत है"},
+        "d": {"en": "Because she is very poor", "hi": "क्योंकि वह बहुत गरीब है"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The young man is overwhelmed by her physical charm and cannot look past it.",
+        "hi": "युवक उसके शारीरिक आकर्षण से अभिभूत है और उसके परे नहीं देख पाता।"
+      },
+      "explanation": {
+        "en": "A young man falls in love with her because of her beautiful hair. He is in despair because he is trapped by physical attraction and cannot love her for who she truly is.",
+        "hi": "एक युवक उसके सुंदर बालों के कारण उससे प्यार करता है। वह निराश है क्योंकि वह केवल बाहरी रूप से आकर्षित है।"
+      },
+      "key_takeaway": {
+        "en": "Physical beauty can be a barrier to true, soulful love.",
+        "hi": "शारीरिक सुंदरता सच्चे और आत्मिक प्रेम में बाधा बन सकती है।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "What does Anne Gregory say she can do to change her appearance?",
+        "hi": "एन ग्रेगरी का क्या कहना है कि वह अपना रूप बदलने के लिए क्या कर सकती है?"
+      },
+      "options": {
+        "a": {"en": "Cut her hair short", "hi": "अपने बाल छोटे करवा सकती है"},
+        "b": {"en": "Get a hair dye and change the color to brown, black, or carrot", "hi": "बालों को डाई करवाकर उनका रंग भूरा, काला या गाजर जैसा कर सकती है"},
+        "c": {"en": "Wear a mask", "hi": "एक मुखौटा पहन सकती है"},
+        "d": {"en": "Stop meeting people", "hi": "लोगों से मिलना बंद कर सकती है"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "She wants to prove that her hair color is not her real identity.",
+        "hi": "वह यह साबित करना चाहती है कि उसके बालों का रंग उसकी असली पहचान नहीं है।"
+      },
+      "explanation": {
+        "en": "Anne says she can get a hair-dye and change her yellow hair to brown, black, or red (carrot color) to see if anyone would love her for herself alone.",
+        "hi": "एन कहती है कि वह अपने बालों को डाई करके उनका रंग बदल सकती है ताकि यह देख सके कि क्या कोई उसे वास्तव में उसके व्यक्तित्व के लिए प्यार करेगा।"
+      },
+      "key_takeaway": {
+        "en": "Anne values her inner self over her physical features.",
+        "hi": "एन अपनी शारीरिक विशेषताओं से अधिक अपने आंतरिक स्वभाव को महत्व देती है।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "Why does Anne want to change her hair color?",
+        "hi": "एन अपने बालों का रंग क्यों बदलना चाहती है?"
+      },
+      "options": {
+        "a": {"en": "Because she is bored with yellow", "hi": "क्योंकि वह पीले रंग से ऊब गई है"},
+        "b": {"en": "So that men might love her for her inner self and not just her hair", "hi": "ताकि पुरुष उसे उसके आंतरिक स्वभाव के लिए प्यार करें, न कि केवल उसके बालों के लिए"},
+        "c": {"en": "Because her mother told her to", "hi": "क्योंकि उसकी माँ ने उसे ऐसा करने के लिए कहा था"},
+        "d": {"en": "To follow a new fashion", "hi": "एक नए फैशन का पालन करने के लिए"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "She wants a man to love her for 'myself alone'.",
+        "hi": "वह चाहती है कि कोई व्यक्ति उसे 'केवल उसके अपने लिए' (myself alone) प्यार करे।"
+      },
+      "explanation": {
+        "en": "Anne Gregory wants to be loved for her soul and character. She believes that by making herself less physically 'perfect', she might find a true lover.",
+        "hi": "एन ग्रेगरी चाहती है कि उसे उसकी आत्मा और चरित्र के लिए प्यार किया जाए। उसे लगता है कि बाहरी चमक कम करके ही उसे सच्चा प्रेमी मिल सकता है।"
+      },
+      "key_takeaway": {
+        "en": "The search for authentic love beyond superficiality.",
+        "hi": "सतहीपन से परे असली प्यार की तलाश।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "Who did the poet hear 'but yesternight'?",
+        "hi": "कवि ने 'कल ही रात' (but yesternight) किसको सुना था?"
+      },
+      "options": {
+        "a": {"en": "A young lover", "hi": "एक युवा प्रेमी को"},
+        "b": {"en": "An old religious man", "hi": "एक वृद्ध धार्मिक व्यक्ति को (An old religious man)"},
+        "c": {"en": "A scientist", "hi": "एक वैज्ञानिक को"},
+        "d": {"en": "Anne Gregory herself", "hi": "एन ग्रेगरी को"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This person had found a religious text to prove his point.",
+        "hi": "इस व्यक्ति को अपनी बात साबित करने के लिए एक धार्मिक ग्रंथ मिला था।"
+      },
+      "explanation": {
+        "en": "The poet mentions hearing an old religious man who quoted a sacred text to explain the nature of true love.",
+        "hi": "कवि एक बूढ़े धार्मिक व्यक्ति को सुनने का ज़िक्र करता है जिसने सच्चे प्रेम की प्रकृति को समझाने के लिए एक पवित्र ग्रंथ का उल्लेख किया था।"
+      },
+      "key_takeaway": {
+        "en": "Yesternight = The night before yesterday/Last night.",
+        "hi": "Yesternight = पिछली रात।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "What did the old religious man find in a text?",
+        "hi": "बूढ़े धार्मिक व्यक्ति को एक ग्रंथ (text) में क्या मिला?"
+      },
+      "options": {
+        "a": {"en": "That all humans are beautiful", "hi": "कि सभी मनुष्य सुंदर हैं"},
+        "b": {"en": "That only God can love you for yourself alone", "hi": "कि केवल भगवान ही आपको आपके वास्तविक स्वरूप के लिए प्यार कर सकते हैं"},
+        "c": {"en": "That yellow hair is better than brown", "hi": "कि पीले बाल भूरे बालों से बेहतर हैं"},
+        "d": {"en": "A recipe for hair dye", "hi": "बालों की डाई का एक नुस्खा"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He declared that only a divine being has the capacity to ignore physical flaws.",
+        "hi": "उसने घोषणा की कि केवल एक दैवीय शक्ति में ही शारीरिक खामियों को नज़रअंदाज़ करने की क्षमता है।"
+      },
+      "explanation": {
+        "en": "The religious man found proof in a text that 'only God, my dear, could love you for yourself alone and not your yellow hair.' This means humans are naturally driven by physical attraction.",
+        "hi": "धार्मिक व्यक्ति को एक ग्रंथ में प्रमाण मिला कि केवल ईश्वर ही बिना किसी बाहरी लालच के किसी को उसके वास्तविक गुणों के लिए प्रेम कर सकते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Human love is often conditional, while divine love is unconditional.",
+        "hi": "मानवीय प्रेम अक्सर शर्तों पर आधारित होता है, जबकि ईश्वरीय प्रेम बिना शर्त होता है।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "What is the rhyme scheme of the first stanza?",
+        "hi": "पहले छंद की तुकबंदी (Rhyme Scheme) क्या है?"
+      },
+      "options": {
+        "a": {"en": "ababab", "hi": "ababab"},
+        "b": {"en": "abcbdb", "hi": "abcbdb"},
+        "c": {"en": "aabbcc", "hi": "aabbcc"},
+        "d": {"en": "abbaaa", "hi": "abbaaa"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Despair, ear, and hair rhyme together.",
+        "hi": "Despair, ear, और hair की तुकबंदी मिलती है।"
+      },
+      "explanation": {
+        "en": "The second, fourth, and sixth lines rhyme (Despair/ear/hair). The first, third, and fifth lines do not rhyme with each other. This results in the scheme abcbdb.",
+        "hi": "दूसरी, चौथी और छठी पंक्तियों की तुकबंदी मिलती है, जिससे abcbdb पैटर्न बनता है।"
+      },
+      "key_takeaway": {
+        "en": "The poem uses a structured, alternating rhyme scheme.",
+        "hi": "कविता एक व्यवस्थित और वैकल्पिक तुकबंदी का उपयोग करती है।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "What does the word 'despair' mean in the poem?",
+        "hi": "कविता में 'despair' (निराशा) शब्द का क्या अर्थ है?"
+      },
+      "options": {
+        "a": {"en": "Extreme happiness", "hi": "अत्यधिक खुशी"},
+        "b": {"en": "Complete loss of hope or deep sadness", "hi": "आशा का पूरी तरह खत्म होना या गहरा दुख (Deep sadness)"},
+        "c": {"en": "A type of color", "hi": "एक प्रकार का रंग"},
+        "d": {"en": "A religious song", "hi": "एक धार्मिक गीत"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It describes the feeling of the young man who is hopelessly in love with Anne's beauty.",
+        "hi": "यह उस युवक की भावना का वर्णन करता है जो एन की सुंदरता के प्रति पूरी तरह समर्पित और उदास है।"
+      },
+      "explanation": {
+        "en": "Despair refers to a state of hopelessness. The young man is in despair because he is infatuated with Anne's physical appearance but cannot find a deeper connection.",
+        "hi": "Despair का अर्थ है पूरी तरह से निराश होना।"
+      },
+      "key_takeaway": {
+        "en": "Despair = Hopelessness.",
+        "hi": "Despair = निराशा।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "Which poetic device is used in the line 'honey-coloured ramparts at your ear'?",
+        "hi": "'honey-coloured ramparts at your ear' पंक्ति में किस काव्य अलंकार का प्रयोग किया गया है?"
+      },
+      "options": {
+        "a": {"en": "Simile", "hi": "उपमा"},
+        "b": {"en": "Metaphor", "hi": "रूपक (Metaphor)"},
+        "c": {"en": "Alliteration", "hi": "अनुप्रास"},
+        "d": {"en": "Oxymoron", "hi": "विरोधाभास"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The hair is directly compared to a rampart (wall) without using 'like' or 'as'.",
+        "hi": "बालों की तुलना 'like' या 'as' का उपयोग किए बिना सीधे दीवार (rampart) से की गई है।"
+      },
+      "explanation": {
+        "en": "This is a metaphor. The poet compares the hair surrounding the ear to the protective walls (ramparts) of a fort to show its thickness and beauty.",
+        "hi": "यह एक रूपक (metaphor) है क्योंकि बालों को सीधे दीवार के समान बताया गया है।"
+      },
+      "key_takeaway": {
+        "en": "Metaphor = Direct comparison for poetic effect.",
+        "hi": "Metaphor = काव्यात्मक प्रभाव के लिए सीधा मुकाबला।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "Who is the speaker in the second stanza?",
+        "hi": "दूसरे छंद (Stanza) में वक्ता कौन है?"
+      },
+      "options": {
+        "a": {"en": "The Poet", "hi": "कवि"},
+        "b": {"en": "Anne Gregory", "hi": "एन ग्रेगरी (Anne Gregory)"},
+        "c": {"en": "An old man", "hi": "एक बूढ़ा आदमी"},
+        "d": {"en": "A young lover", "hi": "एक युवा प्रेमी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This person says, 'But I can get a hair-dye...'",
+        "hi": "यह व्यक्ति कहता है, 'लेकिन मैं बालों की डाई ले सकती हूँ...'"
+      },
+      "explanation": {
+        "en": "In the second stanza, Anne Gregory replies to the poet/speaker. She expresses her desire to change her appearance to find true love.",
+        "hi": "दूसरे छंद में एन ग्रेगरी जवाब देती है और अपना रूप बदलने की बात करती है।"
+      },
+      "key_takeaway": {
+        "en": "The poem is structured as a dialogue.",
+        "hi": "कविता को एक संवाद (dialogue) के रूप में तैयार किया गया है।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "What is the meaning of 'myself alone' in the poem?",
+        "hi": "कविता में 'myself alone' (सिर्फ मेरे लिए) का क्या अर्थ है?"
+      },
+      "options": {
+        "a": {"en": "Being lonely", "hi": "अकेला होना"},
+        "b": {"en": "Being loved for her inner soul and character, regardless of looks", "hi": "दिखावे की परवाह किए बिना अपनी आंतरिक आत्मा और चरित्र के लिए प्यार किया जाना"},
+        "c": {"en": "Living without any friends", "hi": "बिना किसी दोस्त के रहना"},
+        "d": {"en": "Doing everything by herself", "hi": "सब कुछ खुद करना"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Anne wants a love that is based on her personality, not her hair.",
+        "hi": "एन ऐसा प्यार चाहती है जो उसके व्यक्तित्व पर आधारित हो, न कि उसके बालों पर।"
+      },
+      "explanation": {
+        "en": "To be loved for 'myself alone' means to be loved for one's true essence, thoughts, and feelings, rather than just physical features like 'yellow hair'.",
+        "hi": "'Myself alone' का अर्थ है किसी को उसकी असलियत और गुणों के लिए प्यार करना।"
+      },
+      "key_takeaway": {
+        "en": "True identity lies within, not on the surface.",
+        "hi": "असली पहचान अंदर होती है, सतह पर नहीं।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "What does the word 'carrot' refer to in the poem?",
+        "hi": "कविता में 'गाजर' (carrot) शब्द का क्या तात्पर्य है?"
+      },
+      "options": {
+        "a": {"en": "The vegetable", "hi": "सब्जी"},
+        "b": {"en": "Red-colored hair", "hi": "लाल रंग के बाल (Red hair color)"},
+        "c": {"en": "A type of bird", "hi": "एक प्रकार का पक्षी"},
+        "d": {"en": "A gift for Anne", "hi": "एन के लिए एक उपहार"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Anne says she can dye her hair to this color.",
+        "hi": "एन का कहना है कि वह अपने बालों को इस रंग में रंग सकती है।"
+      },
+      "explanation": {
+        "en": "When Anne says she can dye her hair 'carrot', she means she can change it to a reddish-orange color. This is another common natural hair color.",
+        "hi": "यहाँ 'carrot' का अर्थ लाल-नारंगी बालों के रंग से है।"
+      },
+      "key_takeaway": {
+        "en": "Carrot = Reddish-orange hair color.",
+        "hi": "Carrot = लाल-नारंगी बालों का रंग।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "According to the religious man, who can ignore physical appearances?",
+        "hi": "धार्मिक व्यक्ति के अनुसार, शारीरिक बनावट को कौन नज़रअंदाज़ कर सकता है?"
+      },
+      "options": {
+        "a": {"en": "A young man", "hi": "एक युवा व्यक्ति"},
+        "b": {"en": "Only God", "hi": "केवल भगवान (Only God)"},
+        "c": {"en": "A poet", "hi": "एक कवि"},
+        "d": {"en": "A hair-dresser", "hi": "एक हेयर-ड्रेसर"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The text says 'only ______ could love you for yourself alone'.",
+        "hi": "ग्रंथ कहता है 'केवल ______ ही आपको आपके वास्तविक स्वरूप के लिए प्यार कर सकता है'।"
+      },
+      "explanation": {
+        "en": "The poem concludes that human beings are often limited by their senses and attracted to beauty. Only God has the divine capacity to love a soul unconditionally.",
+        "hi": "कविता का निष्कर्ष है कि मनुष्य अक्सर सुंदरता से आकर्षित होते हैं, लेकिन केवल ईश्वर ही आत्मा से प्रेम करते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Divine love is superior to human physical attraction.",
+        "hi": "दैवीय प्रेम मानवीय शारीरिक आकर्षण से श्रेष्ठ है।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "The poem 'For Anne Gregory' is a ______.",
+        "hi": "'एन ग्रेगरी के लिए' कविता एक ______ है।",
+      },
+      "options": {
+        "a": {"en": "Ballad", "hi": "गाथागीत"},
+        "b": {"en": "Dialogue or Conversation", "hi": "संवाद या बातचीत (Dialogue)"},
+        "c": {"en": "Sonnet", "hi": "सॉनेट"},
+        "d": {"en": "Epic", "hi": "महाकाव्य"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It features two speakers talking to each other.",
+        "hi": "इसमें दो वक्ता एक-दूसरे से बात करते हुए नज़र आते हैं।"
+      },
+      "explanation": {
+        "en": "The poem is structured as a conversation between two people, making it a dramatic dialogue about the nature of love.",
+        "hi": "यह कविता दो लोगों के बीच की बातचीत है, जो इसे एक संवाद बनाती है।"
+      },
+      "key_takeaway": {
+        "en": "Dialogic structure helps in presenting opposing viewpoints.",
+        "hi": "संवादात्मक संरचना विरोधी दृष्टिकोणों को प्रस्तुत करने में मदद करती है।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "What is the significance of the 'religious text' in the poem?",
+        "hi": "कविता में 'धार्मिक ग्रंथ' (religious text) का क्या महत्व है?"
+      },
+      "options": {
+        "a": {"en": "To tell a story about a king", "hi": "एक राजा की कहानी सुनाने के लिए"},
+        "b": {"en": "To provide authority to the idea that only God loves unconditionally", "hi": "इस विचार को आधिकारिक प्रमाण देने के लिए कि केवल ईश्वर ही बिना शर्त प्रेम करते हैं"},
+        "c": {"en": "To teach how to pray", "hi": "प्रार्थना करना सिखाने के लिए"},
+        "d": {"en": "To show that the poet is very old", "hi": "यह दिखाने के लिए कि कवि बहुत बूढ़ा है"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The poet uses it as 'proof' for his final argument.",
+        "hi": "कवि अपने अंतिम तर्क के लिए इसे 'प्रमाण' के रूप में उपयोग करता है।"
+      },
+      "explanation": {
+        "en": "The 'text' represents ancient wisdom and spiritual truth. It confirms that the desire to be loved for one's soul is a divine expectation, not easily met by humans.",
+        "hi": "'ग्रंथ' प्राचीन ज्ञान का प्रतीक है जो बताता है कि आत्मा से प्रेम करना एक ईश्वरीय गुण है।"
+      },
+      "key_takeaway": {
+        "en": "A text provides spiritual validation for the poem's message.",
+        "hi": "ग्रंथ कविता के संदेश को आध्यात्मिक मान्यता प्रदान करता है।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "What is the tone of Anne Gregory in the second stanza?",
+        "hi": "दूसरे छंद में एन ग्रेगरी का लहज़ा (Tone) कैसा है?"
+      },
+      "options": {
+        "a": {"en": "Angry", "hi": "क्रोधित"},
+        "b": {"en": "Determined and Practical", "hi": "दृढ़ और व्यावहारिक (Determined)"},
+        "c": {"en": "Playful", "hi": "चंचल"},
+        "d": {"en": "Confused", "hi": "उलझन भरा"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "She offers a concrete solution (dyeing hair) to a philosophical problem.",
+        "hi": "वह एक दार्शनिक समस्या का एक ठोस समाधान (बालों को रंगना) पेश करती है।"
+      },
+      "explanation": {
+        "en": "Anne's tone is determined. She is willing to sacrifice her best physical feature (her hair) just to ensure that she is loved for the right reasons.",
+        "hi": "एन का लहज़ा दृढ़ है। वह सही कारणों से प्यार पाने के लिए अपने बालों की कुर्बानी देने को भी तैयार है।"
+      },
+      "key_takeaway": {
+        "en": "True self-respect involves the willingness to let go of vanity.",
+        "hi": "सच्चे आत्म-सम्मान में दिखावे को छोड़ने की इच्छा शामिल होती है।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "Which word in the poem means 'a structure built to protect a place'?",
+        "hi": "कविता में किस शब्द का अर्थ 'किसी स्थान की रक्षा के लिए बनाई गई संरचना' है?"
+      },
+      "options": {
+        "a": {"en": "Stanza", "hi": "छंद"},
+        "b": {"en": "Rampart", "hi": "प्राचीर (Rampart)"},
+        "c": {"en": "Despair", "hi": "निराशा"},
+        "d": {"en": "Text", "hi": "ग्रंथ"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It is used metaphorically for Anne's hair.",
+        "hi": "इसका उपयोग एन के बालों के लिए रूपक के रूप में किया गया है।"
+      },
+      "explanation": {
+        "en": "A rampart is a defensive wall. In the poem, it refers to the thick hair falling over Anne's ears, acting like a wall for anyone trying to look inside.",
+        "hi": "रैम्पर्ट का अर्थ है सुरक्षात्मक दीवार।"
+      },
+      "key_takeaway": {
+        "en": "Rampart = Protective wall/Barricade.",
+        "hi": "Rampart = सुरक्षात्मक दीवार।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "What is the main theme of 'For Anne Gregory'?",
+        "hi": "'एन ग्रेगरी के लिए' कविता का मुख्य विषय क्या है?"
+      },
+      "options": {
+        "a": {"en": "The history of Ireland", "hi": "आयरलैंड का इतिहास"},
+        "b": {"en": "The contrast between physical beauty and spiritual love", "hi": "शारीरिक सुंदरता और आध्यात्मिक प्रेम के बीच का अंतर"},
+        "c": {"en": "How to dye your hair", "hi": "अपने बालों को कैसे रंगें"},
+        "d": {"en": "The importance of religion", "hi": "धर्म का महत्व"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The poem explores why men love and who can love a person truly.",
+        "hi": "कविता यह पता लगाती है कि पुरुष क्यों प्यार करते हैं और कौन किसी को वास्तव में प्यार कर सकता है।"
+      },
+      "explanation": {
+        "en": "The central theme is that human love is often based on superficial beauty, but true love should value the inner soul. Only God is capable of such perfect, unconditioned love.",
+        "hi": "मुख्य विषय यह है कि मानवीय प्रेम अक्सर दिखावे पर आधारित होता है, जबकि सच्चा प्रेम आंतरिक आत्मा को महत्व देना चाहिए।"
+      },
+      "key_takeaway": {
+        "en": "True beauty is internal; physical beauty is temporary.",
+        "hi": "सच्ची सुंदरता आंतरिक होती है; शारीरिक सुंदरता अस्थायी है।"
+      }
+    }
+  ]
+}

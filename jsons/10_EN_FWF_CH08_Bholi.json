@@ -1,0 +1,800 @@
+{
+  "metadata": {
+    "chapter_number": 8,
+    "chapter_title": "Bholi",
+    "chapter_title_hindi": "भोली",
+    "subject": "English (Footprints Without Feet) - Class 10",
+    "board": "HPBOSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.0",
+    "naming_convention": "10_EN_FWF_CH08_Bholi.json"
+  },
+  "validation_report": {
+    "is_valid": true,
+    "checked_by": "AI Tutor",
+    "checked_at": "2026-01-21T15:30:00Z",
+    "notes": "Covers Bholi's journey from a neglected child to a confident adult. Bilingual accuracy verified."
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "What was Bholi's real name?",
+        "hi": "भोली का असली नाम क्या था?"
+      },
+      "options": {
+        "a": {"en": "Sulekha", "hi": "सुलेखा"},
+        "b": {"en": "Radha", "hi": "राधा"},
+        "c": {"en": "Mangla", "hi": "मंगला"},
+        "d": {"en": "Champa", "hi": "चंपा"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "The name 'Bholi' was given to her because she was considered a simpleton.",
+        "hi": "उसे 'भोली' नाम इसलिए दिया गया था क्योंकि उसे बुद्धू या सीधा-सादा समझा जाता था।"
+      },
+      "explanation": {
+        "en": "Her real name was Sulekha. Since her childhood, everyone had been calling her Bholi, the simpleton, because of a brain injury she suffered as a baby.",
+        "hi": "उसका असली नाम सुलेखा था, लेकिन बचपन में सिर पर चोट लगने के कारण वह थोड़ी धीमी थी, इसलिए सब उसे भोली कहने लगे।"
+      },
+      "key_takeaway": {
+        "en": "Sulekha = The real identity of the protagonist.",
+        "hi": "सुलेखा = मुख्य पात्र की असली पहचान।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "What happened to Bholi when she was ten months old?",
+        "hi": "जब भोली दस महीने की थी तब उसके साथ क्या हुआ था?"
+      },
+      "options": {
+        "a": {"en": "She fell off the cot", "hi": "वह खाट से गिर गई थी"},
+        "b": {"en": "She got smallpox", "hi": "उसे चेचक हो गया था"},
+        "c": {"en": "She lost her voice", "hi": "उसकी आवाज़ चली गई थी"},
+        "d": {"en": "She ran away", "hi": "वह भाग गई थी"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "She fell on her head, which damaged some part of her brain.",
+        "hi": "वह सिर के बल गिर गई थी, जिससे उसके दिमाग के कुछ हिस्से को नुकसान पहुँचा था।"
+      },
+      "explanation": {
+        "en": "When Bholi was ten months old, she fell off the cot on her head. It was believed that this fall damaged a part of her brain, making her a slow learner.",
+        "hi": "दस महीने की उम्र में भोली खाट से सिर के बल गिर गई थी, जिससे उसके दिमाग पर बुरा असर पड़ा और वह मानसिक रूप से पिछड़ गई।"
+      },
+      "key_takeaway": {
+        "en": "Physical trauma in childhood led to Bholi's mental condition.",
+        "hi": "बचपन की चोट भोली की मानसिक स्थिति का कारण बनी।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "What physical mark did smallpox leave on Bholi's body?",
+        "hi": "चेचक ने भोली के शरीर पर कौन सा निशान छोड़ दिया था?"
+      },
+      "options": {
+        "a": {"en": "Deep black pockmarks all over her body", "hi": "पूरे शरीर पर गहरे काले चेचक के दाग"},
+        "b": {"en": "A scar on her forehead", "hi": "माथे पर एक निशान"},
+        "c": {"en": "She became blind", "hi": "वह अंधी हो गई"},
+        "d": {"en": "No marks were left", "hi": "कोई निशान नहीं बचा था"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "This happened when she was two years old. Only her eyes were saved.",
+        "hi": "यह तब हुआ जब वह दो साल की थी। केवल उसकी आँखें ही बच पाई थीं।"
+      },
+      "explanation": {
+        "en": "At the age of two, Bholi had an attack of smallpox. Her entire body was permanently disfigured by deep black pockmarks, except for her eyes.",
+        "hi": "दो साल की उम्र में चेचक होने के कारण भोली का पूरा शरीर गहरे काले निशानों से भर गया और वह बदसूरत लगने लगी।"
+      },
+      "key_takeaway": {
+        "en": "Smallpox permanently changed Bholi's physical appearance.",
+        "hi": "चेचक ने भोली के बाहरी रूप को स्थायी रूप से बदल दिया।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "How many children did Ramlal have in total?",
+        "hi": "रामनलाल के कुल कितने बच्चे थे?"
+      },
+      "options": {
+        "a": {"en": "Three sons and four daughters", "hi": "तीन बेटे और चार बेटियाँ"},
+        "b": {"en": "Two sons and three daughters", "hi": "दो बेटे और तीन बेटियाँ"},
+        "c": {"en": "Four sons and three daughters", "hi": "चार बेटे और तीन बेटियाँ"},
+        "d": {"en": "One son and six daughters", "hi": "एक बेटा और छह बेटियाँ"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "Bholi was the youngest of them all.",
+        "hi": "भोली उन सबमें सबसे छोटी थी।"
+      },
+      "explanation": {
+        "en": "Ramlal had seven children—three sons and four daughters. Bholi was the fourth daughter and the youngest child in the family.",
+        "hi": "रामनलाल के सात बच्चे थे—तीन बेटे और चार बेटियाँ। भोली सबसे छोटी थी।"
+      },
+      "key_takeaway": {
+        "en": "Bholi came from a large family where she was often ignored.",
+        "hi": "भोली एक बड़े परिवार से थी जहाँ उसे अक्सर नज़रअंदाज़ किया जाता था।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "What was Ramlal's occupation in the village?",
+        "hi": "गाँव में रामनलाल का पेशा क्या था?"
+      },
+      "options": {
+        "a": {"en": "The village Priest", "hi": "गाँव का पुजारी"},
+        "b": {"en": "The Numberdar (Revenue official)", "hi": "नंबरदार (राजस्व अधिकारी)"},
+        "c": {"en": "A School Teacher", "hi": "एक स्कूल शिक्षक"},
+        "d": {"en": "A wealthy merchant", "hi": "एक अमीर व्यापारी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He was a representative of the government in the village.",
+        "hi": "वह गाँव में सरकार का प्रतिनिधि था।"
+      },
+      "explanation": {
+        "en": "Ramlal was the Numberdar of the village, responsible for collecting land revenue for the government. He was a prosperous farmer.",
+        "hi": "रामनलाल गाँव का नंबरदार था, जो सरकार के लिए लगान (टैक्स) वसूलने का काम करता था।"
+      },
+      "key_takeaway": {
+        "en": "Numberdar = A village official of significant status.",
+        "hi": "Numberdar = एक महत्वपूर्ण पद वाला ग्रामीण अधिकारी।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "Who came to the village to perform the opening ceremony of the primary school?",
+        "hi": "गाँव में प्राथमिक विद्यालय का उद्घाटन समारोह करने कौन आया था?"
+      },
+      "options": {
+        "a": {"en": "The Governor", "hi": "राज्यपाल"},
+        "b": {"en": "The Tehsildar", "hi": "तहसीलदार (The Tehsildar)"},
+        "c": {"en": "The District Magistrate", "hi": "जिला मजिस्ट्रेट"},
+        "d": {"en": "The Education Minister", "hi": "शिक्षा मंत्री"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He urged Ramlal to set an example for the village by sending his daughters to school.",
+        "hi": "उन्होंने रामनलाल से अपनी बेटियों को स्कूल भेजकर गाँव के लिए एक मिसाल कायम करने का आग्रह किया।"
+      },
+      "explanation": {
+        "en": "The Tehsildar came to the village to open the primary school for girls. He told Ramlal that as a government official, he must send his daughters to school.",
+        "hi": "तहसीलदार ने गाँव में लड़कियों के स्कूल का उद्घाटन किया और रामनलाल को अपनी बेटियों को स्कूल भेजने की सलाह दी।"
+      },
+      "key_takeaway": {
+        "en": "The Tehsildar initiated the push for female education in the village.",
+        "hi": "तहसीलदार ने गाँव में लड़कियों की शिक्षा की पहल की।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "What did Ramlal's wife think about sending her daughters to school?",
+        "hi": "रामनलाल की पत्नी अपनी बेटियों को स्कूल भेजने के बारे में क्या सोचती थी?"
+      },
+      "options": {
+        "a": {"en": "She was very excited", "hi": "वह बहुत उत्साहित थी"},
+        "b": {"en": "She thought no one would marry educated girls", "hi": "उसे लगा कि शिक्षित लड़कियों से कोई शादी नहीं करेगा"},
+        "c": {"en": "She wanted to become a teacher herself", "hi": "वह खुद शिक्षक बनना चाहती थी"},
+        "d": {"en": "She didn't care at all", "hi": "उसे बिल्कुल परवाह नहीं थी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "She held the old traditional view that school was not for girls.",
+        "hi": "वह पुराने पारंपरिक विचार रखती थी कि स्कूल लड़कियों के लिए नहीं है।"
+      },
+      "explanation": {
+        "en": "Ramlal’s wife was shocked. She said, 'Are you crazy? If girls go to school, who will marry them?' At that time, education for girls was seen as a barrier to marriage.",
+        "hi": "रामनलाल की पत्नी को लगा कि अगर लड़कियाँ स्कूल जाएँगी तो उनसे शादी कौन करेगा, क्योंकि उस समय समाज लड़कियों की शिक्षा के खिलाफ था।"
+      },
+      "key_takeaway": {
+        "en": "Traditional society saw education as a disadvantage for women's marriage prospects.",
+        "hi": "पारंपरिक समाज शिक्षा को महिलाओं की शादी में बाधा मानता था।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "Why did Bholi's mother suggest sending Bholi to school?",
+        "hi": "भोली की माँ ने भोली को स्कूल भेजने का सुझाव क्यों दिया?"
+      },
+      "options": {
+        "a": {"en": "Because she wanted Bholi to be smart", "hi": "क्योंकि वह चाहती थी कि भोली होशियार बने"},
+        "b": {"en": "Because Bholi had little chance of getting married anyway", "hi": "क्योंकि वैसे भी भोली की शादी होने की संभावना कम थी"},
+        "c": {"en": "Because the school was free", "hi": "क्योंकि स्कूल मुफ्त था"},
+        "d": {"en": "To get rid of Bholi forever", "hi": "भोली से हमेशा के लिए पीछा छुड़ाने के लिए"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Her mother felt that with her ugly face and lack of sense, the teachers could deal with her.",
+        "hi": "उसकी माँ को लगा कि उसके बदसूरत चेहरे और कम अक्ल के साथ, शिक्षक ही उसे संभाल सकते हैं।"
+      },
+      "explanation": {
+        "en": "The mother thought Bholi was ugly and witless, and no one would marry her. So, she suggested sending her to school to fulfill the Tehsildar's order without risking the other daughters' marriages.",
+        "hi": "माँ ने सोचा कि भोली तो वैसे ही बदसूरत और बुद्धू है, उससे कोई शादी नहीं करेगा, इसलिए उसे ही स्कूल भेज देते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Bholi was sent to school not for her benefit, but because she was considered a burden.",
+        "hi": "भोली को उसके फायदे के लिए नहीं, बल्कि एक बोझ समझकर स्कूल भेजा गया था।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "Why was Bholi frightened to go to school on the first day?",
+        "hi": "पहले दिन स्कूल जाने के लिए भोली क्यों डरी हुई थी?"
+      },
+      "options": {
+        "a": {"en": "She thought she was being sold like their cow Lakshmi", "hi": "उसने सोचा कि उसे उनकी गाय लक्ष्मी की तरह बेचा जा रहा है"},
+        "b": {"en": "She was afraid of the principal", "hi": "वह प्रधानाचार्य से डरती थी"},
+        "c": {"en": "She didn't have a uniform", "hi": "उसके पास वर्दी नहीं थी"},
+        "d": {"en": "She didn't know the way", "hi": "वह रास्ता नहीं जानती थी"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "She remembered how her father had recently led their old cow out of the house to be sold.",
+        "hi": "उसे याद था कि कैसे उसके पिता हाल ही में उनकी पुरानी गाय को बेचने के लिए घर से बाहर ले गए थे।"
+      },
+      "explanation": {
+        "en": "When her father caught her hand to take her to school, Bholi remembered how their cow, Lakshmi, had been turned out of the house and sold. She screamed in terror, thinking the same would happen to her.",
+        "hi": "भोली को लगा कि उसके पिता उसे भी गाय लक्ष्मी की तरह घर से बाहर निकालकर कहीं बेच देंगे, इसलिए वह डर गई।"
+      },
+      "key_takeaway": {
+        "en": "Bholi lacked a sense of security and trust in her parents.",
+        "hi": "भोली को अपने माता-पिता पर भरोसा और सुरक्षा का अहसास नहीं था।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "What did the teacher do that surprised and comforted Bholi in class?",
+        "hi": "शिक्षक ने कक्षा में ऐसा क्या किया जिससे भोली हैरान और शांत हो गई?"
+      },
+      "options": {
+        "a": {"en": "She gave Bholi a candy", "hi": "उसने भोली को एक कैंडी दी"},
+        "b": {"en": "She spoke to her in a soft, soothing voice", "hi": "उसने उससे बहुत ही कोमल और सुखद आवाज़ में बात की"},
+        "c": {"en": "She scolded the other girls", "hi": "उसने दूसरी लड़कियों को डांटा"},
+        "d": {"en": "She sent Bholi home", "hi": "उसने भोली को घर भेज दिया"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Bholi had never heard such a kind voice in her entire life.",
+        "hi": "भोली ने अपने पूरे जीवन में इतनी दयालु आवाज़ कभी नहीं सुनी थी।"
+      },
+      "explanation": {
+        "en": "In her entire life, no one had ever spoken to Bholi so kindly. The teacher's soft voice touched her heart and gave her the courage to try and speak.",
+        "hi": "शिक्षक की कोमल आवाज़ और व्यवहार ने भोली का दिल जीत लिया, क्योंकि घर पर उससे हमेशा बुरा बर्ताव होता था।"
+      },
+      "key_takeaway": {
+        "en": "Empathy and kindness from a teacher can transform a student.",
+        "hi": "शिक्षक की सहानुभूति और दयालुता एक छात्र को बदल सकती है।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "What was Bholi's struggle when the teacher asked for her name?",
+        "hi": "जब शिक्षक ने भोली का नाम पूछा तो उसे किस समस्या का सामना करना पड़ा?"
+      },
+      "options": {
+        "a": {"en": "She forgot her name", "hi": "वह अपना नाम भूल गई"},
+        "b": {"en": "She started stammering and could not speak", "hi": "वह हकलाने लगी और बोल नहीं पाई"},
+        "c": {"en": "She was too shy to speak", "hi": "वह बोलने में बहुत शर्मा रही थी"},
+        "d": {"en": "She gave the wrong name", "hi": "उसने गलत नाम बताया"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The other girls laughed at her when she tried to say her name.",
+        "hi": "जब उसने अपना नाम बताने की कोशिश की तो दूसरी लड़कियां उस पर हँसने लगीं।"
+      },
+      "explanation": {
+        "en": "Bholi used to stammer. When she tried to say 'Bh-Bh-Bholi', she could not complete it and began to cry, hiding her face in her hands.",
+        "hi": "भोली हकलाती थी। जब उसने अपना नाम बताने की कोशिश की, तो वह 'भो-भो...' पर ही अटक गई और रोने लगी।"
+      },
+      "key_takeaway": {
+        "en": "Stammering = Bholi's speech defect caused by her brain injury.",
+        "hi": "हकलाना = भोली की दिमागी चोट के कारण उसकी वाणी का दोष।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "What did the teacher promise Bholi if she came to school every day?",
+        "hi": "शिक्षक ने भोली से क्या वादा किया अगर वह रोज़ स्कूल आए?"
+      },
+      "options": {
+        "a": {"en": "A new dress every month", "hi": "हर महीने एक नई ड्रेस"},
+        "b": {"en": "That she would be able to speak without a stammer", "hi": "कि वह बिना हकलाए बोल पाएगी"},
+        "c": {"en": "A bag full of toys", "hi": "खिलौनों से भरा बैग"},
+        "d": {"en": "That she would never have to study", "hi": "कि उसे कभी पढ़ाई नहीं करनी पड़ेगी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The teacher told her that she would be more learned than anyone else in the village.",
+        "hi": "शिक्षक ने उसे बताया कि वह गाँव में किसी भी अन्य व्यक्ति की तुलना में अधिक विद्वान होगी।"
+      },
+      "explanation": {
+        "en": "The teacher gave Bholi a book and told her that soon she would be able to read and speak clearly like everyone else, and no one would ever laugh at her again.",
+        "hi": "शिक्षक ने वादा किया कि शिक्षा के माध्यम से वह न केवल हकलाना छोड़ देगी, बल्कि लोग उसका सम्मान भी करेंगे।"
+      },
+      "key_takeaway": {
+        "en": "Education is a tool for self-confidence and respect.",
+        "hi": "शिक्षा आत्मविश्वास और सम्मान पाने का एक साधन है।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "Who was Bishamber Nath?",
+        "hi": "बिशंभर नाथ कौन था?"
+      },
+      "options": {
+        "a": {"en": "Bholi's teacher", "hi": "भोली का शिक्षक"},
+        "b": {"en": "A well-to-do grocer from another village", "hi": "दूसरे गाँव का एक संपन्न पंसारी (दूकानदार)"},
+        "c": {"en": "Ramlal's brother", "hi": "रामनलाल का भाई"},
+        "d": {"en": "The Tehsildar's son", "hi": "तहसीलदार का बेटा"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He was the man who proposed to marry Bholi.",
+        "hi": "वह वही आदमी था जिसने भोली से शादी का प्रस्ताव रखा था।"
+      },
+      "explanation": {
+        "en": "Bishamber Nath was a middle-aged, wealthy grocer from another village. He was a widower with grown-up children and walked with a limp.",
+        "hi": "बिशंभर नाथ एक अमीर लेकिन उम्रदराज दुकानदार था जिसने भोली से शादी का प्रस्ताव दिया था।"
+      },
+      "key_takeaway": {
+        "en": "Bishamber Nath = The suitor chosen for Bholi because of his wealth.",
+        "hi": "बिशंभर नाथ = भोली के लिए उसकी दौलत के कारण चुना गया दूल्हा।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "Why did Bholi's parents accept Bishamber's proposal?",
+        "hi": "भोली के माता-पिता ने बिशंभर का प्रस्ताव क्यों स्वीकार किया?"
+      },
+      "options": {
+        "a": {"en": "They loved him very much", "hi": "वे उससे बहुत प्यार करते थे"},
+        "b": {"en": "Because he didn't ask for dowry and was very rich", "hi": "क्योंकि उसने दहेज नहीं माँगा था और वह बहुत अमीर था"},
+        "c": {"en": "Bholi liked him", "hi": "भोली उसे पसंद करती थी"},
+        "d": {"en": "He was very young and handsome", "hi": "वह बहुत युवा और सुंदर था"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Ramlal's wife felt Bholi was lucky to get such a rich husband despite her flaws.",
+        "hi": "रामनलाल की पत्नी को लगा कि अपनी कमियों के बावजूद भोली भाग्यशाली है कि उसे इतना अमीर पति मिल रहा है।"
+      },
+      "explanation": {
+        "en": "Bishamber was rich and did not ask for any dowry initially. Ramlal’s wife felt that if they refused, Bholi might remain unmarried for the rest of her life.",
+        "hi": "बिशंभर अमीर था और उसने शुरू में दहेज नहीं माँगा था। माता-पिता को लगा कि भोली के लिए इससे अच्छा रिश्ता नहीं मिलेगा।"
+      },
+      "key_takeaway": {
+        "en": "Financial security was prioritized over the age and physical condition of the groom.",
+        "hi": "दूल्हे की उम्र और स्थिति के बजाय आर्थिक सुरक्षा को प्राथमिकता दी गई।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "What did Bishamber demand when he saw Bholi's pockmarked face?",
+        "hi": "भोली का चेचक के दागों वाला चेहरा देखकर बिशंभर ने क्या मांग की?"
+      },
+      "options": {
+        "a": {"en": "He wanted to cancel the wedding", "hi": "वह शादी रद्द करना चाहता था"},
+        "b": {"en": "A dowry of five thousand rupees", "hi": "पाँच हजार रुपये का दहेज"},
+        "c": {"en": "A new car", "hi": "एक नई कार"},
+        "d": {"en": "A larger house", "hi": "एक बड़ा घर"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He threatened to go back without the garland if the money wasn't paid.",
+        "hi": "उसने धमकी दी कि अगर पैसे नहीं दिए गए तो वह बिना जयमाला के वापस चला जाएगा।"
+      },
+      "explanation": {
+        "en": "When the veil slipped and Bishamber saw the pockmarks, he became greedy. He told Ramlal that he would only marry Bholi if he was given five thousand rupees as dowry.",
+        "hi": "जब बिशंभर ने भोली का चेहरा देखा, तो उसने शादी के लिए 5,000 रुपये दहेज की शर्त रख दी।"
+      },
+      "key_takeaway": {
+        "en": "Greed can reveal a person's true character at critical moments.",
+        "hi": "लालच महत्वपूर्ण क्षणों में व्यक्ति का असली चरित्र उजागर कर देता है।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "What did Ramlal do to save his 'izzat' (honor)?",
+        "hi": "रामनलाल ने अपनी 'इज्ज़त' बचाने के लिए क्या किया?"
+      },
+      "options": {
+        "a": {"en": "He called the police", "hi": "उसने पुलिस को बुलाया"},
+        "b": {"en": "He placed his turban at Bishamber's feet and gave the money", "hi": "उसने बिशंभर के चरणों में अपनी पगड़ी रख दी और पैसे दे दिए"},
+        "c": {"en": "He fought with Bishamber", "hi": "उसने बिशंभर के साथ लड़ाई की"},
+        "d": {"en": "He asked Bholi to run away", "hi": "उसने भोली को भागने के लिए कहा"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The turban is a symbol of a man's pride and honor in Indian culture.",
+        "hi": "भारतीय संस्कृति में पगड़ी पुरुष के गर्व और सम्मान का प्रतीक है।"
+      },
+      "explanation": {
+        "en": "To save the family's honor, a crying Ramlal placed his turban at Bishamber's feet and eventually went inside to bring the five thousand rupees.",
+        "hi": "परिवार की इज्ज़त बचाने के लिए रामनलाल ने रोते हुए अपनी पगड़ी बिशंभर के पैरों में रख दी और उसे पैसे दिए।"
+      },
+      "key_takeaway": {
+        "en": "The practice of dowry forces parents into humiliating positions.",
+        "hi": "दहेज प्रथा माता-पिता को अपमानजनक स्थितियों में डाल देती है।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "What did Bholi do when Bishamber raised the garland to place it around her neck?",
+        "hi": "जब बिशंभर ने भोली के गले में वरमाला डालने के लिए हाथ उठाया, तो भोली ने क्या किया?"
+      },
+      "options": {
+        "a": {"en": "She started crying", "hi": "वह रोने लगी"},
+        "b": {"en": "She flung the garland into the fire and stood up", "hi": "उसने माला आग में फेंक दी और खड़ी हो गई"},
+        "c": {"en": "She fainted", "hi": "वह बेहोश हो गई"},
+        "d": {"en": "She accepted the garland quietly", "hi": "उसने चुपचाप माला स्वीकार कर ली"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Her hand struck out like a streak of lightning.",
+        "hi": "उसका हाथ बिजली की तरह तेज़ी से चला।"
+      },
+      "explanation": {
+        "en": "Just as Bishamber was about to garland her, Bholi's hand struck out. She threw the garland into the sacred fire and told her father in a clear, loud voice that she would not marry this man.",
+        "hi": "जैसे ही बिशंभर ने माला डालनी चाही, भोली ने माला छीनकर आग में फेंक दी और शादी से साफ मना कर दिया।"
+      },
+      "key_takeaway": {
+        "en": "Bholi's transformation was complete; she chose self-respect over a bad marriage.",
+        "hi": "भोली का परिवर्तन पूरा हो चुका था; उसने अपमानजनक शादी के बजाय आत्म-सम्मान को चुना।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "What was different about Bholi's voice when she refused the marriage?",
+        "hi": "शादी से इनकार करते समय भोली की आवाज़ में क्या अलग था?"
+      },
+      "options": {
+        "a": {"en": "She was whispering", "hi": "वह फुसफुसा रही थी"},
+        "b": {"en": "She spoke in a clear, loud voice without even a slight stammer", "hi": "वह बिना किसी हकलाहट के साफ़ और ऊँची आवाज़ में बोली"},
+        "c": {"en": "She was stammering more than usual", "hi": "वह सामान्य से ज़्यादा हकला रही थी"},
+        "d": {"en": "She could not speak at all", "hi": "वह बिल्कुल नहीं बोल पा रही थी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The years of schooling and the teacher's encouragement had finally paid off.",
+        "hi": "बरसों की पढ़ाई और शिक्षक के प्रोत्साहन का फल आखिरकार मिल गया था।"
+      },
+      "explanation": {
+        "en": "The most shocking thing for the guests and her family was that Bholi spoke without any stammer. Her education had given her the confidence to speak her mind clearly.",
+        "hi": "सबके लिए सबसे चौंकाने वाली बात यह थी कि भोली बिना हकलाए बिल्कुल साफ़ आवाज़ में बोल रही थी।"
+      },
+      "key_takeaway": {
+        "en": "Confidence removes physical barriers like stammering.",
+        "hi": "आत्मविश्वास हकलाने जैसी शारीरिक बाधाओं को दूर कर देता है।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "What reason did Bholi give for not marrying Bishamber?",
+        "hi": "भोली ने बिशंभर से शादी न करने का क्या कारण बताया?"
+      },
+      "options": {
+        "a": {"en": "Because he was old", "hi": "क्योंकि वह बूढ़ा था"},
+        "b": {"en": "Because he was a mean, greedy, and cowardly person", "hi": "क्योंकि वह एक नीच, लालची और डरपोक व्यक्ति था"},
+        "c": {"en": "Because she wanted to stay in the city", "hi": "क्योंकि वह शहर में रहना चाहती थी"},
+        "d": {"en": "Because she didn't like his friends", "hi": "क्योंकि उसे उसके दोस्त पसंद नहीं थे"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "She was willing to marry him for her father's sake earlier, but his greed changed her mind.",
+        "hi": "वह पहले अपने पिता की खातिर उससे शादी करने को तैयार थी, लेकिन उसके लालच ने उसका मन बदल दिया।"
+      },
+      "explanation": {
+        "en": "Bholi said she would marry the old man for the sake of her father's honor. But she refused to have such a 'mean, greedy and contemptible coward' as her husband.",
+        "hi": "भोली ने कहा कि वह ऐसे लालची और नीच आदमी को अपना पति स्वीकार नहीं कर सकती।"
+      },
+      "key_takeaway": {
+        "en": "Dignity is more important than social conventions.",
+        "hi": "सामाजिक परंपराओं से अधिक महत्वपूर्ण गरिमा है।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "What was Bholi's plan for her future after rejecting the marriage?",
+        "hi": "शादी ठुकराने के बाद भोली की भविष्य की क्या योजना थी?"
+      },
+      "options": {
+        "a": {"en": "To go to a foreign country", "hi": "विदेश जाने की"},
+        "b": {"en": "To serve her parents in their old age and teach in the same school", "hi": "अपने माता-पिता की बुढ़ापे में सेवा करना और उसी स्कूल में पढ़ाना"},
+        "c": {"en": "To become a wealthy merchant", "hi": "एक अमीर व्यापारी बनने की"},
+        "d": {"en": "To marry someone else immediately", "hi": "तुरंत किसी और से शादी करने की"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "She wanted to give back to the institution that transformed her life.",
+        "hi": "वह उस संस्थान को कुछ वापस देना चाहती थी जिसने उसका जीवन बदल दिया।"
+      },
+      "explanation": {
+        "en": "Bholi told her father not to worry. She said she would take care of them in their old age and would teach in the school where she had learned so much.",
+        "hi": "भोली ने अपने पिता को आश्वासन दिया कि वह बुढ़ापे में उनका सहारा बनेगी और अपने ही स्कूल में शिक्षिका बनेगी।"
+      },
+      "key_takeaway": {
+        "en": "Empowerment leads to independence and social service.",
+        "hi": "सशक्तिकरण आत्मनिर्भरता और समाज सेवा की ओर ले जाता है।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "How did the teacher react to Bholi's decision in the end?",
+        "hi": "अंत में भोली के फैसले पर शिक्षक की क्या प्रतिक्रिया थी?"
+      },
+      "options": {
+        "a": {"en": "She was angry", "hi": "वह नाराज़ थी"},
+        "b": {"en": "She watched with deep satisfaction, like an artist finishing a masterpiece", "hi": "वह गहरी संतुष्टि के साथ देख रही थी, जैसे कोई कलाकार अपनी कृति को पूरा होते देखता है"},
+        "c": {"en": "She left the village", "hi": "उसने गाँव छोड़ दिया"},
+        "d": {"en": "She told Bholi she was wrong", "hi": "उसने भोली से कहा कि वह गलत थी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "She felt a sense of pride in her student's courage.",
+        "hi": "उसे अपनी छात्रा के साहस पर गर्व महसूस हुआ।"
+      },
+      "explanation": {
+        "en": "The teacher had been standing in a corner watching the whole scene. She felt the satisfaction of an artist who sees their creation (Bholi's character) finally perfected.",
+        "hi": "शिक्षक ने भोली को एक डरी हुई बच्ची से एक साहसी महिला बनते देखा और उसे अपार संतुष्टि हुई।"
+      },
+      "key_takeaway": {
+        "en": "A teacher's true reward is seeing their student succeed in life.",
+        "hi": "एक शिक्षक का असली ईनाम अपने छात्र को जीवन में सफल होते देखना है।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "What does the word 'contemptible' mean in the story?",
+        "hi": "कहानी में 'Contemptible' शब्द का क्या अर्थ है?"
+      },
+      "options": {
+        "a": {"en": "Very brave", "hi": "बहुत बहादुर"},
+        "b": {"en": "Deserving of hate or disgust", "hi": "घृणा या तिरस्कार के योग्य (Contemptible)"},
+        "c": {"en": "Extremely wealthy", "hi": "अत्यंत धनी"},
+        "d": {"en": "Kind-hearted", "hi": "दयालु"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Bholi used this word to describe Bishamber.",
+        "hi": "भोली ने बिशंभर का वर्णन करने के लिए इस शब्द का इस्तेमाल किया।"
+      },
+      "explanation": {
+        "en": "Contemptible means deserving contempt or being despicable. Bholi used it because Bishamber tried to take advantage of her father’s helplessness for money.",
+        "hi": "Contemptible का अर्थ है नीच या घृणित। भोली ने बिशंभर के लालच के कारण उसे ऐसा कहा।"
+      },
+      "key_takeaway": {
+        "en": "Contemptible = Deserving strong dislike.",
+        "hi": "Contemptible = तिरस्कार के योग्य।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "Why was Bholi ignored by her family members?",
+        "hi": "भोली को उसके परिवार के सदस्यों द्वारा क्यों नज़रअंदाज़ किया जाता था?"
+      },
+      "options": {
+        "a": {"en": "Because she was the youngest", "hi": "क्योंकि वह सबसे छोटी थी"},
+        "b": {"en": "Because of her ugly face and slow mind", "hi": "उसके बदसूरत चेहरे और मंदबुद्धि के कारण"},
+        "c": {"en": "Because she was very naughty", "hi": "क्योंकि वह बहुत शरारती थी"},
+        "d": {"en": "Because she didn't want to work", "hi": "क्योंकि वह काम नहीं करना चाहती थी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "They saw her as a burden who would be hard to marry off.",
+        "hi": "वे उसे एक ऐसे बोझ के रूप में देखते थे जिसकी शादी करना मुश्किल होगा।"
+      },
+      "explanation": {
+        "en": "Bholi’s pockmarked face and her mental slowness made her an object of neglect. Her parents and siblings didn't think she was worth much attention compared to her healthy sisters.",
+        "hi": "चेचक के दागों और मानसिक स्थिति के कारण उसके माता-पिता उसे परिवार का सबसे कमज़ोर हिस्सा मानते थे।"
+      },
+      "key_takeaway": {
+        "en": "Discrimination starts within the family based on physical or mental ability.",
+        "hi": "भेदभाव की शुरुआत परिवार के भीतर से ही शारीरिक या मानसिक क्षमता के आधार पर होती है।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "What did Bholi wear on her first day of school that made her feel better?",
+        "hi": "स्कूल के पहले दिन भोली ने क्या पहना था जिससे उसे थोड़ा अच्छा महसूस हुआ?"
+      },
+      "options": {
+        "a": {"en": "A new uniform", "hi": "एक नई वर्दी"},
+        "b": {"en": "A clean, old dress of her sister Champa", "hi": "अपनी बहन चंपा की एक साफ, पुरानी ड्रेस"},
+        "c": {"en": "A silk saree", "hi": "एक रेशमी साड़ी"},
+        "d": {"en": "A raincoat", "hi": "एक रेनकोट"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "She was also given a bath and her hair was oiled for the first time.",
+        "hi": "पहली बार उसे नहलाया गया था और उसके बालों में तेल लगाया गया था।"
+      },
+      "explanation": {
+        "en": "Bholi was usually given old, unwashed clothes. For the first day of school, she was given a clean dress that no longer fitted Champa. This made her think she was going to a 'better place'.",
+        "hi": "भोली को चंपा की साफ ड्रेस दी गई, जिससे उसे लगा कि वह किसी अच्छी जगह जा रही है।"
+      },
+      "key_takeaway": {
+        "en": "Small acts of care (clean clothes) can change a child's perception.",
+        "hi": "देखभाल के छोटे-छोटे कार्य बच्चे की सोच बदल सकते हैं।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "Who is the author of the story 'Bholi'?",
+        "hi": "'भोली' कहानी के लेखक कौन हैं?"
+      },
+      "options": {
+        "a": {"en": "Ruskin Bond", "hi": "रस्किन बॉन्ड"},
+        "b": {"en": "K.A. Abbas", "hi": "के.ए. अब्बास (K.A. Abbas)"},
+        "c": {"en": "Guy de Maupassant", "hi": "गाय डी मोपासंत"},
+        "d": {"en": "H.G. Wells", "hi": "एच.जी. वेल्स"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He was a famous Indian film director, screenwriter, and journalist.",
+        "hi": "वे एक प्रसिद्ध भारतीय फिल्म निर्देशक, पटकथा लेखक और पत्रकार थे।"
+      },
+      "explanation": {
+        "en": "Khwaja Ahmad Abbas, better known as K.A. Abbas, is the author. He wrote stories that often dealt with social issues and human dignity.",
+        "hi": "इस कहानी के लेखक के.ए. अब्बास हैं।"
+      },
+      "key_takeaway": {
+        "en": "K.A. Abbas = Author of 'Bholi'.",
+        "hi": "के.ए. अब्बास = 'भोली' के लेखक।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "What does the story 'Bholi' teach about education?",
+        "hi": "'भोली' कहानी शिक्षा के बारे में क्या सिखाती है?"
+      },
+      "options": {
+        "a": {"en": "Education is only for boys", "hi": "शिक्षा केवल लड़कों के लिए है"},
+        "b": {"en": "Education can empower people to stand up for their rights", "hi": "शिक्षा लोगों को उनके अधिकारों के लिए खड़ा होने के लिए सशक्त बना सकती है"},
+        "c": {"en": "Education is a waste of time", "hi": "शिक्षा समय की बर्बादी है"},
+        "d": {"en": "Education makes people arrogant", "hi": "शिक्षा लोगों को घमंडी बनाती है"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Bholi's transformation from a silent sufferer to a confident woman happened because of her teacher and books.",
+        "hi": "एक खामोश सहने वाली बच्ची से एक आत्मविश्वासी महिला बनने का भोली का सफर उसके शिक्षक और किताबों के कारण हुआ।"
+      },
+      "explanation": {
+        "en": "The story shows that education is a powerful tool for social change. It gave Bholi the strength to reject an unworthy marriage and choose a life of dignity.",
+        "hi": "कहानी दिखाती है कि शिक्षा सामाजिक परिवर्तन का एक शक्तिशाली साधन है।"
+      },
+      "key_takeaway": {
+        "en": "Knowledge is power and the basis of self-respect.",
+        "hi": "ज्ञान ही शक्ति है और आत्म-सम्मान का आधार है।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "How did Bholi react when her father put the turban at Bishamber's feet?",
+        "hi": "जब उसके पिता ने बिशंभर के चरणों में पगड़ी रखी तो भोली ने क्या किया?"
+      },
+      "options": {
+        "a": {"en": "She felt proud of her father", "hi": "उसे अपने पिता पर गर्व हुआ"},
+        "b": {"en": "She felt hurt seeing her father's humiliation for a greedy man", "hi": "उसे एक लालची आदमी के सामने अपने पिता का अपमान देखकर दुख हुआ"},
+        "c": {"en": "She laughed", "hi": "वह हँसी"},
+        "d": {"en": "She didn't notice anything", "hi": "उसने कुछ नहीं देखा"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This was the moment she decided she would not let her father suffer any more insult.",
+        "hi": "यही वह पल था जब उसने फैसला किया कि वह अपने पिता को और अधिक अपमानित नहीं होने देगी।"
+      },
+      "explanation": {
+        "en": "Bholi saw her father begging and humiliating himself before a man who was only interested in money. This reinforced her decision to stop the marriage.",
+        "hi": "भोली को अपने पिता की लाचारी देखकर बहुत दुख हुआ, जिससे उसका शादी रोकने का फैसला और पक्का हो गया।"
+      },
+      "key_takeaway": {
+        "en": "A daughter's love can turn into strength to protect the family from greed.",
+        "hi": "एक बेटी का प्यार परिवार को लालच से बचाने की ताकत बन सकता है।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "What did the villagers think of Bholi's refusal to marry?",
+        "hi": "गाँव वालों ने भोली के शादी से इनकार करने पर क्या सोचा?"
+      },
+      "options": {
+        "a": {"en": "They supported her", "hi": "उन्होंने उसका समर्थन किया"},
+        "b": {"en": "They were startled and whispered that she was 'shameless'", "hi": "वे चौंक गए और फुसफुसाए कि वह 'बेशरम' है"},
+        "c": {"en": "They started dancing", "hi": "वे नाचने लगे"},
+        "d": {"en": "They ignored her", "hi": "उन्होंने उसे नज़रअंदाज़ कर दिया"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Society often judges a woman when she stands up for herself.",
+        "hi": "जब कोई महिला अपने लिए खड़ी होती है तो समाज अक्सर उसे जज करता है।"
+      },
+      "explanation": {
+        "en": "The neighbors and guests were shocked. They could not believe that the 'dumb cow' Bholi was speaking so boldly and calling the groom names.",
+        "hi": "पड़ोसी हैरान थे कि 'गूँगी गाय' कही जाने वाली भोली इतनी निडरता से बोल रही है।"
+      },
+      "key_takeaway": {
+        "en": "Standing up for truth often requires going against social pressure.",
+        "hi": "सच्चाई के लिए खड़े होने के लिए अक्सर सामाजिक दबाव के खिलाफ जाना पड़ता है।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "What does the ending of the story symbolize for Bholi?",
+        "hi": "कहानी का अंत भोली के लिए किसका प्रतीक है?"
+      },
+      "options": {
+        "a": {"en": "Her defeat", "hi": "उसकी हार का"},
+        "b": {"en": "The victory of education and self-respect over greed and tradition", "hi": "लालच और परंपरा पर शिक्षा और आत्म-सम्मान की जीत का"},
+        "c": {"en": "Her loneliness", "hi": "उसके अकेलेपन का"},
+        "d": {"en": "A sad ending", "hi": "एक दुखद अंत का"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Bholi was no longer 'Bholi'; she had become Sulekha again.",
+        "hi": "भोली अब 'भोली' नहीं रही थी; वह फिर से सुलेखा बन गई थी।"
+      },
+      "explanation": {
+        "en": "The end shows Bholi's complete metamorphosis. She is no longer a victim but a strong individual who can decide her own destiny.",
+        "hi": "कहानी का अंत भोली के पूर्ण परिवर्तन को दर्शाता है। वह अब पीड़ित नहीं बल्कि एक स्वतंत्र महिला है।"
+      },
+      "key_takeaway": {
+        "en": "Education changes a person's entire destiny.",
+        "hi": "शिक्षा व्यक्ति का पूरा भाग्य बदल देती है।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "Why did the teacher treat Bholi like a 'masterpiece'?",
+        "hi": "शिक्षक ने भोली को एक 'उत्कृष्ट कृति' (masterpiece) की तरह क्यों माना?"
+      },
+      "options": {
+        "a": {"en": "Because Bholi was a painter", "hi": "क्योंकि भोली एक चित्रकार थी"},
+        "b": {"en": "Because she was proud of Bholi's courage and confidence", "hi": "क्योंकि उसे भोली के साहस और आत्मविश्वास पर गर्व था"},
+        "c": {"en": "Because Bholi was very rich", "hi": "क्योंकि भोली बहुत अमीर थी"},
+        "d": {"en": "Because Bholi had many pockmarks", "hi": "क्योंकि भोली के बहुत सारे निशान थे"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The teacher felt satisfied because she had successfully shaped Bholi's life.",
+        "hi": "शिक्षक को संतुष्टि महसूस हुई क्योंकि उसने सफलतापूर्वक भोली के जीवन को आकार दिया था।"
+      },
+      "explanation": {
+        "en": "An artist feels satisfaction when their masterpiece is finished. Similarly, the teacher felt satisfied because her hard work had turned a scared child into a bold woman.",
+        "hi": "शिक्षक ने भोली को संवारने में बहुत मेहनत की थी और उसे निडर बनते देख उसे एक कलाकार जैसी संतुष्टि हुई।"
+      },
+      "key_takeaway": {
+        "en": "A student is a teacher's greatest creation.",
+        "hi": "एक छात्र एक शिक्षक की सबसे बड़ी रचना है।"
+      }
+    }
+  ]
+}

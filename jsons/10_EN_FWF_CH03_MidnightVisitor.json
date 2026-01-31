@@ -1,0 +1,800 @@
+{
+  "metadata": {
+    "chapter_number": 3,
+    "chapter_title": "The Midnight Visitor",
+    "chapter_title_hindi": "आधी रात का आगंतुक",
+    "subject": "English (Footprints Without Feet) - Class 10",
+    "board": "HPBOSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.0",
+    "naming_convention": "10_EN_FWF_CH03_MidnightVisitor.json"
+  },
+  "validation_report": {
+    "is_valid": true,
+    "checked_by": "AI Tutor",
+    "checked_at": "2026-01-21T18:30:00Z",
+    "notes": "Bilingual MCQs focused on plot twists, character traits, and literary irony."
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "Who was Ausable?",
+        "hi": "ओसेबल (Ausable) कौन था?"
+      },
+      "options": {
+        "a": {"en": "A famous writer", "hi": "एक प्रसिद्ध लेखक"},
+        "b": {"en": "A secret agent", "hi": "एक गुप्त एजेंट (Secret Agent)"},
+        "c": {"en": "A hotel manager", "hi": "एक होटल मैनेजर"},
+        "d": {"en": "A police officer", "hi": "एक पुलिस अधिकारी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He was expecting a very important report that night.",
+        "hi": "वह उस रात एक बहुत ही महत्वपूर्ण रिपोर्ट की प्रतीक्षा कर रहा था।"
+      },
+      "explanation": {
+        "en": "Ausable was a secret agent, though he did not look like the typical romanticized spies seen in movies or books.",
+        "hi": "ओसेबल एक गुप्त एजेंट था, हालांकि वह फिल्मों या किताबों में दिखने वाले जासूसों जैसा बिल्कुल नहीं था।"
+      },
+      "key_takeaway": {
+        "en": "Ausable = The unconventional secret agent.",
+        "hi": "ओसेबल = एक अपरंपरागत गुप्त एजेंट।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "Who was Fowler?",
+        "hi": "फाउलर (Fowler) कौन था?"
+      },
+      "options": {
+        "a": {"en": "A rival spy", "hi": "एक प्रतिद्वंद्वी जासूस"},
+        "b": {"en": "A young and romantic writer", "hi": "एक युवा और रोमांटिक लेखक"},
+        "c": {"en": "Ausable's assistant", "hi": "ओसेबल का सहायक"},
+        "d": {"en": "The hotel waiter", "hi": "होटल का वेटर"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He followed Ausable because he wanted to write a story about a secret agent.",
+        "hi": "उसने ओसेबल का पीछा किया क्योंकि वह एक गुप्त एजेंट के बारे में कहानी लिखना चाहता था।"
+      },
+      "explanation": {
+        "en": "Fowler was a young writer who wanted to experience the thrill of a secret agent's life to gather material for his writing.",
+        "hi": "फाउलर एक युवा लेखक था जो अपने लेखन के लिए सामग्री जुटाने के लिए जासूसी जीवन के रोमांच को महसूस करना चाहता था।"
+      },
+      "key_takeaway": {
+        "en": "Fowler = The observer and writer.",
+        "hi": "फाउलर = पर्यवेक्षक और लेखक।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "Why was Fowler disappointed when he first met Ausable?",
+        "hi": "फाउलर को ओसेबल से पहली बार मिलने पर निराशा क्यों हुई?"
+      },
+      "options": {
+        "a": {"en": "Ausable was very thin", "hi": "ओसेबल बहुत दुबला था"},
+        "b": {"en": "Ausable was very fat and lived in a dull hotel room", "hi": "ओसेबल बहुत मोटा था और एक नीरस होटल के कमरे में रहता था"},
+        "c": {"en": "Ausable refused to talk to him", "hi": "ओसेबल ने उससे बात करने से मना कर दिया"},
+        "d": {"en": "Ausable was not a real agent", "hi": "ओसेबल कोई असली एजेंट नहीं था"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Fowler had imagined spies to be mysterious figures with pistols and drugs in their wine.",
+        "hi": "फाउलर ने कल्पना की थी कि जासूस रहस्यमयी होते हैं जिनके पास पिस्तौल होती है और शराब में नशीली दवाएं होती हैं।"
+      },
+      "explanation": {
+        "en": "Fowler expected a fit, mysterious agent. Instead, he found Ausable to be very fat, speaking with an accent, and living in a small, gloomy room on the sixth floor.",
+        "hi": "फाउलर ने एक रहस्यमयी जासूस की उम्मीद की थी, लेकिन ओसेबल मोटा और साधारण व्यक्ति निकला।"
+      },
+      "key_takeaway": {
+        "en": "Appearances can be deceptive.",
+        "hi": "दिखावा भ्रामक हो सकता है।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "Where was Ausable’s room located?",
+        "hi": "ओसेबल का कमरा कहाँ स्थित था?"
+      },
+      "options": {
+        "a": {"en": "On the ground floor", "hi": "भूतल पर"},
+        "b": {"en": "On the sixth and top floor", "hi": "छठी और सबसे ऊपरी मंजिल पर"},
+        "c": {"en": "In the basement", "hi": "बेसमेंट में"},
+        "d": {"en": "Near the swimming pool", "hi": "स्विमिंग पूल के पास"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It was in a small French hotel, at the very top of the building.",
+        "hi": "यह एक छोटे से फ्रांसीसी होटल में, इमारत के बिल्कुल शीर्ष पर था।"
+      },
+      "explanation": {
+        "en": "Ausable's office was in a small French hotel, on the sixth and top floor. This location becomes crucial for the plot's climax.",
+        "hi": "ओसेबल का कार्यालय छठी और सबसे ऊपरी मंजिल पर था। यह स्थान कहानी के मोड़ के लिए बहुत महत्वपूर्ण है।"
+      },
+      "key_takeaway": {
+        "en": "6th Floor = The setting of the story's climax.",
+        "hi": "छठी मंजिल = कहानी के चरम (climax) का स्थान।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "What important document was Ausable expecting?",
+        "hi": "ओसेबल किस महत्वपूर्ण दस्तावेज़ की प्रतीक्षा कर रहा था?"
+      },
+      "options": {
+        "a": {"en": "A map of a hidden treasure", "hi": "छिपे हुए खजाने का नक्शा"},
+        "b": {"en": "A report concerning some new missiles", "hi": "कुछ नई मिसाइलों से संबंधित रिपोर्ट"},
+        "c": {"en": "A list of double agents", "hi": "दोहरे एजेंटों की सूची"},
+        "d": {"en": "A letter from his family", "hi": "अपने परिवार का एक पत्र"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The report was so important that several men and women had risked their lives for it.",
+        "hi": "रिपोर्ट इतनी महत्वपूर्ण थी कि कई पुरुषों और महिलाओं ने इसके लिए अपनी जान जोखिम में डाल दी थी।"
+      },
+      "explanation": {
+        "en": "Ausable was expecting a report about new missiles. He believed this report might one day change the course of history.",
+        "hi": "ओसेबल को नई मिसाइलों के बारे में एक रिपोर्ट मिलने वाली थी, जो भविष्य बदल सकती थी।"
+      },
+      "key_takeaway": {
+        "en": "The Missile Report = The high-stakes object of the story.",
+        "hi": "मिसाइल रिपोर्ट = कहानी की सबसे महत्वपूर्ण वस्तु।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "Who was the 'Midnight Visitor' in the room?",
+        "hi": "कमरे में 'आधी रात का आगंतुक' (Midnight Visitor) कौन था?"
+      },
+      "options": {
+        "a": {"en": "Fowler", "hi": "फाउलर"},
+        "b": {"en": "Max", "hi": "मैक्स (Max)"},
+        "c": {"en": "The waiter", "hi": "वेटर"},
+        "d": {"en": "A policeman", "hi": "एक पुलिसकर्मी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He was another secret agent who had entered the room using a passkey.",
+        "hi": "वह एक और गुप्त एजेंट था जिसने पासकी (नकली चाबी) का उपयोग करके कमरे में प्रवेश किया था।"
+      },
+      "explanation": {
+        "en": "Max was the intruder. When Ausable turned on the light, he saw Max standing in the middle of the room with a small automatic pistol.",
+        "hi": "मैक्स वह घुसपैठिया था जिसे ओसेबल ने कमरे के बीचों-बीच पिस्तौल के साथ खड़ा पाया।"
+      },
+      "key_takeaway": {
+        "en": "Max = The rival spy and antagonist.",
+        "hi": "मैक्स = प्रतिद्वंद्वी जासूस और खलनायक।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "How did Max enter the room?",
+        "hi": "मैक्स कमरे में कैसे घुसा?"
+      },
+      "options": {
+        "a": {"en": "Through the balcony", "hi": "बालकनी के माध्यम से"},
+        "b": {"en": "Using a passkey", "hi": "एक पासकी (नकली चाबी) का उपयोग करके"},
+        "c": {"en": "Through the chimney", "hi": "चिमनी के माध्यम से"},
+        "d": {"en": "Ausable let him in", "hi": "ओसेबल ने उसे अंदर आने दिया"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Max mentions that if he had known about a balcony, it would have been easier.",
+        "hi": "मैक्स का कहना है कि अगर उसे बालकनी के बारे में पता होता, तो यह आसान होता।"
+      },
+      "explanation": {
+        "en": "Max had entered the room using a passkey. He thought it was the only way in because he didn't know about any other entrance.",
+        "hi": "मैक्स ने पासकी का उपयोग करके कमरे में प्रवेश किया था।"
+      },
+      "key_takeaway": {
+        "en": "Passkey = A master key used for unauthorized entry.",
+        "hi": "Passkey = अनधिकृत प्रवेश के लिए उपयोग की जाने वाली मास्टर कुंजी।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "What story did Ausable cook up regarding a balcony?",
+        "hi": "ओसेबल ने बालकनी के बारे में कौन सी कहानी गढ़ी?"
+      },
+      "options": {
+        "a": {"en": "That there was no balcony", "hi": "कि वहां कोई बालकनी नहीं थी"},
+        "b": {"en": "That it was the second time someone had entered through it that month", "hi": "कि उस महीने दूसरी बार कोई इसके ज़रिए घुसा था"},
+        "c": {"en": "That the balcony was broken", "hi": "कि बालकनी टूटी हुई थी"},
+        "d": {"en": "That he loved sitting on the balcony", "hi": "कि उसे बालकनी पर बैठना पसंद था"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He pretended to be angry with the hotel management for not blocking that entrance.",
+        "hi": "उसने प्रवेश द्वार को बंद न करने के लिए होटल प्रबंधन पर गुस्सा होने का नाटक किया।"
+      },
+      "explanation": {
+        "en": "Ausable convincingly told Max that his room was once part of a larger unit and there was a balcony extending under his window. He claimed someone else had broken in that way before.",
+        "hi": "ओसेबल ने बड़ी चतुराई से झूठ बोला कि उसकी खिड़की के नीचे एक बालकनी है और पहले भी कोई वहां से अंदर आ चुका है।"
+      },
+      "key_takeaway": {
+        "en": "Ausable used misinformation to create a psychological trap.",
+        "hi": "ओसेबल ने मनोवैज्ञानिक जाल बिछाने के लिए गलत सूचना का उपयोग किया।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "Why did Max want the missile report?",
+        "hi": "मैक्स मिसाइल रिपोर्ट क्यों चाहता था?"
+      },
+      "options": {
+        "a": {"en": "To destroy it", "hi": "इसे नष्ट करने के लिए"},
+        "b": {"en": "Because it would be safer in his hands than in Ausable's", "hi": "क्योंकि यह ओसेबल के बजाय उसके हाथों में अधिक सुरक्षित होती"},
+        "c": {"en": "To give it back to the government", "hi": "इसे सरकार को वापस देने के लिए"},
+        "d": {"en": "He wanted to read it for fun", "hi": "वह इसे मज़े के लिए पढ़ना चाहता था"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He told Ausable that it was 'safer' with him.",
+        "hi": "उसने ओसेबल से कहा कि यह उसके पास 'ज़्यादा सुरक्षित' रहेगी।"
+      },
+      "explanation": {
+        "en": "Max wanted the report for himself or his organization. He told Ausable, 'I will take it from you. It will be safer in my hands than in yours.'",
+        "hi": "मैक्स वह रिपोर्ट छीनना चाहता था ताकि वह उसका उपयोग अपने हितों के लिए कर सके।"
+      },
+      "key_takeaway": {
+        "en": "The report was the primary motive for Max’s intrusion.",
+        "hi": "मैक्स की घुसपैठ का मुख्य उद्देश्य वह रिपोर्ट थी।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "What sound was heard at the door while Max was threatening Ausable?",
+        "hi": "जब मैक्स ओसेबल को धमका रहा था, तब दरवाज़े पर क्या आवाज़ सुनाई दी?"
+      },
+      "options": {
+        "a": {"en": "A gunshot", "hi": "एक गोली चलने की आवाज़"},
+        "b": {"en": "A sudden knocking", "hi": "अचानक दस्तक की आवाज़"},
+        "c": {"en": "The sound of rain", "hi": "बारिश की आवाज़"},
+        "d": {"en": "A cat meowing", "hi": "बिल्ली के म्याऊँ करने की आवाज़"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Ausable claimed it was a pre-arranged security check.",
+        "hi": "ओसेबल ने दावा किया कि यह पहले से तय किया गया सुरक्षा चेक था।"
+      },
+      "explanation": {
+        "en": "Suddenly, there was a loud knocking at the door. Fowler was startled, and Max became nervous.",
+        "hi": "अचानक दरवाज़े पर ज़ोर की दस्तक हुई, जिससे फाउलर चौंक गया और मैक्स घबरा गया।"
+      },
+      "key_takeaway": {
+        "en": "The knocking was the turning point of the story.",
+        "hi": "दरवाजे की दस्तक कहानी का महत्वपूर्ण मोड़ थी।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "Who did Ausable claim was at the door?",
+        "hi": "ओसेबल ने दरवाज़े पर किसके होने का दावा किया?"
+      },
+      "options": {
+        "a": {"en": "The hotel manager", "hi": "होटल मैनेजर"},
+        "b": {"en": "The police", "hi": "पुलिस (The Police)"},
+        "c": {"en": "Ausable's wife", "hi": "ओसेबल की पत्नी"},
+        "d": {"en": "Fowler's friend", "hi": "फाउलर का दोस्त"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He said he had requested them to check on him because of the important report.",
+        "hi": "उसने कहा कि उसने महत्वपूर्ण रिपोर्ट के कारण उन्हें चेक करने के लिए बुलाया था।"
+      },
+      "explanation": {
+        "en": "Ausable lied to Max, saying that he had asked the police to check on him to ensure the safety of the important missile report.",
+        "hi": "ओसेबल ने झूठ बोला कि दरवाज़े पर पुलिस है जिसे उसने अपनी सुरक्षा के लिए बुलाया था।"
+      },
+      "key_takeaway": {
+        "en": "Ausable used the 'police' lie to terrify Max.",
+        "hi": "मैक्स को डराने के लिए ओसेबल ने 'पुलिस' के झूठ का सहारा लिया।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "What was Max’s reaction when he thought the police were at the door?",
+        "hi": "जब मैक्स ने सोचा कि दरवाज़े पर पुलिस है, तो उसकी क्या प्रतिक्रिया थी?"
+      },
+      "options": {
+        "a": {"en": "He surrendered immediately", "hi": "उसने तुरंत आत्मसमर्पण कर दिया"},
+        "b": {"en": "He tried to hide on the 'balcony'", "hi": "उसने 'बालकनी' पर छिपने की कोशिश की"},
+        "c": {"en": "He started shooting", "hi": "उसने गोलीबारी शुरू कर दी"},
+        "d": {"en": "He hid in the cupboard", "hi": "वह अलमारी में छिप गया"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He stepped over the window sill, believing Ausable's story about the balcony.",
+        "hi": "ओसेबल की बालकनी वाली कहानी पर विश्वास करते हुए वह खिड़की की मुंडेर पर चढ़ गया।"
+      },
+      "explanation": {
+        "en": "Terrified of being caught by the police, Max backed towards the window and jumped out, expecting to land on the balcony Ausable had described.",
+        "hi": "पुलिस से पकड़े जाने के डर से मैक्स खिड़की से बाहर कूद गया, यह सोचकर कि नीचे बालकनी है।"
+      },
+      "key_takeaway": {
+        "en": "Fear made Max lose his ability to think clearly.",
+        "hi": "डर ने मैक्स की सोचने-समझने की क्षमता खत्म कर दी।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "Who was actually at the door?",
+        "hi": "दरवाज़े पर वास्तव में कौन था?"
+      },
+      "options": {
+        "a": {"en": "Two policemen", "hi": "दो पुलिसकर्मी"},
+        "b": {"en": "Henry, the waiter", "hi": "हेनरी, वेटर (Henry, the waiter)"},
+        "c": {"en": "Max's partner", "hi": "मैक्स का साथी"},
+        "d": {"en": "The hotel owner", "hi": "होटल का मालिक"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He was carrying a tray, a bottle, and two glasses.",
+        "hi": "उसके हाथ में एक ट्रे, एक बोतल और दो गिलास थे।"
+      },
+      "explanation": {
+        "en": "There were no police. It was Henry, the waiter, who had come to deliver the drink Ausable had ordered earlier.",
+        "hi": "दरवाज़े पर कोई पुलिस नहीं थी। वह हेनरी नाम का वेटर था जो ओसेबल द्वारा मंगवाई गई ड्रिंक लेकर आया था।"
+      },
+      "key_takeaway": {
+        "en": "The 'policeman' was actually just a waiter.",
+        "hi": "जिसे 'पुलिस' समझा गया वह वास्तव में केवल एक वेटर था।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "What happened to Max at the end of the story?",
+        "hi": "कहानी के अंत में मैक्स का क्या हुआ?"
+      },
+      "options": {
+        "a": {"en": "He escaped successfully", "hi": "वह सफलतापूर्वक भाग गया"},
+        "b": {"en": "He fell to his death because there was no balcony", "hi": "वह गिरकर मर गया क्योंकि वहां कोई बालकनी नहीं थी"},
+        "c": {"en": "The police arrested him", "hi": "पुलिस ने उसे गिरफ्तार कर लिया"},
+        "d": {"en": "He hid in another room", "hi": "वह दूसरे कमरे में छिप गया"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "When he jumped, he screamed once shrilly as he hit the ground.",
+        "hi": "जब वह कूदा, तो ज़मीन से टकराते समय उसके चिल्लाने की एक तेज़ आवाज़ आई।"
+      },
+      "explanation": {
+        "en": "Since there was no balcony, Max fell six floors down to the ground. Ausable's quick thinking resulted in the rival's death without firing a single shot.",
+        "hi": "चूंकि वहां कोई बालकनी नहीं थी, मैक्स छठी मंजिल से सीधे नीचे गिर गया और उसकी मौत हो गई।"
+      },
+      "key_takeaway": {
+        "en": "The fictional balcony became a fatal reality for Max.",
+        "hi": "काल्पनिक बालकनी मैक्स के लिए जानलेवा साबित हुई।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "How did Ausable describe Max's appearance?",
+        "hi": "ओसेबल ने मैक्स की बनावट का वर्णन कैसे किया?"
+      },
+      "options": {
+        "a": {"en": "Strong and muscular", "hi": "मजबूत और हट्टा-कट्टा"},
+        "b": {"en": "Slender, not very tall, with the face of a fox", "hi": "दुबला-पतला, बहुत लंबा नहीं, लोमड़ी जैसे चेहरे वाला"},
+        "c": {"en": "Fat and clumsy", "hi": "मोटा और बेढंगा"},
+        "d": {"en": "Extremely handsome", "hi": "बेहद सुंदर"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "His face suggested a 'crafty, pointed' look.",
+        "hi": "उसके चेहरे से एक 'चालाक और नुकीला' भाव झलकता था।"
+      },
+      "explanation": {
+        "en": "Max was slender, a little less than tall, with features that suggested the crafty look of a fox. Aside from his gun, he didn't look very dangerous.",
+        "hi": "मैक्स दुबला-पतला था और उसका चेहरा लोमड़ी जैसा चालाक लगता था।"
+      },
+      "key_takeaway": {
+        "en": "Fox-like = A metaphor for being crafty or cunning.",
+        "hi": "लोमड़ी जैसा = चालाक या धूर्त होने का एक रूपक।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "What was Fowler's feeling at the very end of the story?",
+        "hi": "कहानी के बिल्कुल अंत में फाउलर की क्या भावना थी?"
+      },
+      "options": {
+        "a": {"en": "He was still bored", "hi": "वह अभी भी ऊब रहा था"},
+        "b": {"en": "He was amazed and thrilled by Ausable's wit", "hi": "वह ओसेबल की बुद्धि से चकित और रोमांचित था"},
+        "c": {"en": "He was angry with Ausable", "hi": "वह ओसेबल से नाराज़ था"},
+        "d": {"en": "He felt sorry for Max", "hi": "उसे मैक्स के लिए दुख महसूस हुआ"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He realized that a real spy doesn't need to look like a hero to be effective.",
+        "hi": "उसने महसूस किया कि एक असली जासूस को प्रभावी होने के लिए नायक जैसा दिखने की ज़रूरत नहीं है।"
+      },
+      "explanation": {
+        "en": "Initially bored and disappointed, Fowler eventually witnessed a real-life spy thriller. He saw how Ausable used his mind to defeat an armed enemy.",
+        "hi": "शुरू में निराश फाउलर अंततः ओसेबल की बुद्धिमानी देखकर दंग रह गया।"
+      },
+      "key_takeaway": {
+        "en": "Fowler finally got the 'authentic' story he was looking for.",
+        "hi": "फाउलर को आखिरकार वह 'असली' कहानी मिल गई जिसकी वह तलाश कर रहा था।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "What language did Ausable speak with an accent?",
+        "hi": "ओसेबल किस भाषा को लहज़े (accent) के साथ बोलता था?"
+      },
+      "options": {
+        "a": {"en": "French and German", "hi": "फ्रेंच और जर्मन"},
+        "b": {"en": "English", "hi": "अंग्रेजी (English)"},
+        "c": {"en": "Spanish", "hi": "स्पेनिश"},
+        "d": {"en": "Russian", "hi": "रूसी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He had lived in Boston before moving to Paris twenty years ago.",
+        "hi": "बीस साल पहले पेरिस आने से पहले वह बोस्टन में रहता था।"
+      },
+      "explanation": {
+        "en": "Ausable spoke French and German passably, but he spoke English with an American accent that he brought from Boston.",
+        "hi": "ओसेबल फ्रेंच और जर्मन तो बोल लेता था, लेकिन उसकी अंग्रेजी में अमेरिकी लहज़ा था।"
+      },
+      "key_takeaway": {
+        "en": "Ausable's accent showed his international background.",
+        "hi": "ओसेबल का लहज़ा उसकी अंतरराष्ट्रीय पृष्ठभूमि को दर्शाता था।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "Why didn't Ausable look like a 'romantic' secret agent?",
+        "hi": "ओसेबल एक 'रोमांटिक' गुप्त एजेंट जैसा क्यों नहीं दिखता था?"
+      },
+      "options": {
+        "a": {"en": "He was very sloppy", "hi": "वह बहुत लापरवाह था"},
+        "b": {"en": "He was very fat and lived in a plain room", "hi": "वह बहुत मोटा था और एक साधारण कमरे में रहता था"},
+        "c": {"en": "He didn't have a gun", "hi": "उसके पास बंदूक नहीं थी"},
+        "d": {"en": "He was too old", "hi": "वह बहुत बूढ़ा था"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Fowler's imagination of a spy was shaped by movies, and Ausable was the opposite.",
+        "hi": "जासूस के बारे में फाउलर की कल्पना फिल्मों पर आधारित थी, और ओसेबल इसके बिल्कुल विपरीत था।"
+      },
+      "explanation": {
+        "en": "Ausable was 'sloppily fat' and didn't fit the stereotype of a dashing spy. He didn't have 'dark-eyed beauties' or mysterious messages passed to him.",
+        "hi": "ओसेबल बहुत मोटा था और वह जासूसों की उस छवि में फिट नहीं बैठता था जो फाउलर ने सोच रखी थी।"
+      },
+      "key_takeaway": {
+        "en": "The story challenges the 'James Bond' style stereotypes of spies.",
+        "hi": "यह कहानी जासूसों के 'जेम्स बॉन्ड' स्टाइल वाली रूढ़ियों को चुनौती देती है।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "Which word in the story means 'strange or unusual'?",
+        "hi": "कहानी में किस शब्द का अर्थ 'अजीब या असामान्य' है?"
+      },
+      "options": {
+        "a": {"en": "Authentic", "hi": "प्रामाणिक"},
+        "b": {"en": "Unconventional", "hi": "अपरंपरागत"},
+        "c": {"en": "Queer", "hi": "अजीब (Queer)"},
+        "d": {"en": "Lithe", "hi": "फुर्तीला"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "Ausable used this word to describe the situation with the balcony.",
+        "hi": "ओसेबल ने इस शब्द का इस्तेमाल बालकनी वाली स्थिति का वर्णन करने के लिए किया था।"
+      },
+      "explanation": {
+        "en": "The word 'queer' is used in the text to describe something strange or unusual, such as the supposed existence of the balcony entrance.",
+        "hi": "पाठ में 'queer' शब्द का उपयोग किसी अजीब या असामान्य चीज़ का वर्णन करने के लिए किया गया है।"
+      },
+      "key_takeaway": {
+        "en": "Queer = Strange/Unusual.",
+        "hi": "Queer = विचित्र/अजीब।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "What was Max holding in his hand when Ausable entered the room?",
+        "hi": "जब ओसेबल कमरे में दाखिल हुआ तो मैक्स के हाथ में क्या था?"
+      },
+      "options": {
+        "a": {"en": "A knife", "hi": "एक चाकू"},
+        "b": {"en": "A small automatic pistol", "hi": "एक छोटी ऑटोमैटिक पिस्तौल"},
+        "c": {"en": "A bottle of wine", "hi": "शराब की एक बोतल"},
+        "d": {"en": "A fake report", "hi": "एक नकली रिपोर्ट"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It was the weapon he used to threaten Ausable and Fowler.",
+        "hi": "यह वह हथियार था जिसका उपयोग उसने ओसेबल और फाउलर को धमकाने के लिए किया था।"
+      },
+      "explanation": {
+        "en": "Max was waiting in the room with a small automatic pistol, ready to force Ausable to hand over the report.",
+        "hi": "मैक्स कमरे में एक ऑटोमैटिक पिस्तौल के साथ ओसेबल का इंतज़ार कर रहा था।"
+      },
+      "key_takeaway": {
+        "en": "Max relied on physical threat (gun), while Ausable relied on wit.",
+        "hi": "मैक्स शारीरिक खतरे (बंदूक) पर निर्भर था, जबकि ओसेबल अपनी बुद्धि पर।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "Ausable’s tone while talking about the balcony was ______.",
+        "hi": "बालकनी के बारे में बात करते समय ओसेबल का लहज़ा कैसा था?"
+      },
+      "options": {
+        "a": {"en": "Nervous and shaky", "hi": "घबराया हुआ और डरा हुआ"},
+        "b": {"en": "Extremely natural and convincing", "hi": "अत्यंत स्वाभाविक और विश्वसनीय"},
+        "c": {"en": "Loud and angry", "hi": "तेज़ और गुस्सैल"},
+        "d": {"en": "Laughing", "hi": "हँसता हुआ"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He spoke as if he was genuinely annoyed by the problem.",
+        "hi": "वह इस तरह बोला जैसे वह वास्तव में उस समस्या से परेशान हो।"
+      },
+      "explanation": {
+        "en": "Ausable spoke with a natural seriousness that convinced Max the balcony actually existed. This calm demeanor is the mark of a great secret agent.",
+        "hi": "ओसेबल इतनी स्वाभाविकता के साथ बोला कि मैक्स को यकीन हो गया कि बालकनी वास्तव में है।"
+      },
+      "key_takeaway": {
+        "en": "Calmness in danger is Ausable’s greatest strength.",
+        "hi": "खतरे के समय शांत रहना ओसेबल की सबसे बड़ी ताकत है।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "What did Ausable order from the room service?",
+        "hi": "ओसेबल ने रूम सर्विस से क्या मंगवाया था?"
+      },
+      "options": {
+        "a": {"en": "A pizza", "hi": "एक पिज़्ज़ा"},
+        "b": {"en": "A bottle of wine and glasses", "hi": "शराब की एक बोतल और गिलास"},
+        "c": {"en": "A cup of coffee", "hi": "एक कप कॉफी"},
+        "d": {"en": "Newspapers", "hi": "अखबार"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Henry brought this order when he knocked on the door.",
+        "hi": "हेनरी यह ऑर्डर लेकर आया था जब उसने दरवाज़े पर दस्तक दी थी।"
+      },
+      "explanation": {
+        "en": "Ausable had ordered a drink for himself and Fowler upon reaching the hotel. The arrival of this drink provided the perfect distraction to trick Max.",
+        "hi": "ओसेबल ने होटल पहुँचने पर अपने और फाउलर के लिए ड्रिंक ऑर्डर की थी।"
+      },
+      "key_takeaway": {
+        "en": "Ausable turned a simple delivery into a life-saving trick.",
+        "hi": "ओसेबल ने एक साधारण डिलीवरी को जान बचाने वाली चाल में बदल दिया।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "The story 'The Midnight Visitor' takes place in which city?",
+        "hi": "'द मिडनाइट विजिटर' कहानी किस शहर में घटित होती है?"
+      },
+      "options": {
+        "a": {"en": "London", "hi": "लंदन"},
+        "b": {"en": "Paris", "hi": "पेरिस (Paris)"},
+        "c": {"en": "New York", "hi": "न्यू यॉर्क"},
+        "d": {"en": "Berlin", "hi": "बर्लिन"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The hotel is described as a 'gloomy French hotel'.",
+        "hi": "होटल का वर्णन एक 'नीरस फ्रांसीसी होटल' के रूप में किया गया है।"
+      },
+      "explanation": {
+        "en": "The story is set in Paris, France. Ausable had moved there from Boston twenty years ago.",
+        "hi": "यह कहानी फ्रांस के पेरिस शहर में आधारित है।"
+      },
+      "key_takeaway": {
+        "en": "Setting = Paris, the city of spies in many thrillers.",
+        "hi": "परिवेश = पेरिस, कई थ्रिलर कहानियों में जासूसों का शहर।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "Max's face showed a 'fox-like' expression. What does this suggest?",
+        "hi": "मैक्स के चेहरे पर 'लोमड़ी जैसा' भाव था। यह क्या दर्शाता है?"
+      },
+      "options": {
+        "a": {"en": "He was very kind", "hi": "वह बहुत दयालु था"},
+        "b": {"en": "He was cunning and clever", "hi": "वह धूर्त और चालाक था"},
+        "c": {"en": "He was very brave", "hi": "वह बहुत बहादुर था"},
+        "d": {"en": "He was innocent", "hi": "वह मासूम था"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Foxes are often used as symbols of cunningness in literature.",
+        "hi": "साहित्य में लोमड़ियों का उपयोग अक्सर चालाकी के प्रतीक के रूप में किया जाता है।"
+      },
+      "explanation": {
+        "en": "The fox-like features suggest that Max was a cunning rival spy, though he ultimately proved to be less clever than Ausable.",
+        "hi": "लोमड़ी जैसे फीचर्स बताते हैं कि मैक्स एक चालाक जासूस था, लेकिन वह ओसेबल से कम बुद्धिमान निकला।"
+      },
+      "key_takeaway": {
+        "en": "Craftiness (Max) vs. Wisdom (Ausable).",
+        "hi": "धूर्तता (मैक्स) बनाम बुद्धिमत्ता (ओसेबल)।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "What did Ausable do as soon as he entered his room?",
+        "hi": "कमरे में घुसते ही ओसेबल ने क्या किया?"
+      },
+      "options": {
+        "a": {"en": "He went to sleep", "hi": "वह सो गया"},
+        "b": {"en": "He turned on the light", "hi": "उसने लाइट जलाई"},
+        "c": {"en": "He checked under the bed", "hi": "उसने बिस्तर के नीचे चेक किया"},
+        "d": {"en": "He called the police", "hi": "उसने पुलिस को फोन किया"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It was at this moment that they first saw Max.",
+        "hi": "इसी क्षण उन्होंने पहली बार मैक्स को देखा था।"
+      },
+      "explanation": {
+        "en": "As soon as Ausable entered the room, he closed the door and switched on the light. This revealed the presence of Max with a pistol.",
+        "hi": "ओसेबल ने कमरे में घुसते ही लाइट जलाई, जिससे पता चला कि मैक्स वहां पहले से मौजूद है।"
+      },
+      "key_takeaway": {
+        "en": "The switching on of the light starts the suspenseful encounter.",
+        "hi": "लाइट जलते ही सस्पेंस भरा सामना शुरू हो जाता है।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "Why didn't Ausable get scared seeing Max with a gun?",
+        "hi": "पिस्तौल के साथ मैक्स को देखकर ओसेबल क्यों नहीं डरा?"
+      },
+      "options": {
+        "a": {"en": "He knew the gun was empty", "hi": "वह जानता था कि बंदूक खाली है"},
+        "b": {"en": "He was a trained professional with great presence of mind", "hi": "वह महान सूझ-बूझ वाला एक प्रशिक्षित पेशेवर था"},
+        "c": {"en": "He thought it was a toy gun", "hi": "उसे लगा कि वह खिलौना बंदूक है"},
+        "d": {"en": "He knew Max personally", "hi": "वह मैक्स को व्यक्तिगत रूप से जानता था"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He remained calm and immediately started thinking of a way to defeat Max.",
+        "hi": "वह शांत रहा और तुरंत मैक्स को हराने का तरीका सोचने लगा।"
+      },
+      "explanation": {
+        "en": "Ausable was a seasoned secret agent. Instead of panicking, he used his mental faculties to create a fictional scenario that led to Max's defeat.",
+        "hi": "ओसेबल एक अनुभवी एजेंट था। उसने घबराने के बजाय अपनी बुद्धि का इस्तेमाल किया।"
+      },
+      "key_takeaway": {
+        "en": "Mental strength is superior to physical weapons.",
+        "hi": "मानसिक शक्ति भौतिक हथियारों से श्रेष्ठ होती है।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "What does the phrase 'presence of mind' mean in this story?",
+        "hi": "इस कहानी में 'प्रेजेंस ऑफ माइंड' (सूझ-बूझ) का क्या अर्थ है?"
+      },
+      "options": {
+        "a": {"en": "Being able to run fast", "hi": "तेज़ दौड़ने में सक्षम होना"},
+        "b": {"en": "The ability to think clearly and act effectively in a crisis", "hi": "संकट में स्पष्ट रूप से सोचने और प्रभावी ढंग से कार्य करने की क्षमता"},
+        "c": {"en": "Having a good memory", "hi": "अच्छी याददाश्त होना"},
+        "d": {"en": "Being very polite", "hi": "बहुत विनम्र होना"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It is exactly what Ausable used to get rid of Max.",
+        "hi": "यह वही चीज़ है जिसका उपयोग ओसेबल ने मैक्स से छुटकारा पाने के लिए किया था।"
+      },
+      "explanation": {
+        "en": "Presence of mind is the quality of staying calm and finding a solution quickly during a dangerous situation. Ausable displayed this perfectly.",
+        "hi": "प्रेजेंस ऑफ माइंड का अर्थ है खतरे के समय शांत रहकर तुरंत समाधान ढूंढना।"
+      },
+      "key_takeaway": {
+        "en": "Presence of mind = Essential quality of a secret agent.",
+        "hi": "Presence of mind = एक गुप्त एजेंट का आवश्यक गुण।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "How did Fowler feel when he saw the waiter with the tray at the end?",
+        "hi": "अंत में वेटर को ट्रे के साथ देखकर फाउलर को कैसा लगा?"
+      },
+      "options": {
+        "a": {"en": "Relieved but confused", "hi": "राहत महसूस हुई लेकिन उलझन में था"},
+        "b": {"en": "Terrified", "hi": "खौफजदा"},
+        "c": {"en": "He started crying", "hi": "वह रोने लगा"},
+        "d": {"en": "He asked for a refund", "hi": "उसने रिफंड माँगा"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "He had expected the police, but seeing the waiter made him realize Ausable's plan.",
+        "hi": "उसे पुलिस की उम्मीद थी, लेकिन वेटर को देखकर वह ओसेबल की योजना समझ गया।"
+      },
+      "explanation": {
+        "en": "Fowler was 'white-faced' with shock. He stammered, asking about the 'police', only to realize that Ausable had fooled everyone.",
+        "hi": "फाउलर हैरान था और हकलाते हुए पुलिस के बारे में पूछने लगा, फिर उसे ओसेबल की चाल समझ आई।"
+      },
+      "key_takeaway": {
+        "en": "Fowler was the audience for Ausable’s brilliant performance.",
+        "hi": "फाउलर ओसेबल के शानदार प्रदर्शन का गवाह था।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "Who is the author of 'The Midnight Visitor'?",
+        "hi": "'द मिडनाइट विजिटर' के लेखक कौन हैं?"
+      },
+      "options": {
+        "a": {"en": "James Herriot", "hi": "जेम्स हैरियट"},
+        "b": {"en": "Robert Arthur", "hi": "रॉबर्ट ऑर्थर (Robert Arthur)"},
+        "c": {"en": "Ruskin Bond", "hi": "रस्किन बॉन्ड"},
+        "d": {"en": "H.G. Wells", "hi": "एच.जी. वेल्स"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He is known for writing mystery and detective stories.",
+        "hi": "वे रहस्य और जासूसी कहानियाँ लिखने के लिए जाने जाते हैं।"
+      },
+      "explanation": {
+        "en": "Robert Arthur is the author of this story. He was a popular American writer known for his work in the mystery genre.",
+        "hi": "इस कहानी के लेखक रॉबर्ट ऑर्थर हैं।"
+      },
+      "key_takeaway": {
+        "en": "Robert Arthur = Author of the clever spy story.",
+        "hi": "रॉबर्ट ऑर्थर = इस चतुर जासूसी कहानी के लेखक।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "What is the main message of the story?",
+        "hi": "कहानी का मुख्य संदेश क्या है?"
+      },
+      "options": {
+        "a": {"en": "Always carry a gun", "hi": "हमेशा बंदूक साथ रखें"},
+        "b": {"en": "Writers are very brave", "hi": "लेखक बहुत बहादुर होते हैं"},
+        "c": {"en": "Intelligence and presence of mind are more powerful than weapons", "hi": "बुद्धिमत्ता और सूझ-बूझ हथियारों से अधिक शक्तिशाली होते हैं"},
+        "d": {"en": "Never stay in a hotel", "hi": "होटल में कभी न ठहरें"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "Ausable defeated an armed intruder without using any force.",
+        "hi": "ओसेबल ने बिना किसी बल का प्रयोग किए एक सशस्त्र घुसपैठिये को हरा दिया।"
+      },
+      "explanation": {
+        "en": "The story highlights that brain power is superior to muscle power. Ausable's wit saved his life and the missile report, proving he was a superior secret agent despite his looks.",
+        "hi": "कहानी यह बताती है कि दिमाग की ताकत शारीरिक ताकत से कहीं बढ़कर है।"
+      },
+      "key_takeaway": {
+        "en": "Wit wins where weapons fail.",
+        "hi": "जहाँ हथियार काम नहीं आते, वहाँ बुद्धि काम आती है।"
+      }
+    }
+  ]
+}

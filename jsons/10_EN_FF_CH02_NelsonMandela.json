@@ -1,0 +1,800 @@
+{
+  "metadata": {
+    "chapter_number": 2,
+    "chapter_title": "Nelson Mandela: Long Walk to Freedom",
+    "chapter_title_hindi": "नेल्सन मंडेला: स्वतंत्रता की लंबी यात्रा",
+    "subject": "English (First Flight) - Class 10",
+    "board": "HPBOSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.0",
+    "naming_convention": "10_EN_FF_CH02_NelsonMandela.json"
+  },
+  "validation_report": {
+    "is_valid": true,
+    "checked_by": "AI Tutor",
+    "checked_at": "2026-01-20T16:00:00Z",
+    "notes": "Bilingual content verified for pedagogical depth and technical accuracy."
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "On which day did the inauguration ceremony take place?",
+        "hi": "उद्घाटन समारोह किस दिन आयोजित किया गया था?"
+      },
+      "options": {
+        "a": {"en": "10th May", "hi": "10 मई"},
+        "b": {"en": "10th March", "hi": "10 मार्च"},
+        "c": {"en": "20th May", "hi": "20 मई"},
+        "d": {"en": "15th August", "hi": "15 अगस्त"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "Mandela describes it as an 'autumn day' in South Africa.",
+        "hi": "मंडेला इसे दक्षिण अफ्रीका में 'शरद ऋतु (पतझड़) के दिन' के रूप में वर्णित करते हैं।"
+      },
+      "explanation": {
+        "en": "The inauguration ceremony took place on 10th May, 1994. It marked the end of more than three centuries of white rule and the installation of South Africa's first democratic, non-racial government.",
+        "hi": "उद्घाटन समारोह 10 मई, 1994 को हुआ था। इसने तीन सदियों से अधिक के श्वेत शासन के अंत और दक्षिण अफ्रीका की पहली लोकतांत्रिक सरकार की स्थापना का संकेत दिया।"
+      },
+      "key_takeaway": {
+        "en": "10th May = Freedom Day for South Africa.",
+        "hi": "10 मई = दक्षिण अफ्रीका के लिए स्वतंत्रता दिवस।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "Where did the ceremonies take place?",
+        "hi": "समारोह कहाँ आयोजित किए गए थे?"
+      },
+      "options": {
+        "a": {"en": "Sandton City", "hi": "सैंडटन सिटी"},
+        "b": {"en": "Union Buildings amphitheatre in Pretoria", "hi": "प्रिटोरिया में यूनियन बिल्डिंग्स एम्फीथिएटर"},
+        "c": {"en": "The Parliament House", "hi": "संसद भवन"},
+        "d": {"en": "Nelson Mandela Stadium", "hi": "नेल्सन मंडेला स्टेडियम"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It was a sandstone building that had been the seat of white supremacy for decades.",
+        "hi": "यह एक बलुआ पत्थर की इमारत थी जो दशकों से श्वेत वर्चस्व की सीट रही थी।"
+      },
+      "explanation": {
+        "en": "The ceremony was held in the lovely sandstone amphitheatre formed by the Union Buildings in Pretoria, the administrative capital of South Africa.",
+        "hi": "समारोह प्रिटोरिया में यूनियन बिल्डिंग्स द्वारा बनाए गए सुंदर बलुआ पत्थर के एम्फीथिएटर में आयोजित किया गया था।"
+      },
+      "key_takeaway": {
+        "en": "Union Buildings = Site of the historic inauguration.",
+        "hi": "यूनियन बिल्डिंग्स = ऐतिहासिक उद्घाटन का स्थल।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "What does Mandela mean by 'a rainbow gathering of different colors and nations'?",
+        "hi": "विभिन्न रंगों और राष्ट्रों का 'इंद्रधनुषी जमावड़ा' (rainbow gathering) से मंडेला का क्या तात्पर्य है?"
+      },
+      "options": {
+        "a": {"en": "A sky full of rainbows", "hi": "इंद्रधनुष से भरा आसमान"},
+        "b": {"en": "People from all races and countries joining together", "hi": "सभी नस्लों और देशों के लोगों का एक साथ मिलना"},
+        "c": {"en": "A gathering for a painting competition", "hi": "चित्रकला प्रतियोगिता के लिए एक सभा"},
+        "d": {"en": "Only leaders from African countries", "hi": "केवल अफ्रीकी देशों के नेता"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Think of a rainbow having many colors together. This represented the end of racial discrimination.",
+        "hi": "एक इंद्रधनुष के कई रंगों के बारे में सोचें। यह नस्लीय भेदभाव के अंत का प्रतिनिधित्व करता था।"
+      },
+      "explanation": {
+        "en": "The ceremony was called a 'rainbow gathering' because it included people of all skin colors and leaders from over 140 countries, symbolizing unity and diversity.",
+        "hi": "समारोह को 'इंद्रधनुषी जमावड़ा' कहा गया क्योंकि इसमें सभी रंगों के लोग और 140 से अधिक देशों के नेता शामिल थे, जो एकता का प्रतीक थे।"
+      },
+      "key_takeaway": {
+        "en": "Rainbow Gathering = Unity in diversity.",
+        "hi": "Rainbow Gathering = विविधता में एकता।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "Who accompanied Nelson Mandela on the day of the inauguration?",
+        "hi": "उद्घाटन के दिन नेल्सन मंडेला के साथ कौन था?"
+      },
+      "options": {
+        "a": {"en": "His wife", "hi": "उनकी पत्नी"},
+        "b": {"en": "His daughter Zenani", "hi": "उनकी बेटी जेनानी"},
+        "c": {"en": "His sister", "hi": "उनकी बहन"},
+        "d": {"en": "His mother", "hi": "उनकी माँ"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "She was with him on the podium during the swearing-in.",
+        "hi": "शपथ ग्रहण के दौरान वह उनके साथ मंच पर थीं।"
+      },
+      "explanation": {
+        "en": "On the day of the inauguration, Nelson Mandela was accompanied by his daughter, Zenani. It was a proud personal moment alongside the national celebration.",
+        "hi": "उद्घाटन के दिन नेल्सन मंडेला के साथ उनकी बेटी जेनानी भी थीं।"
+      },
+      "key_takeaway": {
+        "en": "Zenani = Mandela's daughter.",
+        "hi": "जेनानी = मंडेला की बेटी।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "Who was sworn in as the first deputy president?",
+        "hi": "प्रथम उप-राष्ट्रपति के रूप में किसने शपथ ली?"
+      },
+      "options": {
+        "a": {"en": "Mr. de Klerk", "hi": "मिस्टर डी क्लार्क"},
+        "b": {"en": "Thabo Mbeki", "hi": "थाबो मबेकी"},
+        "c": {"en": "Nelson Mandela", "hi": "नेल्सन मंडेला"},
+        "d": {"en": "Oliver Tambo", "hi": "ओलिवर टैम्बो"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Mr. de Klerk was sworn in first as the second deputy, followed by this person.",
+        "hi": "मिस्टर डी क्लार्क ने पहले दूसरे उप-राष्ट्रपति के रूप में शपथ ली, उसके बाद इस व्यक्ति ने।"
+      },
+      "explanation": {
+        "en": "Thabo Mbeki was sworn in as the first deputy president of South Africa, while Mr. de Klerk was the second deputy president.",
+        "hi": "थाबो मबेकी ने दक्षिण अफ्रीका के पहले उप-राष्ट्रपति के रूप में शपथ ली।"
+      },
+      "key_takeaway": {
+        "en": "Thabo Mbeki = 1st Deputy President.",
+        "hi": "थाबो मबेकी = प्रथम उप-राष्ट्रपति।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "What did Mandela pledge during his speech?",
+        "hi": "मंडेला ने अपने भाषण के दौरान क्या संकल्प लिया?"
+      },
+      "options": {
+        "a": {"en": "To continue the white rule", "hi": "श्वेत शासन जारी रखने का"},
+        "b": {"en": "To liberate all people from poverty and discrimination", "hi": "सभी लोगों को गरीबी और भेदभाव से मुक्त करने का"},
+        "c": {"en": "To take revenge on white people", "hi": "श्वेत लोगों से बदला लेने का"},
+        "d": {"en": "To become the richest nation", "hi": "सबसे अमीर राष्ट्र बनने का"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He promised to build a society where everyone is equal and free from suffering.",
+        "hi": "उन्होंने एक ऐसे समाज के निर्माण का वादा किया जहाँ हर कोई समान हो और कष्टों से मुक्त हो।"
+      },
+      "explanation": {
+        "en": "Mandela pledged to liberate his people from the continuing bondage of poverty, deprivation, suffering, gender, and other discrimination.",
+        "hi": "मंडेला ने अपने लोगों को गरीबी, अभाव, दुख और भेदभाव के बंधनों से मुक्त करने का संकल्प लिया।"
+      },
+      "key_takeaway": {
+        "en": "The goal of the new government was equality and freedom for all.",
+        "hi": "नई सरकार का लक्ष्य सभी के लिए समानता और स्वतंत्रता था।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "What does 'apartheid' mean?",
+        "hi": "'रंगभेद' (apartheid) का क्या अर्थ है?"
+      },
+      "options": {
+        "a": {"en": "A religious system", "hi": "एक धार्मिक व्यवस्था"},
+        "b": {"en": "A political system that separates people according to their race", "hi": "एक राजनीतिक व्यवस्था जो लोगों को उनकी नस्ल के अनुसार अलग करती है"},
+        "c": {"en": "A system of equality", "hi": "समानता की एक व्यवस्था"},
+        "d": {"en": "A form of monarchy", "hi": "राजशाही का एक रूप"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It was the system that Mandela fought against for most of his life.",
+        "hi": "यह वह व्यवस्था थी जिसके खिलाफ मंडेला ने अपने जीवन के अधिकांश समय तक लड़ाई लड़ी।"
+      },
+      "explanation": {
+        "en": "Apartheid was a political system in South Africa that enforced racial discrimination and segregation against non-white citizens.",
+        "hi": "रंगभेद दक्षिण अफ्रीका में एक राजनीतिक व्यवस्था थी जो गैर-श्वेत नागरिकों के खिलाफ नस्लीय भेदभाव लागू करती थी।"
+      },
+      "key_takeaway": {
+        "en": "Apartheid = Racial discrimination/Segregation.",
+        "hi": "Apartheid = नस्लीय भेदभाव।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "What was the 'extraordinary human disaster' Mandela mentioned?",
+        "hi": "मंडेला ने किस 'असाधारण मानवीय आपदा' का उल्लेख किया था?"
+      },
+      "options": {
+        "a": {"en": "A flood", "hi": "बाढ़"},
+        "b": {"en": "The practice of Apartheid", "hi": "रंगभेद की प्रथा"},
+        "c": {"en": "World War II", "hi": "द्वितीय विश्व युद्ध"},
+        "d": {"en": "The hailstorm", "hi": "ओलावृष्टि"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It refers to the long period of oppression where black people were treated cruelly in their own land.",
+        "hi": "यह उत्पीड़न की उस लंबी अवधि को संदर्भित करता है जहाँ अश्वेत लोगों के साथ उनकी अपनी भूमि में क्रूर व्यवहार किया जाता था।"
+      },
+      "explanation": {
+        "en": "By 'extraordinary human disaster', Mandela referred to the brutal system of apartheid that had caused deep suffering and injustice for the majority of South Africans.",
+        "hi": "'असाधारण मानवीय आपदा' से मंडेला का तात्पर्य रंगभेद की क्रूर व्यवस्था से था जिसने अन्याय पैदा किया था।"
+      },
+      "key_takeaway": {
+        "en": "Apartheid was a disaster for humanity.",
+        "hi": "रंगभेद मानवता के लिए एक आपदा थी।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "According to Mandela, what is a nation's greatest wealth?",
+        "hi": "मंडेला के अनुसार, किसी राष्ट्र की सबसे बड़ी संपत्ति क्या है?"
+      },
+      "options": {
+        "a": {"en": "Its minerals and gems", "hi": "इसके खनिज और रत्न"},
+        "b": {"en": "Its people", "hi": "इसके लोग"},
+        "c": {"en": "Its technology", "hi": "इसकी तकनीक"},
+        "d": {"en": "Its army", "hi": "इसकी सेना"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Mandela says they are 'finer and truer than the purest diamonds'.",
+        "hi": "मंडेला कहते हैं कि वे 'शुद्धतम हीरों से भी बेहतर और सच्चे' हैं।"
+      },
+      "explanation": {
+        "en": "Mandela believes that although South Africa is rich in minerals and gems, its greatest wealth is its people, who are finer and truer than the purest diamonds.",
+        "hi": "मंडेला का मानना है कि दक्षिण अफ्रीका की सबसे बड़ी संपत्ति उसके लोग हैं, जो हीरों से भी अधिक कीमती हैं।"
+      },
+      "key_takeaway": {
+        "en": "Human resources are more valuable than natural resources.",
+        "hi": "मानव संसाधन प्राकृतिक संसाधनों से अधिक मूल्यवान हैं।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "How does Mandela define 'courage'?",
+        "hi": "मंडेला 'साहस' (courage) को कैसे परिभाषित करते हैं?"
+      },
+      "options": {
+        "a": {"en": "The absence of fear", "hi": "डर की अनुपस्थिति"},
+        "b": {"en": "The triumph over fear", "hi": "डर पर विजय"},
+        "c": {"en": "Being physically strong", "hi": "शारीरिक रूप से मजबूत होना"},
+        "d": {"en": "Never feeling afraid", "hi": "कभी डर महसूस न करना"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "A brave man is not he who does not feel afraid, but he who conquers that fear.",
+        "hi": "एक बहादुर आदमी वह नहीं है जिसे डर नहीं लगता, बल्कि वह है जो उस डर को जीत लेता है।"
+      },
+      "explanation": {
+        "en": "Mandela learned that courage was not the absence of fear, but the triumph over it. A brave man is one who conquers fear, not one who never experiences it.",
+        "hi": "मंडेला ने सीखा कि साहस डर की अनुपस्थिति नहीं है, बल्कि उस पर विजय है।"
+      },
+      "key_takeaway": {
+        "en": "Courage = Conquering fear.",
+        "hi": "Courage = डर को जीतना।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "What did the spectacular array of South African jets symbolize?",
+        "hi": "दक्षिण अफ्रीकी जेट विमानों की शानदार कतार किसका प्रतीक थी?"
+      },
+      "options": {
+        "a": {"en": "The military's power to destroy", "hi": "सेना की विनाश करने की शक्ति"},
+        "b": {"en": "The military's loyalty to democracy", "hi": "लोकतंत्र के प्रति सेना की वफादारी"},
+        "c": {"en": "The richness of the country", "hi": "देश की संपन्नता"},
+        "d": {"en": "A warning to other nations", "hi": "दूसरे देशों के लिए एक चेतावनी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The display was not just about show, but about the military's respect for the new, free government.",
+        "hi": "यह प्रदर्शन केवल दिखावे के लिए नहीं था, बल्कि नई, स्वतंत्र सरकार के प्रति सेना के सम्मान के लिए था।"
+      },
+      "explanation": {
+        "en": "The jet display was a demonstration of the military's loyalty to democracy and to a new government that had been freely and fairly elected.",
+        "hi": "जेट प्रदर्शन लोकतंत्र और नई चुनी हुई सरकार के प्रति सेना की वफादारी का प्रदर्शन था।"
+      },
+      "key_takeaway": {
+        "en": "Military loyalty shifted from white supremacy to democracy.",
+        "hi": "सेना की वफादारी श्वेत वर्चस्व से हटकर लोकतंत्र की ओर स्थानांतरित हो गई।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "Which two national anthems were sung during the ceremony?",
+        "hi": "समारोह के दौरान कौन से दो राष्ट्रगान गाए गए थे?"
+      },
+      "options": {
+        "a": {"en": "One for blacks and one for whites", "hi": "एक अश्वेतों के लिए और एक श्वेतों के लिए"},
+        "b": {"en": "One for South Africa and one for the UN", "hi": "एक दक्षिण अफ्रीका के लिए और एक संयुक्त राष्ट्र के लिए"},
+        "c": {"en": "Only the new national anthem", "hi": "केवल नया राष्ट्रगान"},
+        "d": {"en": "A song by Nelson Mandela", "hi": "नेल्सन मंडेला द्वारा एक गीत"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "Singing both anthems (the old and the new) symbolized the unity between different races.",
+        "hi": "दोनों राष्ट्रगान (पुराने और नए) गाना विभिन्न नस्लों के बीच एकता का प्रतीक था।"
+      },
+      "explanation": {
+        "en": "The whites sang 'Nkosi Sikelel’ iAfrika' and the blacks sang 'Die Stem', the old anthem of the Republic. This was a powerful symbol of reconciliation.",
+        "hi": "श्वेतों और अश्वेतों ने एक-दूसरे का राष्ट्रगान गाया, जो सुलह और एकता का एक शक्तिशाली प्रतीक था।"
+      },
+      "key_takeaway": {
+        "en": "Two anthems = Symbol of racial harmony.",
+        "hi": "दो राष्ट्रगान = नस्लीय सद्भाव का प्रतीक।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "What does Mandela say about a man's twin obligations?",
+        "hi": "मंडेला मनुष्य के दोहरे कर्तव्यों (twin obligations) के बारे में क्या कहते हैं?"
+      },
+      "options": {
+        "a": {"en": "To earn money and buy a house", "hi": "पैसा कमाना और घर खरीदना"},
+        "b": {"en": "Obligation to his family and to his people/country", "hi": "अपने परिवार के प्रति और अपने लोगों/देश के प्रति कर्तव्य"},
+        "c": {"en": "To work hard and to rest", "hi": "कड़ी मेहनत करना और आराम करना"},
+        "d": {"en": "To obey the law and to pay taxes", "hi": "कानून का पालन करना और करों का भुगतान करना"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Every man has a personal duty and a social/national duty.",
+        "hi": "हर आदमी का एक व्यक्तिगत कर्तव्य और एक सामाजिक/राष्ट्रीय कर्तव्य होता है।"
+      },
+      "explanation": {
+        "en": "Mandela says every man has twin obligations: first to his family, parents, wife, and children; and second to his people, his community, and his country.",
+        "hi": "मंडेला कहते हैं कि हर आदमी के दो कर्तव्य होते हैं: पहला अपने परिवार के प्रति और दूसरा अपने देश के प्रति।"
+      },
+      "key_takeaway": {
+        "en": "Twin obligations = Personal + National duties.",
+        "hi": "दोहरे कर्तव्य = व्यक्तिगत + राष्ट्रीय कर्तव्य।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "Why was it impossible for a black man in South Africa to fulfill these obligations?",
+        "hi": "दक्षिण अफ्रीका में एक अश्वेत व्यक्ति के लिए इन कर्तव्यों को पूरा करना क्यों असंभव था?"
+      },
+      "options": {
+        "a": {"en": "They were too lazy", "hi": "वे बहुत आलसी थे"},
+        "b": {"en": "They were punished and isolated if they tried to live as a human being", "hi": "यदि वे एक इंसान के रूप में जीने की कोशिश करते तो उन्हें दंडित और अलग-थलग कर दिया जाता था"},
+        "c": {"en": "They didn't have families", "hi": "उनके परिवार नहीं थे"},
+        "d": {"en": "They didn't want to serve the country", "hi": "वे देश की सेवा नहीं करना चाहते थे"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The apartheid laws prevented black people from having a normal life or serving their community.",
+        "hi": "रंगभेद के नियमों ने अश्वेत लोगों को सामान्य जीवन जीने या अपने समुदाय की सेवा करने से रोका।"
+      },
+      "explanation": {
+        "en": "Under apartheid, a man of color who attempted to live as a human being was punished and isolated. If he tried to fulfill his duty to his people, he was ripped from his family.",
+        "hi": "रंगभेद के तहत, अपनी मानवता या समुदाय के प्रति कर्तव्य निभाने वाले अश्वेत व्यक्ति को परिवार से अलग कर दिया जाता था।"
+      },
+      "key_takeaway": {
+        "en": "Apartheid destroyed family life for black activists.",
+        "hi": "रंगभेद ने अश्वेत कार्यकर्ताओं के पारिवारिक जीवन को नष्ट कर दिया।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "As a child, what was Mandela's idea of freedom?",
+        "hi": "एक बच्चे के रूप में, स्वतंत्रता के बारे में मंडेला का क्या विचार था?"
+      },
+      "options": {
+        "a": {"en": "The right to vote", "hi": "वोट देने का अधिकार"},
+        "b": {"en": "Running in fields and swimming in the stream", "hi": "खेतों में दौड़ना और धारा में तैरना"},
+        "c": {"en": "Fighting for the country", "hi": "देश के लिए लड़ना"},
+        "d": {"en": "Having a high-paying job", "hi": "उच्च वेतन वाली नौकरी होना"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "For a child, freedom is just being able to play and do what they like.",
+        "hi": "एक बच्चे के लिए, स्वतंत्रता केवल खेलने और अपनी पसंद का काम करने में सक्षम होना है।"
+      },
+      "explanation": {
+        "en": "As a boy, Mandela felt free as long as he obeyed his father and followed the customs of his tribe. His freedom was simply running in the fields and swimming in the stream.",
+        "hi": "बचपन में मंडेला के लिए आज़ादी का मतलब सिर्फ खेतों में दौड़ना और अपनी मर्जी से खेलना था।"
+      },
+      "key_takeaway": {
+        "en": "Childhood freedom is simple and physical.",
+        "hi": "बचपन की आज़ादी सरल और शारीरिक होती है।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "What did Mandela later realize about his childhood freedom?",
+        "hi": "मंडेला ने बाद में अपने बचपन की आज़ादी के बारे में क्या महसूस किया?"
+      },
+      "options": {
+        "a": {"en": "It was very important", "hi": "यह बहुत महत्वपूर्ण थी"},
+        "b": {"en": "It was an illusion", "hi": "यह एक भ्रम (छलावा) था"},
+        "c": {"en": "It was better than being president", "hi": "यह राष्ट्रपति बनने से बेहतर थी"},
+        "d": {"en": "It was the only true freedom", "hi": "यह एकमात्र सच्ची आज़ादी थी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He discovered that while he felt free, he was actually restricted by the laws of his country.",
+        "hi": "उन्होंने पाया कि जब वे स्वतंत्र महसूस कर रहे थे, तब वे वास्तव में अपने देश के कानूनों से बंधे थे।"
+      },
+      "explanation": {
+        "en": "As a young man, Mandela realized that his childhood freedom was an illusion because he discovered that his freedom had already been taken from him.",
+        "hi": "एक युवा के रूप में, मंडेला ने महसूस किया कि उनके बचपन की स्वतंत्रता एक भ्रम थी क्योंकि उनकी आज़ादी पहले ही छीनी जा चुकी थी।"
+      },
+      "key_takeaway": {
+        "en": "True freedom is different from temporary childhood joy.",
+        "hi": "सच्ची स्वतंत्रता बचपन की अस्थायी खुशी से अलग होती है।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "What are 'transitory freedoms' according to Mandela?",
+        "hi": "मंडेला के अनुसार 'अस्थायी स्वतंत्रता' (transitory freedoms) क्या हैं?"
+      },
+      "options": {
+        "a": {"en": "Freedoms that last forever", "hi": "स्वतंत्रता जो हमेशा बनी रहती है"},
+        "b": {"en": "Freedoms like staying out at night or reading what one pleased", "hi": "रात में बाहर रहने या जो चाहे वह पढ़ने जैसी आज़ादी"},
+        "c": {"en": "The right to a fair trial", "hi": "निष्पक्ष सुनवाई का अधिकार"},
+        "d": {"en": "Economic freedom", "hi": "आर्थिक स्वतंत्रता"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "These are the small things a student or young person wants for themselves.",
+        "hi": "ये वे छोटी चीज़ें हैं जो एक छात्र या युवा व्यक्ति अपने लिए चाहता है।"
+      },
+      "explanation": {
+        "en": "Mandela called the basic rights he wanted as a student—like staying out at night, reading what he pleased, and going where he chose—'transitory' because they were temporary and personal.",
+        "hi": "मंडेला ने छात्र के रूप में चाही गई बुनियादी चीज़ों को 'अस्थायी' कहा क्योंकि वे केवल व्यक्तिगत और अल्पकालिक थीं।"
+      },
+      "key_takeaway": {
+        "en": "Personal desires are transitory; basic human dignity is permanent.",
+        "hi": "व्यक्तिगत इच्छाएं अस्थायी होती हैं; मानवीय गरिमा स्थायी है।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "What began Mandela's 'hunger for freedom'?",
+        "hi": "मंडेला की 'आज़ादी की भूख' कैसे शुरू हुई?"
+      },
+      "options": {
+        "a": {"en": "When he saw that his brothers and sisters were also not free", "hi": "जब उन्होंने देखा कि उनके भाई-बहन भी स्वतंत्र नहीं थे"},
+        "b": {"en": "When he wanted to become rich", "hi": "जब वह अमीर बनना चाहते थे"},
+        "c": {"en": "When he was elected president", "hi": "जब उन्हें राष्ट्रपति चुना गया"},
+        "d": {"en": "When he left his home", "hi": "जब उन्होंने अपना घर छोड़ा"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "He realized that his individual freedom was linked to the freedom of all black people.",
+        "hi": "उन्होंने महसूस किया कि उनकी व्यक्तिगत स्वतंत्रता सभी अश्वेत लोगों की स्वतंत्रता से जुड़ी हुई थी।"
+      },
+      "explanation": {
+        "en": "His hunger for freedom grew when he saw that it was not just his freedom that was curtailed, but the freedom of everyone who looked like him (the black people).",
+        "hi": "आज़ादी की भूख तब बढ़ी जब उन्होंने देखा कि उनके जैसे दिखने वाले सभी लोगों की आज़ादी छिन गई थी।"
+      },
+      "key_takeaway": {
+        "en": "Collective freedom became more important than personal freedom.",
+        "hi": "व्यक्तिगत स्वतंत्रता से अधिक सामूहिक स्वतंत्रता महत्वपूर्ण हो गई।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "Which organization did Mandela join?",
+        "hi": "मंडेला किस संगठन में शामिल हुए?"
+      },
+      "options": {
+        "a": {"en": "Indian National Congress", "hi": "भारतीय राष्ट्रीय कांग्रेस"},
+        "b": {"en": "African National Congress (ANC)", "hi": "अफ्रीकी नेशनल कांग्रेस (ANC)"},
+        "c": {"en": "National Party", "hi": "नेशनल पार्टी"},
+        "d": {"en": "United Nations", "hi": "संयुक्त राष्ट्र"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It is the party that led the struggle against apartheid.",
+        "hi": "यह वह पार्टी है जिसने रंगभेद के खिलाफ संघर्ष का नेतृत्व किया।"
+      },
+      "explanation": {
+        "en": "Nelson Mandela joined the African National Congress (ANC) when he realized the need for a collective struggle to gain freedom for his people.",
+        "hi": "नेल्सन मंडेला अफ्रीकी नेशनल कांग्रेस (ANC) में शामिल हुए जब उन्हें सामूहिक संघर्ष की आवश्यकता महसूस हुई।"
+      },
+      "key_takeaway": {
+        "en": "ANC = The party of the liberation struggle.",
+        "hi": "ANC = मुक्ति संघर्ष की पार्टी।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "How did the desire for freedom change Mandela's life?",
+        "hi": "स्वतंत्रता की इच्छा ने मंडेला के जीवन को कैसे बदल दिया?"
+      },
+      "options": {
+        "a": {"en": "He became a businessman", "hi": "वह एक व्यवसायी बन गए"},
+        "b": {"en": "It transformed a frightened young man into a bold one", "hi": "इसने एक डरे हुए युवक को साहसी व्यक्ति में बदल दिया"},
+        "c": {"en": "He left South Africa forever", "hi": "उन्होंने दक्षिण अफ्रीका हमेशा के लिए छोड़ दिया"},
+        "d": {"en": "He became very quiet and shy", "hi": "वह बहुत शांत और शर्मीले हो गए"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The desire for his people's dignity made him a 'law-abiding attorney into a criminal' in the eyes of the law.",
+        "hi": "अपने लोगों की गरिमा की इच्छा ने उन्हें कानून की नज़र में एक 'अपराधी' बना दिया।"
+      },
+      "explanation": {
+        "en": "The desire for freedom transformed him from a frightened young man into a bold one, and from a family-loving husband into a man without a home.",
+        "hi": "आज़ादी की इच्छा ने उन्हें एक डरे हुए युवक से साहसी और बेघर क्रांतिकारी बना दिया।"
+      },
+      "key_takeaway": {
+        "en": "Great causes require great personal sacrifices.",
+        "hi": "बड़े उद्देश्यों के लिए बड़े व्यक्तिगत बलिदानों की आवश्यकता होती है।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "What does Mandela say about the 'oppressor' and the 'oppressed'?",
+        "hi": "मंडेला 'उत्पीड़क' (oppressor) और 'उत्पीड़ित' (oppressed) के बारे में क्या कहते हैं?"
+      },
+      "options": {
+        "a": {"en": "The oppressor is free", "hi": "उत्पीड़क स्वतंत्र है"},
+        "b": {"en": "Both are robbed of their humanity", "hi": "दोनों की मानवता छीन ली जाती है"},
+        "c": {"en": "Only the oppressed needs to be liberated", "hi": "केवल उत्पीड़ित को मुक्त करने की आवश्यकता है"},
+        "d": {"en": "The oppressor is a hero", "hi": "उत्पीड़क एक नायक है"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "A person who takes away another's freedom is a 'prisoner of hatred'.",
+        "hi": "जो व्यक्ति दूसरे की आज़ादी छीनता है वह 'नफरत का कैदी' है।"
+      },
+      "explanation": {
+        "en": "Mandela believes that the oppressor is as much a prisoner as the oppressed. The oppressor is a prisoner of hatred and prejudice, and both lose their humanity.",
+        "hi": "मंडेला का मानना है कि उत्पीड़क और उत्पीड़ित दोनों की मानवता छिन जाती है, क्योंकि नफरत करने वाला खुद नफरत का कैदी होता है।"
+      },
+      "key_takeaway": {
+        "en": "True liberation means freeing both the victim and the victimizer.",
+        "hi": "सच्ची मुक्ति का अर्थ है पीड़ित और उत्पीड़क दोनों को मुक्त करना।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "What created the 'heights of character' in South Africa?",
+        "hi": "दक्षिण अफ्रीका में 'चरित्र की ऊँचाई' (heights of character) किसने बनाई?"
+      },
+      "options": {
+        "a": {"en": "Good education", "hi": "अच्छी शिक्षा"},
+        "b": {"en": "Depths of oppression", "hi": "उत्पीड़न की गहराई"},
+        "c": {"en": "Rich minerals", "hi": "अमीर खनिज"},
+        "d": {"en": "International support", "hi": "अंतर्राष्ट्रीय समर्थन"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Hard times and extreme cruelty often produce the bravest and most noble people.",
+        "hi": "कठिन समय और अत्यधिक क्रूरता अक्सर सबसे बहादुर और नेक लोगों को पैदा करते हैं।"
+      },
+      "explanation": {
+        "en": "Mandela observes that 'the depths of oppression create heights of character'. The extreme cruelty of apartheid produced men of extraordinary courage like Oliver Tambo and Walter Sisulu.",
+        "hi": "मंडेला का मानना है कि गहरे उत्पीड़न ने ही दक्षिण अफ्रीका में महान चरित्र वाले साहसी व्यक्तियों को जन्म दिया।"
+      },
+      "key_takeaway": {
+        "en": "Suffering can build extraordinary strength and character.",
+        "hi": "पीड़ा असाधारण शक्ति और चरित्र का निर्माण कर सकती है।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "Mandela felt that he was simply the 'sum of all those African patriots' who had gone before him. What does this mean?",
+        "hi": "मंडेला ने महसूस किया कि वह उन सभी अफ्रीकी देशभक्तों का 'कुल योग' (sum) थे जो उनसे पहले जा चुके थे। इसका क्या अर्थ है?"
+      },
+      "options": {
+        "a": {"en": "He was the leader of everyone", "hi": "वह सबके नेता थे"},
+        "b": {"en": "He was carrying forward the struggle of past heroes", "hi": "वह पिछले नायकों के संघर्ष को आगे बढ़ा रहे थे"},
+        "c": {"en": "He was more important than them", "hi": "वह उनसे अधिक महत्वपूर्ण थे"},
+        "d": {"en": "He had no original ideas", "hi": "उनके पास कोई मौलिक विचार नहीं थे"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He felt pain that he could not thank the martyrs who died before seeing the fruit of their sacrifice.",
+        "hi": "उन्हें इस बात का दुख था कि वे उन शहीदों को धन्यवाद नहीं दे सके जिन्होंने अपने बलिदान का फल देखे बिना ही दम तोड़ दिया।"
+      },
+      "explanation": {
+        "en": "Mandela acknowledges that his success was built on the sacrifices of thousands of people who fought against apartheid before him. He saw himself as a continuation of their long line of courage.",
+        "hi": "मंडेला स्वीकार करते हैं कि उनकी सफलता उन हज़ारों लोगों के बलिदान पर बनी है जिन्होंने उनसे पहले संघर्ष किया था।"
+      },
+      "key_takeaway": {
+        "en": "Respect the history and sacrifices of past leaders.",
+        "hi": "पिछले नेताओं के इतिहास और बलिदानों का सम्मान करें।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "What did the 'smoke trail' of Impala jets symbolize?",
+        "hi": "इम्पाला जेट्स के 'धुएँ के निशान' (smoke trail) ने किसका प्रतीक दिया?"
+      },
+      "options": {
+        "a": {"en": "The colors of the new South African flag", "hi": "नए दक्षिण अफ्रीकी ध्वज के रंग"},
+        "b": {"en": "Pollution in the city", "hi": "शहर में प्रदूषण"},
+        "c": {"en": "The end of the ceremony", "hi": "समारोह का अंत"},
+        "d": {"en": "A sign of war", "hi": "युद्ध का संकेत"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "The colors were black, red, green, blue, and gold.",
+        "hi": "रंग काले, लाल, हरे, नीले और सुनहरे थे।"
+      },
+      "explanation": {
+        "en": "A chevron of Impala jets left a smoke trail of the black, red, green, blue, and gold colors of the new South African flag, symbolizing a new beginning.",
+        "hi": "इम्पाला जेट्स ने नए दक्षिण अफ्रीकी ध्वज के रंगों का धुआँ छोड़ा, जो एक नई शुरुआत का प्रतीक था।"
+      },
+      "key_takeaway": {
+        "en": "The new flag represented a multi-racial democracy.",
+        "hi": "नया ध्वज बहु-नस्लीय लोकतंत्र का प्रतिनिधित्व करता था।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "What is the 'deep and lasting wound' Mandela mentions?",
+        "hi": "मंडेला ने किस 'गहरे और स्थायी घाव' का उल्लेख किया है?"
+      },
+      "options": {
+        "a": {"en": "A physical injury he received", "hi": "उन्हें लगी एक शारीरिक चोट"},
+        "b": {"en": "The damage caused by the hailstorm", "hi": "ओलावृष्टि से हुआ नुकसान"},
+        "c": {"en": "The policy of Apartheid on his people", "hi": "अपने लोगों पर रंगभेद की नीति का प्रभाव"},
+        "d": {"en": "Losing his house", "hi": "अपना घर खोना"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "It refers to the psychological and social damage that would take generations to heal.",
+        "hi": "यह मनोवैज्ञानिक और सामाजिक क्षति को संदर्भित करता है जिसे ठीक होने में पीढ़ियाँ लग जाएंगी।"
+      },
+      "explanation": {
+        "en": "The policy of apartheid created a deep and lasting wound in his country and his people. Mandela felt it would take many years, even generations, to recover from that profound hurt.",
+        "hi": "रंगभेद की नीति ने देश और लोगों पर एक गहरा मानसिक घाव छोड़ा था।"
+      },
+      "key_takeaway": {
+        "en": "Systemic injustice has long-term effects on people's minds.",
+        "hi": "प्रणालीगत अन्याय का लोगों के मन पर दीर्घकालिक प्रभाव पड़ता है।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "Mandela says 'I am not truly free if I am taking away someone else's freedom.' Why?",
+        "hi": "मंडेला कहते हैं 'मैं वास्तव में स्वतंत्र नहीं हूँ यदि मैं किसी और की स्वतंत्रता छीन रहा हूँ।' क्यों?"
+      },
+      "options": {
+        "a": {"en": "Because he will go to jail", "hi": "क्योंकि वह जेल जाएगा"},
+        "b": {"en": "Because he is a prisoner of hatred", "hi": "क्योंकि वह नफरत का कैदी है"},
+        "c": {"en": "Because he is afraid of others", "hi": "क्योंकि वह दूसरों से डरता है"},
+        "d": {"en": "Because it is against the law", "hi": "क्योंकि यह कानून के खिलाफ है"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "An oppressor is locked behind the bars of prejudice and narrow-mindedness.",
+        "hi": "एक उत्पीड़क पूर्वाग्रह और संकीर्णता की सलाखों के पीछे बंद होता है।"
+      },
+      "explanation": {
+        "en": "Mandela believes that taking away someone's freedom makes the oppressor a prisoner of hatred, prejudice, and narrow-mindedness. Thus, neither is truly free.",
+        "hi": "मंडेला का मानना है कि नफरत करने वाला व्यक्ति खुद संकीर्णता का शिकार होता है, इसलिए वह भी स्वतंत्र नहीं है।"
+      },
+      "key_takeaway": {
+        "en": "Freedom is only real when it is shared and respected.",
+        "hi": "स्वतंत्रता तभी वास्तविक होती है जब उसका सम्मान किया जाए और उसे साझा किया जाए।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "In the beginning of the 20th century, what did the white-skinned people of South Africa do?",
+        "hi": "20वीं सदी की शुरुआत में दक्षिण अफ्रीका के गोरे लोगों ने क्या किया?"
+      },
+      "options": {
+        "a": {"en": "They left the country", "hi": "उन्होंने देश छोड़ दिया"},
+        "b": {"en": "They patched up their differences and created a system of racial domination", "hi": "उन्होंने अपने मतभेदों को सुलझा लिया और नस्लीय वर्चस्व की एक प्रणाली बनाई"},
+        "c": {"en": "They invited all nations for a party", "hi": "उन्होंने सभी देशों को एक पार्टी के लिए आमंत्रित किया"},
+        "d": {"en": "They helped Nelson Mandela", "hi": "उन्होंने नेल्सन मंडेला की मदद की"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This was the birth of Apartheid after the Anglo-Boer war.",
+        "hi": "एंग्लो-बोअर युद्ध के बाद यह रंगभेद का जन्म था।"
+      },
+      "explanation": {
+        "en": "After the Anglo-Boer war, the white people of South Africa erected a system of racial domination against the dark-skinned people, which was one of the harshest societies the world has known.",
+        "hi": "श्वेत लोगों ने अश्वेतों के खिलाफ नस्लीय वर्चस्व की एक बहुत ही कठोर प्रणाली खड़ी की थी।"
+      },
+      "key_takeaway": {
+        "en": "Apartheid was a human-made system of extreme cruelty.",
+        "hi": "रंगभेद अत्यधिक क्रूरता की मानव निर्मित प्रणाली थी।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "What does the word 'emancipated' mean in the text?",
+        "hi": "पाठ में 'Emancipated' शब्द का क्या अर्थ है?"
+      },
+      "options": {
+        "a": {"en": "To be enslaved", "hi": "गुलाम बनाना"},
+        "b": {"en": "To be set free from legal, social, or political restrictions", "hi": "कानूनी, सामाजिक या राजनीतिक प्रतिबंधों से मुक्त होना"},
+        "c": {"en": "To be very angry", "hi": "बहुत क्रोधित होना"},
+        "d": {"en": "To be elected as a leader", "hi": "नेता के रूप में चुना जाना"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Mandela used this word to describe his people finally getting their rights.",
+        "hi": "मंडेला ने इस शब्द का इस्तेमाल अपने लोगों को अंततः उनके अधिकार मिलने का वर्णन करने के लिए किया था।"
+      },
+      "explanation": {
+        "en": "Emancipation refers to the process of being set free from restrictions. Mandela celebrated the political emancipation of all South Africans on inauguration day.",
+        "hi": "Emancipation का अर्थ है प्रतिबंधों से मुक्त होना।"
+      },
+      "key_takeaway": {
+        "en": "Emancipation = Liberation/Freedom.",
+        "hi": "Emancipation = मुक्ति/स्वतंत्रता।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "Why were nations 'outlaws' to South Africa before?",
+        "hi": "पहले अन्य देश दक्षिण अफ्रीका के लिए 'आउटलॉ' (outlaws) क्यों थे?"
+      },
+      "options": {
+        "a": {"en": "Because South Africa had no laws", "hi": "क्योंकि दक्षिण अफ्रीका में कोई कानून नहीं था"},
+        "b": {"en": "Because of the policy of apartheid, many countries had broken off diplomatic relations", "hi": "रंगभेद की नीति के कारण कई देशों ने राजनयिक संबंध तोड़ लिए थे"},
+        "c": {"en": "Because South Africa was a small island", "hi": "क्योंकि दक्षिण अफ्रीका एक छोटा द्वीप था"},
+        "d": {"en": "Because they were at war", "hi": "क्योंकि वे युद्ध में थे"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The world hated the racist system so much that they isolated South Africa.",
+        "hi": "दुनिया नस्लवादी व्यवस्था से इतनी नफरत करती थी कि उन्होंने दक्षिण अफ्रीका को अलग-थलग कर दिया था।"
+      },
+      "explanation": {
+        "en": "Because of the shameful policy of apartheid, South Africa was isolated from the rest of the world. On inauguration day, Mandela thanked the international guests for coming back.",
+        "hi": "रंगभेद की वजह से दुनिया ने दक्षिण अफ्रीका से संबंध तोड़ लिए थे।"
+      },
+      "key_takeaway": {
+        "en": "International isolation was a result of racial injustice.",
+        "hi": "नस्लीय अन्याय के परिणामस्वरूप अंतर्राष्ट्रीय अलगाव हुआ।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "What is the central theme of 'Long Walk to Freedom'?",
+        "hi": "'Long Walk to Freedom' का मुख्य विषय क्या है?"
+      },
+      "options": {
+        "a": {"en": "How to win an election", "hi": "चुनाव कैसे जीतें"},
+        "b": {"en": "The struggle for human dignity and the end of racial discrimination", "hi": "मानवीय गरिमा के लिए संघर्ष और नस्लीय भेदभाव का अंत"},
+        "c": {"en": "The biography of Zenani Mandela", "hi": "जेनानी मंडेला की जीवनी"},
+        "d": {"en": "The history of the Union Buildings", "hi": "यूनियन बिल्डिंग्स का इतिहास"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It’s about Mandela’s journey from a prisoner to a president for the sake of his people.",
+        "hi": "यह अपने लोगों के लिए एक कैदी से राष्ट्रपति बनने तक की मंडेला की यात्रा के बारे में है।"
+      },
+      "explanation": {
+        "en": "The chapter focuses on the triumph of the human spirit over oppression and the establishment of a society based on equality, dignity, and freedom for all races.",
+        "hi": "यह अध्याय उत्पीड़न पर मानवीय भावना की जीत और समानता पर आधारित समाज की स्थापना पर केंद्रित है।"
+      },
+      "key_takeaway": {
+        "en": "Freedom is a long and hard journey, but it is worth the sacrifice.",
+        "hi": "स्वतंत्रता एक लंबी और कठिन यात्रा है, लेकिन यह बलिदान के लायक है।"
+      }
+    }
+  ]
+}

@@ -1,0 +1,800 @@
+{
+  "metadata": {
+    "chapter_number": 7,
+    "chapter_title": "The Necklace",
+    "chapter_title_hindi": "हार (The Necklace)",
+    "subject": "English (Footprints Without Feet) - Class 10",
+    "board": "HPBOSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.0",
+    "naming_convention": "10_EN_FWF_CH07_TheNecklace.json"
+  },
+  "validation_report": {
+    "is_valid": true,
+    "checked_by": "AI Tutor",
+    "checked_at": "2026-01-21T23:45:00Z",
+    "notes": "Bilingual MCQs focused on character psychology, plot irony, and vocabulary development."
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "How is Matilda Loisel described at the beginning of the story?",
+        "hi": "कहानी की शुरुआत में मटिल्डा लोयसेल का वर्णन कैसे किया गया है?"
+      },
+      "options": {
+        "a": {"en": "Rich and arrogant", "hi": "अमीर और घमंडी"},
+        "b": {"en": "Pretty, young, and born into a family of clerks", "hi": "सुंदर, युवा और क्लर्कों के परिवार में जन्मी"},
+        "c": {"en": "Old and wise", "hi": "बूढ़ी और बुद्धिमान"},
+        "d": {"en": "A famous actress", "hi": "एक प्रसिद्ध अभिनेत्री"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "She felt she was born for all the delicacies and luxuries of life but lived in a simple house.",
+        "hi": "उसे लगता था कि उसका जन्म जीवन की सभी विलासिताओं के लिए हुआ है, लेकिन वह एक साधारण घर में रहती थी।"
+      },
+      "explanation": {
+        "en": "Matilda was a pretty and charming young lady but, as if through an error of destiny, was born into a family of clerks and married a petty clerk.",
+        "hi": "मटिल्डा एक सुंदर और आकर्षक युवती थी, लेकिन भाग्य की गलती से उसका जन्म क्लर्कों के परिवार में हुआ था।"
+      },
+      "key_takeaway": {
+        "en": "Social status and inner desire were in conflict for Matilda.",
+        "hi": "मटिल्डा के लिए सामाजिक स्थिति और आंतरिक इच्छा के बीच संघर्ष था।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "Why was Matilda constantly unhappy?",
+        "hi": "मटिल्डा लगातार दुखी क्यों रहती थी?"
+      },
+      "options": {
+        "a": {"en": "Because she was ill", "hi": "क्योंकि वह बीमार थी"},
+        "b": {"en": "Because of her poor apartment and lack of luxuries", "hi": "अपने साधारण अपार्टमेंट और विलासिता की कमी के कारण"},
+        "c": {"en": "Because she had no children", "hi": "क्योंकि उसके कोई बच्चे नहीं थे"},
+        "d": {"en": "Because her husband was mean", "hi": "क्योंकि उसका पति नीच था"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "She suffered from the poverty of her apartment, the shabby walls, and the worn chairs.",
+        "hi": "वह अपने अपार्टमेंट की गरीबी, पुरानी दीवारों और फटी कुर्सियों को देखकर दुखी रहती थी।"
+      },
+      "explanation": {
+        "en": "Matilda felt she deserved a life of luxury. The sight of her modest house and simple lifestyle caused her mental suffering and 'chagrin'.",
+        "hi": "मटिल्डा को लगा कि वह विलासितापूर्ण जीवन की हकदार है। उसके साधारण घर के दृश्य ने उसे मानसिक कष्ट दिया।"
+      },
+      "key_takeaway": {
+        "en": "Unhappiness often stems from comparing one's reality to one's dreams.",
+        "hi": "असंतोष अक्सर वास्तविकता की तुलना सपनों से करने से पैदा होता है।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "What was the profession of Matilda's husband?",
+        "hi": "मटिल्डा के पति का पेशा क्या था?"
+      },
+      "options": {
+        "a": {"en": "A doctor", "hi": "एक डॉक्टर"},
+        "b": {"en": "A petty clerk in the Ministry of Education", "hi": "शिक्षा मंत्रालय में एक छोटा क्लर्क"},
+        "c": {"en": "A military officer", "hi": "एक सैन्य अधिकारी"},
+        "d": {"en": "A shopkeeper", "hi": "एक दुकानदार"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He worked for the 'Board of Education'.",
+        "hi": "वह 'शिक्षा बोर्ड' के लिए काम करता था।"
+      },
+      "explanation": {
+        "en": "Mr. Loisel was a petty clerk at the office of the Board of Education. He was a simple man who was satisfied with his life.",
+        "hi": "श्रीमान लोयसेल शिक्षा बोर्ड के कार्यालय में एक छोटे क्लर्क थे। वह एक सरल व्यक्ति थे।"
+      },
+      "key_takeaway": {
+        "en": "Mr. Loisel represents the content middle class.",
+        "hi": "श्रीमान लोयसेल संतुष्ट मध्यम वर्ग का प्रतिनिधित्व करते हैं।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "What did the husband bring home one evening that he thought would make Matilda happy?",
+        "hi": "एक शाम पति घर क्या लेकर आया जिससे उसे लगा कि मटिल्डा खुश हो जाएगी?"
+      },
+      "options": {
+        "a": {"en": "A diamond ring", "hi": "हीरे की अंगूठी"},
+        "b": {"en": "An invitation to a ball at the Minister's residence", "hi": "मंत्री के आवास पर एक भव्य पार्टी (Ball) का निमंत्रण"},
+        "c": {"en": "A new dress", "hi": "एक नई ड्रेस"},
+        "d": {"en": "A box of chocolates", "hi": "चॉकलेट का डिब्बा"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It was a large printed card from the Minister of Public Instruction.",
+        "hi": "यह सार्वजनिक निर्देश मंत्री की ओर से एक बड़ा छपा हुआ कार्ड था।"
+      },
+      "explanation": {
+        "en": "Mr. Loisel brought an invitation to a grand party (ball) on January 18th. He went to great trouble to get it, thinking his wife would be thrilled.",
+        "hi": "श्रीमान लोयसेल 18 जनवरी को एक भव्य पार्टी का निमंत्रण लेकर आए थे, यह सोचकर कि उनकी पत्नी रोमांचित होगी।"
+      },
+      "key_takeaway": {
+        "en": "An invitation = The catalyst for the story's events.",
+        "hi": "निमंत्रण = कहानी की घटनाओं के लिए उत्प्रेरक।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "How did Matilda react to the invitation?",
+        "hi": "मटिल्डा ने निमंत्रण पर कैसी प्रतिक्रिया दी?"
+      },
+      "options": {
+        "a": {"en": "She danced with joy", "hi": "वह खुशी से नाचने लगी"},
+        "b": {"en": "She threw it spitefully on the table and cried", "hi": "उसने इसे चिढ़कर मेज पर फेंक दिया और रोने लगी"},
+        "c": {"en": "She thanked her husband profusely", "hi": "उसने अपने पति को बहुत-बहुत धन्यवाद दिया"},
+        "d": {"en": "She ignored it", "hi": "उसने उसे नज़रअंदाज़ कर दिया"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Instead of being delighted, she was upset because she had nothing suitable to wear.",
+        "hi": "प्रसन्न होने के बजाय, वह परेशान थी क्योंकि उसके पास पहनने के लिए कुछ भी उपयुक्त नहीं था।"
+      },
+      "explanation": {
+        "en": "Matilda threw the invitation away because she felt she had no fine clothes or jewelry for such a grand occasion. She didn't want to look 'shabby' among rich women.",
+        "hi": "मटिल्डा ने निमंत्रण फेंक दिया क्योंकि उसके पास अच्छे कपड़े या गहने नहीं थे।"
+      },
+      "key_takeaway": {
+        "en": "Pride can turn a joyful moment into a source of stress.",
+        "hi": "घमंड एक सुखद क्षण को तनाव के स्रोत में बदल सकता है।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "How much money did Matilda ask for her new dress?",
+        "hi": "मटिल्डा ने अपनी नई ड्रेस के लिए कितने पैसे मांगे?"
+      },
+      "options": {
+        "a": {"en": "One hundred francs", "hi": "सौ फ्रैंक"},
+        "b": {"en": "Four hundred francs", "hi": "चार सौ फ्रैंक (400 francs)"},
+        "c": {"en": "One thousand francs", "hi": "एक हज़ार फ्रैंक"},
+        "d": {"en": "Fifty francs", "hi": "पचास फ्रैंक"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It was the exact amount her husband had saved for something else.",
+        "hi": "यह वही राशि थी जो उसके पति ने किसी और चीज़ के लिए बचाई थी।"
+      },
+      "explanation": {
+        "en": "Matilda estimated that four hundred francs would buy a suitable dress. Her husband, although a bit shocked, agreed to give her the money.",
+        "hi": "मटिल्डा ने अनुमान लगाया कि चार सौ फ्रैंक में एक उपयुक्त ड्रेस आ जाएगी।"
+      },
+      "key_takeaway": {
+        "en": "400 Francs = The cost of Matilda's temporary social validation.",
+        "hi": "400 फ्रैंक = मटिल्डा की अस्थायी सामाजिक प्रतिष्ठा की कीमत।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "What had Mr. Loisel saved the four hundred francs for?",
+        "hi": "श्रीमान लोयसेल ने चार सौ फ्रैंक किसलिए बचाए थे?"
+      },
+      "options": {
+        "a": {"en": "To buy a car", "hi": "कार खरीदने के लिए"},
+        "b": {"en": "To buy a gun for hunting with friends", "hi": "दोस्तों के साथ शिकार के लिए बंदूक खरीदने के लिए"},
+        "c": {"en": "To go on a vacation", "hi": "छुट्टियों पर जाने के लिए"},
+        "d": {"en": "For his retirement", "hi": "अपनी सेवानिवृत्ति के लिए"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He wanted to join some friends who went shooting larks on the plain of Nanterre.",
+        "hi": "वह उन दोस्तों के साथ शामिल होना चाहता था जो नांतेरे के मैदान में पक्षियों का शिकार करने जाते थे।"
+      },
+      "explanation": {
+        "en": "Mr. Loisel had saved exactly four hundred francs to buy a gun for himself. However, he gave the money to his wife so she could be happy.",
+        "hi": "श्रीमान लोयसेल ने अपने लिए बंदूक खरीदने के लिए पैसे बचाए थे, लेकिन उन्होंने वे पैसे अपनी पत्नी को दे दिए।"
+      },
+      "key_takeaway": {
+        "en": "The husband showed selflessness and love for his wife.",
+        "hi": "पति ने अपनी पत्नी के प्रति निस्वार्थता और प्रेम दिखाया।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "Why was Matilda still distressed even after buying the dress?",
+        "hi": "ड्रेस खरीदने के बाद भी मटिल्डा क्यों परेशान थी?"
+      },
+      "options": {
+        "a": {"en": "The dress was the wrong color", "hi": "ड्रेस का रंग गलत था"},
+        "b": {"en": "She had no jewels to wear with it", "hi": "उसके पास पहनने के लिए कोई गहने नहीं थे"},
+        "c": {"en": "The party was cancelled", "hi": "पार्टी रद्द कर दी गई थी"},
+        "d": {"en": "She didn't want to go anymore", "hi": "वह अब जाना नहीं चाहती थी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "She said, 'There is nothing more humiliating than to have a shabby air in the midst of rich women.'",
+        "hi": "उसने कहा, 'अमीर महिलाओं के बीच कंगाल दिखना बहुत अपमानजनक है।'"
+      },
+      "explanation": {
+        "en": "As the day of the ball approached, Matilda felt that her dress wasn't enough. She wanted jewelry to look elegant and high-status.",
+        "hi": "जैसे-जैसे पार्टी का दिन नज़दीक आया, मटिल्डा को लगा कि उसके पास गहने नहीं हैं, जो उसके लिए अपमानजनक था।"
+      },
+      "key_takeaway": {
+        "en": "Material desires are often endless.",
+        "hi": "भौतिक इच्छाएं अक्सर अंतहीन होती हैं।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "Whom did Matilda visit to borrow jewelry?",
+        "hi": "गहने उधार लेने के लिए मटिल्डा किसके पास गई?"
+      },
+      "options": {
+        "a": {"en": "Her sister", "hi": "अपनी बहन के पास"},
+        "b": {"en": "Her friend, Mme Forestier", "hi": "अपनी सहेली, मैडम फॉरेस्टियर (Mme Forestier) के पास"},
+        "c": {"en": "A jeweler", "hi": "एक जौहरी के पास"},
+        "d": {"en": "Her mother-in-law", "hi": "अपनी सास के पास"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "She was a rich friend from her convent days.",
+        "hi": "वह उनके कॉन्वेंट के दिनों की एक अमीर सहेली थी।"
+      },
+      "explanation": {
+        "en": "Matilda went to see her wealthy friend, Madame Forestier, who kindly opened her jewel-box and allowed Matilda to choose whatever she liked.",
+        "hi": "मटिल्डा अपनी अमीर सहेली मैडम फॉरेस्टियर के पास गई, जिसने उसे अपनी पसंद का कोई भी गहना चुनने की अनुमति दी।"
+      },
+      "key_takeaway": {
+        "en": "Mme Forestier = The wealthy friend who owned the necklace.",
+        "hi": "मैडम फॉरेस्टियर = वह अमीर सहेली जिसके पास वह हार था।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "Which piece of jewelry did Matilda choose to borrow?",
+        "hi": "मटिल्डा ने कौन सा गहना उधार लेना चुना?"
+      },
+      "options": {
+        "a": {"en": "A pearl necklace", "hi": "मोतियों का हार"},
+        "b": {"en": "A superb diamond necklace in a black satin box", "hi": "एक काले साटन के डिब्बे में रखा एक शानदार हीरे का हार"},
+        "c": {"en": "Gold earrings", "hi": "सोने की बालियाँ"},
+        "d": {"en": "A Venetian cross", "hi": "एक वेनेटियन क्रॉस"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Her heart began to beat with immoderate desire when she saw it.",
+        "hi": "जब उसने इसे देखा तो उसका दिल बेकाबू इच्छा से धड़कने लगा।"
+      },
+      "explanation": {
+        "en": "Among all the jewels, Matilda chose a magnificent diamond necklace. It looked perfect with her dress and made her feel like a queen.",
+        "hi": "तमाम गहनों में से मटिल्डा ने एक शानदार हीरे का हार चुना।"
+      },
+      "key_takeaway": {
+        "en": "The diamond necklace symbolized the peak of her vanity.",
+        "hi": "हीरे का हार उसके अहंकार और प्रदर्शन की भावना का प्रतीक था।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "How was Matilda's experience at the ball?",
+        "hi": "पार्टी (Ball) में मटिल्डा का अनुभव कैसा रहा?"
+      },
+      "options": {
+        "a": {"en": "She was ignored by everyone", "hi": "हर किसी ने उसे नज़रअंदाज़ किया"},
+        "b": {"en": "She was a great success, the prettiest of all", "hi": "वह बहुत सफल रही, सबमें सबसे सुंदर"},
+        "c": {"en": "She felt out of place", "hi": "वह वहाँ असहज महसूस कर रही थी"},
+        "d": {"en": "She fought with her husband", "hi": "उसका अपने पति से झगड़ा हो गया"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "All the men noticed her, asked her name, and wanted to dance with her.",
+        "hi": "सभी पुरुषों ने उसे देखा, उसका नाम पूछा और उसके साथ नाचना चाहा।"
+      },
+      "explanation": {
+        "en": "Matilda was the center of attention. She was elegant, gracious, and smiling. She floated in a cloud of happiness for the entire night.",
+        "hi": "मटिल्डा आकर्षण का केंद्र थी। वह पूरी रात खुशी के बादलों में तैरती रही।"
+      },
+      "key_takeaway": {
+        "en": "Success for Matilda was defined by the admiration of others.",
+        "hi": "मटिल्डा के लिए सफलता का अर्थ दूसरों की प्रशंसा पाना था।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "What time did the Loisels leave the ball?",
+        "hi": "लोयसेल दंपत्ति पार्टी से कितने बजे निकले?"
+      },
+      "options": {
+        "a": {"en": "Midnight", "hi": "आधी रात को"},
+        "b": {"en": "Four o'clock in the morning", "hi": "सुबह के चार बजे"},
+        "c": {"en": "Ten o'clock at night", "hi": "रात के दस बजे"},
+        "d": {"en": "Early evening", "hi": "शाम को जल्दी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Her husband had been half asleep in a small drawing-room since midnight.",
+        "hi": "उसका पति आधी रात से ही एक छोटे से ड्राइंग-रूम में अर्ध-निद्रा में था।"
+      },
+      "explanation": {
+        "en": "The party lasted until late. They finally left at 4:00 AM. Matilda was so caught up in her triumph that she didn't want to leave early.",
+        "hi": "पार्टी देर तक चली। वे अंततः सुबह 4:00 बजे वहाँ से निकले।"
+      },
+      "key_takeaway": {
+        "en": "The long night of joy was about to turn into a decade of sorrow.",
+        "hi": "खुशी की वह लंबी रात एक दशक के दुख में बदलने वाली थी।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "What shocking discovery did Matilda make when she reached home?",
+        "hi": "घर पहुँचने पर मटिल्डा ने क्या चौंकाने वाली खोज की?"
+      },
+      "options": {
+        "a": {"en": "The house was robbed", "hi": "घर में चोरी हो गई थी"},
+        "b": {"en": "The necklace was missing from her neck", "hi": "उसके गले से हार गायब था"},
+        "c": {"en": "Her husband lost his job", "hi": "उसके पति की नौकरी छूट गई"},
+        "d": {"en": "She had lost her purse", "hi": "उसका पर्स खो गया था"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "She wanted to have a final look at herself in her glory before the mirror.",
+        "hi": "वह दर्पण के सामने एक आखिरी बार खुद को अपनी पूरी शान में देखना चाहती थी।"
+      },
+      "explanation": {
+        "en": "When Matilda stood before the mirror to take off her wraps, she uttered a cry. The diamond necklace was no longer around her neck.",
+        "hi": "जब मटिल्डा दर्पण के सामने खड़ी हुई, तो उसने एक चीख मारी। हार उसके गले में नहीं था।"
+      },
+      "key_takeaway": {
+        "en": "The loss of the necklace = The climax of the story.",
+        "hi": "हार का खोना = कहानी का चरम बिंदु।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "Where did Mr. Loisel go to search for the necklace?",
+        "hi": "श्रीमान लोयसेल हार ढूँढने के लिए कहाँ-कहाँ गए?"
+      },
+      "options": {
+        "a": {"en": "To the police and cab offices", "hi": "पुलिस और कैब कार्यालयों में"},
+        "b": {"en": "Over the track they had walked on foot", "hi": "उस रास्ते पर जहाँ वे पैदल चले थे"},
+        "c": {"en": "To the newspapers to offer a reward", "hi": "इनाम की पेशकश करने के लिए समाचार पत्रों में"},
+        "d": {"en": "All of the above", "hi": "उपरोक्त सभी"}
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "He did everything possible to find the lost jewelry but found nothing.",
+        "hi": "उसने खोए हुए गहनों को खोजने के लिए हर संभव प्रयास किया लेकिन कुछ नहीं मिला।"
+      },
+      "explanation": {
+        "en": "Mr. Loisel went back over the route, visited the police headquarters, and put an advertisement in the papers offering a reward. He was desperate to find it.",
+        "hi": "श्रीमान लोयसेल ने पुलिस स्टेशन, अखबारों और पुराने रास्तों पर जाकर हार ढूँढने की कोशिश की।"
+      },
+      "key_takeaway": {
+        "en": "Desperation often follows a moment of carelessness.",
+        "hi": "लापरवाही के क्षण के बाद अक्सर बेबसी आती है।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "What lie did the Loisels tell Mme Forestier to gain more time?",
+        "hi": "समय पाने के लिए लोयसेल दंपत्ति ने मैडम फॉरेस्टियर से क्या झूठ बोला?"
+      },
+      "options": {
+        "a": {"en": "That they had lost it", "hi": "कि उन्होंने उसे खो दिया है"},
+        "b": {"en": "That the clasp was broken and was being repaired", "hi": "कि उसकी कुंडी (clasp) टूट गई है और उसकी मरम्मत की जा रही है"},
+        "c": {"en": "That they were keeping it for another party", "hi": "कि वे उसे एक और पार्टी के लिए रख रहे हैं"},
+        "d": {"en": "That it was stolen", "hi": "कि वह चोरी हो गया है"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The husband suggested this lie to give them a week to search for a solution.",
+        "hi": "पति ने समाधान खोजने के लिए एक सप्ताह का समय पाने हेतु इस झूठ का सुझाव दिया।"
+      },
+      "explanation": {
+        "en": "To delay returning the necklace, they wrote to Mme Forestier saying that the clasp of the necklace had broken and it was being fixed.",
+        "hi": "हार वापस करने में देरी करने के लिए, उन्होंने लिखा कि उसकी कुंडी टूट गई है।"
+      },
+      "key_takeaway": {
+        "en": "Avoiding the truth led them to make a life-altering decision.",
+        "hi": "सच्चाई से बचने के कारण उन्हें जीवन बदलने वाला निर्णय लेना पड़ा।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "How much was the replacement necklace worth in the jewelry shop?",
+        "hi": "ज्वेलरी की दुकान में बदले जाने वाले हार की कीमत कितनी थी?"
+      },
+      "options": {
+        "a": {"en": "Five hundred francs", "hi": "पाँच सौ फ्रैंक"},
+        "b": {"en": "Forty thousand francs, priced at thirty-six thousand", "hi": "चालीस हज़ार फ्रैंक, जो छत्तीस हज़ार में मिल रहा था"},
+        "c": {"en": "Eighteen thousand francs", "hi": "अठारह हज़ार फ्रैंक"},
+        "d": {"en": "One million francs", "hi": "दस लाख फ्रैंक"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It was in a shop at Palais-Royal and looked exactly like the lost one.",
+        "hi": "यह पैलेस-रॉयल की एक दुकान में था और बिल्कुल खोए हुए हार जैसा दिखता था।"
+      },
+      "explanation": {
+        "en": "They found a replacement that was valued at forty thousand francs, but the jeweler agreed to sell it for thirty-six thousand francs.",
+        "hi": "उन्हें 40,000 फ्रैंक का एक हार मिला, जिसे जौहरी 36,000 फ्रैंक में देने को तैयार हो गया।"
+      },
+      "key_takeaway": {
+        "en": "36,000 Francs = The massive debt the Loisels took on.",
+        "hi": "36,000 फ्रैंक = लोयसेल दंपत्ति द्वारा लिया गया भारी कर्ज।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "How did Mr. Loisel arrange the money for the necklace?",
+        "hi": "श्रीमान लोयसेल ने हार के लिए पैसों का इंतज़ाम कैसे किया?"
+      },
+      "options": {
+        "a": {"en": "He had eighteen thousand francs left by his father and borrowed the rest", "hi": "उसके पास पिता द्वारा छोड़े गए 18,000 फ्रैंक थे और बाकी उसने उधार लिए"},
+        "b": {"en": "He won a lottery", "hi": "उसने लॉटरी जीती"},
+        "c": {"en": "Mme Forestier gave him the money", "hi": "मैडम फॉरेस्टियर ने उसे पैसे दिए"},
+        "d": {"en": "He stole it from the Ministry", "hi": "उसने मंत्रालय से चोरी की"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "He had to borrow from moneylenders and take ruinous obligations.",
+        "hi": "उसे साहूकारों से उधार लेना पड़ा और विनाशकारी शर्तें माननी पड़ीं।"
+      },
+      "explanation": {
+        "en": "Loisel used all his inheritance (18,000 francs) and borrowed the remaining 18,000 from usurers and various lenders at high interest rates.",
+        "hi": "लोयसेल ने अपनी पूरी विरासत का उपयोग किया और शेष राशि ऊँची ब्याज दरों पर उधार ली।"
+      },
+      "key_takeaway": {
+        "en": "The husband sacrificed his entire future for his wife's mistake.",
+        "hi": "पति ने अपनी पत्नी की गलती के लिए अपना पूरा भविष्य कुर्बान कर दिया।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "How long did it take the Loisels to pay back all their debts?",
+        "hi": "लोयसेल दंपत्ति को अपना सारा कर्ज चुकाने में कितना समय लगा?"
+      },
+      "options": {
+        "a": {"en": "One year", "hi": "एक साल"},
+        "b": {"en": "Ten years", "hi": "दस साल (Ten years)"},
+        "c": {"en": "Five years", "hi": "पाँच साल"},
+        "d": {"en": "Two years", "hi": "दो साल"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It was a long period of 'horrible life of the needy'.",
+        "hi": "यह 'जरूरतमंदों के भयानक जीवन' की एक लंबी अवधि थी।"
+      },
+      "explanation": {
+        "en": "It took ten long years to repay the principal and the accumulating interest. During this time, they lived a life of extreme poverty.",
+        "hi": "मूलधन और ब्याज चुकाने में उन्हें दस लंबे साल लग गए।"
+      },
+      "key_takeaway": {
+        "en": "Ten years = The price paid for one night of vanity.",
+        "hi": "दस साल = एक रात के दिखावे की चुकाई गई कीमत।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "How did Matilda's life change during those ten years?",
+        "hi": "उन दस वर्षों के दौरान मटिल्डा का जीवन कैसे बदल गया?"
+      },
+      "options": {
+        "a": {"en": "She became a queen", "hi": "वह एक रानी बन गई"},
+        "b": {"en": "She performed all the hard household chores and lived like the poor", "hi": "उसने घर के सभी कठिन काम किए और गरीबों की तरह रहने लगी"},
+        "c": {"en": "She moved to another country", "hi": "वह दूसरे देश चली गई"},
+        "d": {"en": "She became a famous singer", "hi": "वह एक प्रसिद्ध गायिका बन गई"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "She washed dishes, scrubbed floors, and haggled with shopkeepers for every sou.",
+        "hi": "उसने बर्तन धोए, फर्श रगड़ा और हर पैसे (sou) के लिए दुकानदारों से सौदेबाजी की।"
+      },
+      "explanation": {
+        "en": "Matilda became a 'strong, hard woman' of the poor household. Her beauty faded, her hands were red, and she looked much older than her age.",
+        "hi": "मटिल्डा एक 'मजबूत और सख्त' गरीब महिला बन गई। उसकी सुंदरता खत्म हो गई और वह अपनी उम्र से बड़ी दिखने लगी।"
+      },
+      "key_takeaway": {
+        "en": "Hardship can strip away physical beauty but build resilience.",
+        "hi": "कठिनाई शारीरिक सुंदरता को छीन सकती है लेकिन सहनशक्ति का निर्माण करती है।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "Where did Matilda meet Mme Forestier after ten years?",
+        "hi": "दस साल बाद मटिल्डा मैडम फॉरेस्टियर से कहाँ मिली?"
+      },
+      "options": {
+        "a": {"en": "In a jewelry shop", "hi": "एक आभूषण की दुकान में"},
+        "b": {"en": "In the Champs-Elysees", "hi": "चैम्प्स-एलिसीज़ (Champs-Elysees) में"},
+        "c": {"en": "At a party", "hi": "एक पार्टी में"},
+        "d": {"en": "At the Ministry", "hi": "मंत्रालय में"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "She was taking a walk there one Sunday to rid herself of the week's cares.",
+        "hi": "एक रविवार को वह सप्ताह की चिंताओं से मुक्त होने के लिए वहाँ टहल रही थी।"
+      },
+      "explanation": {
+        "en": "Matilda saw Mme Forestier walking with a child in the Champs-Elysees. Mme Forestier still looked young and beautiful, while Matilda was unrecognizable.",
+        "hi": "मटिल्डा ने मैडम फॉरेस्टियर को चैम्प्स-एलिसीज़ में टहलते हुए देखा।"
+      },
+      "key_takeaway": {
+        "en": "The setting emphasizes the contrast between the two women's lives.",
+        "hi": "यह परिवेश दोनों महिलाओं के जीवन के बीच के अंतर को उजागर करता है।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "Did Mme Forestier recognize Matilda initially?",
+        "hi": "क्या मैडम फॉरेस्टियर ने शुरू में मटिल्डा को पहचान लिया था?"
+      },
+      "options": {
+        "a": {"en": "Yes, immediately", "hi": "हाँ, तुरंत"},
+        "b": {"en": "No, because Matilda looked so old and changed", "hi": "नहीं, क्योंकि मटिल्डा बहुत बूढ़ी और बदली हुई लग रही थी"},
+        "c": {"en": "No, because she was blind", "hi": "नहीं, क्योंकि वह अंधी थी"},
+        "d": {"en": "Yes, by her voice", "hi": "हाँ, उसकी आवाज़ से"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "She addressed Matilda as 'My poor Matilda' only after Matilda revealed who she was.",
+        "hi": "मटिल्डा द्वारा अपनी पहचान बताने के बाद ही उसने उसे 'मेरी बेचारी मटिल्डा' कहा।"
+      },
+      "explanation": {
+        "en": "Mme Forestier was astonished to be addressed so familiarly by a common-looking woman. She didn't recognize her friend because Matilda had aged significantly due to hard work.",
+        "hi": "मैडम फॉरेस्टियर एक साधारण दिखने वाली महिला द्वारा इतनी आत्मीयता से पुकारे जाने पर हैरान थीं।"
+      },
+      "key_takeaway": {
+        "en": "Poverty had completely transformed Matilda's appearance.",
+        "hi": "गरीबी ने मटिल्डा के रूप को पूरी तरह से बदल दिया था।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "What was the shocking truth about the original necklace?",
+        "hi": "असली हार के बारे में चौंकाने वाली सच्चाई क्या थी?"
+      },
+      "options": {
+        "a": {"en": "It was stolen from a museum", "hi": "वह एक संग्रहालय से चुराया गया था"},
+        "b": {"en": "It was a fake (paste) and worth only five hundred francs", "hi": "वह नकली था और उसकी कीमत केवल पाँच सौ फ्रैंक थी"},
+        "c": {"en": "It was cursed", "hi": "वह शापित था"},
+        "d": {"en": "It was made of real diamonds worth millions", "hi": "वह लाखों के असली हीरों से बना था"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Mme Forestier revealed this at the very end of the story.",
+        "hi": "मैडम फॉरेस्टियर ने कहानी के बिल्कुल अंत में इसका खुलासा किया।"
+      },
+      "explanation": {
+        "en": "The greatest irony of the story is that the original necklace was not made of real diamonds. Mme Forestier told Matilda, 'Oh! My poor Matilda! Mine were false. They were not worth over five hundred francs!'",
+        "hi": "कहानी की सबसे बड़ी विडंबना यह है कि असली हार नकली था और केवल 500 फ्रैंक का था।"
+      },
+      "key_takeaway": {
+        "en": "The Loisels wasted ten years of their lives for a worthless object.",
+        "hi": "लोयसेल दंपत्ति ने एक बेकार वस्तु के लिए अपने जीवन के दस साल बर्बाद कर दिए।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "What is the theme of 'The Necklace'?",
+        "hi": "'हार' (The Necklace) कहानी का विषय क्या है?"
+      },
+      "options": {
+        "a": {"en": "Honesty is always the best policy", "hi": "ईमानदारी हमेशा सबसे अच्छी नीति है"},
+        "b": {"en": "Pride and vanity lead to ruin", "hi": "अहंकार और दिखावा बर्बादी की ओर ले जाता है"},
+        "c": {"en": "One should be content with what one has", "hi": "व्यक्ति को जो उसके पास है उसी में संतुष्ट रहना चाहिए"},
+        "d": {"en": "All of the above", "hi": "उपरोक्त सभी"}
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "Think about Matilda's desires, her lie about the necklace, and the final result.",
+        "hi": "मटिल्डा की इच्छाओं, हार के बारे में उसके झूठ और अंतिम परिणाम के बारे में सोचें।"
+      },
+      "explanation": {
+        "en": "The story touches upon several themes: the dangers of vanity, the importance of telling the truth, and how one's life can be ruined by a small mistake or unnecessary desires.",
+        "hi": "यह कहानी दिखावे के खतरों, सच बोलने के महत्व और अनावश्यक इच्छाओं पर आधारित है।"
+      },
+      "key_takeaway": {
+        "en": "A simple truth could have saved ten years of misery.",
+        "hi": "एक छोटा सा सच दस साल के दुखों को बचा सकता था।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "Why didn't Matilda tell Mme Forestier that she had lost the necklace?",
+        "hi": "मटिल्डा ने मैडम फॉरेस्टियर को यह क्यों नहीं बताया कि उसने हार खो दिया है?"
+      },
+      "options": {
+        "a": {"en": "She was too proud and afraid of being called a thief", "hi": "वह बहुत अभिमानी थी और उसे चोर कहे जाने का डर था"},
+        "b": {"en": "She hated her friend", "hi": "वह अपनी सहेली से नफरत करती थी"},
+        "c": {"en": "She wanted to buy a new one anyway", "hi": "वह वैसे भी एक नया खरीदना चाहती थी"},
+        "d": {"en": "She forgot to tell her", "hi": "वह उसे बताना भूल गई"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "She thought admitting the loss would ruin her reputation.",
+        "hi": "उसे लगा कि नुकसान स्वीकार करने से उसकी प्रतिष्ठा खराब हो जाएगी।"
+      },
+      "explanation": {
+        "en": "Matilda's pride prevented her from being honest. If she had told the truth, she would have discovered the necklace was fake and saved her future.",
+        "hi": "मटिल्डा के घमंड ने उसे सच बोलने से रोका।"
+      },
+      "key_takeaway": {
+        "en": "Pride often prevents people from seeking help or telling the truth.",
+        "hi": "अहंकार अक्सर लोगों को मदद मांगने या सच बोलने से रोकता है।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "How did Mr. Loisel feel about his life before the necklace was lost?",
+        "hi": "हार खोने से पहले श्रीमान लोयसेल अपने जीवन के बारे में कैसा महसूस करते थे?"
+      },
+      "options": {
+        "a": {"en": "He was very unhappy", "hi": "वह बहुत दुखी थे"},
+        "b": {"en": "He was content and enjoyed small things like a good 'pot-au-feu'", "hi": "वह संतुष्ट थे और अच्छी 'पोट-औ-फ्यू' (एक प्रकार का सूप) जैसी छोटी चीज़ों का आनंद लेते थे"},
+        "c": {"en": "He wanted to be the Minister", "hi": "वह मंत्री बनना चाहते थे"},
+        "d": {"en": "He was jealous of his neighbors", "hi": "वह अपने पड़ोसियों से ईर्ष्या करता था"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "When he sat down to dinner, he would say 'Ah, the good pot-au-feu! I know nothing better than that.'",
+        "hi": "जब वह रात के खाने के लिए बैठता, तो वह कहता 'वाह, अच्छी पोट-औ-फ्यू! मुझे इससे बेहतर कुछ नहीं पता।'"
+      },
+      "explanation": {
+        "en": "Unlike Matilda, Mr. Loisel was satisfied with his modest life. He appreciated what he had and tried his best to keep his wife happy.",
+        "hi": "मटिल्डा के विपरीत, श्रीमान लोयसेल अपने साधारण जीवन से संतुष्ट थे।"
+      },
+      "key_takeaway": {
+        "en": "Contentment is the key to happiness.",
+        "hi": "संतोष ही सुख की कुंजी है।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "What does the phrase 'ruinous obligations' mean in the story?",
+        "hi": "कहानी में 'विनाशकारी दायित्व' (ruinous obligations) वाक्यांश का क्या अर्थ है?"
+      },
+      "options": {
+        "a": {"en": "Going on a holiday", "hi": "छुट्टियों पर जाना"},
+        "b": {"en": "Taking loans with very high interest rates that destroy one's wealth", "hi": "बहुत ऊँची ब्याज दरों पर ऋण लेना जो किसी की संपत्ति को नष्ट कर देते हैं"},
+        "c": {"en": "Buying gifts", "hi": "उपहार खरीदना"},
+        "d": {"en": "Getting a promotion", "hi": "पदोन्नति मिलना"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It describes the debts Mr. Loisel took to pay for the new necklace.",
+        "hi": "यह उन कर्जों का वर्णन करता है जो श्रीमान लोयसेल ने नए हार के भुगतान के लिए लिए थे।"
+      },
+      "explanation": {
+        "en": "'Ruinous obligations' refers to the heavy debts and promises of repayment that Mr. Loisel entered into, which eventually ruined their financial stability.",
+        "hi": "इसका अर्थ है वे भारी कर्ज जिन्होंने उनकी आर्थिक स्थिति खराब कर दी।"
+      },
+      "key_takeaway": {
+        "en": "Ruinous = Causing great damage or destruction.",
+        "hi": "Ruinous = भारी क्षति या विनाश पैदा करने वाला।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "Who is the author of 'The Necklace'?",
+        "hi": "'हार' (The Necklace) के लेखक कौन हैं?"
+      },
+      "options": {
+        "a": {"en": "Victor Canning", "hi": "विक्टर कैनिंग"},
+        "b": {"en": "Guy de Maupassant", "hi": "गाय डी मोपासंत (Guy de Maupassant)"},
+        "c": {"en": "Robert Peterson", "hi": "रॉबर्ट पीटरसन"},
+        "d": {"en": "James Herriot", "hi": "जेम्स हैरियट"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He was a famous French writer known for his short stories with ironic endings.",
+        "hi": "वे एक प्रसिद्ध फ्रांसीसी लेखक थे जो विडंबनापूर्ण अंत वाली अपनी लघु कथाओं के लिए जाने जाते थे।"
+      },
+      "explanation": {
+        "en": "Guy de Maupassant is the author. He is considered a master of the short story form in French literature.",
+        "hi": "इस कहानी के लेखक गाय डी मोपासंत हैं।"
+      },
+      "key_takeaway": {
+        "en": "Guy de Maupassant = Master of the twist ending.",
+        "hi": "गाय डी मोपासंत = कहानी में मोड़ (twist) देने के उस्ताद।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "What did Matilda dream of while sitting in her simple room?",
+        "hi": "अपने साधारण कमरे में बैठे हुए मटिल्डा क्या सपने देखती थी?"
+      },
+      "options": {
+        "a": {"en": "Silent ante-chambers and large drawing-rooms with silk", "hi": "रेशम से सजे बड़े ड्राइंग-रूम और शांत कक्ष"},
+        "b": {"en": "Working in a farm", "hi": "खेत में काम करने के"},
+        "c": {"en": "Becoming a teacher", "hi": "शिक्षक बनने के"},
+        "d": {"en": "Helping the poor", "hi": "गरीबों की मदद करने के"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "She imagined exquisite food served in marvelous dishes.",
+        "hi": "उसने शानदार बर्तनों में परोसे गए उत्तम भोजन की कल्पना की।"
+      },
+      "explanation": {
+        "en": "Matilda often daydreamed about vast saloons, oriental tapestries, and dinner parties with famous people, which made her feel even more miserable about her reality.",
+        "hi": "मटिल्डा अक्सर विशाल कमरों और प्रसिद्ध लोगों के साथ डिनर पार्टियों के सपने देखती थी।"
+      },
+      "key_takeaway": {
+        "en": "Daydreaming about an unattainable life can lead to chronic dissatisfaction.",
+        "hi": "अप्राप्य जीवन के बारे में दिन में सपने देखना स्थायी असंतोष का कारण बन सकता है।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "What happened to Matilda's beauty at the end of ten years?",
+        "hi": "दस साल के अंत में मटिल्डा की सुंदरता का क्या हुआ?"
+      },
+      "options": {
+        "a": {"en": "She became even more beautiful", "hi": "वह और भी सुंदर हो गई"},
+        "b": {"en": "She looked old, hard, and crude", "hi": "वह बूढ़ी, सख्त और रूखी दिखने लगी"},
+        "c": {"en": "She looked like a princess", "hi": "वह एक राजकुमारी जैसी लग रही थी"},
+        "d": {"en": "Nothing changed", "hi": "कुछ नहीं बदला"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Her hair was badly dressed, her skirts awry, and her hands red.",
+        "hi": "उसके बाल बिखरे हुए थे, स्कर्ट टेढ़ी थी और हाथ लाल थे।"
+      },
+      "explanation": {
+        "en": "The long years of physical labor took a toll on Matilda. She lost her youth and charm, becoming a typical woman of a poor household.",
+        "hi": "शारीरिक श्रम के लंबे वर्षों ने मटिल्डा पर बुरा असर डाला। उसने अपनी युवावस्था और आकर्षण खो दिया।"
+      },
+      "key_takeaway": {
+        "en": "Environment and lifestyle deeply affect physical appearance.",
+        "hi": "वातावरण और जीवनशैली शारीरिक बनावट को गहराई से प्रभावित करते हैं।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "What did Matilda feel when she finally told the truth to Mme Forestier?",
+        "hi": "जब मटिल्डा ने अंततः मैडम फॉरेस्टियर को सच बताया तो उसने क्या महसूस किया?"
+      },
+      "options": {
+        "a": {"en": "Fear", "hi": "डर"},
+        "b": {"en": "Pride and relief", "hi": "गर्व और राहत"},
+        "c": {"en": "Anger", "hi": "गुस्सा"},
+        "d": {"en": "She felt like crying", "hi": "उसे रोने का मन किया"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "She smiled with a 'proud and simple joy'.",
+        "hi": "वह 'गर्व और सरल खुशी' के साथ मुस्कुराई।"
+      },
+      "explanation": {
+        "en": "Matilda felt proud that she had replaced the necklace with a real one and worked for ten years to pay for it. She felt a sense of achievement before the shocking truth was revealed.",
+        "hi": "मटिल्डा को गर्व महसूस हुआ कि उसने हार को असली हार से बदल दिया और उसे चुकाने के लिए दस साल तक काम किया।"
+      },
+      "key_takeaway": {
+        "en": "There is a certain dignity in paying one's debts through hard work.",
+        "hi": "कड़ी मेहनत के माध्यम से अपना कर्ज चुकाने में एक विशेष गरिमा होती है।"
+      }
+    }
+  ]
+}

@@ -1,0 +1,800 @@
+{
+  "metadata": {
+    "chapter_number": 5,
+    "chapter_title": "Glimpses of India",
+    "chapter_title_hindi": "भारत की झलकियां",
+    "subject": "English (First Flight) - Class 10",
+    "board": "HPBOSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.0",
+    "naming_convention": "10_EN_FF_CH05_GlimpsesOfIndia.json"
+  },
+  "validation_report": {
+    "is_valid": true,
+    "checked_by": "AI Tutor",
+    "checked_at": "2026-01-21T10:00:00Z",
+    "notes": "Covers all three parts: A Baker from Goa, Coorg, and Tea from Assam with balanced MCQ distribution."
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "Who are the 'paders' in Goa?",
+        "hi": "गोवा में 'पादर्स' (paders) किन्हें कहा जाता है?"
+      },
+      "options": {
+        "a": {"en": "Fishermen", "hi": "मछुआरे"},
+        "b": {"en": "Bakers", "hi": "बेकर्स (पाव बनाने वाले)"},
+        "c": {"en": "Farmers", "hi": "किसान"},
+        "d": {"en": "Tourist guides", "hi": "पर्यटक गाइड"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "They are known for the musical thud of their bamboo in the mornings.",
+        "hi": "वे सुबह अपने बांस की संगीतमय आवाज़ के लिए जाने जाते हैं।"
+      },
+      "explanation": {
+        "en": "In the traditional Goan village, the baker is called a 'pader'. Even today, the legacy of the Portuguese bakers continues in Goa.",
+        "hi": "पारंपरिक गोवा के गाँवों में बेकर को 'पादरे' (pader) कहा जाता है। आज भी गोवा में पुर्तगाली बेकर्स की विरासत जीवित है।"
+      },
+      "key_takeaway": {
+        "en": "Pader = Traditional Goan Village Baker.",
+        "hi": "Pader = गोवा का पारंपरिक बेकर।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "What did the children look for in the baker's basket?",
+        "hi": "बच्चे बेकर की टोकरी में क्या ढूँढते थे?"
+      },
+      "options": {
+        "a": {"en": "Loaves of bread", "hi": "पाव (Bread loaves)"},
+        "b": {"en": "Bread-bangles", "hi": "ब्रेड-चूड़ियाँ (Bread-bangles)"},
+        "c": {"en": "Cakes", "hi": "केक"},
+        "d": {"en": "Fruit", "hi": "फल"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It was a special kind of sweet bread specially made for them.",
+        "hi": "यह एक विशेष प्रकार की मीठी ब्रेड थी जो विशेष रूप से उनके लिए बनाई जाती थी।"
+      },
+      "explanation": {
+        "en": "While the loaves were for the elders, the children specifically looked for 'bread-bangles' which were often made of sweet bread.",
+        "hi": "बड़ों के लिए पाव (loaves) होते थे, लेकिन बच्चे विशेष रूप से 'ब्रेड-चूड़ियों' की तलाश करते थे जो मीठी होती थीं।"
+      },
+      "key_takeaway": {
+        "en": "Bread-bangles = Special treats for children.",
+        "hi": "Bread-bangles = बच्चों के लिए विशेष मीठी ब्रेड।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "What is the traditional dress of a Goan baker called?",
+        "hi": "गोवा के बेकर की पारंपरिक पोशाक को क्या कहा जाता है?"
+      },
+      "options": {
+        "a": {"en": "Dhoti", "hi": "धोती"},
+        "b": {"en": "Kabai", "hi": "कबाई (Kabai)"},
+        "c": {"en": "Lungi", "hi": "लुंगी"},
+        "d": {"en": "Kimono", "hi": "किमोनो"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It is a single-piece long frock reaching down to the knees.",
+        "hi": "यह एक ही टुकड़े वाली लंबी फ्रॉक होती है जो घुटनों तक पहुँचती है।"
+      },
+      "explanation": {
+        "en": "The baker or bread-seller of those days wore a peculiar dress known as the 'kabai'. It was a long, single-piece frock.",
+        "hi": "उन दिनों बेकर एक अजीबोगरीब पोशाक पहनते थे जिसे 'कबाई' (kabai) कहा जाता था।"
+      },
+      "key_takeaway": {
+        "en": "Kabai = Single-piece frock worn by bakers.",
+        "hi": "Kabai = बेकर्स द्वारा पहनी जाने वाली लंबी फ्रॉक।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "Why was a baker's furnace essential in a Goan village?",
+        "hi": "गोवा के गाँव में बेकर की भट्टी अनिवार्य क्यों थी?"
+      },
+      "options": {
+        "a": {"en": "To keep the village warm", "hi": "गाँव को गर्म रखने के लिए"},
+        "b": {"en": "For religious ceremonies", "hi": "धार्मिक समारोहों के लिए"},
+        "c": {"en": "Because bread was needed for every social and religious occasion", "hi": "क्योंकि हर सामाजिक और धार्मिक अवसर पर ब्रेड की आवश्यकता होती थी"},
+        "d": {"en": "To burn dry leaves", "hi": "सूखे पत्तों को जलाने के लिए"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "Think of weddings or festivals like Christmas. Can they be complete without 'bol' or cakes?",
+        "hi": "शादियों या क्रिसमस जैसे त्योहारों के बारे में सोचें। क्या वे 'बोल' या केक के बिना पूरे हो सकते हैं?"
+      },
+      "explanation": {
+        "en": "Marriage gifts were meaningless without 'bol' (sweet bread), and cakes and 'bolinhas' were essential for Christmas and other festivals.",
+        "hi": "गोवा में शादियों के तोहफे 'बोल' (bol) के बिना अधूरे माने जाते थे, और त्योहारों पर केक ज़रूरी थे।"
+      },
+      "key_takeaway": {
+        "en": "Baking was a vital social and cultural tradition in Goa.",
+        "hi": "गोवा में बेकिंग एक महत्वपूर्ण सामाजिक और सांस्कृतिक परंपरा थी।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "Where were the monthly accounts of the baker usually recorded?",
+        "hi": "बेकर के मासिक हिसाब आमतौर पर कहाँ लिखे जाते थे?"
+      },
+      "options": {
+        "a": {"en": "In a register", "hi": "एक रजिस्टर में"},
+        "b": {"en": "On a wall with a pencil", "hi": "पेंसिल से दीवार पर"},
+        "c": {"en": "In a digital diary", "hi": "एक डिजिटल डायरी में"},
+        "d": {"en": "On the bread wrapper", "hi": "ब्रेड के रैपर पर"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It was a very simple and informal way of bookkeeping.",
+        "hi": "यह हिसाब-किताब रखने का एक बहुत ही सरल और अनौपचारिक तरीका था।"
+      },
+      "explanation": {
+        "en": "The baker usually collected his bills at the end of the month. Monthly accounts were recorded on some wall in pencil.",
+        "hi": "बेकर महीने के अंत में अपने बिल जमा करता था। हिसाब पेंसिल से दीवार पर लिखा जाता था।"
+      },
+      "key_takeaway": {
+        "en": "Account keeping was informal and based on trust.",
+        "hi": "हिसाब-किताब अनौपचारिक और भरोसे पर आधारित था।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "What did the baker carry on his head?",
+        "hi": "बेकर अपने सिर पर क्या ले जाता था?"
+      },
+      "options": {
+        "a": {"en": "A heavy iron rod", "hi": "लोहे की भारी छड़"},
+        "b": {"en": "A basket of bread", "hi": "ब्रेड की एक टोकरी"},
+        "c": {"en": "A bag of flour", "hi": "आटे का एक थैला"},
+        "d": {"en": "A wooden table", "hi": "लकड़ी की मेज़"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He balanced it while supporting it with one hand.",
+        "hi": "वह इसे एक हाथ से सहारा देते हुए संतुलित करता था।"
+      },
+      "explanation": {
+        "en": "The baker entered the village with the 'jhang-jhang' sound of his bamboo staff. One hand supported the basket on his head.",
+        "hi": "बेकर अपने बांस के साथ आता था और एक हाथ से अपने सिर पर रखी टोकरी को संभालता था।"
+      },
+      "key_takeaway": {
+        "en": "Basket = The primary delivery tool for a pader.",
+        "hi": "Basket = एक पादरे के लिए डिलीवरी का मुख्य साधन।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "How did the baker greet the lady of the house?",
+        "hi": "बेकर घर की मालकिन का अभिवादन कैसे करता था?"
+      },
+      "options": {
+        "a": {"en": "By bowing low", "hi": "झुककर"},
+        "b": {"en": "By saying 'Good Morning'", "hi": "'गुड मॉर्निंग' कहकर"},
+        "c": {"en": "By ringing a bell", "hi": "घंटी बजाकर"},
+        "d": {"en": "By singing a song", "hi": "गाना गाकर"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It is a standard polite English greeting.",
+        "hi": "यह एक मानक विनम्र अंग्रेजी अभिवादन है।"
+      },
+      "explanation": {
+        "en": "The baker would place his basket on the vertical bamboo and greet the lady of the house with 'Good Morning' before delivering the loaves.",
+        "hi": "बेकर टोकरी रखने के बाद घर की मालकिन को 'गुड मॉर्निंग' कहता था।"
+      },
+      "key_takeaway": {
+        "en": "Polite greetings were part of the baker's daily routine.",
+        "hi": "विनम्र अभिवादन बेकर की दिनचर्या का हिस्सा था।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "What showed that baking was a 'profitable profession' in the old days?",
+        "hi": "पुराने दिनों में बेकिंग एक 'लाभदायक पेशा' था, यह किससे पता चलता था?"
+      },
+      "options": {
+        "a": {"en": "The baker's expensive clothes", "hi": "बेकर के महंगे कपड़े"},
+        "b": {"en": "The baker's large house", "hi": "बेकर का बड़ा घर"},
+        "c": {"en": "The baker's 'plump physique'", "hi": "बेकर का 'मोटा-ताज़ा शरीर' (plump physique)"},
+        "d": {"en": "The baker's gold jewelry", "hi": "बेकर के सोने के गहने"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "His physical appearance suggested that he and his family never starved.",
+        "hi": "उसकी शारीरिक बनावट से पता चलता था कि वह और उसका परिवार कभी भूखा नहीं रहा।"
+      },
+      "explanation": {
+        "en": "The baker, his family, and servants always looked happy and prosperous. Their 'plump physique' was open testimony that they were well-fed.",
+        "hi": "बेकर और उसके परिवार का 'मोटा-ताज़ा शरीर' (plump physique) इस बात का गवाह था कि वे समृद्ध थे।"
+      },
+      "key_takeaway": {
+        "en": "Plump physique = Symbol of prosperity for Goan bakers.",
+        "hi": "Plump physique = गोवा के बेकर्स की समृद्धि का प्रतीक।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "Which fruit is a plump-bodied person compared to in the story?",
+        "hi": "कहानी में एक मोटे शरीर वाले व्यक्ति की तुलना किस फल से की गई है?"
+      },
+      "options": {
+        "a": {"en": "Mango", "hi": "आम"},
+        "b": {"en": "Jackfruit", "hi": "कटहल (Jackfruit)"},
+        "c": {"en": "Papaya", "hi": "पपीता"},
+        "d": {"en": "Watermelon", "hi": "तरबूज"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It is a large fruit with a thick skin and a bulky shape.",
+        "hi": "यह एक बड़ा फल है जिसकी त्वचा मोटी और आकार भारी होता है।"
+      },
+      "explanation": {
+        "en": "The author mentions that even today, anyone with a 'jackfruit-like physical appearance' is easily compared to a baker.",
+        "hi": "लेखक कहते हैं कि आज भी 'कटहल जैसे शरीर' (jackfruit-like appearance) वाले व्यक्ति की तुलना बेकर से की जाती है।"
+      },
+      "key_takeaway": {
+        "en": "Jackfruit-like = Metaphor for a plump or bulky body.",
+        "hi": "Jackfruit-like = मोटे या भारी शरीर के लिए इस्तेमाल किया गया रूपक।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "The narrator says they didn't even wash their faces before eating bread. Why?",
+        "hi": "कथावाचक का कहना है कि वे ब्रेड खाने से पहले अपना चेहरा भी नहीं धोते थे। क्यों?"
+      },
+      "options": {
+        "a": {"en": "They were too lazy", "hi": "वे बहुत आलसी थे"},
+        "b": {"en": "The tiger never brushes his teeth", "hi": "शेर कभी अपने दांतों को ब्रश नहीं करता"},
+        "c": {"en": "Water was scarce", "hi": "पानी की कमी थी"},
+        "d": {"en": "The bread would get cold", "hi": "ब्रेड ठंडी हो जाती"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It's a humorous logic used by children to avoid morning chores when fresh food is ready.",
+        "hi": "ताज़ा खाना तैयार होने पर सुबह के कामों से बचने के लिए बच्चों द्वारा इस्तेमाल किया गया एक मज़ाकिया तर्क।"
+      },
+      "explanation": {
+        "en": "The narrator jokingly says, 'The tiger never brushed his teeth. Hot tea could wash and clean up everything so nicely'.",
+        "hi": "कथावाचक मज़ाक में कहते हैं कि शेर (tiger) कभी ब्रश नहीं करता, और गर्म चाय सब कुछ साफ कर देती है।"
+      },
+      "key_takeaway": {
+        "en": "Humor captures the innocence and eagerness of childhood.",
+        "hi": "हास्य बचपन की मासूमियत और उत्सुकता को दर्शाता है।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "Where is Coorg situated?",
+        "hi": "कूर्ग (Coorg) कहाँ स्थित है?"
+      },
+      "options": {
+        "a": {"en": "Between Mysore and Mangalore", "hi": "मैसूर और मैंगलोर के बीच"},
+        "b": {"en": "Near Chennai", "hi": "चेन्नई के पास"},
+        "c": {"en": "In North India", "hi": "उत्तर भारत में"},
+        "d": {"en": "On the border of Goa", "hi": "गोवा की सीमा पर"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "It is described as a 'piece of heaven' drifting from the kingdom of God.",
+        "hi": "इसे ईश्वर के साम्राज्य से बहकर आया 'स्वर्ग का एक टुकड़ा' बताया गया है।"
+      },
+      "explanation": {
+        "en": "Coorg, or Kodagu, the smallest district of Karnataka, is situated midway between Mysore and the coastal town of Mangalore.",
+        "hi": "कूर्ग कर्नाटक का सबसे छोटा जिला है, जो मैसूर और मैंगलोर के बीच स्थित है।"
+      },
+      "key_takeaway": {
+        "en": "Coorg = Smallest district of Karnataka.",
+        "hi": "Coorg = कर्नाटक का सबसे छोटा जिला।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "What is Coorg famous for?",
+        "hi": "कूर्ग किस लिए प्रसिद्ध है?"
+      },
+      "options": {
+        "a": {"en": "Tea gardens", "hi": "चाय के बागान"},
+        "b": {"en": "Coffee plantations, spices, and rainforests", "hi": "कॉफी के बागान, मसाले और वर्षावन"},
+        "c": {"en": "Apple orchards", "hi": "सेब के बागान"},
+        "d": {"en": "Beaches", "hi": "समुद्र तट"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Evergreen rainforests cover thirty percent of this district.",
+        "hi": "सदाबहार वर्षावन इस जिले के तीस प्रतिशत हिस्से को कवर करते हैं।"
+      },
+      "explanation": {
+        "en": "Coorg is home to evergreen rainforests, spices, and coffee plantations. Coffee estates and colonial bungalows stand tucked under tree canopies.",
+        "hi": "कूर्ग अपने वर्षावनों, मसालों और कॉफी के बागानों के लिए जाना जाता है।"
+      },
+      "key_takeaway": {
+        "en": "Nature and spices are the heart of Coorg.",
+        "hi": "प्रकृति और मसाले कूर्ग का दिल हैं।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "What are the two theories about the descent of the Coorgi people?",
+        "hi": "कूर्गी लोगों के वंश के बारे में दो सिद्धांत क्या हैं?"
+      },
+      "options": {
+        "a": {"en": "Indian and Chinese", "hi": "भारतीय और चीनी"},
+        "b": {"en": "Greek or Arabic", "hi": "यूनानी (Greek) या अरबी (Arabic)"},
+        "c": {"en": "British or Portuguese", "hi": "ब्रिटिश या पुर्तगाली"},
+        "d": {"en": "African or Asian", "hi": "अफ्रीकी या एशियाई"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Their tradition of courage and their unique dress suggest these origins.",
+        "hi": "उनके साहस की परंपरा और उनकी अनूठी पोशाक इन मूल सिद्धांतों का सुझाव देती है।"
+      },
+      "explanation": {
+        "en": "The Coorgi people are believed to be of either Greek or Arabic descent. One story says a part of Alexander’s army settled there.",
+        "hi": "माना जाता है कि कूर्गी लोग या तो यूनानी (Greek) या अरबी (Arabic) मूल के हैं।"
+      },
+      "key_takeaway": {
+        "en": "Greek/Arabic origin theories add to Coorg's mystery.",
+        "hi": "यूनानी/अरबी मूल के सिद्धांत कूर्ग के रहस्य को बढ़ाते हैं।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "What is the long black coat worn by Kodavus called?",
+        "hi": "कोडावू (Kodavus) द्वारा पहना जाने वाला लंबा काला कोट क्या कहलाता है?"
+      },
+      "options": {
+        "a": {"en": "Kabai", "hi": "कबाई"},
+        "b": {"en": "Kuppia", "hi": "कुप्पिया (Kuppia)"},
+        "c": {"en": "Kuffia", "hi": "कुफिया"},
+        "d": {"en": "Kurta", "hi": "कुर्ता"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It resembles the 'kuffia' worn by Arabs and Kurds.",
+        "hi": "यह अरबों और कुर्दों द्वारा पहने जाने वाले 'कुफिया' (kuffia) जैसा दिखता है।"
+      },
+      "explanation": {
+        "en": "The traditional dress of Kodavus is a long black coat with an embroidered waist belt known as 'kuppia'.",
+        "hi": "कोडावू लोगों की पारंपरिक पोशाक एक लंबा काला कोट है जिसे 'कुप्पिया' (kuppia) कहा जाता है।"
+      },
+      "key_takeaway": {
+        "en": "Kuppia = Traditional long coat of Coorgis.",
+        "hi": "Kuppia = कूर्गी लोगों का पारंपरिक लंबा कोट।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "The Coorg Regiment is famous in which organization?",
+        "hi": "कूर्ग रेजिमेंट किस संगठन में प्रसिद्ध है?"
+      },
+      "options": {
+        "a": {"en": "Indian Navy", "hi": "भारतीय नौसेना"},
+        "b": {"en": "Indian Army", "hi": "भारतीय सेना (Indian Army)"},
+        "c": {"en": "Indian Air Force", "hi": "भारतीय वायु सेना"},
+        "d": {"en": "Police Force", "hi": "पुलिस बल"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "They are one of the most decorated regiments in the country.",
+        "hi": "वे देश की सबसे अधिक सम्मानित रेजिमेंटों में से एक हैं।"
+      },
+      "explanation": {
+        "en": "Coorgi homes have a tradition of hospitality and they are brave people. The Coorg Regiment is one of the most decorated in the Indian Army.",
+        "hi": "कूर्गी लोग बहुत बहादुर होते हैं और कूर्ग रेजिमेंट भारतीय सेना में बहुत प्रसिद्ध है।"
+      },
+      "key_takeaway": {
+        "en": "Coorgis have a proud military tradition.",
+        "hi": "कूर्गी लोगों की एक गर्वित सैन्य परंपरा है।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "Who was the first Chief of the Indian Army?",
+        "hi": "भारतीय सेना के पहले प्रमुख (Chief) कौन थे?"
+      },
+      "options": {
+        "a": {"en": "General Cariappa", "hi": "जनरल करियप्पा (General Cariappa)"},
+        "b": {"en": "General Manekshaw", "hi": "जनरल मानेकशॉ"},
+        "c": {"en": "General Rawat", "hi": "जनरल रावत"},
+        "d": {"en": "General Singh", "hi": "जनरल सिंह"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "He was a Coorgi, which highlights the bravery of the region.",
+        "hi": "वे एक कूर्गी थे, जो इस क्षेत्र की बहादुरी को उजागर करता है।"
+      },
+      "explanation": {
+        "en": "The first Chief of the Indian Army, General Cariappa, was a Coorgi. This shows the deep military roots of the district.",
+        "hi": "भारतीय सेना के पहले प्रमुख, जनरल करियप्पा, एक कूर्गी थे।"
+      },
+      "key_takeaway": {
+        "en": "General Cariappa = A symbol of Coorgi valor.",
+        "hi": "General Cariappa = कूर्गी वीरता का प्रतीक।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "What is unique about the Kodavus regarding firearms?",
+        "hi": "आग्नेयास्त्रों (firearms) के मामले में कोडावू लोगों के बारे में क्या अनोखा है?"
+      },
+      "options": {
+        "a": {"en": "They are not allowed to carry guns", "hi": "उन्हें बंदूक ले जाने की अनुमति नहीं है"},
+        "b": {"en": "They are the only people in India permitted to carry firearms without a license", "hi": "वे भारत के एकमात्र लोग हैं जिन्हें बिना लाइसेंस के हथियार ले जाने की अनुमति है"},
+        "c": {"en": "They make their own guns", "hi": "वे अपनी बंदूकें खुद बनाते हैं"},
+        "d": {"en": "They only use bows and arrows", "hi": "वे केवल धनुष और बाण का उपयोग करते हैं"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It is a special privilege granted to them because of their history of bravery.",
+        "hi": "उनकी बहादुरी के इतिहास के कारण उन्हें यह विशेष विशेषाधिकार दिया गया है।"
+      },
+      "explanation": {
+        "en": "Even now, Kodavus are the only people in India permitted to carry firearms without a license, recognizing their legendary bravery.",
+        "hi": "कोडावू भारत के एकमात्र लोग हैं जिन्हें बिना लाइसेंस के हथियार रखने की छूट है।"
+      },
+      "key_takeaway": {
+        "en": "Kodavus have a unique legal privilege in India.",
+        "hi": "कोडावू लोगों के पास भारत में एक अनूठा कानूनी विशेषाधिकार है।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "Which river gets its water from the hills of Coorg?",
+        "hi": "कौन सी नदी कूर्ग की पहाड़ियों से अपना जल प्राप्त करती है?"
+      },
+      "options": {
+        "a": {"en": "Ganga", "hi": "गंगा"},
+        "b": {"en": "Kaveri", "hi": "कावेरी (Kaveri)"},
+        "c": {"en": "Krishna", "hi": "कृष्णा"},
+        "d": {"en": "Narmada", "hi": "नर्मदा"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "A large freshwater fish called 'Mahaseer' is found in this river.",
+        "hi": "इस नदी में 'महाशीर' नाम की एक बड़ी ताज़े पानी की मछली पाई जाती है।"
+      },
+      "explanation": {
+        "en": "The river Kaveri obtains its water from the hills and forests of Coorg. Mahaseer—a large freshwater fish—abounds in these waters.",
+        "hi": "कावेरी नदी अपना जल कूर्ग की पहाड़ियों और जंगलों से प्राप्त करती है।"
+      },
+      "key_takeaway": {
+        "en": "Kaveri = The lifeline of the Coorg region.",
+        "hi": "Kaveri = कूर्ग क्षेत्र की जीवन रेखा।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "What adventure sports can tourists enjoy in Coorg?",
+        "hi": "पर्यटक कूर्ग में किन साहसिक खेलों (adventure sports) का आनंद ले सकते हैं?"
+      },
+      "options": {
+        "a": {"en": "Skiing and Snowboarding", "hi": "स्कीइंग और स्नोबोर्डिंग"},
+        "b": {"en": "River rafting, canoeing, rappelling, and rock climbing", "hi": "रिवर राफ्टिंग, कैनोइंग, रैपलिंग और रॉक क्लाइंबिंग"},
+        "c": {"en": "Surfing", "hi": "सर्फिंग"},
+        "d": {"en": "Scuba diving", "hi": "स्कूबा डाइविंग"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Coorg is a paradise for people who love high-energy activities in nature.",
+        "hi": "कूर्ग उन लोगों के लिए स्वर्ग है जो प्रकृति में उच्च ऊर्जा वाली गतिविधियों को पसंद करते हैं।"
+      },
+      "explanation": {
+        "en": "Coorg offers several high-energy adventures like river rafting, canoeing, rappelling, rock climbing, and mountain biking.",
+        "hi": "कूर्ग में रिवर राफ्टिंग, कैनोइंग, रैपलिंग और रॉक क्लाइंबिंग जैसे कई साहसिक खेल उपलब्ध हैं।"
+      },
+      "key_takeaway": {
+        "en": "Coorg is a top destination for eco-adventure.",
+        "hi": "कूर्ग ईको-एडवेंचर के लिए एक प्रमुख गंतव्य है।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "What provides a panoramic view of the entire misty landscape of Coorg?",
+        "hi": "कूर्ग के संपूर्ण धुंधले परिदृश्य का विहंगम दृश्य (panoramic view) कहाँ से मिलता है?"
+      },
+      "options": {
+        "a": {"en": "The Kaveri river bank", "hi": "कावेरी नदी का तट"},
+        "b": {"en": "Brahmagiri hills", "hi": "ब्रह्मगिरि पहाड़ियाँ (Brahmagiri hills)"},
+        "c": {"en": "A colonial bungalow", "hi": "एक औपनिवेशिक बंगला"},
+        "d": {"en": "The coffee estate", "hi": "कॉफी एस्टेट"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "A climb to these hills brings you to a wide view of the misty valley.",
+        "hi": "इन पहाड़ियों पर चढ़ने से आपको धुंधली घाटी का विस्तृत दृश्य मिलता है।"
+      },
+      "explanation": {
+        "en": "A walk up the Brahmagiri hills brings you into a panoramic view of the entire misty landscape of Coorg.",
+        "hi": "ब्रह्मगिरि पहाड़ियों पर चढ़कर पूरे कूर्ग का सुंदर नज़ारा देखा जा सकता है।"
+      },
+      "key_takeaway": {
+        "en": "Brahmagiri = The best viewpoint in Coorg.",
+        "hi": "Brahmagiri = कूर्ग का सबसे अच्छा दृश्य बिंदु (viewpoint)।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "Who were Rajvir and Pranjol?",
+        "hi": "राजवीर और प्रांजल कौन थे?"
+      },
+      "options": {
+        "a": {"en": "Brothers", "hi": "भाई"},
+        "b": {"en": "Classmates at a school in Delhi", "hi": "दिल्ली के एक स्कूल में सहपाठी"},
+        "c": {"en": "Tourists from Goa", "hi": "गोवा के पर्यटक"},
+        "d": {"en": "Tea estate workers", "hi": "चाय बागान के कर्मचारी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "They were traveling to Pranjol's home in Assam for the summer vacation.",
+        "hi": "वे गर्मियों की छुट्टियों में असम में प्रांजल के घर जा रहे थे।"
+      },
+      "explanation": {
+        "en": "Pranjol, a youngster from Assam, is Rajvir’s classmate at school in Delhi. Pranjol’s father is the manager of a tea garden in Upper Assam.",
+        "hi": "राजवीर और प्रांजल दिल्ली के एक स्कूल में सहपाठी थे। प्रांजल असम का रहने वाला था।"
+      },
+      "key_takeaway": {
+        "en": "The story follows two students traveling to Assam.",
+        "hi": "यह कहानी असम की यात्रा करने वाले दो छात्रों की है।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "What did Rajvir see outside the train window?",
+        "hi": "राजवीर ने ट्रेन की खिड़की के बाहर क्या देखा?"
+      },
+      "options": {
+        "a": {"en": "Snow-capped mountains", "hi": "बर्फ से ढके पहाड़"},
+        "b": {"en": "A sea of green tea bushes", "hi": "हरे रंग की चाय की झाड़ियों का समुद्र"},
+        "c": {"en": "A busy city", "hi": "एक व्यस्त शहर"},
+        "d": {"en": "Desert sand", "hi": "रेगिस्तान की रेत"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It was much more exciting than reading his detective book.",
+        "hi": "यह उसकी जासूसी किताब पढ़ने से कहीं ज़्यादा रोमांचक था।"
+      },
+      "explanation": {
+        "en": "It was green, green everywhere. Rajvir had never seen so much greenery before. It was a magnificent view of tea bushes as far as the eye could see.",
+        "hi": "हर तरफ हरियाली थी। राजवीर ने चाय की झाड़ियों का एक भव्य दृश्य देखा।"
+      },
+      "key_takeaway": {
+        "en": "Tea bushes = The dominant landscape of Assam.",
+        "hi": "Tea bushes = असम का मुख्य परिदृश्य।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "What is the 'Chinese legend' about the discovery of tea?",
+        "hi": "चाय की खोज के बारे में 'चीनी किंवदंती' (Chinese legend) क्या है?"
+      },
+      "options": {
+        "a": {"en": "A monk found it in a forest", "hi": "एक साधु ने इसे जंगल में पाया"},
+        "b": {"en": "Leaves fell into a Chinese Emperor's boiling water", "hi": "एक चीनी सम्राट के उबलते पानी में पत्तियां गिर गईं"},
+        "c": {"en": "It was a gift from a dragon", "hi": "यह एक ड्रैगन का उपहार था"},
+        "d": {"en": "It was discovered by a farmer", "hi": "इसे एक किसान ने खोजा था"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The leaves gave a delicious flavor to the water.",
+        "hi": "पत्तियों ने पानी को एक स्वादिष्ट स्वाद दिया।"
+      },
+      "explanation": {
+        "en": "According to the legend, a Chinese emperor always boiled water before drinking it. One day, leaves from a twig burning under the pot fell into the water, giving it a delicious flavor.",
+        "hi": "चीनी किंवदंती के अनुसार, सम्राट के उबलते पानी में कुछ पत्तियां गिर गईं, जिससे पानी का स्वाद बढ़ गया।"
+      },
+      "key_takeaway": {
+        "en": "Accidental discovery is a popular theme in tea legends.",
+        "hi": "चाय की किंवदंतियों में आकस्मिक खोज एक लोकप्रिय विषय है।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "What is the 'Indian legend' about tea involving Bodhidharma?",
+        "hi": "बोधिसत्व (Bodhidharma) से जुड़ी चाय के बारे में 'भारतीय किंवदंती' क्या है?"
+      },
+      "options": {
+        "a": {"en": "He planted tea to stay awake during meditation", "hi": "उन्होंने ध्यान के दौरान जागते रहने के लिए चाय के पौधे लगाए"},
+        "b": {"en": "Ten tea plants grew out of his eyelids", "hi": "उनकी पलकों से चाय के दस पौधे उगे"},
+        "c": {"en": "He discovered tea in the Himalayas", "hi": "उन्होंने हिमालय में चाय की खोज की"},
+        "d": {"en": "He used tea as medicine", "hi": "उन्होंने चाय का उपयोग दवा के रूप में किया"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He cut off his eyelids because he felt sleepy during meditation.",
+        "hi": "उन्होंने अपनी पलकें काट दी थीं क्योंकि उन्हें ध्यान के दौरान नींद आती थी।"
+      },
+      "explanation": {
+        "en": "Bodhidharma, an ancient Buddhist ascetic, cut off his eyelids because he felt sleepy during meditations. Ten tea plants grew out of the eyelids, which banished sleep when boiled in water.",
+        "hi": "बोधिसत्व ने अपनी पलकें काट दी थीं, और उनसे चाय के पौधे उगे जो नींद भगाने में मदद करते थे।"
+      },
+      "key_takeaway": {
+        "en": "Tea is associated with alertness and meditation.",
+        "hi": "चाय का संबंध सतर्कता और ध्यान से है।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "When was tea first drunk, according to Rajvir?",
+        "hi": "राजवीर के अनुसार, चाय पहली बार कब पी गई थी?"
+      },
+      "options": {
+        "a": {"en": "2700 BC in China", "hi": "2700 ईसा पूर्व चीन में"},
+        "b": {"en": "1500 AD in Europe", "hi": "1500 ईस्वी यूरोप में"},
+        "en": "1000 BC in India", "hi": "1000 ईसा पूर्व भारत में"},
+        "d": {"en": "500 BC in Japan", "hi": "500 ईसा पूर्व जापान में"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "Words like 'chai' and 'chini' are of Chinese origin.",
+        "hi": "'चाय' और 'चीनी' जैसे शब्द चीनी मूल के हैं।"
+      },
+      "explanation": {
+        "en": "Tea was first drunk in China as far back as 2700 BC. Words such as tea, 'chai', and 'chini' are from Chinese.",
+        "hi": "चाय पहली बार 2700 ईसा पूर्व चीन में पी गई थी।"
+      },
+      "key_takeaway": {
+        "en": "China is the historical birthplace of tea culture.",
+        "hi": "चीन चाय संस्कृति का ऐतिहासिक जन्मस्थान है।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "When did tea come to Europe?",
+        "hi": "चाय यूरोप कब आई?"
+      },
+      "options": {
+        "a": {"en": "10th century", "hi": "10वीं शताब्दी"},
+        "b": {"en": "16th century", "hi": "16वीं शताब्दी (16th century)"},
+        "c": {"en": "19th century", "hi": "19वीं शताब्दी"},
+        "d": {"en": "20th century", "hi": "20वीं शताब्दी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It was initially drunk more as medicine than as a beverage.",
+        "hi": "शुरू में इसे एक पेय के बजाय दवा के रूप में अधिक पिया जाता था।"
+      },
+      "explanation": {
+        "en": "Tea came to Europe only in the sixteenth century and was drunk more as medicine than as a beverage.",
+        "hi": "चाय 16वीं शताब्दी में यूरोप पहुँची और शुरू में दवा के रूप में उपयोग की गई।"
+      },
+      "key_takeaway": {
+        "en": "Tea's role shifted from medicine to a popular drink.",
+        "hi": "चाय की भूमिका दवा से बदलकर एक लोकप्रिय पेय में हो गई।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "What is the name of the tea estate managed by Pranjol's father?",
+        "hi": "प्रांजल के पिता द्वारा प्रबंधित चाय बागान का नाम क्या है?"
+      },
+      "options": {
+        "a": {"en": "Assam Tea Co.", "hi": "असम टी कंपनी"},
+        "b": {"en": "Dhekiabari Tea Estate", "hi": "ढे़कियाबाड़ी टी एस्टेट (Dhekiabari)"},
+        "c": {"en": "Darjeeling Tea Garden", "hi": "दार्जिलिंग टी गार्डन"},
+        "d": {"en": "Green Hills Estate", "hi": "ग्रीन हिल्स एस्टेट"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The boys got off at Mariani junction and drove there.",
+        "hi": "लड़के मरियानी जंक्शन पर उतरे और वहां से गाड़ी से गए।"
+      },
+      "explanation": {
+        "en": "Pranjol’s father managed the Dhekiabari Tea Estate. Rajvir was excited to visit it and learn more about tea production.",
+        "hi": "प्रांजल के पिता ढे़कियाबाड़ी टी एस्टेट के प्रबंधक थे।"
+      },
+      "key_takeaway": {
+        "en": "Dhekiabari = The setting for the story's climax.",
+        "hi": "Dhekiabari = कहानी के चरम (climax) का स्थान।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "What were the tea-pluckers wearing?",
+        "hi": "चाय तोड़ने वालों (tea-pluckers) ने क्या पहना था?"
+      },
+      "options": {
+        "a": {"en": "Silk sarees", "hi": "रेशमी साड़ियाँ"},
+        "b": {"en": "Bamboo baskets and plastic aprons", "hi": "बांस की टोकरियाँ और प्लास्टिक एप्रन"},
+        "c": {"en": "Modern uniforms", "hi": "आधुनिक वर्दी"},
+        "d": {"en": "Raincoats", "hi": "रेनकोट"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "They use these to collect and carry the freshly plucked leaves.",
+        "hi": "वे ताज़ा तोड़ी गई पत्तियों को इकट्ठा करने और ले जाने के लिए इनका उपयोग करते हैं।"
+      },
+      "explanation": {
+        "en": "Groups of tea-pluckers, with bamboo baskets on their backs and wearing plastic aprons, were plucking the newly sprouted leaves.",
+        "hi": "चाय तोड़ने वालों ने प्लास्टिक एप्रन पहने थे और पीठ पर बांस की टोकरियाँ थीं।"
+      },
+      "key_takeaway": {
+        "en": "Tea plucking requires specific traditional gear.",
+        "hi": "चाय तोड़ने के लिए विशिष्ट पारंपरिक उपकरणों की आवश्यकता होती है।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "Which 'sprouting period' gives the best tea?",
+        "hi": "कौन सी 'अंकुरण अवधि' (sprouting period) सबसे अच्छी चाय देती है?"
+      },
+      "options": {
+        "a": {"en": "First sprouting period (March)", "hi": "पहला अंकुरण काल (मार्च)"},
+        "b": {"en": "Second sprouting period (May to July)", "hi": "दूसरा अंकुरण काल (मई से जुलाई)"},
+        "c": {"en": "Winter period", "hi": "सर्दियों का समय"},
+        "d": {"en": "Autumn period", "hi": "पतझड़ का समय"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It lasts from May to July and yields the finest tea.",
+        "hi": "यह मई से जुलाई तक रहता है और बेहतरीन चाय पैदा करता है।"
+      },
+      "explanation": {
+        "en": "The second sprouting period lasts from May to July and yields the best tea. Rajvir surprised Pranjol's father with this knowledge.",
+        "hi": "मई से जुलाई के बीच का दूसरा अंकुरण काल सबसे अच्छी चाय देता है।"
+      },
+      "key_takeaway": {
+        "en": "Timing is crucial for high-quality tea production.",
+        "hi": "उच्च गुणवत्ता वाली चाय उत्पादन के लिए समय महत्वपूर्ण है।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "What does Pranjol's father say about Rajvir's knowledge?",
+        "hi": "राजवीर के ज्ञान के बारे में प्रांजल के पिता क्या कहते हैं?"
+      },
+      "options": {
+        "a": {"en": "He says Rajvir is wrong", "hi": "वह कहता है कि राजवीर गलत है"},
+        "b": {"en": "He says Rajvir has done his homework before coming", "hi": "वह कहता है कि राजवीर आने से पहले अपना होमवर्क (तैयारी) करके आया है"},
+        "c": {"en": "He is not interested", "hi": "उसे कोई दिलचस्पी नहीं है"},
+        "d": {"en": "He tells Rajvir to be quiet", "hi": "वह राजवीर को शांत रहने के लिए कहता है"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Pranjol's father was impressed by the detailed facts Rajvir knew about tea.",
+        "hi": "प्रांजल के पिता राजवीर द्वारा चाय के बारे में बताए गए विस्तृत तथ्यों से प्रभावित थे।"
+      },
+      "explanation": {
+        "en": "Pranjol’s father admitted that Rajvir seemed to have done his homework. Rajvir replied that he hoped to learn much more while he was there.",
+        "hi": "प्रांजल के पिता ने माना कि राजवीर ने चाय के बारे में काफी पढ़ाई की है।"
+      },
+      "key_takeaway": {
+        "en": "Curiosity and preparation enhance the travel experience.",
+        "hi": "जिज्ञासा और तैयारी यात्रा के अनुभव को बेहतर बनाती है।"
+      }
+    }
+  ]
+}

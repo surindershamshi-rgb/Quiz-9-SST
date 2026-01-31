@@ -1,0 +1,800 @@
+{
+  "metadata": {
+    "chapter_number": 9,
+    "chapter_title": "The Book That Saved the Earth",
+    "chapter_title_hindi": "वह पुस्तक जिसने पृथ्वी को बचाया",
+    "subject": "English (Footprints Without Feet) - Class 10",
+    "board": "HPBOSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.0",
+    "naming_convention": "10_EN_FWF_CH09_BookThatSavedEarth.json"
+  },
+  "validation_report": {
+    "is_valid": true,
+    "checked_by": "AI Tutor",
+    "checked_at": "2026-01-21T21:00:00Z",
+    "notes": "Covers the play's humorous elements, characters, and the central irony of the nursery rhymes."
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "In which century is the play set?",
+        "hi": "यह नाटक किस सदी में आधारित है?"
+      },
+      "options": {
+        "a": {"en": "Twentieth century", "hi": "बीसवीं सदी"},
+        "b": {"en": "Twenty-fifth century", "hi": "पच्चीसवीं सदी"},
+        "c": {"en": "Twenty-first century", "hi": "इक्कीसवीं सदी"},
+        "d": {"en": "Thirtieth century", "hi": "तीसवीं सदी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The characters are looking back at the past from five hundred years in the future.",
+        "hi": "पात्र भविष्य के पाँच सौ साल बाद से अतीत की ओर देख रहे हैं।"
+      },
+      "explanation": {
+        "en": "The play is set in the 25th century at the Museum of Ancient History. A historian is telling the audience how Earth was saved from a Martian invasion in the 20th century.",
+        "hi": "नाटक की सेटिंग 25वीं सदी की है। एक इतिहासकार दर्शकों को बता रहा है कि 20वीं सदी में पृथ्वी को मंगल ग्रह के आक्रमण से कैसे बचाया गया था।"
+      },
+      "key_takeaway": {
+        "en": "25th Century = The 'present' time of the play.",
+        "hi": "25वीं सदी = नाटक का 'वर्तमान' समय।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "Which century was known as the 'Era of the Book'?",
+        "hi": "किस सदी को 'पुस्तकों का युग' (Era of the Book) कहा जाता था?"
+      },
+      "options": {
+        "a": {"en": "19th century", "hi": "19वीं सदी"},
+        "b": {"en": "20th century", "hi": "20वीं सदी"},
+        "c": {"en": "25th century", "hi": "25वीं सदी"},
+        "d": {"en": "18th century", "hi": "18वीं सदी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "During this time, books were everywhere and taught people everything.",
+        "hi": "इस समय के दौरान, किताबें हर जगह थीं और लोगों को सब कुछ सिखाती थीं।"
+      },
+      "explanation": {
+        "en": "The historian explains that the 20th century was called the Era of the Book because books governed every aspect of life—from how to do things to where and why.",
+        "hi": "20वीं सदी को 'पुस्तकों का युग' कहा जाता था क्योंकि उस समय ज्ञान का मुख्य स्रोत पुस्तकें ही थीं।"
+      },
+      "key_takeaway": {
+        "en": "The 20th century is celebrated for the dominance of printed knowledge.",
+        "hi": "20वीं सदी मुद्रित ज्ञान के प्रभुत्व के लिए जानी जाती है।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "Who was the Commander-in-Chief of Mars?",
+        "hi": "मंगल ग्रह का कमांडर-इन-चीफ कौन था?"
+      },
+      "options": {
+        "a": {"en": "Noodle", "hi": "नूडल"},
+        "b": {"en": "Think-Tank", "hi": "थिंक-टैंक (Think-Tank)"},
+        "c": {"en": "Omega", "hi": "ओमेगा"},
+        "d": {"en": "Oop", "hi": "ऊप"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He has a huge, egg-shaped head and considers himself the most intelligent creature in the universe.",
+        "hi": "उसका सिर अंडे के आकार का बहुत बड़ा है और वह खुद को ब्रह्मांड का सबसे बुद्धिमान प्राणी मानता है।"
+      },
+      "explanation": {
+        "en": "Think-Tank is the arrogant ruler of Mars and the Commander-in-Chief of the Mars Space Control. He leads the planned invasion of Earth.",
+        "hi": "थिंक-टैंक मंगल ग्रह का अहंकारी शासक और मंगल अंतरिक्ष नियंत्रण का कमांडर-इन-चीफ है।"
+      },
+      "key_takeaway": {
+        "en": "Think-Tank = The arrogant and egoistic villain.",
+        "hi": "थिंक-टैंक = अहंकारी और खुद को सर्वोपरि मानने वाला खलनायक।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "Who was Think-Tank's apprentice?",
+        "hi": "थिंक-टैंक का प्रशिक्षु (Apprentice) कौन था?"
+      },
+      "options": {
+        "a": {"en": "Captain Omega", "hi": "कैप्टन ओमेगा"},
+        "b": {"en": "Noodle", "hi": "नूडल (Noodle)"},
+        "c": {"en": "Lieutenant Iota", "hi": "लेफ्टिनेंट इओटा"},
+        "d": {"en": "Sergeant Oop", "hi": "सार्जेंट ऊप"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He is much smarter than Think-Tank but always suggests ideas politely to avoid hurting his boss's ego.",
+        "hi": "वह थिंक-टैंक से कहीं ज़्यादा स्मार्ट है लेकिन अपने बॉस के अहंकार को ठेस पहुँचाने से बचने के लिए हमेशा विनम्रता से सुझाव देता है।"
+      },
+      "explanation": {
+        "en": "Noodle is the apprentice to Think-Tank. He is the real brain behind the operations but lets Think-Tank take all the credit to keep him happy.",
+        "hi": "नूडल थिंक-टैंक का सहायक है। वह वास्तव में बुद्धिमान है लेकिन वह सारा श्रेय थिंक-टैंक को लेने देता है।"
+      },
+      "key_takeaway": {
+        "en": "Noodle = The humble and truly intelligent assistant.",
+        "hi": "नूडल = विनम्र और वास्तव में बुद्धिमान सहायक।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "What did Think-Tank call the Earth out of disrespect?",
+        "hi": "अपमानवश थिंक-टैंक ने पृथ्वी को क्या कहा?"
+      },
+      "options": {
+        "a": {"en": "The Blue Planet", "hi": "नीला ग्रह"},
+        "b": {"en": "A ridiculous little planet", "hi": "एक हास्यास्पद छोटा ग्रह"},
+        "c": {"en": "A muddy ball", "hi": "मिट्टी की एक गेंद"},
+        "d": {"en": "The Great Earth", "hi": "महान पृथ्वी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He looked down upon Earth and its inhabitants, calling it an insignificant place.",
+        "hi": "उसने पृथ्वी और उसके निवासियों को नीचा दिखाते हुए इसे एक महत्वहीन जगह कहा।"
+      },
+      "explanation": {
+        "en": "Think-Tank refers to Earth as a 'ridiculous little planet' and a 'primitive ball of mud'. This shows his extreme arrogance and lack of respect for humans.",
+        "hi": "थिंक-टैंक पृथ्वी को 'हास्यास्पद छोटा ग्रह' और 'मिट्टी का एक गोला' कहकर बुलाता है, जो उसके अहंकार को दर्शाता है।"
+      },
+      "key_takeaway": {
+        "en": "Think-Tank's arrogance blinded him to Earth's true strength.",
+        "hi": "थिंक-टैंक के अहंकार ने उसे पृथ्वी की असली ताकत देखने से रोक दिया।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "Where did the Martian crew (Omega, Iota, and Oop) land on Earth?",
+        "hi": "मंगल ग्रह का दल (ओमेगा, इओटा और ऊप) पृथ्वी पर कहाँ उतरा?"
+      },
+      "options": {
+        "a": {"en": "In a military base", "hi": "एक सैन्य अड्डे में"},
+        "b": {"en": "In the Centerville Public Library", "hi": "सेंटरविले पब्लिक लाइब्रेरी में"},
+        "c": {"en": "In a grocery store", "hi": "किराने की दुकान में"},
+        "d": {"en": "In a park", "hi": "एक पार्क में"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "They landed in a place full of 'strange items' (books) which they had never seen before.",
+        "hi": "वे एक ऐसी जगह उतरे जहाँ 'अजीब चीज़ें' (किताबें) भरी थीं जिन्हें उन्होंने पहले कभी नहीं देखा था।"
+      },
+      "explanation": {
+        "en": "The crew landed in the Centerville Public Library. Since they didn't know what a library or a book was, they were completely confused by the thousands of objects surrounding them.",
+        "hi": "मंगल ग्रह का दल सेंटरविले पब्लिक लाइब्रेरी में उतरा, लेकिन उन्हें पता नहीं था कि वह एक पुस्तकालय है।"
+      },
+      "key_takeaway": {
+        "en": "The library is the primary setting for the Martian confusion.",
+        "hi": "पुस्तकालय ही मंगलवासियों के भ्रम का मुख्य स्थान है।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "What did Think-Tank initially think the books were?",
+        "hi": "थिंक-टैंक ने शुरू में क्या सोचा था कि किताबें क्या हैं?"
+      },
+      "options": {
+        "a": {"en": "Weapons", "hi": "हथियार"},
+        "b": {"en": "Sandwiches", "hi": "सैंडविच (Sandwiches)"},
+        "c": {"en": "Hats", "hi": "टोपियाँ"},
+        "d": {"en": "Bricks", "hi": "ईंटें"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He believed Earthlings were always eating, so he assumed these were food items.",
+        "hi": "उसका मानना था कि पृथ्वीवासी हमेशा खाते रहते हैं, इसलिए उसने मान लिया कि ये खाने की चीज़ें हैं।"
+      },
+      "explanation": {
+        "en": "Think-Tank looked at the books and concluded they were 'sandwiches', the staple diet of Earthlings. He called the library a 'crude refreshment stand'.",
+        "hi": "थिंक-टैंक ने किताबों को देखकर सोचा कि वे 'सैंडविच' हैं और पुस्तकालय को एक 'भोजनालय' समझ लिया।"
+      },
+      "key_takeaway": {
+        "en": "Sandwich Theory = Think-Tank's first hilarious misinterpretation.",
+        "hi": "सैंडविच थ्योरी = थिंक-टैंक की पहली मज़ेदार गलत व्याख्या।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "Who was forced to eat the 'sandwich' (book) to test Think-Tank's theory?",
+        "hi": "थिंक-टैंक के सिद्धांत का परीक्षण करने के लिए 'सैंडविच' (किताब) खाने के लिए किसे मजबूर किया गया था?"
+      },
+      "options": {
+        "a": {"en": "Captain Omega", "hi": "कैप्टन ओमेगा"},
+        "b": {"en": "Sergeant Oop", "hi": "सार्जेंट ऊप (Sergeant Oop)"},
+        "c": {"en": "Lieutenant Iota", "hi": "लेफ्टिनेंट इओटा"},
+        "d": {"en": "Noodle", "hi": "नूडल"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He was the lowest-ranking officer among the three who landed.",
+        "hi": "उतरे हुए तीन अधिकारियों में वह सबसे निचले पद का अधिकारी था।"
+      },
+      "explanation": {
+        "en": "Think-Tank ordered Omega to eat it, who passed the order to Iota, who finally ordered Sergeant Oop. Poor Oop had to bite into a book and found it very dry and tasteless.",
+        "hi": "बेचारे सार्जेंट ऊप को किताब खानी पड़ी, और उसे उसका स्वाद बिल्कुल अच्छा नहीं लगा।"
+      },
+      "key_takeaway": {
+        "en": "Sergeant Oop = The victim of Think-Tank's foolish orders.",
+        "hi": "सार्जेंट ऊप = थिंक-टैंक के मूर्खतापूर्ण आदेशों का शिकार।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "What did Noodle suggest the books were instead of sandwiches?",
+        "hi": "नूडल ने क्या सुझाव दिया कि किताबें सैंडविच के बजाय क्या थीं?"
+      },
+      "options": {
+        "a": {"en": "Musical instruments", "hi": "संगीत वाद्ययंत्र"},
+        "b": {"en": "Communication devices", "hi": "संचार उपकरण (Communication devices)"},
+        "c": {"en": "Sleeping bags", "hi": "सोने के बैग (Sleeping bags)"},
+        "d": {"en": "Clothes", "hi": "कपड़े"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He suggested that Earthlings didn't eat them, but used them to talk to each other.",
+        "hi": "उसने सुझाव दिया कि पृथ्वीवासी उन्हें खाते नहीं हैं, बल्कि एक-दूसरे से बात करने के लिए इस्तेमाल करते हैं।"
+      },
+      "explanation": {
+        "en": "Noodle politely pointed out that he had noticed Earthlings didn't eat these items; instead, they used them as some sort of communication devices.",
+        "hi": "नूडल ने विनम्रता से कहा कि उसे लगता है कि ये सैंडविच नहीं बल्कि संचार के उपकरण हैं।"
+      },
+      "key_takeaway": {
+        "en": "Noodle often corrected Think-Tank's mistakes without offending him.",
+        "hi": "नूडल अक्सर थिंक-टैंक की गलतियों को बिना उसे नाराज़ किए सुधार देता था।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "What happened when the crew tried to 'listen' to the books?",
+        "hi": "जब दल ने किताबों को 'सुनने' की कोशिश की तो क्या हुआ?"
+      },
+      "options": {
+        "a": {"en": "They heard music", "hi": "उन्हें संगीत सुनाई दिया"},
+        "b": {"en": "They heard nothing but silence", "hi": "उन्हें सन्नाटे के सिवा कुछ सुनाई नहीं दिया"},
+        "c": {"en": "The books started talking", "hi": "किताबें बात करने लगीं"},
+        "d": {"en": "They heard radio signals", "hi": "उन्हें रेडियो सिग्नल मिले"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Think-Tank told them to hold the 'communication devices' to their ears.",
+        "hi": "थिंक-टैंक ने उन्हें 'संचार उपकरणों' को अपने कानों के पास रखने के लिए कहा।"
+      },
+      "explanation": {
+        "en": "Omega, Iota, and Oop held books to their ears and listened intently, but they heard nothing. Think-Tank then concluded that maybe they weren't 'ear' communication but 'eye' communication.",
+        "hi": "मंगलवासियों ने किताबों को कान लगाकर सुना, लेकिन वहां कोई आवाज़ नहीं थी।"
+      },
+      "key_takeaway": {
+        "en": "Martians failed to understand the concept of reading.",
+        "hi": "मंगलवासी पढ़ने (reading) की अवधारणा को समझने में असफल रहे।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "What 'vitamin' did Think-Tank order the crew to take before reading the books?",
+        "hi": "किताबें पढ़ने से पहले थिंक-टैंक ने दल को कौन सा 'विटामिन' लेने का आदेश दिया?"
+      },
+      "options": {
+        "a": {"en": "Vitamin C", "hi": "विटामिन सी"},
+        "b": {"en": "Vitamins to increase their intelligence", "hi": "उनकी बुद्धि बढ़ाने के लिए विटामिन"},
+        "c": {"en": "Vitamin A for eyesight", "hi": "आंखों की रोशनी के लिए विटामिन ए"},
+        "d": {"en": "Sleeping pills", "hi": "नींद की गोलियां"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He wanted them to decipher the 'code' (writing) in the books.",
+        "hi": "वह चाहता था कि वे किताबों में लिखे 'कोड' (लिखावट) को समझ सकें।"
+      },
+      "explanation": {
+        "en": "Think-Tank provided the crew with chemical vitamins from the Space Control to increase their mental powers so they could understand the 'squiggles' (writing) in the books.",
+        "hi": "थिंक-टैंक ने दल को विशेष विटामिन दिए ताकि उनकी बुद्धि बढ़े और वे किताबों की लिखावट को समझ सकें।"
+      },
+      "key_takeaway": {
+        "en": "The Martians used technology even for mental tasks like reading.",
+        "hi": "मंगलवासी पढ़ने जैसे मानसिक कार्यों के लिए भी तकनीक का उपयोग करते थे।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "What was the name of the book that the Martian crew tried to read?",
+        "hi": "उस किताब का नाम क्या था जिसे मंगल ग्रह के दल ने पढ़ने की कोशिश की?"
+      },
+      "options": {
+        "a": {"en": "Encyclopedia Britannica", "hi": "एनसाइक्लोपीडिया ब्रिटानिका"},
+        "b": {"en": "Mother Goose", "hi": "मदर गूज़ (Mother Goose)"},
+        "c": {"en": "The History of Mars", "hi": "मंगल का इतिहास"},
+        "d": {"en": "Treasure Island", "hi": "ट्रेज़र आइलैंड"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It is a famous book of nursery rhymes.",
+        "hi": "यह नर्सरी राइम्स (बच्चों की कविताओं) की एक प्रसिद्ध पुस्तक है।"
+      },
+      "explanation": {
+        "en": "The book was 'Mother Goose', a collection of nursery rhymes. The Martians misinterpreted the silly poems as dangerous military secrets of Earthlings.",
+        "hi": "वह किताब 'मदर गूज़' थी, जिसमें बच्चों की कविताएँ थीं। मंगलवासियों ने इन्हें खतरनाक सैन्य रहस्य समझ लिया।"
+      },
+      "key_takeaway": {
+        "en": "Mother Goose = The book that accidentally saved Earth.",
+        "hi": "मदर गूज़ = वह किताब जिसने गलती से पृथ्वी को बचा लिया।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "How did Think-Tank interpret the rhyme 'Mistress Mary'?",
+        "hi": "थिंक-टैंक ने 'मिस्ट्रेस मैरी' कविता की व्याख्या कैसे की?"
+      },
+      "options": {
+        "a": {"en": "As a story about a garden", "hi": "एक बगीचे के बारे में कहानी के रूप में"},
+        "b": {"en": "That Earthlings can grow explosives like shells and silver in gardens", "hi": "कि पृथ्वीवासी बगीचों में गोले और चांदी जैसे विस्फोटक उगा सकते हैं"},
+        "c": {"en": "That Earthlings love flowers", "hi": "कि पृथ्वीवासी फूलों से प्यार करते हैं"},
+        "d": {"en": "That Earthlings are farmers", "hi": "कि पृथ्वीवासी किसान हैं"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The poem mentions 'silver bells and cockle shells'. Think-Tank thought these were weapons.",
+        "hi": "कविता में 'सिल्वर बेल्स और कॉकल शेल्स' का उल्लेख है। थिंक-टैंक ने सोचा कि ये हथियार हैं।"
+      },
+      "explanation": {
+        "en": "When he heard 'silver bells' and 'cockle shells', Think-Tank believed Earthlings had discovered how to grow high explosives and silver in their gardens, showing advanced technology.",
+        "hi": "थिंक-टैंक को लगा कि पृथ्वीवासी इतने उन्नत हैं कि वे अपने बगीचों में विस्फोटक और धातुएं उगाते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Think-Tank's fear grew as he took metaphors literally.",
+        "hi": "थिंक-टैंक का डर बढ़ता गया क्योंकि उसने रूपकों (metaphors) को सच मान लिया।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "What did the rhyme 'Hey Diddle Diddle' make Think-Tank believe about Earth animals?",
+        "hi": "'हे डिडल डिडल' कविता ने थिंक-टैंक को पृथ्वी के जानवरों के बारे में क्या विश्वास दिलाया?"
+      },
+      "options": {
+        "a": {"en": "That they are very friendly", "hi": "कि वे बहुत दोस्ताना हैं"},
+        "b": {"en": "That they have reached a high level of civilization and can even launch dogs into space", "hi": "कि उन्होंने सभ्यता का उच्च स्तर प्राप्त कर लिया है और वे कुत्तों को अंतरिक्ष में भी भेज सकते हैं"},
+        "c": {"en": "That they are all extinct", "hi": "कि वे सभी विलुप्त हो गए हैं"},
+        "d": {"en": "That they can speak Martian", "hi": "कि वे मंगल ग्रह की भाषा बोल सकते हैं"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The poem mentions a cow jumping over the moon and a dog laughing.",
+        "hi": "कविता में एक गाय के चंद्रमा के ऊपर से कूदने और एक कुत्ते के हँसने का उल्लेख है।"
+      },
+      "explanation": {
+        "en": "Think-Tank was terrified by the idea of a 'cow jumping over the moon'. He thought Earthlings had taught their domesticated animals musical culture and space flight.",
+        "hi": "थिंक-टैंक डर गया कि पृथ्वीवासी इतने उन्नत हैं कि उनकी गायें भी चांद तक पहुँच सकती हैं।"
+      },
+      "key_takeaway": {
+        "en": "Absurd nursery rhymes were seen as advanced science by the Martians.",
+        "hi": "मज़ेदार नर्सरी राइम्स को मंगलवासियों ने उन्नत विज्ञान समझ लिया।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "Which rhyme finally terrified Think-Tank into leaving Earth alone?",
+        "hi": "किस कविता ने अंततः थिंक-टैंक को इतना डरा दिया कि उसने पृथ्वी को अकेला छोड़ दिया?"
+      },
+      "options": {
+        "a": {"en": "Mistress Mary", "hi": "मिस्ट्रेस मैरी"},
+        "b": {"en": "Humpty Dumpty", "hi": "हम्प्टी डम्प्टी (Humpty Dumpty)"},
+        "c": {"en": "Hey Diddle Diddle", "hi": "हे डिडल डिडल"},
+        "d": {"en": "Twinkle Twinkle", "hi": "ट्विंकल ट्विंकल"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The character in this rhyme looks exactly like Think-Tank.",
+        "hi": "इस कविता का पात्र बिल्कुल थिंक-टैंक जैसा दिखता है।"
+      },
+      "explanation": {
+        "en": "When Oop showed the picture of Humpty Dumpty, Think-Tank was shocked. Humpty Dumpty had a huge head like him. He thought Earthlings were planning to capture him and 'crack' his head.",
+        "hi": "हम्प्टी डम्प्टी की तस्वीर देखकर थिंक-टैंक को लगा कि पृथ्वीवासी उसे पकड़ने और उसका सिर फोड़ने की योजना बना रहे हैं।"
+      },
+      "key_takeaway": {
+        "en": "The resemblance between Humpty Dumpty and Think-Tank saved the world.",
+        "hi": "हम्प्टी डम्प्टी और थिंक-टैंक के बीच की समानता ने दुनिया को बचा लिया।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "What did Think-Tank order the Martians to do after reading Humpty Dumpty?",
+        "hi": "हम्प्टी डम्प्टी पढ़ने के बाद थिंक-टैंक ने मंगलवासियों को क्या आदेश दिया?"
+      },
+      "options": {
+        "a": {"en": "To attack Earth immediately", "hi": "पृथ्वी पर तुरंत हमला करने का"},
+        "b": {"en": "To evacuate Mars and fly to Alpha Centauri", "hi": "मंगल ग्रह खाली करने और अल्फा सेंटौरी (Alpha Centauri) भाग जाने का"},
+        "c": {"en": "To start a party", "hi": "एक पार्टी शुरू करने का"},
+        "d": {"en": "To build more libraries", "hi": "और पुस्तकालय बनाने का"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He was so scared of Earthlings that he wanted to move as far away as possible.",
+        "hi": "वह पृथ्वीवासियों से इतना डर गया था कि वह जितनी दूर हो सके उतनी दूर जाना चाहता था।"
+      },
+      "explanation": {
+        "en": "Panic-stricken, Think-Tank ordered his crew to return to Mars and then ordered the entire Martian population to flee to Alpha Centauri, a hundred million miles away.",
+        "hi": "घबराहट में, थिंक-टैंक ने मंगल छोड़ने और करोड़ों मील दूर अल्फा सेंटौरी भाग जाने का आदेश दिया।"
+      },
+      "key_takeaway": {
+        "en": "Fear made Think-Tank abandon his own home planet.",
+        "hi": "डर के कारण थिंक-टैंक ने अपना घर (मंगल ग्रह) ही छोड़ दिया।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "How did Earth and Mars communicate five hundred years after the incident?",
+        "hi": "इस घटना के पांच सौ साल बाद पृथ्वी और मंगल के बीच कैसे संवाद हुआ?"
+      },
+      "options": {
+        "a": {"en": "They were at war", "hi": "वे युद्ध में थे"},
+        "b": {"en": "They were friends and had a library in Marsopolis", "hi": "वे दोस्त थे और मार्सोपोलिस (Marsopolis) में उनका एक पुस्तकालय था"},
+        "c": {"en": "They never spoke again", "hi": "उन्होंने फिर कभी बात नहीं की"},
+        "d": {"en": "Humans had conquered Mars", "hi": "मनुष्यों ने मंगल पर विजय प्राप्त कर ली थी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Think-Tank was gone, and Noodle was now the leader.",
+        "hi": "थिंक-टैंक चला गया था, और अब नूडल नेता था।"
+      },
+      "explanation": {
+        "en": "In the 25th century, the historian says that humans and Martians became friends. Humans taught Martians how to read and even established a public library in their capital city, Marsopolis.",
+        "hi": "25वीं सदी में मनुष्य और मंगलवासी दोस्त बन गए और मंगल पर भी पुस्तकालय बन गए।"
+      },
+      "key_takeaway": {
+        "en": "Education and reading brought peace between the two planets.",
+        "hi": "शिक्षा और पढ़ाई ने दोनों ग्रहों के बीच शांति स्थापित की।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "What is the one book that the Martians can still never bring themselves to read?",
+        "hi": "वह कौन सी एक किताब है जिसे मंगलवासी आज भी पढ़ने की हिम्मत नहीं जुटा पाते?"
+      },
+      "options": {
+        "a": {"en": "Mathematics for Beginners", "hi": "शुरुआती लोगों के लिए गणित"},
+        "b": {"en": "Mother Goose", "hi": "मदर गूज़ (Mother Goose)"},
+        "c": {"en": "The Solar System", "hi": "सौर मंडल"},
+        "d": {"en": "How to Fly", "hi": "कैसे उड़ें"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It is the same book that scared Think-Tank away.",
+        "hi": "यह वही किताब है जिससे थिंक-टैंक डर कर भाग गया था।"
+      },
+      "explanation": {
+        "en": "Even though Martians learned to read other books, they still have a psychological fear of 'Mother Goose' because of the incident with Think-Tank.",
+        "hi": "थिंक-टैंक वाली घटना के कारण मंगलवासी आज भी 'मदर गूज़' पढ़ने से डरते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Past fears often leave a lasting cultural memory.",
+        "hi": "अतीत के डर अक्सर सांस्कृतिक स्मृति में बने रहते हैं।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "What does the word 'squiggles' mean as used by Think-Tank?",
+        "hi": "थिंक-टैंक द्वारा उपयोग किए गए 'स्क्विगल्स' (squiggles) शब्द का क्या अर्थ है?"
+      },
+      "options": {
+        "a": {"en": "Worms", "hi": "कीड़े"},
+        "b": {"en": "Writing or lines that are hard to read", "hi": "लिखावट या रेखाएं जिन्हें पढ़ना कठिन हो"},
+        "c": {"en": "Small stars", "hi": "छोटे तारे"},
+        "d": {"en": "Electronic signals", "hi": "इलेक्ट्रॉनिक सिग्नल"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He used this word to describe the printed letters in the books.",
+        "hi": "उसने किताबों में छपे अक्षरों का वर्णन करने के लिए इस शब्द का उपयोग किया था।"
+      },
+      "explanation": {
+        "en": "Think-Tank calls the printed letters 'squiggles'. He sees them as some sort of mysterious code that Earthlings use to communicate, not realizing they are just alphabets.",
+        "hi": "थिंक-टैंक छपे हुए अक्षरों को 'स्क्विगल्स' कहता है, क्योंकि उसे समझ नहीं आ रहा था कि वे क्या हैं।"
+      },
+      "key_takeaway": {
+        "en": "To an ignorant observer, complex systems look like nonsense.",
+        "hi": "एक अज्ञानी पर्यवेक्षक के लिए, जटिल प्रणालियाँ बकवास लगती हैं।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "How did Noodle explain the 'sandwiches' (books) to Think-Tank politely?",
+        "hi": "नूडल ने थिंक-टैंक को विनम्रता से 'सैंडविच' (किताबों) के बारे में क्या बताया?"
+      },
+      "options": {
+        "a": {"en": "He told him he was wrong", "hi": "उसने उससे कहा कि वह गलत था"},
+        "b": {"en": "He said, 'I have a tiny bit of data' in my mind", "hi": "उसने कहा, 'मेरे दिमाग में थोड़ी सी जानकारी (tiny bit of data) है'"},
+        "c": {"en": "He laughed at Think-Tank", "hi": "वह थिंक-टैंक पर हँसा"},
+        "d": {"en": "He remained silent", "hi": "वह चुप रहा"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He used a very respectful way to correct his superior.",
+        "hi": "उसने अपने वरिष्ठ को सुधारने के लिए बहुत सम्मानजनक तरीका अपनाया।"
+      },
+      "explanation": {
+        "en": "Noodle always started his corrections with phrases like 'I have a trifling bit of information' or 'A cloud of data'. This allowed Think-Tank to feel like he was still the smartest one.",
+        "hi": "नूडल हमेशा बहुत विनम्रता से अपनी बात रखता था ताकि थिंक-टैंक का अहंकार न टूटे।"
+      },
+      "key_takeaway": {
+        "en": "Wisdom often lies in knowing how to present the truth to power.",
+        "hi": "सच्ची बुद्धिमत्ता इसमें है कि सत्ता के सामने सच्चाई कैसे पेश की जाए।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "What was the name of the capital of Mars in the future?",
+        "hi": "भविष्य में मंगल ग्रह की राजधानी का नाम क्या था?"
+      },
+      "options": {
+        "a": {"en": "Red City", "hi": "लाल शहर"},
+        "b": {"en": "Marsopolis", "hi": "मार्सोपोलिस (Marsopolis)"},
+        "c": {"en": "Think-Tank City", "hi": "थिंक-टैंक सिटी"},
+        "d": {"en": "New Mars", "hi": "नया मंगल"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The historian mentions this place while talking about the friendly relations between the planets.",
+        "hi": "इतिहासकार ग्रहों के बीच मैत्रीपूर्ण संबंधों के बारे में बात करते समय इस स्थान का उल्लेख करता है।"
+      },
+      "explanation": {
+        "en": "In the 25th century, the capital of Mars is named Marsopolis. It is mentioned that humans established a library there.",
+        "hi": "25वीं सदी में मंगल की राजधानी का नाम मार्सोपोलिस है।"
+      },
+      "key_takeaway": {
+        "en": "Marsopolis = The center of future Martian civilization.",
+        "hi": "मार्सोपोलिस = भविष्य की मंगल सभ्यता का केंद्र।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "Think-Tank's head is compared to what object?",
+        "hi": "थिंक-टैंक के सिर की तुलना किस वस्तु से की गई है?"
+      },
+      "options": {
+        "a": {"en": "A pumpkin", "hi": "एक कद्दू"},
+        "b": {"en": "A balloon", "hi": "एक गुब्बारा"},
+        "c": {"en": "A giant egg", "hi": "एक विशाल अंडा"},
+        "d": {"en": "A football", "hi": "एक फुटबॉल"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "This is why he was so terrified of the picture of Humpty Dumpty.",
+        "hi": "यही कारण है कि वह हम्प्टी डम्प्टी की तस्वीर से इतना डर गया था।"
+      },
+      "explanation": {
+        "en": "Think-Tank has a huge, bald head that looks like an egg. He is very proud of his 'magnificent' head, which eventually leads to his downfall due to the Humpty Dumpty rhyme.",
+        "hi": "थिंक-टैंक का सिर एक बड़े अंडे जैसा है, और इसी वजह से वह हम्प्टी डम्प्टी को अपना दुश्मन समझ बैठा।"
+      },
+      "key_takeaway": {
+        "en": "The physical trait of the leader caused a massive misunderstanding.",
+        "hi": "नेता की शारीरिक बनावट के कारण एक बहुत बड़ी गलतफहमी पैदा हुई।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "Who is the 'Historian' in the play?",
+        "hi": "नाटक में 'इतिहासकार' कौन है?"
+      },
+      "options": {
+        "a": {"en": "The main hero who fights Martians", "hi": "मुख्य नायक जो मंगलवासियों से लड़ता है"},
+        "b": {"en": "The narrator who introduces the story from the 25th century", "hi": "कथावाचक जो 25वीं सदी से कहानी का परिचय देता है"},
+        "c": {"en": "A character from Mars", "hi": "मंगल ग्रह का एक पात्र"},
+        "d": {"en": "Think-Tank's enemy", "hi": "थिंक-टैंक का दुश्मन"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This person stands at the side and explains the events to the audience.",
+        "hi": "यह व्यक्ति किनारे खड़ा होता है और दर्शकों को घटनाओं के बारे में बताता है।"
+      },
+      "explanation": {
+        "en": "The Historian acts as a narrator. She uses a 'time-space-scope' to show the audience what happened in the 20th century.",
+        "hi": "इतिहासकार एक कथावाचक के रूप में कार्य करती है और अतीत की कहानी सुनाती है।"
+      },
+      "key_takeaway": {
+        "en": "Historian = The bridge between the 25th and 20th centuries.",
+        "hi": "इतिहासकार = 25वीं और 20वीं सदी के बीच का सेतु।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "What did Sergeant Oop think about the 'sandwich' (book) when he ate it?",
+        "hi": "सार्जेंट ऊप ने 'सैंडविच' (किताब) खाते समय उसके बारे में क्या सोचा?"
+      },
+      "options": {
+        "a": {"en": "It was delicious", "hi": "यह स्वादिष्ट थी"},
+        "b": {"en": "It was dry as Martian dust", "hi": "यह मंगल की धूल की तरह सूखी थी (dry as Martian dust)"},
+        "c": {"en": "It tasted like chocolate", "hi": "इसका स्वाद चॉकलेट जैसा था"},
+        "d": {"en": "It was too spicy", "hi": "यह बहुत तीखी थी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He struggled to chew and swallow the paper.",
+        "hi": "उसे कागज को चबाने और निगलने में काफी मशक्कत करनी पड़ी।"
+      },
+      "explanation": {
+        "en": "Oop complained that the Earth sandwich was not delicious at all. He said it was as dry as Martian dust, emphasizing that books are not meant to be eaten.",
+        "hi": "ऊप ने शिकायत की कि यह सैंडविच मंगल की धूल की तरह सूखी और बेस्वाद है।"
+      },
+      "key_takeaway": {
+        "en": "Taking instructions literally can lead to unpleasant results.",
+        "hi": "निर्देशों को शब्दशः लेने से अप्रिय परिणाम हो सकते हैं।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "Who replaces Think-Tank as the leader of Mars after he flees?",
+        "hi": "थिंक-टैंक के भाग जाने के बाद मंगल के नेता के रूप में उसकी जगह कौन लेता है?"
+      },
+      "options": {
+        "a": {"en": "Omega", "hi": "ओमेगा"},
+        "b": {"en": "Noodle", "hi": "नूडल (Noodle)"},
+        "c": {"en": "The Historian", "hi": "इतिहासकार"},
+        "d": {"en": "A human being", "hi": "एक मनुष्य"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The Historian mentions that 'a wise and wonderful Martian' took over.",
+        "hi": "इतिहासकार बताते हैं कि 'एक बुद्धिमान और अद्भुत मंगलवासी' ने कमान संभाली।"
+      },
+      "explanation": {
+        "en": "After Think-Tank fled to Alpha Centauri, Noodle became the leader. Under his wise leadership, Martians developed a better understanding of Earth.",
+        "hi": "थिंक-टैंक के जाने के बाद नूडल मंगल का नेता बना और उसने शांति स्थापित की।"
+      },
+      "key_takeaway": {
+        "en": "True intelligence (Noodle) eventually replaces false arrogance (Think-Tank).",
+        "hi": "सच्ची बुद्धिमत्ता (नूडल) अंततः झूठे अहंकार (थिंक-टैंक) की जगह ले लेती है।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "What is the meaning of the word 'pantomime' used in the stage directions?",
+        "hi": "मंच निर्देशों में उपयोग किए गए 'पैंटोमाइम' (pantomime) शब्द का क्या अर्थ है?"
+      },
+      "options": {
+        "a": {"en": "A loud song", "hi": "एक ज़ोरदार गीत"},
+        "b": {"en": "Expressing something through gestures and body movements without words", "hi": "बिना शब्दों के इशारों और शरीर की हलचल के माध्यम से कुछ व्यक्त करना"},
+        "c": {"en": "A type of animal", "hi": "एक प्रकार का जानवर"},
+        "d": {"en": "A magical spell", "hi": "एक जादुई मंत्र"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The characters often do this to show their confusion or reactions silently.",
+        "hi": "पात्र अक्सर अपनी उलझन या प्रतिक्रियाओं को चुपचाप दिखाने के लिए ऐसा करते हैं।"
+      },
+      "explanation": {
+        "en": "Pantomime is a dramatic entertainment in which performers express meaning through gestures accompanied by music, without speaking. It adds humor to the Martians' confusion.",
+        "hi": "पैंटोमाइम का अर्थ है मूक अभिनय, यानी बिना बोले केवल इशारों से अपनी बात कहना।"
+      },
+      "key_takeaway": {
+        "en": "Visual comedy is a key element of this play.",
+        "hi": "दृश्य हास्य इस नाटक का एक प्रमुख तत्व है।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "Why did Think-Tank think Earthlings were after him specifically?",
+        "hi": "थिंक-टैंक ने क्यों सोचा कि पृथ्वीवासी विशेष रूप से उसके पीछे पड़े हैं?"
+      },
+      "options": {
+        "a": {"en": "They sent him a letter", "hi": "उन्होंने उसे एक पत्र भेजा"},
+        "b": {"en": "He saw a picture of Humpty Dumpty who looked like him", "hi": "उसने हम्प्टी डम्प्टी की एक तस्वीर देखी जो उसके जैसी दिखती थी"},
+        "c": {"en": "He heard them shouting his name", "hi": "उसने उन्हें अपना नाम चिल्लाते हुए सुना"},
+        "d": {"en": "Noodle told him so", "hi": "नूडल ने उसे ऐसा बताया"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The rhyme said Humpty Dumpty 'had a great fall', and he thought it meant his own destruction.",
+        "hi": "कविता में कहा गया था कि हम्प्टी डम्प्टी 'बुरी तरह गिर गया', और उसने सोचा कि इसका मतलब उसका अपना विनाश है।"
+      },
+      "explanation": {
+        "en": "Think-Tank saw the illustration of Humpty Dumpty. Since both had large, balloon-like heads, he was convinced it was a warning that Earthlings would attack Mars and destroy him.",
+        "hi": "हम्प्टी डम्प्टी की तस्वीर को थिंक-टैंक ने अपनी खुद की तस्वीर समझ लिया और डर गया।"
+      },
+      "key_takeaway": {
+        "en": "Guilt and ego can make one paranoid.",
+        "hi": "दोष और अहंकार व्यक्ति को भ्रमित (paranoid) बना सकते हैं।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "What does the 'time-space-scope' do in the play?",
+        "hi": "नाटक में 'टाइम-स्पेस-स्कोप' क्या करता है?"
+      },
+      "options": {
+        "a": {"en": "It cooks food", "hi": "यह खाना पकाता है"},
+        "b": {"en": "It allows characters to see into the past or different places", "hi": "यह पात्रों को अतीत या विभिन्न स्थानों को देखने की अनुमति देता है"},
+        "c": {"en": "It is a weapon to destroy Earth", "hi": "यह पृथ्वी को नष्ट करने का एक हथियार है"},
+        "d": {"en": "It is a musical instrument", "hi": "यह एक वाद्ययंत्र है"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The Historian uses it to show the 20th century to the audience.",
+        "hi": "इतिहासकार इसका उपयोग दर्शकों को 20वीं सदी दिखाने के लिए करता है।"
+      },
+      "explanation": {
+        "en": "The 'time-space-scope' is a fictional futuristic device that enables the characters in the 25th century to view events from the past (the 20th century).",
+        "hi": "टाइम-स्पेस-स्कोप एक काल्पनिक यंत्र है जो भविष्य से अतीत को देखने में मदद करता है।"
+      },
+      "key_takeaway": {
+        "en": "Technology helps bridge the gap between time periods in sci-fi.",
+        "hi": "साइ-फाई (sci-fi) में तकनीक समय के अंतराल को कम करने में मदद करती है।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "Who is the author of 'The Book That Saved the Earth'?",
+        "hi": "'वह पुस्तक जिसने पृथ्वी को बचाया' के लेखक कौन हैं?"
+      },
+      "options": {
+        "a": {"en": "Claire Boiko", "hi": "क्लेयर बोइको (Claire Boiko)"},
+        "b": {"en": "H.G. Wells", "hi": "एच.जी. वेल्स"},
+        "c": {"en": "Ruskin Bond", "hi": "रस्किन बॉन्ड"},
+        "d": {"en": "Robert Arthur", "hi": "रॉबर्ट ऑर्थर"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "She is an American author known for writing plays for children.",
+        "hi": "वह एक अमेरिकी लेखिका हैं जो बच्चों के लिए नाटक लिखने के लिए जानी जाती हैं।"
+      },
+      "explanation": {
+        "en": "The play was written by Claire Boiko. She masterfully used humor and irony to show how a simple children's book could defeat a superior space-age mind.",
+        "hi": "इस नाटक की लेखिका क्लेयर बोइको हैं।"
+      },
+      "key_takeaway": {
+        "en": "Claire Boiko = Author of this humorous sci-fi play.",
+        "hi": "क्लेयर बोइको = इस मज़ेदार विज्ञान-कथा नाटक की लेखिका।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "What is the central theme of the play?",
+        "hi": "नाटक का केंद्रीय विषय क्या है?"
+      },
+      "options": {
+        "a": {"en": "The dangers of space travel", "hi": "अंतरिक्ष यात्रा के खतरे"},
+        "b": {"en": "The value of books and how half-knowledge can be dangerous", "hi": "पुस्तकों का महत्व और कैसे अधूरा ज्ञान खतरनाक हो सकता है"},
+        "c": {"en": "How to invade a planet", "hi": "किसी ग्रह पर आक्रमण कैसे करें"},
+        "d": {"en": "The history of Mars", "hi": "मंगल का इतिहास"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Think about how Think-Tank misinterpreted simple nursery rhymes.",
+        "hi": "सोचें कि कैसे थिंक-टैंक ने सरल नर्सरी राइम्स का गलत अर्थ निकाला।"
+      },
+      "explanation": {
+        "en": "The play highlights that books are treasures of knowledge. It also shows that intelligence without wisdom and half-knowledge (like Think-Tank’s) can lead to foolish decisions and fear.",
+        "hi": "यह नाटक बताता है कि पुस्तकें ज्ञान का भंडार हैं और अधूरा ज्ञान कितना घातक हो सकता है।"
+      },
+      "key_takeaway": {
+        "en": "Books are silent guardians of human civilization.",
+        "hi": "पुस्तकें मानव सभ्यता की मूक रक्षक हैं।"
+      }
+    }
+  ]
+}

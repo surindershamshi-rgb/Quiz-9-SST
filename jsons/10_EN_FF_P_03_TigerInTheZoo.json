@@ -1,0 +1,540 @@
+{
+  "metadata": {
+    "unit_number": 2,
+    "poem_title": "A Tiger in the Zoo",
+    "poem_title_hindi": "चिड़ियाघर में एक बाघ",
+    "author": "Leslie Norris",
+    "subject": "English (First Flight) - Class 10",
+    "board": "HPBOSE (NCERT)",
+    "total_questions": 20,
+    "version": "1.0",
+    "naming_convention": "10_EN_FF_P_03_TigerInTheZoo.json"
+  },
+  "validation_report": {
+    "is_valid": true,
+    "checked_by": "AI Tutor",
+    "notes": "Focused on the contrast between captivity and freedom, imagery, and poetic devices."
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "How does the tiger move in his cage?",
+        "hi": "बाघ अपने पिंजरे में कैसे चलता है?"
+      },
+      "options": {
+        "a": {"en": "He runs fast", "hi": "वह तेज़ दौड़ता है"},
+        "b": {"en": "He stalks in quiet rage", "hi": "वह शांत क्रोध में चलता (Stalks) है"},
+        "c": {"en": "He jumps with joy", "hi": "वह खुशी से कूदता है"},
+        "d": {"en": "He ignores the cage", "hi": "वह पिंजरे को नज़रअंदाज़ करता है"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The poet uses the word 'stalks' to show his majestic but restricted movement.",
+        "hi": "कवि ने उसकी राजसी लेकिन प्रतिबंधित गति को दिखाने के लिए 'Stalks' शब्द का उपयोग किया है।"
+      },
+      "explanation": {
+        "en": "The tiger is angry because he is locked up, but he is helpless. Therefore, he walks slowly and quietly within the limited space of his cage, showing 'quiet rage'.",
+        "hi": "बाघ क्रोधित है क्योंकि वह बंद है, लेकिन वह मजबूर है। इसलिए, वह अपने पिंजरे की सीमित जगह में 'शांत क्रोध' के साथ धीरे-धीरे चलता है।"
+      },
+      "key_takeaway": {
+        "en": "Quiet rage = Helpless anger due to lack of freedom.",
+        "hi": "शांत क्रोध = स्वतंत्रता की कमी के कारण लाचार गुस्सा।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "What are 'pads of velvet' compared to?",
+        "hi": "'मखमल के पैड' (pads of velvet) की तुलना किससे की गई है?"
+      },
+      "options": {
+        "a": {"en": "The tiger's fur", "hi": "बाघ के फर से"},
+        "b": {"en": "The tiger's soft paws", "hi": "बाघ के मुलायम पंजों से"},
+        "c": {"en": "The floor of the cage", "hi": "पिंजरे के फर्श से"},
+        "d": {"en": "The grass in the jungle", "hi": "जंगल की घास से"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Think about the part of the tiger that touches the ground and makes no sound.",
+        "hi": "बाघ के उस हिस्से के बारे में सोचें जो ज़मीन को छूता है और कोई आवाज़ नहीं करता।"
+      },
+      "explanation": {
+        "en": "The tiger's paws are very soft, like velvet. This is why his footsteps are quiet as he moves around the cage. This is an example of a Metaphor.",
+        "hi": "बाघ के पंजे मखमल की तरह बहुत मुलायम होते हैं। यही कारण है कि चलते समय उसके पैरों की आवाज़ नहीं आती।"
+      },
+      "key_takeaway": {
+        "en": "Velvet pads = Metaphor for soft paws.",
+        "hi": "Velvet pads = मुलायम पंजों के लिए इस्तेमाल किया गया रूपक।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "According to the poet, where should the tiger be 'lurking'?",
+        "hi": "कवि के अनुसार, बाघ को कहाँ 'घात लगाकर' (lurking) होना चाहिए?"
+      },
+      "options": {
+        "a": {"en": "In the cage", "hi": "पिंजरे में"},
+        "b": {"en": "In the shadow, near the water hole", "hi": "परछाई में, जलाशय के पास"},
+        "c": {"en": "In the city", "hi": "शहर में"},
+        "d": {"en": "Behind the bars", "hi": "सलाखों के पीछे"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "In his natural habitat, he hides in shadows to catch his prey.",
+        "hi": "अपने प्राकृतिक आवास में, वह अपने शिकार को पकड़ने के लिए परछाइयों में छिपता है।"
+      },
+      "explanation": {
+        "en": "The poet imagines the tiger in the wild, lurking in the shadows of long grass near a water hole, waiting for a 'plump deer' to pass by.",
+        "hi": "कवि कल्पना करता है कि बाघ जंगल में जलाशय के पास लंबी घास की परछाई में छिपकर किसी मोटे हिरण का इंतज़ार कर रहा होगा।"
+      },
+      "key_takeaway": {
+        "en": "Lurking = Hiding to attack or observe.",
+        "hi": "Lurking = हमला करने या देखने के लिए छिपना।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "Why would the tiger be snarling around houses?",
+        "hi": "बाघ घरों के आसपास क्यों गुर्रा (snarling) रहा होगा?"
+      },
+      "options": {
+        "a": {"en": "To find a friend", "hi": "दोस्त ढूँढने के लिए"},
+        "b": {"en": "To terrorize the village at the jungle's edge", "hi": "जंगल के किनारे बसे गाँव को डराने के लिए"},
+        "c": {"en": "To ask for food", "hi": "खाना मांगने के लिए"},
+        "d": {"en": "Because he is lost", "hi": "क्योंकि वह रास्ता भटक गया है"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He would show his 'white fangs' and 'claws' to the people living there.",
+        "hi": "वह वहाँ रहने वाले लोगों को अपने 'सफेद दांत' और 'पंजे' दिखाएगा।"
+      },
+      "explanation": {
+        "en": "If free, the tiger would show his natural power by snarling around the village houses situated at the edge of the forest, terrifying the inhabitants.",
+        "hi": "आज़ाद होने पर, बाघ जंगल के किनारे बसे घरों के आसपास गुर्राकर ग्रामीणों को डराएगा, जो उसकी प्राकृतिक शक्ति का प्रदर्शन है।"
+      },
+      "key_takeaway": {
+        "en": "A tiger in the wild is a symbol of untamed power.",
+        "hi": "जंगल में बाघ बेलगाम शक्ति का प्रतीक है।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "What is the 'concrete cell' referring to?",
+        "hi": "'कंक्रीट सेल' (concrete cell) किसे कहा गया है?"
+      },
+      "options": {
+        "a": {"en": "A natural cave", "hi": "एक प्राकृतिक गुफा"},
+        "b": {"en": "The cage in the zoo", "hi": "चिड़ियाघर का पिंजरा"},
+        "c": {"en": "A house in the village", "hi": "गाँव का एक घर"},
+        "d": {"en": "A deep forest", "hi": "एक घना जंगल"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It is a man-made structure where the tiger's strength is locked up.",
+        "hi": "यह एक मानव निर्मित संरचना है जहाँ बाघ की शक्ति को कैद किया गया है।"
+      },
+      "explanation": {
+        "en": "The 'concrete cell' is the strong, artificial room in the zoo made of cement and iron bars where the tiger is imprisoned.",
+        "hi": "'कंक्रीट सेल' चिड़ियाघर के उस मज़बूत और कृत्रिम कमरे को कहा गया है जहाँ बाघ को कैद रखा गया है।"
+      },
+      "key_takeaway": {
+        "en": "Concrete cell = Symbol of imprisonment and artificial environment.",
+        "hi": "Concrete cell = कैद और कृत्रिम वातावरण का प्रतीक।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "What does the tiger ignore in the zoo?",
+        "hi": "चिड़ियाघर में बाघ किसे नज़रअंदाज़ करता है?"
+      },
+      "options": {
+        "a": {"en": "His food", "hi": "अपने भोजन को"},
+        "b": {"en": "The visitors", "hi": "आगंतुकों (पर्यटकों) को"},
+        "c": {"en": "The other animals", "hi": "अन्य जानवरों को"},
+        "d": {"en": "The zookeeper", "hi": "चिड़ियाघर के रखवाले को"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He feels no interest in people who come to stare at him in his helpless state.",
+        "hi": "उसे उन लोगों में कोई दिलचस्पी नहीं है जो उसकी लाचारी को देखने आते हैं।"
+      },
+      "explanation": {
+        "en": "The tiger ignores the visitors because he is uninterested in them. He feels humiliated and restricted, so he doesn't want to entertain or acknowledge the humans.",
+        "hi": "बाघ पर्यटकों को नज़रअंदाज़ करता है क्योंकि वह उनमें कोई दिलचस्पी नहीं रखता। उसे कैद में रहना अपमानजनक लगता है।"
+      },
+      "key_takeaway": {
+        "en": "A captive animal loses its natural spirit and interest in surroundings.",
+        "hi": "कैद में रहने वाला जानवर अपना स्वाभाविक उत्साह खो देता है।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "What is the 'last voice' the tiger hears at night?",
+        "hi": "रात में बाघ जो 'आखिरी आवाज़' सुनता है, वह क्या है?"
+      },
+      "options": {
+        "a": {"en": "The voice of his mother", "hi": "उसकी माँ की आवाज़"},
+        "b": {"en": "The patrolling cars", "hi": "गश्त लगाने वाली कारों की आवाज़ (Patrolling cars)"},
+        "c": {"en": "The sound of rain", "hi": "बारिश की आवाज़"},
+        "d": {"en": "The zookeeper saying goodbye", "hi": "रखवाले का अलविदा कहना"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "These vehicles move around the zoo at night to ensure everything is safe.",
+        "hi": "ये वाहन रात में चिड़ियाघर के चक्कर लगाते हैं ताकि सब कुछ सुरक्षित रहे।"
+      },
+      "explanation": {
+        "en": "At night, when it's quiet, the tiger hears the sound of the patrolling cars. This reminds him of his lack of freedom and his artificial surroundings.",
+        "hi": "रात के सन्नाटे में बाघ गश्त लगाने वाली कारों की आवाज़ सुनता है, जो उसे उसकी कैद की याद दिलाती है।"
+      },
+      "key_takeaway": {
+        "en": "Patrolling cars = Sign of human control and surveillance.",
+        "hi": "Patrolling cars = मानव नियंत्रण और निगरानी का संकेत।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "Where does the tiger stare with his 'brilliant eyes'?",
+        "hi": "बाघ अपनी 'चमकती आँखों' से कहाँ घूरता है?"
+      },
+      "options": {
+        "a": {"en": "At the visitors", "hi": "आगंतुकों की ओर"},
+        "b": {"en": "At the brilliant stars", "hi": "चमकते सितारों की ओर"},
+        "c": {"en": "At his food", "hi": "अपने भोजन की ओर"},
+        "d": {"en": "At the cage walls", "hi": "पिंजरे की दीवारों की ओर"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The stars are high in the sky and represent the vast universe he cannot reach.",
+        "hi": "तारे आसमान में ऊँचे हैं और उस विशाल ब्रह्मांड का प्रतिनिधित्व करते हैं जहाँ वह पहुँच नहीं सकता।"
+      },
+      "explanation": {
+        "en": "Locked in his cage, the tiger has nothing to do but stare at the brilliant stars. This reflects his longing for freedom and his connection to nature.",
+        "hi": "पिंजरे में बंद बाघ के पास सितारों को घूरने के अलावा कुछ नहीं है। यह आज़ादी के लिए उसकी तड़प को दर्शाता है।"
+      },
+      "key_takeaway": {
+        "en": "Brilliant eyes/stars = Symbolize hope and the longing for freedom.",
+        "hi": "Brilliant eyes/stars = आशा और स्वतंत्रता की लालसा का प्रतीक।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "What poetic device is used in the line 'And stares with his brilliant eyes'?",
+        "hi": "'And stares with his brilliant eyes' पंक्ति में किस काव्य अलंकार का प्रयोग किया गया है?"
+      },
+      "options": {
+        "a": {"en": "Simile", "hi": "उपमा"},
+        "b": {"en": "Alliteration", "hi": "अनुप्रास (Alliteration)"},
+        "c": {"en": "Personification", "hi": "मानवीकरण (Personification)"},
+        "d": {"en": "Oxymoron", "hi": "विरोधाभास"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "The poet refers to the tiger as 'He' throughout the poem, giving him human-like qualities.",
+        "hi": "कवि ने पूरी कविता में बाघ को 'He' कहकर संबोधित किया है, जिससे उसे मानवीय गुण मिलते हैं।"
+      },
+      "explanation": {
+        "en": "By using 'He' and describing his feelings of rage and longing, the poet personifies the tiger to make the readers empathize with him more deeply.",
+        "hi": "बाघ के लिए 'He' का प्रयोग करना और उसकी भावनाओं का वर्णन करना 'मानवीकरण' (Personification) कहलाता है।"
+      },
+      "key_takeaway": {
+        "en": "Personification makes animal suffering more relatable to humans.",
+        "hi": "मानवीकरण जानवरों के कष्टों को मनुष्यों के लिए अधिक समझने योग्य बनाता है।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "The tiger's strength is 'locked behind ______'.",
+        "hi": "बाघ की शक्ति '______ के पीछे कैद' है।"
+      },
+      "options": {
+        "a": {"en": "Trees", "hi": "पेड़ों"},
+        "b": {"en": "Bars", "hi": "सलाखों (Bars)"},
+        "c": {"en": "Mountains", "hi": "पहाड़ों"},
+        "d": {"en": "Clouds", "hi": "बादलों"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The iron structure of the cage prevents him from using his power.",
+        "hi": "पिंजरे की लोहे की संरचना उसे अपनी शक्ति का उपयोग करने से रोकती है।"
+      },
+      "explanation": {
+        "en": "The poem states 'But he’s locked in a concrete cell, his strength behind bars'. This highlights the tragedy of a powerful animal being rendered useless by humans.",
+        "hi": "कविता कहती है कि उसकी शक्ति सलाखों के पीछे बंद है, जो एक शक्तिशाली जानवर की लाचारी को दर्शाता है।"
+      },
+      "key_takeaway": {
+        "en": "Bars = Symbol of human control over nature.",
+        "hi": "Bars = प्रकृति पर मानव नियंत्रण का प्रतीक।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "What does the poet mean by 'quiet rage'?",
+        "hi": "'शांत क्रोध' (quiet rage) से कवि का क्या तात्पर्य है?"
+      },
+      "options": {
+        "a": {"en": "The tiger is sleeping", "hi": "बाघ सो रहा है"},
+        "b": {"en": "The tiger is angry but cannot express it because he is caged", "hi": "बाघ गुस्से में है लेकिन पिंजरे में होने के कारण उसे ज़ाहिर नहीं कर सकता"},
+        "c": {"en": "The tiger is laughing quietly", "hi": "बाघ चुपचाप हँस रहा है"},
+        "d": {"en": "The tiger is very calm and peaceful", "hi": "बाघ बहुत शांत और प्रसन्न है"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It is a combination of two opposite words (Oxymoron) to show a complex emotion.",
+        "hi": "यह एक जटिल भावना को दिखाने के लिए दो विपरीत शब्दों का मेल है।"
+      },
+      "explanation": {
+        "en": "Quiet rage describes a situation where the tiger is furious internally but forced to be quiet externally because he has no way to escape or attack.",
+        "hi": "शांत क्रोध उस स्थिति को दर्शाता है जहाँ बाघ अंदर से आगबबूला है लेकिन बाहर से उसे शांत रहने पर मजबूर होना पड़ता है।"
+      },
+      "key_takeaway": {
+        "en": "Oxymoron = Using two contradictory terms together (e.g., quiet rage).",
+        "hi": "Oxymoron = दो विरोधाभासी शब्दों का एक साथ प्रयोग।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "Who is the 'plump deer' for the tiger?",
+        "hi": "बाघ के लिए 'मोटा हिरण' (plump deer) क्या है?"
+      },
+      "options": {
+        "a": {"en": "A friend", "hi": "एक दोस्त"},
+        "b": {"en": "His prey (food)", "hi": "उसका शिकार (भोजन)"},
+        "c": {"en": "A zookeeper", "hi": "एक रखवाला"},
+        "d": {"en": "A visitor", "hi": "एक आगंतुक"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He waits near the water hole specifically for this animal.",
+        "hi": "वह जलाशय के पास विशेष रूप से इसी जानवर के लिए इंतज़ार करता है।"
+      },
+      "explanation": {
+        "en": "In the wild, the tiger hunts animals like deer for food. 'Plump' means well-fed or healthy, making it a good prey for the tiger.",
+        "hi": "जंगल में, बाघ भोजन के लिए हिरण जैसे जानवरों का शिकार करता है। 'Plump' का अर्थ है स्वस्थ और मांसल।"
+      },
+      "key_takeaway": {
+        "en": "Natural survival involves the predator-prey relationship.",
+        "hi": "प्राकृतिक उत्तरजीविता में शिकारी-शिकार का संबंध शामिल होता है।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "What is the rhyme scheme of the first stanza?",
+        "hi": "पहले छंद (Stanza) की तुकबंदी (Rhyme Scheme) क्या है?"
+      },
+      "options": {
+        "a": {"en": "abab", "hi": "abab"},
+        "b": {"en": "abcb", "hi": "abcb"},
+        "c": {"en": "aabb", "hi": "aabb"},
+        "d": {"en": "abba", "hi": "abba"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Stripes (a), Cage (b), Quiet (c), Rage (b).",
+        "hi": "Stripes (a), Cage (b), Quiet (c), Rage (b)।"
+      },
+      "explanation": {
+        "en": "In the first stanza, 'Cage' and 'Rage' rhyme together, while 'Stripes' and 'Quiet' do not. Thus, the scheme is abcb.",
+        "hi": "पहले छंद में 'Cage' और 'Rage' की तुकबंदी मिलती है, इसलिए यह abcb पैटर्न है।"
+      },
+      "key_takeaway": {
+        "en": "The poem follows a consistent abcb rhyme scheme in most stanzas.",
+        "hi": "कविता अधिकांश छंदों में एक सुसंगत abcb तुकबंदी का पालन करती है।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "What does the poet contrast in this poem?",
+        "hi": "कवि इस कविता में किन चीज़ों के बीच तुलना (Contrast) करता है?"
+      },
+      "options": {
+        "a": {"en": "A tiger and a lion", "hi": "बाघ और शेर के बीच"},
+        "b": {"en": "A tiger in a zoo and a tiger in a forest", "hi": "चिड़ियाघर के बाघ और जंगल के बाघ के बीच"},
+        "c": {"en": "A zoo and a circus", "hi": "चिड़ियाघर और सर्कस के बीच"},
+        "d": {"en": "Summer and winter", "hi": "गर्मी और सर्दी के बीच"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The poem moves between the cage and the wild to show the difference.",
+        "hi": "कविता अंतर दिखाने के लिए पिंजरे और जंगल के बीच घूमती है।"
+      },
+      "explanation": {
+        "en": "The central theme is the contrast between captivity and freedom. The poet shows how a tiger's behavior changes when its natural freedom is taken away.",
+        "hi": "मुख्य विषय कैद और आज़ादी के बीच का अंतर है। कवि दिखाता है कि आज़ादी छिनने पर बाघ का व्यवहार कैसे बदल जाता है।"
+      },
+      "key_takeaway": {
+        "en": "Freedom is essential for the natural behavior of all living beings.",
+        "hi": "सभी जीवित प्राणियों के स्वाभाविक व्यवहार के लिए स्वतंत्रता आवश्यक है।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "Which word in the poem means 'to move stealthily'?",
+        "hi": "कविता में किस शब्द का अर्थ 'चुपके से चलना' है?"
+      },
+      "options": {
+        "a": {"en": "Stalks", "hi": "Stalks"},
+        "b": {"en": "Lurking", "hi": "Lurking"},
+        "c": {"en": "Snarling", "hi": "Snarling"},
+        "d": {"en": "Stares", "hi": "Stares"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It describes the tiger hiding in the grass to surprise its prey.",
+        "hi": "यह बाघ के घास में छिपकर अपने शिकार को चौंकाने का वर्णन करता है।"
+      },
+      "explanation": {
+        "en": "Lurking means to wait or move in a hidden way, usually for a purpose like hunting. The tiger lurks in the shadows in the forest.",
+        "hi": "Lurking का अर्थ है घात लगाकर छिपना या इंतज़ार करना।"
+      },
+      "key_takeaway": {
+        "en": "Lurking = Stealthy waiting.",
+        "hi": "Lurking = चुपके से इंतज़ार करना।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "The tiger's stripes are described as ______.",
+        "hi": "बाघ की धारियों का वर्णन '______' के रूप में किया गया है।"
+      },
+      "options": {
+        "a": {"en": "Faint", "hi": "धुंधली"},
+        "b": {"en": "Vivid", "hi": "स्पष्ट/चमकीली (Vivid)"},
+        "c": {"en": "Dark", "hi": "काली"},
+        "d": {"en": "Invisible", "hi": "अदृश्य"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The word used means bright and distinct.",
+        "hi": "इस्तेमाल किए गए शब्द का अर्थ है चमकीला और साफ।"
+      },
+      "explanation": {
+        "en": "The poet says 'He stalks in his vivid stripes'. Vivid means bright and clear, emphasizing the tiger's natural beauty and majesty.",
+        "hi": "कवि बाघ की धारियों को 'Vivid' (स्पष्ट और चमकीली) कहता है, जो उसकी सुंदरता को उजागर करता है।"
+      },
+      "key_takeaway": {
+        "en": "Vivid = Intense/Bright.",
+        "hi": "Vivid = अत्यंत स्पष्ट और चमकीला।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "What is the tone of the poem?",
+        "hi": "कविता का लहज़ा (Tone) कैसा है?"
+      },
+      "options": {
+        "a": {"en": "Cheerful", "hi": "हर्षित"},
+        "b": {"en": "Sympathetic and Pensive", "hi": "सहानुभूतिपूर्ण और विचारमग्न"},
+        "c": {"en": "Funny", "hi": "मज़ेदार"},
+        "d": {"en": "Scary", "hi": "डरावना"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The poet wants us to feel sorry for the tiger and think about animal rights.",
+        "hi": "कवि चाहता है कि हम बाघ के लिए दुख महसूस करें और जानवरों के अधिकारों के बारे में सोचें।"
+      },
+      "explanation": {
+        "en": "The tone is serious and sympathetic. The poet clearly feels for the tiger and uses imagery to make the reader feel the pain of its captivity.",
+        "hi": "कविता का लहज़ा गंभीर और सहानुभूतिपूर्ण है। कवि चाहता है कि हम बाघ की कैद के दर्द को समझें।"
+      },
+      "key_takeaway": {
+        "en": "The poem aims to raise awareness about wildlife conservation and freedom.",
+        "hi": "कविता का उद्देश्य वन्यजीव संरक्षण और स्वतंत्रता के प्रति जागरूकता बढ़ाना है।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "What does the tiger do with his 'white fangs' and 'claws'?",
+        "hi": "बाघ अपने 'सफेद दांतों' और 'पंजों' से क्या करता है?"
+      },
+      "options": {
+        "a": {"en": "He uses them to eat", "hi": "वह उनका उपयोग खाने के लिए करता है"},
+        "b": {"en": "He bared them to terrorize the village", "hi": "वह गाँव को डराने के लिए उन्हें दिखाता (Baring) है"},
+        "c": {"en": "He cleans them", "hi": "वह उन्हें साफ करता है"},
+        "d": {"en": "He hides them", "hi": "वह उन्हें छिपाता है"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This happens in the stanza where the tiger is near the village.",
+        "hi": "यह उस छंद में होता है जहाँ बाघ गाँव के पास है।"
+      },
+      "explanation": {
+        "en": "In the wild, a tiger bares its white teeth and sharp claws to establish its dominance and territory, which naturally terrifies humans.",
+        "hi": "जंगल में, बाघ अपनी शक्ति दिखाने के लिए अपने दांत और पंजे दिखाता है, जिससे लोग डर जाते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Natural instincts are for survival and dominance, not for entertainment.",
+        "hi": "प्राकृतिक प्रवृत्तियाँ जीवित रहने और प्रभुत्व के लिए होती हैं, मनोरंजन के लिए नहीं।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "What is the message of the poem 'A Tiger in the Zoo'?",
+        "hi": "'चिड़ियाघर में एक बाघ' कविता का संदेश क्या है?"
+      },
+      "options": {
+        "a": {"en": "Zoos are the best places for animals", "hi": "चिड़ियाघर जानवरों के लिए सबसे अच्छी जगह हैं"},
+        "b": {"en": "Wild animals should live in their natural habitat, not in cages", "hi": "जंगली जानवरों को उनके प्राकृतिक आवास में रहना चाहिए, पिंजरों में नहीं"},
+        "c": {"en": "Tigers are very dangerous and should be locked up", "hi": "बाघ बहुत खतरनाक होते हैं और उन्हें बंद कर दिया जाना चाहिए"},
+        "d": {"en": "Humans are superior to animals", "hi": "इंसान जानवरों से श्रेष्ठ हैं"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Think about the contrast the poet creates between the two settings.",
+        "hi": "कवि द्वारा दो स्थितियों के बीच बनाए गए अंतर के बारे में सोचें।"
+      },
+      "explanation": {
+        "en": "The poem conveys that freedom is a fundamental right for all living beings. Animals belong in the wild, and keeping them in cages for human amusement is cruel.",
+        "hi": "कविता बताती है कि स्वतंत्रता सभी का मौलिक अधिकार है। जानवरों को पिंजरों में रखना क्रूरता है।"
+      },
+      "key_takeaway": {
+        "en": "Wildlife belongs to nature, not to man-made enclosures.",
+        "hi": "वन्यजीव प्रकृति के हैं, मानव निर्मित बाड़ों के नहीं।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "Which word in the poem means 'to make a loud, aggressive sound'?",
+        "hi": "कविता में किस शब्द का अर्थ 'ज़ोरदार, आक्रामक आवाज़ करना' है?"
+      },
+      "options": {
+        "a": {"en": "Snarling", "hi": "गुर्राना (Snarling)"},
+        "b": {"en": "Staring", "hi": "घूरना"},
+        "c": {"en": "Lurking", "hi": "छिपे रहना"},
+        "d": {"en": "Patrolling", "hi": "गश्त करना"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "It is the sound a tiger makes when it is angry or threatening someone.",
+        "hi": "यह वह आवाज़ है जो बाघ तब करता है जब वह क्रोधित होता है या किसी को धमकाता है।"
+      },
+      "explanation": {
+        "en": "Snarling is the aggressive sound made by a wild animal like a tiger. The free tiger would snarl around the houses at the jungle's edge.",
+        "hi": "Snarling का अर्थ है आक्रामक रूप से गुर्राना।"
+      },
+      "key_takeaway": {
+        "en": "Snarling = An aggressive vocal warning from a wild animal.",
+        "hi": "Snarling = एक जंगली जानवर की आक्रामक चेतावनी।"
+      }
+    }
+  ]
+}

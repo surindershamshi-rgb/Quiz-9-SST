@@ -1,0 +1,540 @@
+{
+  "metadata": {
+    "unit_number": 8,
+    "poem_title": "The Tale of Custard the Dragon",
+    "poem_title_hindi": "कस्टर्ड द ड्रैगन की कहानी",
+    "author": "Ogden Nash",
+    "subject": "English (First Flight) - Class 10",
+    "board": "HPBOSE (NCERT)",
+    "total_questions": 20,
+    "version": "1.0",
+    "naming_convention": "10_EN_FF_P_09_CustardTheDragon.json"
+  },
+  "validation_report": {
+    "is_valid": true,
+    "checked_by": "AI Tutor",
+    "notes": "Covers character traits, the central plot twist, and literary devices like similes and metaphors."
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "Who is the poet of 'The Tale of Custard the Dragon'?",
+        "hi": "'द टेल ऑफ कस्टर्ड द ड्रैगन' के कवि कौन हैं?"
+      },
+      "options": {
+        "a": {"en": "Robert Frost", "hi": "रॉबर्ट फ्रॉस्ट"},
+        "b": {"en": "Ogden Nash", "hi": "ओगडेन नैश (Ogden Nash)"},
+        "c": {"en": "Walt Whitman", "hi": "वॉल्ट व्हिटमैन"},
+        "d": {"en": "Carl Sandburg", "hi": "कार्ल सैंडबर्ग"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He was an American poet famous for his light, humorous verse.",
+        "hi": "वे अपनी हल्की-फुल्की और मज़ेदार कविताओं के लिए प्रसिद्ध एक अमेरिकी कवि थे।"
+      },
+      "explanation": {
+        "en": "Ogden Nash wrote this poem. He is known for using unconventional rhyming and humor to tell stories through poetry.",
+        "hi": "ओगडेन नैश ने यह कविता लिखी है। वे अपनी कविताओं में हास्य और मनोरंजन के लिए जाने जाते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Ogden Nash = Master of humorous and light verse.",
+        "hi": "ओगडेन नैश = हास्य और मनोरंजक कविता के उस्ताद।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "What was the color of the little house where Belinda lived?",
+        "hi": "बेलिंडा जिस छोटे से घर में रहती थी उसका रंग क्या था?"
+      },
+      "options": {
+        "a": {"en": "Red", "hi": "लाल"},
+        "b": {"en": "White", "hi": "सफेद (White)"},
+        "c": {"en": "Blue", "hi": "नीला"},
+        "d": {"en": "Yellow", "hi": "पीला"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The first line of the poem says, 'Belinda lived in a little ______ house'.",
+        "hi": "कविता की पहली पंक्ति कहती है, 'बेलिंडा एक छोटे ______ घर में रहती थी'।"
+      },
+      "explanation": {
+        "en": "Belinda lived in a little white house with her four pets—a kitten, a mouse, a dog, and a dragon.",
+        "hi": "बेलिंडा अपने पालतू जानवरों के साथ एक छोटे से सफेद घर में रहती थी।"
+      },
+      "key_takeaway": {
+        "en": "Setting = A little white house.",
+        "hi": "परिवेश = एक छोटा सफेद घर।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "Match the pets with their descriptions: Ink and Blink.",
+        "hi": "पालतू जानवरों को उनके वर्णन से मिलाएँ: इंक (Ink) और ब्लिंक (Blink)।"
+      },
+      "options": {
+        "a": {"en": "Ink is a dog, Blink is a kitten", "hi": "इंक एक कुत्ता है, ब्लिंक एक बिल्ली का बच्चा है"},
+        "b": {"en": "Ink is a black kitten, Blink is a grey mouse", "hi": "इंक एक काली बिल्ली का बच्चा है, ब्लिंक एक स्लेटी चूहा है"},
+        "c": {"en": "Ink is a dragon, Blink is a dog", "hi": "इंक एक ड्रैगन है, ब्लिंक एक कुत्ता है"},
+        "d": {"en": "Ink is a mouse, Blink is a kitten", "hi": "इंक एक चूहा है, ब्लिंक एक बिल्ली का बच्चा है"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Ink's name comes from his black color, and Blink is the sound/action often associated with a mouse.",
+        "hi": "इंक का नाम उसके काले रंग से आया है, और ब्लिंक चूहे से जुड़ी क्रिया है।"
+      },
+      "explanation": {
+        "en": "Belinda had a little black kitten named Ink and a little grey mouse named Blink. The names are chosen based on their appearance and behavior.",
+        "hi": "बेलिंडा के पास इंक नाम का एक काला बिल्ली का बच्चा और ब्लिंक नाम का एक स्लेटी चूहा था।"
+      },
+      "key_takeaway": {
+        "en": "Ink = Black kitten; Blink = Grey mouse.",
+        "hi": "Ink = काली बिल्ली का बच्चा; Blink = स्लेटी चूहा।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "What was the name of the yellow dog?",
+        "hi": "पीले कुत्ते का नाम क्या था?"
+      },
+      "options": {
+        "a": {"en": "Custard", "hi": "कस्टर्ड"},
+        "b": {"en": "Mustard", "hi": "मस्टर्ड (Mustard)"},
+        "c": {"en": "Ink", "hi": "इंक"},
+        "d": {"en": "Blink", "hi": "ब्लिंक"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "His name rhymes with the color of the condiment made from yellow seeds.",
+        "hi": "उसका नाम पीले बीजों से बनने वाले मसाले (सरसों) के रंग से मिलता-जुलता है।"
+      },
+      "explanation": {
+        "en": "The yellow dog was named Mustard because his color was as sharp and bright as the yellow mustard plant.",
+        "hi": "पीले कुत्ते का नाम मस्टर्ड था क्योंकि उसका रंग पीली सरसों जैसा था।"
+      },
+      "key_takeaway": {
+        "en": "Mustard = The yellow dog.",
+        "hi": "Mustard = पीला कुत्ता।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "Why was the dragon named 'Custard'?",
+        "hi": "ड्रैगन का नाम 'कस्टर्ड' क्यों रखा गया था?"
+      },
+      "options": {
+        "a": {"en": "Because he was yellow like pudding", "hi": "क्योंकि वह पुडिंग जैसा पीला था"},
+        "b": {"en": "Because he was considered a coward (soft like custard)", "hi": "क्योंकि उसे डरपोक (कस्टर्ड की तरह नरम) माना जाता था"},
+        "c": {"en": "Because it was a scary name", "hi": "क्योंकि यह एक डरावना नाम था"},
+        "d": {"en": "Belinda liked eating custard", "hi": "बेलिंडा को कस्टर्ड खाना पसंद था"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The other pets used the name to tease him for being afraid of everything.",
+        "hi": "दूसरे पालतू जानवर उसे हर चीज़ से डरने के कारण चिढ़ाने के लिए इस नाम का इस्तेमाल करते थे।"
+      },
+      "explanation": {
+        "en": "The dragon was called 'Custard' because he was perceived as a coward who always cried for a 'nice safe cage'. Custard is a soft food, symbolizing his supposed lack of toughness.",
+        "hi": "ड्रैगन को 'कस्टर्ड' कहा जाता था क्योंकि वह हमेशा डरता रहता था और एक सुरक्षित पिंजरे की मांग करता था।"
+      },
+      "key_takeaway": {
+        "en": "Custard = The dragon who was thought to be a coward.",
+        "hi": "Custard = वह ड्रैगन जिसे डरपोक समझा जाता था।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "Which of these is NOT a physical feature of Custard the dragon?",
+        "hi": "इनमें से कौन सा कस्टर्ड ड्रैगन की शारीरिक विशेषता नहीं है?"
+      },
+      "options": {
+        "a": {"en": "Spikes on top and scales underneath", "hi": "ऊपर नुकीले कांटे और नीचे शल्क (scales)"},
+        "b": {"en": "Mouth like a fireplace and a chimney nose", "hi": "चूल्हे जैसा मुँह और चिमनी जैसी नाक"},
+        "c": {"en": "Daggers on his toes", "hi": "पंजों पर खंजर (नुकीले नाखून)"},
+        "d": {"en": "Soft fur all over his body", "hi": "पूरे शरीर पर मुलायम फर"}
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "Dragons are reptiles and have sharp, scary features, not soft ones.",
+        "hi": "ड्रैगन सरीसृप होते हैं और उनकी विशेषताएं डरावनी और नुकीली होती हैं, मुलायम नहीं।"
+      },
+      "explanation": {
+        "en": "The poem describes Custard with fearsome features: big sharp teeth, spikes, scales, a fireplace-like mouth, and dagger-like toes. He had no fur.",
+        "hi": "कविता में कस्टर्ड के डरावने रूप का वर्णन है—दांत, कांटे, शल्क और खंजर जैसे पंजे। उस पर फर नहीं था।"
+      },
+      "key_takeaway": {
+        "en": "Appearance vs. Reality: Custard looked dangerous but acted scared.",
+        "hi": "रूप बनाम वास्तविकता: कस्टर्ड डरावना दिखता था लेकिन डरपोक जैसा व्यवहार करता था।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "To whom was Belinda as brave as?",
+        "hi": "बेलिंडा किसकी तरह बहादुर थी?"
+      },
+      "options": {
+        "a": {"en": "A lion", "hi": "एक शेर की तरह"},
+        "b": {"en": "A barrel full of bears", "hi": "भालुओं से भरे बैरल की तरह (A barrel full of bears)"},
+        "c": {"en": "A tiger in a rage", "hi": "क्रोधित बाघ की तरह"},
+        "d": {"en": "A soldier", "hi": "एक सैनिक की तरह"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The poet uses this unusual phrase to show her collective bravery.",
+        "hi": "कवि उसकी सामूहिक बहादुरी दिखाने के लिए इस असामान्य वाक्यांश का उपयोग करता है।"
+      },
+      "explanation": {
+        "en": "Belinda was described as being as brave as a 'barrel full of bears'. This is a humorous exaggeration of her courage.",
+        "hi": "बेलिंडा को 'भालुओं से भरे बैरल' जितना बहादुर बताया गया है, जो उसकी बहादुरी का एक मज़ाकिया अतिशयोक्तिपूर्ण वर्णन है।"
+      },
+      "key_takeaway": {
+        "en": "Belinda bragged about her courage frequently.",
+        "hi": "बेलिंडा अक्सर अपनी बहादुरी की डींगें मारती थी।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "What did Ink and Blink do to show their bravery?",
+        "hi": "इंक और ब्लिंक अपनी बहादुरी दिखाने के लिए क्या करते थे?"
+      },
+      "options": {
+        "a": {"en": "They chased lions down the stairs", "hi": "वे सीढ़ियों से नीचे शेरों का पीछा करते थे"},
+        "b": {"en": "They fought with the dog", "hi": "वे कुत्ते से लड़ते थे"},
+        "c": {"en": "They guarded the house", "hi": "वे घर की रखवाली करते थे"},
+        "d": {"en": "They ate a pirate", "hi": "उन्होंने एक समुद्री डाकू को खाया"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "The poem says they were so brave they could make even a lion run away.",
+        "hi": "कविता कहती है कि वे इतने बहादुर थे कि शेर को भी भगा सकते थे।"
+      },
+      "explanation": {
+        "en": "Ink and Blink claimed to be so brave that they could chase lions down the stairs. This was part of their constant bragging.",
+        "hi": "इंक और ब्लिंक दावा करते थे कि वे शेरों का पीछा कर सकते हैं, जो कि केवल डींगें मारना था।"
+      },
+      "key_takeaway": {
+        "en": "The pets overestimated their own courage.",
+        "hi": "पालतू जानवरों ने अपने साहस को बहुत अधिक आँका था।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "How was Mustard's bravery described?",
+        "hi": "मस्टर्ड की बहादुरी का वर्णन कैसे किया गया था?"
+      },
+      "options": {
+        "a": {"en": "As brave as a kitten", "hi": "एक बिल्ली के बच्चे जैसा बहादुर"},
+        "b": {"en": "As brave as a tiger in a rage", "hi": "क्रोधित बाघ जैसा बहादुर (As brave as a tiger in a rage)"},
+        "c": {"en": "As brave as a dragon", "hi": "एक ड्रैगन जैसा बहादुर"},
+        "d": {"en": "He wasn't brave at all", "hi": "वह बिल्कुल भी बहादुर नहीं था"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The dog was compared to a very fierce and angry wild animal.",
+        "hi": "कुत्ते की तुलना एक बहुत ही भयंकर और क्रोधित जंगली जानवर से की गई थी।"
+      },
+      "explanation": {
+        "en": "Mustard, the dog, was said to be as brave as a tiger in a rage. This comparison suggests he acted very fierce when there was no actual danger.",
+        "hi": "मस्टर्ड को क्रोधित बाघ जैसा बहादुर बताया गया था, जो उसकी दिखावटी बहादुरी को दर्शाता है।"
+      },
+      "key_takeaway": {
+        "en": "Mustard used strong metaphors to describe his courage.",
+        "hi": "मस्टर्ड ने अपने साहस का वर्णन करने के लिए मज़बूत रूपकों का इस्तेमाल किया।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "What sound did the pets and Belinda hear suddenly?",
+        "hi": "पालतू जानवरों और बेलिंडा ने अचानक कौन सी आवाज़ सुनी?"
+      },
+      "options": {
+        "a": {"en": "A melodious song", "hi": "एक मधुर गीत"},
+        "b": {"en": "A nasty sound of someone breaking in", "hi": "किसी के अंदर घुसने की एक अप्रिय आवाज़"},
+        "c": {"en": "The dragon snoring", "hi": "ड्रैगन के खर्राटे"},
+        "d": {"en": "Rain falling", "hi": "बारिश की आवाज़"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It was the sound of the 'Pirate' climbing through the window.",
+        "hi": "यह खिड़की से चढ़ते हुए 'समुद्री डाकू' की आवाज़ थी।"
+      },
+      "explanation": {
+        "en": "Suddenly, they heard a 'nasty' sound, and Mustard growled. They looked around and saw a pirate climbing in through the window (winda).",
+        "hi": "अचानक उन्हें एक अप्रिय आवाज़ सुनाई दी, जो एक समुद्री डाकू के घर में घुसने की थी।"
+      },
+      "key_takeaway": {
+        "en": "The 'nasty sound' marks the arrival of real danger.",
+        "hi": "'अप्रिय आवाज़' वास्तविक खतरे के आगमन का संकेत देती है।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "Which of these was a physical characteristic of the Pirate?",
+        "hi": "इनमें से कौन सी समुद्री डाकू की शारीरिक विशेषता थी?"
+      },
+      "options": {
+        "a": {"en": "He had a golden leg", "hi": "उसकी एक सोने की टांग थी"},
+        "b": {"en": "He had a black beard and one leg was wood", "hi": "उसकी काली दाढ़ी थी और एक टांग लकड़ी की थी"},
+        "c": {"en": "He was wearing a white dress", "hi": "उसने सफेद कपड़े पहने थे"},
+        "d": {"en": "He carried a flower in his hand", "hi": "उसके हाथ में एक फूल था"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He looked like a typical dangerous pirate from storybooks.",
+        "hi": "वह कहानियों के एक विशिष्ट खतरनाक समुद्री डाकू जैसा दिखता था।"
+      },
+      "explanation": {
+        "en": "The pirate held pistols in both hands and a cutlass in his teeth. He had a black beard and one of his legs was made of wood, indicating he was no friend.",
+        "hi": "डाकू के दोनों हाथों में पिस्तौल और दांतों में कटार थी। उसकी काली दाढ़ी थी और एक पैर लकड़ी का था।"
+      },
+      "key_takeaway": {
+        "en": "The pirate was a symbol of serious threat.",
+        "hi": "समुद्री डाकू एक गंभीर खतरे का प्रतीक था।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "What did Ink, Blink, and Mustard do when they saw the pirate?",
+        "hi": "डाकू को देखकर इंक, ब्लिंक और मस्टर्ड ने क्या किया?"
+      },
+      "options": {
+        "a": {"en": "They attacked him together", "hi": "उन्होंने मिलकर उस पर हमला किया"},
+        "b": {"en": "They fled in fear and hid themselves", "hi": "वे डर के मारे भाग गए और खुद को छिपा लिया"},
+        "c": {"en": "They protected Belinda", "hi": "उन्होंने बेलिंडा की रक्षा की"},
+        "d": {"en": "They welcomed him", "hi": "उन्होंने उसका स्वागत किया"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "All the 'brave' animals proved to be cowards in the face of real danger.",
+        "hi": "सभी 'बहादुर' जानवर वास्तविक खतरे के सामने डरपोक साबित हुए।"
+      },
+      "explanation": {
+        "en": "Mustard fled with a terrified yelp, Ink trickled to the bottom of the house, and Blink ran into his mouse-hole. Belinda turned pale with fear. They all abandoned each other.",
+        "hi": "मस्टर्ड चिल्लाकर भागा, इंक घर के नीचे छिप गया और ब्लिंक अपने बिल में घुस गया। सब अपनी बहादुरी भूल गए।"
+      },
+      "key_takeaway": {
+        "en": "Bragging ends when real testing begins.",
+        "hi": "डींगें मारना तब खत्म होता है जब वास्तविक परीक्षा शुरू होती है।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "How did Custard respond to the pirate's intrusion?",
+        "hi": "डाकू के घुसने पर कस्टर्ड ने क्या प्रतिक्रिया दी?"
+      },
+      "options": {
+        "a": {"en": "He hid in his cage", "hi": "वह अपने पिंजरे में छिप गया"},
+        "b": {"en": "He jumped up, snorting like an engine, and attacked", "hi": "वह इंजन की तरह फुफकारते हुए कूदा और हमला किया"},
+        "c": {"en": "He started crying", "hi": "वह रोने लगा"},
+        "d": {"en": "He asked the pirate to leave politely", "hi": "उसने डाकू को विनम्रता से जाने के लिए कहा"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He clashed his tail like irons in a dungeon and went at the pirate like a robin at a worm.",
+        "hi": "उसने कालकोठरी में ज़ंजीरों की तरह अपनी पूंछ पटकी और डाकू पर वैसे ही झपटा जैसे चिड़िया कीड़े पर झपटती है।"
+      },
+      "explanation": {
+        "en": "While others ran away, the 'cowardly' Custard showed true bravery. He snorted like an engine and charged at the pirate with full force.",
+        "hi": "'डरपोक' कहे जाने वाले कस्टर्ड ने ही असली बहादुरी दिखाई। वह इंजन की तरह आवाज़ करते हुए डाकू पर टूट पड़ा।"
+      },
+      "key_takeaway": {
+        "en": "True bravery is quiet until it is needed.",
+        "hi": "असली बहादुरी ज़रूरत पड़ने तक खामोश रहती है।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "What did the pirate do when Custard attacked him?",
+        "hi": "जब कस्टर्ड ने उस पर हमला किया तो डाकू ने क्या किया?"
+      },
+      "options": {
+        "a": {"en": "He ran away", "hi": "वह भाग गया"},
+        "b": {"en": "He gaped at the dragon and fired two bullets", "hi": "वह ड्रैगन को देखता रह गया और दो गोलियाँ चलाईं"},
+        "c": {"en": "He apologized", "hi": "उसने माफ़ी माँगी"},
+        "d": {"en": "He killed the dragon", "hi": "उसने ड्रैगन को मार दिया"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The pirate was shocked to see a fierce dragon instead of easy prey. His bullets missed their mark.",
+        "hi": "आसान शिकार के बजाय एक भयंकर ड्रैगन को देखकर डाकू दंग रह गया। उसकी गोलियाँ निशाने पर नहीं लगीं।"
+      },
+      "explanation": {
+        "en": "The pirate gaped (stared with mouth open) at Custard. He drank some grog (alcohol) from his pocket flagon and fired two bullets, but they didn't hit Custard.",
+        "hi": "डाकू ने कस्टर्ड को हैरानी से देखा, शराब पी और दो गोलियाँ चलाईं, लेकिन वे कस्टर्ड को नहीं लगीं।"
+      },
+      "key_takeaway": {
+        "en": "Desperation makes enemies act recklessly.",
+        "hi": "हताशा दुश्मनों को लापरवाही से काम करने पर मजबूर कर देती है।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "What was the final fate of the pirate?",
+        "hi": "डाकू का अंत क्या हुआ?"
+      },
+      "options": {
+        "a": {"en": "He escaped through the window", "hi": "वह खिड़की से भाग गया"},
+        "b": {"en": "Custard gobbled him every bit", "hi": "कस्टर्ड उसे पूरी तरह निगल गया (gobbled him every bit)"},
+        "c": {"en": "Belinda killed him", "hi": "बेलिंडा ने उसे मार दिया"},
+        "d": {"en": "Mustard caught him", "hi": "मस्टर्ड ने उसे पकड़ लिया"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The dragon showed no mercy to the intruder who threatened his family.",
+        "hi": "ड्रैगन ने अपने परिवार को धमकाने वाले घुसपैठिये पर कोई दया नहीं दिखाई।"
+      },
+      "explanation": {
+        "en": "Custard ate the pirate completely. This act of saving everyone proved that he was the only truly brave one in the house.",
+        "hi": "कस्टर्ड ने डाकू को पूरा खा लिया। सबको बचाकर उसने साबित किया कि वही असली बहादुर है।"
+      },
+      "key_takeaway": {
+        "en": "The underdog emerged as the savior.",
+        "hi": "कमज़ोर समझा जाने वाला ही रक्षक बनकर उभरा।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "How did the pets react AFTER the pirate was killed?",
+        "hi": "डाकू के मारे जाने के बाद पालतू जानवरों ने क्या किया?"
+      },
+      "options": {
+        "a": {"en": "They remained humble", "hi": "वे विनम्र बने रहे"},
+        "b": {"en": "They started bragging again and making excuses", "hi": "वे फिर से डींगें मारने लगे और बहाने बनाने लगे"},
+        "c": {"en": "They apologized to Custard", "hi": "उन्होंने कस्टर्ड से माफ़ी माँगी"},
+        "d": {"en": "They left the house", "hi": "उन्होंने घर छोड़ दिया"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "They said they would have been 'twice as brave' or 'thrice as brave' if they weren't flustered.",
+        "hi": "उन्होंने कहा कि अगर वे घबराते नहीं तो 'दो गुना' या 'तीन गुना' ज़्यादा बहादुर होते।"
+      },
+      "explanation": {
+        "en": "As soon as the danger passed, Mustard, Ink, and Blink returned to their old habits. They tried to justify their cowardice by saying they were just confused.",
+        "hi": "खतरा टलते ही सब अपनी पुरानी आदतों पर लौट आए और अपनी कायरता के लिए बहाने बनाने लगे।"
+      },
+      "key_takeaway": {
+        "en": "People who brag seldom change their nature.",
+        "hi": "डींगें मारने वाले लोग शायद ही कभी अपना स्वभाव बदलते हैं।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "What did Custard say in response to their bragging at the end?",
+        "hi": "अंत में उनकी डींगों के जवाब में कस्टर्ड ने क्या कहा?"
+      },
+      "options": {
+        "a": {"en": "He told them they were liars", "hi": "उसने उनसे कहा कि वे झूठे हैं"},
+        "b": {"en": "He agreed that everyone was braver than him", "hi": "वह सहमत हो गया कि हर कोई उससे ज़्यादा बहादुर है"},
+        "c": {"en": "He fought with them", "hi": "उसने उनसे लड़ाई की"},
+        "d": {"en": "He became the king of the house", "hi": "वह घर का राजा बन गया"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He remained humble and went back to his demand for a safe cage.",
+        "hi": "वह विनम्र बना रहा और वापस एक सुरक्षित पिंजरे की मांग करने लगा।"
+      },
+      "explanation": {
+        "en": "Custard very humbly said, 'I quite agree that everybody is braver than me.' Even after performing a heroic act, he didn't boast about it.",
+        "hi": "कस्टर्ड ने बहुत विनम्रता से कहा कि वह सहमत है कि सब उससे ज़्यादा बहादुर हैं। वह बिल्कुल घमंडी नहीं था।"
+      },
+      "key_takeaway": {
+        "en": "True strength is often accompanied by humility.",
+        "hi": "सच्ची शक्ति अक्सर विनम्रता के साथ आती है।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "What is the rhyme scheme of the poem?",
+        "hi": "कविता की तुकबंदी (Rhyme Scheme) क्या है?"
+      },
+      "options": {
+        "a": {"en": "abab", "hi": "abab"},
+        "b": {"en": "aabb (Couplets)", "hi": "aabb (दोहे/Couplets)"},
+        "c": {"en": "abcb", "hi": "abcb"},
+        "d": {"en": "Free verse", "hi": "मुक्त छंद"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "House/Mouse, White/Knight, Wagon/Dragon...",
+        "hi": "House/Mouse, White/Knight, Wagon/Dragon..."
+      },
+      "explanation": {
+        "en": "The poem is written in rhyming couplets (aabb), which gives it a rhythmic, song-like quality typical of a ballad.",
+        "hi": "यह कविता 'तुकबंदी वाले दोहों' (aabb) में लिखी गई है, जो इसे एक गीत जैसा प्रभाव देती है।"
+      },
+      "key_takeaway": {
+        "en": "Ballads often use simple rhyme schemes to tell a story.",
+        "hi": "कहानियाँ सुनाने के लिए गाथागीत (ballads) अक्सर सरल तुकबंदी का उपयोग करते हैं।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "Which poetic device is used in 'mouth like a fireplace'?",
+        "hi": "'mouth like a fireplace' में किस काव्य अलंकार का प्रयोग किया गया है?"
+      },
+      "options": {
+        "a": {"en": "Metaphor", "hi": "रूपक"},
+        "b": {"en": "Simile", "hi": "उपमा (Simile)"},
+        "c": {"en": "Alliteration", "hi": "अनुप्रास"},
+        "d": {"en": "Oxymoron", "hi": "विरोधाभास"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It is a comparison between two unlike things using the word 'like'.",
+        "hi": "यह 'like' शब्द का उपयोग करके दो अलग-अलग चीज़ों के बीच की तुलना है।"
+      },
+      "explanation": {
+        "en": "This is a Simile because the dragon's mouth is directly compared to a fireplace using the word 'like' to show its heat and power.",
+        "hi": "यह एक उपमा (Simile) है क्योंकि 'like' का उपयोग करके मुँह की तुलना चूल्हे से की गई है।"
+      },
+      "key_takeaway": {
+        "en": "Simile = Comparison using 'like' or 'as'.",
+        "hi": "Simile = 'like' या 'as' का उपयोग करके तुलना।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "What is the main theme/lesson of 'The Tale of Custard the Dragon'?",
+        "hi": "'कस्टर्ड द ड्रैगन की कहानी' का मुख्य विषय/सबक क्या है?"
+      },
+      "options": {
+        "a": {"en": "Bragging is good for confidence", "hi": "डींगें मारना आत्मविश्वास के लिए अच्छा है"},
+        "b": {"en": "Real courage is shown during a crisis, not through empty words", "hi": "असली साहस संकट के समय दिखता है, खोखले शब्दों से नहीं"},
+        "c": {"en": "Pirates are very weak", "hi": "समुद्री डाकू बहुत कमज़ोर होते हैं"},
+        "d": {"en": "Dragons are always cowards", "hi": "ड्रैगन हमेशा डरपोक होते हैं"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Think about who ran away and who stood their ground when the pirate appeared.",
+        "hi": "सोचें कि डाकू के आने पर कौन भागा और कौन अपनी जगह पर डटा रहा।"
+      },
+      "explanation": {
+        "en": "The poem teaches that those who boast about their bravery are often cowards, while those who seem quiet and humble may possess the greatest courage in times of trouble.",
+        "hi": "यह कविता सिखाती है कि जो अपनी बहादुरी की डींगें मारते हैं वे अक्सर कायर होते हैं, जबकि शांत रहने वाले ही असली बहादुर होते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Do not judge a person's courage by their appearance or words.",
+        "hi": "किसी व्यक्ति के साहस का अंदाज़ा उसके रूप या शब्दों से न लगाएँ।"
+      }
+    }
+  ]
+}

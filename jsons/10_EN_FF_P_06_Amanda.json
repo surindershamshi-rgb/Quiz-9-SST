@@ -1,0 +1,540 @@
+{
+  "metadata": {
+    "unit_number": 5,
+    "poem_title": "Amanda!",
+    "poem_title_hindi": "अमांडा!",
+    "author": "Robin Klein",
+    "subject": "English (First Flight) - Class 10",
+    "board": "HPBOSE (NCERT)",
+    "total_questions": 20,
+    "version": "1.0",
+    "naming_convention": "10_EN_FF_P_06_Amanda.json"
+  },
+  "validation_report": {
+    "is_valid": true,
+    "checked_by": "AI Tutor",
+    "notes": "Bilingual MCQs focused on child psychology, literary devices, and the contrast between reality and imagination."
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "Who is the poet of the poem 'Amanda!'?",
+        "hi": "'अमांडा!' कविता के कवि कौन हैं?"
+      },
+      "options": {
+        "a": {"en": "Robert Frost", "hi": "रॉबर्ट फ्रॉस्ट"},
+        "b": {"en": "Robin Klein", "hi": "रॉबिन क्लेन (Robin Klein)"},
+        "c": {"en": "Walt Whitman", "hi": "वॉल्ट व्हिटमैन"},
+        "d": {"en": "Adrienne Rich", "hi": "एड्रिएन रिच"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "She is an Australian author known for her books and poems for children and young adults.",
+        "hi": "वह एक ऑस्ट्रेलियाई लेखिका हैं जो बच्चों और युवाओं के लिए अपनी किताबों और कविताओं के लिए जानी जाती हैं।"
+      },
+      "explanation": {
+        "en": "Robin Klein wrote 'Amanda!' to depict how a young girl feels when she is constantly instructed and controlled by her parents.",
+        "hi": "रॉबिन क्लेन ने 'अमांडा!' कविता यह दिखाने के लिए लिखी है कि जब एक छोटी लड़की को उसके माता-पिता द्वारा लगातार निर्देश और नियंत्रित किया जाता है तो वह कैसा महसूस करती है।"
+      },
+      "key_takeaway": {
+        "en": "Robin Klein = Poet who explores the child's perspective.",
+        "hi": "रॉबिन क्लेन = वह कवयित्री जो बच्चे के नजरिए की पड़ताल करती हैं।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "What is Amanda instructed not to do in the very first stanza?",
+        "hi": "पहले ही छंद में अमांडा को क्या न करने का निर्देश दिया गया है?"
+      },
+      "options": {
+        "a": {"en": "Not to eat chocolate", "hi": "चॉकलेट न खाने का"},
+        "b": {"en": "Not to bite her nails and hunch her shoulders", "hi": "अपने नाखून न चबाने और कंधे न झुकाने का"},
+        "c": {"en": "Not to play outside", "hi": "बाहर न खेलने का"},
+        "d": {"en": "Not to watch TV", "hi": "टीवी न देखने का"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The speaker is concerned about Amanda's posture and habits.",
+        "hi": "वक्ता अमांडा की शारीरिक मुद्रा (posture) और आदतों को लेकर चिंतित है।"
+      },
+      "explanation": {
+        "en": "In the first stanza, the parent (presumably the mother) tells Amanda not to bite her nails and not to hunch (bend) her shoulders, demanding she sit up straight.",
+        "hi": "पहले छंद में, वक्ता अमांडा को नाखून न चबाने और कंधे न झुकाकर सीधे बैठने के लिए कहता है।"
+      },
+      "key_takeaway": {
+        "en": "The poem begins with a series of negative instructions (Don'ts).",
+        "hi": "कविता की शुरुआत नकारात्मक निर्देशों (क्या न करें) की एक श्रृंखला के साथ होती है।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "What does Amanda imagine herself to be in the first parenthetical stanza?",
+        "hi": "पहले कोष्ठक (parenthetical) वाले छंद में अमांडा खुद को क्या होने की कल्पना करती है?"
+      },
+      "options": {
+        "a": {"en": "An orphan", "hi": "एक अनाथ"},
+        "b": {"en": "A mermaid", "hi": "एक जलपरी (Mermaid)"},
+        "c": {"en": "A queen", "hi": "एक रानी"},
+        "d": {"en": "A bird", "hi": "एक पक्षी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "She imagines drifting blissfully in a peaceful emerald sea.",
+        "hi": "वह एक शांत पन्ना (emerald) जैसे हरे समुद्र में खुशी से बहने की कल्पना करती है।"
+      },
+      "explanation": {
+        "en": "To escape the nagging, Amanda retreats into her imagination where she is a mermaid, the sole inhabitant of a relaxed, green sea, moving blissfully through the water.",
+        "hi": "टोका-टोकी से बचने के लिए, अमांडा अपनी कल्पना में एक जलपरी बन जाती है, जो हरे समुद्र में शांति से विहार कर रही है।"
+      },
+      "key_takeaway": {
+        "en": "Mermaid = Symbol of freedom and a peaceful, solitary life.",
+        "hi": "जलपरी = स्वतंत्रता और शांतिपूर्ण, एकांत जीवन का प्रतीक।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "What color is the sea described as in Amanda's imagination?",
+        "hi": "अमांडा की कल्पना में समुद्र का रंग कैसा बताया गया है?"
+      },
+      "options": {
+        "a": {"en": "Blue", "hi": "नीला"},
+        "b": {"en": "Emerald (Green)", "hi": "पन्ना जैसा हरा (Emerald)"},
+        "c": {"en": "Black", "hi": "काला"},
+        "d": {"en": "Crystal clear", "hi": "शीशे जैसा साफ"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It is the color of a precious gemstone.",
+        "hi": "यह एक कीमती रत्न का रंग है।"
+      },
+      "explanation": {
+        "en": "The poet uses the word 'emerald' to describe the sea. Emerald is a bright green gemstone, suggesting that the water is beautiful, calm, and inviting.",
+        "hi": "कवि ने समुद्र का वर्णन करने के लिए 'मरकत' या 'पन्ना' (emerald) शब्द का उपयोग किया है, जो शांति और सुंदरता को दर्शाता है।"
+      },
+      "key_takeaway": {
+        "en": "Emerald sea = Visual imagery representing calmness.",
+        "hi": "पन्ना जैसा समुद्र = शांति को दर्शाने वाला दृश्य चित्रण (Imagery)।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "What does the speaker ask Amanda about her homework and her room?",
+        "hi": "वक्ता अमांडा से उसके होमवर्क और उसके कमरे के बारे में क्या पूछता है?"
+      },
+      "options": {
+        "a": {"en": "If she needs help", "hi": "कि क्या उसे मदद चाहिए"},
+        "b": {"en": "If she has finished her homework and tidied her room", "hi": "कि क्या उसने अपना होमवर्क पूरा कर लिया है और अपना कमरा साफ कर लिया है"},
+        "c": {"en": "If she wants to go out", "hi": "कि क्या वह बाहर जाना चाहती है"},
+        "d": {"en": "If she has eaten her food", "hi": "कि क्या उसने अपना खाना खा लिया है"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "These are common daily chores that parents expect children to complete.",
+        "hi": "ये रोज़ाना के सामान्य काम हैं जिन्हें माता-पिता बच्चों से पूरा करने की उम्मीद करते हैं।"
+      },
+      "explanation": {
+        "en": "The speaker checks if Amanda has finished her homework and tidied her room, highlighting the typical expectations of discipline imposed on a child.",
+        "hi": "वक्ता यह जाँचता है कि क्या अमांडा ने होमवर्क खत्म किया और कमरा साफ किया, जो बच्चों पर थोपे जाने वाले अनुशासन को दर्शाता है।"
+      },
+      "key_takeaway": {
+        "en": "Daily chores represent the 'duty' part of Amanda's life that she dislikes.",
+        "hi": "रोज़ाना के काम अमांडा के जीवन के उस 'कर्तव्य' वाले हिस्से को दर्शाते हैं जिसे वह नापसंद करती है।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "In her second fantasy, why does Amanda want to be an orphan?",
+        "hi": "अपनी दूसरी कल्पना में, अमांडा अनाथ (orphan) क्यों बनना चाहती है?"
+      },
+      "options": {
+        "a": {"en": "Because she hates her parents", "hi": "क्योंकि वह अपने माता-पिता से नफरत करती है"},
+        "b": {"en": "To roam the streets and enjoy silence away from instructions", "hi": "गलियों में घूमने और निर्देशों से दूर शांति का आनंद लेने के लिए"},
+        "c": {"en": "To find a new family", "hi": "एक नया परिवार खोजने के लिए"},
+        "d": {"en": "Because she likes to be poor", "hi": "क्योंकि उसे गरीब होना पसंद है"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "An orphan has no one to tell them what to do or when to clean.",
+        "hi": "एक अनाथ को कोई यह बताने वाला नहीं होता कि क्या करना है या कब सफाई करनी है।"
+      },
+      "explanation": {
+        "en": "Amanda's desire to be an orphan is not because she doesn't love her parents, but because she craves the total freedom and silence that she imagines an orphan has while wandering the streets alone.",
+        "hi": "अमांडा अनाथ इसलिए बनना चाहती है ताकि वह बिना किसी रोक-टोक के गलियों में घूम सके। उसे लगता है कि अनाथ होना आज़ादी का प्रतीक है।"
+      },
+      "key_takeaway": {
+        "en": "Silence is golden and freedom is sweet for Amanda.",
+        "hi": "अमांडा के लिए खामोशी सोना है और आज़ादी मीठी है।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "What does Amanda do with her 'bare feet' in her imagination as an orphan?",
+        "hi": "एक अनाथ के रूप में अपनी कल्पना में अमांडा अपने 'नंगे पैरों' से क्या करती है?"
+      },
+      "options": {
+        "a": {"en": "She runs a race", "hi": "वह दौड़ लगाती है"},
+        "b": {"en": "She patterns soft dust", "hi": "वह कोमल धूल पर आकृतियाँ (patterns) बनाती है"},
+        "c": {"en": "She kicks the stones", "hi": "वह पत्थरों को मारती है"},
+        "d": {"en": "She washes them in the river", "hi": "वह उन्हें नदी में धोती है"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "She makes quiet marks on the ground with her hushed feet.",
+        "hi": "वह अपने शांत पैरों से ज़मीन पर खामोश निशान बनाती है।"
+      },
+      "explanation": {
+        "en": "As an orphan, she imagines walking silently on the street and making patterns in the soft dust with her bare, quiet feet. This highlights her need for peace and creative freedom.",
+        "hi": "वह कल्पना करती है कि वह नंगे पैर धूल पर निशान बना रही है। यह शांति और अपनी मर्जी से काम करने की उसकी चाहत को दिखाता है।"
+      },
+      "key_takeaway": {
+        "en": "Making patterns in dust = A silent, creative expression of freedom.",
+        "hi": "धूल में आकृतियाँ बनाना = स्वतंत्रता की एक शांत, रचनात्मक अभिव्यक्ति।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "Why is Amanda told not to eat chocolate?",
+        "hi": "अमांडा को चॉकलेट न खाने के लिए क्यों कहा गया है?"
+      },
+      "options": {
+        "a": {"en": "Because it is expensive", "hi": "क्योंकि वह महंगी है"},
+        "b": {"en": "Because it causes her acne", "hi": "क्योंकि इससे उसे मुँहासे (acne) हो जाते हैं"},
+        "c": {"en": "Because she is already full", "hi": "क्योंकि उसका पेट भरा हुआ है"},
+        "d": {"en": "Because it makes her teeth black", "hi": "क्योंकि इससे उसके दांत काले हो जाते हैं"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The speaker reminds her to remember her skin problems.",
+        "hi": "वक्ता उसे अपनी त्वचा की समस्याओं को याद रखने के लिए कहता है।"
+      },
+      "explanation": {
+        "en": "The speaker (mother) forbids Amanda from eating chocolate because she suffered from acne (pimples). This shows the parent's control even over her diet and physical appearance.",
+        "hi": "अमांडा को मुँहासे (acne) होने की वजह से चॉकलेट खाने से मना किया गया है। यह दिखाता है कि उसके खान-पान पर भी पाबंदी है।"
+      },
+      "key_takeaway": {
+        "en": "Acne = A common physical concern for adolescents used as a reason for control.",
+        "hi": "मुँहासे = किशोरों की एक आम शारीरिक चिंता जिसे नियंत्रण के बहाने के रूप में इस्तेमाल किया गया।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "Who is 'Rapunzel' mentioned in the poem?",
+        "hi": "कविता में 'रैपुन्ज़ेल' (Rapunzel) कौन है?"
+      },
+      "options": {
+        "a": {"en": "Amanda's friend", "hi": "अमांडा की सहेली"},
+        "b": {"en": "A fairy tale character who lived in a tower", "hi": "एक परियों की कहानी का पात्र जो एक मीनार (tower) में रहती थी"},
+        "c": {"en": "A famous singer", "hi": "एक प्रसिद्ध गायिका"},
+        "d": {"en": "The name of Amanda's school", "hi": "अमांडा के स्कूल का नाम"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "She had very long golden hair which she used to let down for her prince.",
+        "hi": "उसके बहुत लंबे सुनहरे बाल थे जिन्हें वह अपने राजकुमार के लिए नीचे गिराती थी।"
+      },
+      "explanation": {
+        "en": "Amanda imagines herself as Rapunzel, a girl from a German fairy tale who was locked in a high tower where life was peaceful and rare. Amanda wants that same isolation.",
+        "hi": "अमांडा खुद को रैपुन्ज़ेल मानती है, जो एक ऊँची मीनार में अकेली रहती थी। अमांडा भी वैसी ही शांति और एकांत चाहती है।"
+      },
+      "key_takeaway": {
+        "en": "Rapunzel = Symbol of peaceful isolation from the world.",
+        "hi": "रैपुन्ज़ेल = दुनिया से दूर शांतिपूर्ण एकांत का प्रतीक।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "What does Amanda say she will NEVER do as Rapunzel?",
+        "hi": "अमांडा का कहना है कि वह रैपुन्ज़ेल के रूप में क्या कभी नहीं करेगी?"
+      },
+      "options": {
+        "a": {"en": "Never sing a song", "hi": "कभी गाना नहीं गाएगी"},
+        "b": {"en": "Never let down her bright hair", "hi": "अपने चमकीले बालों को कभी नीचे नहीं गिराएगी"},
+        "c": {"en": "Never eat food", "hi": "कभी खाना नहीं खाएगी"},
+        "d": {"en": "Never look out of the window", "hi": "कभी खिड़की से बाहर नहीं देखेगी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "In the original story, letting down the hair allowed others to climb up. Amanda wants to stay alone.",
+        "hi": "मूल कहानी में, बाल नीचे गिराने से दूसरे ऊपर चढ़ सकते थे। अमांडा अकेली रहना चाहती है।"
+      },
+      "explanation": {
+        "en": "Unlike the original Rapunzel who let her hair down for the prince, Amanda decides she will never let down her hair because she does not want anyone to come into her tower and disturb her peace.",
+        "hi": "अमांडा अपने बाल नीचे नहीं गिराएगी क्योंकि वह नहीं चाहती कि कोई उसकी मीनार में आकर उसकी शांति भंग करे।"
+      },
+      "key_takeaway": {
+        "en": "Amanda chooses solitude over company to avoid further nagging.",
+        "hi": "अमांडा आगे की टोका-टोकी से बचने के लिए साथ के बजाय एकांत चुनती है।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "What is the tone of the parent (the speaker) in the poem?",
+        "hi": "कविता में वक्ता (माता-पिता) का लहज़ा कैसा है?"
+      },
+      "options": {
+        "a": {"en": "Loving and appreciative", "hi": "प्यार भरा और सराहनीय"},
+        "b": {"en": "Nagging, commanding, and critical", "hi": "टोका-टोकी करने वाला, आदेशात्मक और आलोचनात्मक"},
+        "c": {"en": "Helpful and guiding", "hi": "मददगार और मार्गदर्शक"},
+        "d": {"en": "Indifferent and bored", "hi": "उदासीन और ऊब भरा"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The speaker is constantly finding faults and giving orders to Amanda.",
+        "hi": "वक्ता लगातार कमियाँ निकाल रहा है और अमांडा को आदेश दे रहा है।"
+      },
+      "explanation": {
+        "en": "The parent's tone is strictly instructive and critical. Every stanza spoken by the parent contains commands like 'Don't', 'Did you', and 'Stop', showing constant monitoring.",
+        "hi": "माता-पिता का लहज़ा आदेशात्मक है। हर छंद में 'मत करो', 'क्या तुमने किया' जैसे शब्द उनके सख्त स्वभाव को दिखाते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Nagging = Harassing someone constantly to do something.",
+        "hi": "Nagging = किसी को कुछ करने के लिए लगातार परेशान करना या टोकना।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "What does 'sulking' mean as used in the last stanza?",
+        "hi": "अंतिम छंद में प्रयुक्त 'सल्किंग' (sulking) का क्या अर्थ है?"
+      },
+      "options": {
+        "a": {"en": "Being happy", "hi": "खुश होना"},
+        "b": {"en": "Being in a bad mood or silent because of annoyance", "hi": "चिढ़ के कारण खराब मूड में होना या चुप रहना (मुँह फुलाना)"},
+        "c": {"en": "Playing hide and seek", "hi": "लुका-छिपी खेलना"},
+        "d": {"en": "Studying hard", "hi": "कड़ी मेहनत से पढ़ाई करना"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The speaker tells Amanda to stop doing this so people don't think she is being nagged.",
+        "hi": "वक्ता अमांडा को ऐसा करने से मना करता है ताकि लोगों को यह न लगे कि उसे टोका जा रहा है।"
+      },
+      "explanation": {
+        "en": "Sulking is to be silent or irritable because one is unhappy about something. The mother thinks Amanda is sulking, but Amanda is actually just lost in her world to find peace.",
+        "hi": "सल्किंग का अर्थ है नाराज़ होकर मुँह फुलाकर बैठना।"
+      },
+      "key_takeaway": {
+        "en": "The parent is more worried about social image ('people will think I nagged you') than the child's feelings.",
+        "hi": "माता-पिता बच्चे की भावनाओं से ज़्यादा सामाजिक छवि ('लोग सोचेंगे कि मैंने तुम्हें टोका') को लेकर चिंतित हैं।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "Why are some stanzas in the poem given in brackets (parenthesis)?",
+        "hi": "कविता के कुछ छंद कोष्ठक (brackets) में क्यों दिए गए हैं?"
+      },
+      "options": {
+        "a": {"en": "Because they are not important", "hi": "क्योंकि वे महत्वपूर्ण नहीं हैं"},
+        "b": {"en": "To show they are Amanda's internal thoughts and imagination", "hi": "यह दिखाने के लिए कि वे अमांडा के आंतरिक विचार और कल्पनाएँ हैं"},
+        "c": {"en": "Because the poet forgot the rhyme", "hi": "क्योंकि कवि तुकबंदी भूल गया था"},
+        "d": {"en": "To show the mother's voice", "hi": "माँ की आवाज़ दिखाने के लिए"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "These stanzas represent an escape from the harsh reality of the outside world.",
+        "hi": "ये छंद बाहरी दुनिया की कठोर वास्तविकता से पलायन (escape) का प्रतिनिधित्व करते हैं।"
+      },
+      "explanation": {
+        "en": "The stanzas in brackets represent Amanda's inner world. While her mother is speaking to her in the 'real' world, Amanda is daydreaming in her 'private' world to maintain her sanity.",
+        "hi": "ब्रैकेट वाले छंद अमांडा की आंतरिक दुनिया को दर्शाते हैं। जब माँ उसे टोकती है, तो वह अपने सपनों में खो जाती है।"
+      },
+      "key_takeaway": {
+        "en": "The structure of the poem reflects the dual life of the child.",
+        "hi": "कविता की संरचना बच्चे के दोहरे जीवन को दर्शाती है।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "Which poetic device is used in 'Stop that slouching and sit up straight'?",
+        "hi": "'Stop that slouching and sit up straight' में किस काव्य अलंकार का प्रयोग किया गया है?"
+      },
+      "options": {
+        "a": {"en": "Simile", "hi": "उपमा"},
+        "b": {"en": "Alliteration", "hi": "अनुप्रास (Alliteration)"},
+        "c": {"en": "Metaphor", "hi": "रूपक"},
+        "d": {"en": "Oxymoron", "hi": "विरोधाभास"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Note the repetition of the 's' sound in the beginning of several words.",
+        "hi": "कई शब्दों की शुरुआत में 's' ध्वनि की पुनरावृत्ति पर ध्यान दें।"
+      },
+      "explanation": {
+        "en": "Alliteration is the repetition of the same consonant sound at the start of words. Here, 'S' is repeated in 'Stop', 'slouching', 'sit', and 'straight'.",
+        "hi": "यहाँ 'S' वर्ण की बार-बार आवृत्ति हुई है, इसलिए यह अनुप्रास अलंकार है।"
+      },
+      "key_takeaway": {
+        "en": "Alliteration creates a rhythmic and sharp tone in the speaker's commands.",
+        "hi": "अनुप्रास वक्ता के आदेशों में एक लयात्मक और तीखा लहज़ा पैदा करता है।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "What is the meaning of 'languid' in the poem?",
+        "hi": "कविता में 'लैंग्विड' (languid) का क्या अर्थ है?"
+      },
+      "options": {
+        "a": {"en": "Very fast", "hi": "बहुत तेज़"},
+        "b": {"en": "Relaxed and peaceful without much effort", "hi": "बिना किसी प्रयास के शांत और शिथिल (Relaxed)"},
+        "c": {"en": "Angry", "hi": "नाराज़"},
+        "d": {"en": "Noisy", "hi": "शोर वाला"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It describes the movement of the sea water in Amanda's dream.",
+        "hi": "यह अमांडा के सपने में समुद्र के पानी की गति का वर्णन करता है।"
+      },
+      "explanation": {
+        "en": "Languid means moving slowly and gracefully, showing a lack of energy or effort. Amanda imagines a languid emerald sea where she can drift without a care.",
+        "hi": "लैंग्विड का अर्थ है सुस्त या शांत गति वाला।"
+      },
+      "key_takeaway": {
+        "en": "Languid = Slow, relaxed, and moving peacefully.",
+        "hi": "Languid = धीमा, शांत और सुकून भरा।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "What is the meaning of 'blissfully'?",
+        "hi": "'ब्लिसफुली' (blissfully) का क्या अर्थ है?"
+      },
+      "options": {
+        "a": {"en": "Sadly", "hi": "दुख से"},
+        "b": {"en": "In an extremely happy and peaceful way", "hi": "अत्यंत प्रसन्नता और शांति के साथ (Extremely happy)"},
+        "c": {"en": "Angrily", "hi": "गुस्से से"},
+        "d": {"en": "Carefully", "hi": "सावधानी से"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The mermaid is moving 'blissfully' in the sea.",
+        "hi": "जलपरी समुद्र में 'ब्लिसफुली' घूम रही है।"
+      },
+      "explanation": {
+        "en": "Blissfully means with complete happiness or joy. It contrasts sharply with the misery Amanda feels in the real world under her mother's supervision.",
+        "hi": "ब्लिसफुली का अर्थ है परम आनंद या खुशी के साथ।"
+      },
+      "key_takeaway": {
+        "en": "Bliss = Extreme happiness.",
+        "hi": "Bliss = परमानंद या अत्यधिक खुशी।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "What does the speaker threaten Amanda with in the end?",
+        "hi": "अंत में वक्ता अमांडा को किस बात की चेतावनी देता है?"
+      },
+      "options": {
+        "a": {"en": "That she will be punished", "hi": "कि उसे सजा दी जाएगी"},
+        "b": {"en": "That people will think the speaker is nagging her", "hi": "कि लोग सोचेंगे कि वक्ता उसे टोक रहा है"},
+        "c": {"en": "That she will not get dinner", "hi": "कि उसे रात का खाना नहीं मिलेगा"},
+        "d": {"en": "That she must leave the house", "hi": "कि उसे घर छोड़ना होगा"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The parent is worried about what others might perceive of their behavior.",
+        "hi": "अभिभावक इस बात को लेकर चिंतित है कि दूसरे उनके व्यवहार के बारे में क्या सोचेंगे।"
+      },
+      "explanation": {
+        "en": "The speaker says, 'Stop that sulking at once, Amanda!... Anyone would think that I nagged at you'. This shows the mother is more concerned about her own social reputation than Amanda’s mental state.",
+        "hi": "वक्ता कहता है कि मुँह फुलाना बंद करो वरना लोग सोचेंगे कि मैं तुम्हें हमेशा टोकता रहता हूँ।"
+      },
+      "key_takeaway": {
+        "en": "Social image vs. Emotional needs of the child.",
+        "hi": "सामाजिक छवि बनाम बच्चे की भावनात्मक ज़रूरतें।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "Which literary device is used when Amanda compares herself to Rapunzel?",
+        "hi": "जब अमांडा अपनी तुलना रैपुन्ज़ेल से करती है तो किस साहित्यिक उपकरण का उपयोग किया जाता है?"
+      },
+      "options": {
+        "a": {"en": "Simile", "hi": "उपमा"},
+        "b": {"en": "Allusion", "hi": "संकेत (Allusion)"},
+        "c": {"en": "Hyperbole", "hi": "अतिशयोक्ति"},
+        "d": {"en": "Personification", "hi": "मानवीकरण"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It is an indirect reference to a famous character or story.",
+        "hi": "यह किसी प्रसिद्ध पात्र या कहानी का अप्रत्यक्ष संदर्भ है।"
+      },
+      "explanation": {
+        "en": "An Allusion is a reference to a well-known person, place, event, or literary work. Referring to Rapunzel (from Brothers Grimm) is a literary allusion.",
+        "hi": "जब किसी प्रसिद्ध व्यक्ति या कहानी का संदर्भ दिया जाता है, तो उसे 'एल्यूज़न' (Allusion) कहते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Allusion = Referencing external cultural or literary characters.",
+        "hi": "Allusion = बाहरी सांस्कृतिक या साहित्यिक पात्रों का संदर्भ देना।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "The phrase 'Silence is golden' is an example of ______.",
+        "hi": "'खामोशी सोना है' (Silence is golden) किसका उदाहरण है?"
+      },
+      "options": {
+        "a": {"en": "Simile", "hi": "उपमा"},
+        "b": {"en": "Metaphor", "hi": "रूपक (Metaphor)"},
+        "c": {"en": "Alliteration", "hi": "अनुप्रास"},
+        "d": {"en": "Oxymoron", "hi": "विरोधाभास"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It directly compares silence to gold without using 'like' or 'as'.",
+        "hi": "यह 'like' या 'as' का उपयोग किए बिना खामोशी की तुलना सोने से करता है।"
+      },
+      "explanation": {
+        "en": "This is a metaphor where silence is being compared to something precious like gold to show how much Amanda values being quiet and left alone.",
+        "hi": "यह एक रूपक (metaphor) है जहाँ खामोशी को सोने की तरह कीमती बताया गया है।"
+      },
+      "key_takeaway": {
+        "en": "Metaphor = Direct comparison between two unlike things.",
+        "hi": "Metaphor = दो अलग चीज़ों के बीच सीधा मुकाबला।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "What is the central theme of the poem 'Amanda!'?",
+        "hi": "'अमांडा!' कविता का केंद्रीय विषय क्या है?"
+      },
+      "options": {
+        "a": {"en": "The importance of cleaning rooms", "hi": "कमरे साफ करने का महत्व"},
+        "b": {"en": "The struggle for freedom and space for a child against constant parental control", "hi": "माता-पिता के निरंतर नियंत्रण के खिलाफ बच्चे के लिए स्वतंत्रता और स्थान का संघर्ष"},
+        "c": {"en": "How to become a mermaid", "hi": "जलपरी कैसे बनें"},
+        "d": {"en": "The dangers of eating chocolate", "hi": "चॉकलेट खाने के खतरे"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The poem highlights the clash between a parent's rules and a child's inner desires.",
+        "hi": "कविता माता-पिता के नियमों और बच्चे की आंतरिक इच्छाओं के बीच टकराव को उजागर करती है।"
+      },
+      "explanation": {
+        "en": "The poem explores child psychology. It suggests that too much nagging and over-control can make a child withdraw into a fantasy world and feel suffocated in reality.",
+        "hi": "यह कविता बाल मनोविज्ञान को दर्शाती है। यह बताती है कि बहुत अधिक टोका-टोकी से बच्चा अपनी कल्पना की दुनिया में सिमट सकता है।"
+      },
+      "key_takeaway": {
+        "en": "Every child needs a balance of guidance and personal freedom.",
+        "hi": "हर बच्चे को मार्गदर्शन और व्यक्तिगत स्वतंत्रता के संतुलन की आवश्यकता होती है।"
+      }
+    }
+  ]
+}

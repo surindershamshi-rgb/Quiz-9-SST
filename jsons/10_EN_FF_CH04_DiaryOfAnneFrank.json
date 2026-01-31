@@ -1,0 +1,800 @@
+{
+  "metadata": {
+    "chapter_number": 4,
+    "chapter_title": "From the Diary of Anne Frank",
+    "chapter_title_hindi": "एनी फ्रैंक की डायरी से",
+    "subject": "English (First Flight) - Class 10",
+    "board": "HPBOSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.0",
+    "naming_convention": "10_EN_FF_CH04_DiaryOfAnneFrank.json"
+  },
+  "validation_report": {
+    "is_valid": true,
+    "checked_by": "AI Tutor",
+    "checked_at": "2026-01-21T09:45:00Z",
+    "notes": "Verified pedagogical flow and bilingual accuracy for Class 10 level."
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "Why does Anne Frank decide to keep a diary?",
+        "hi": "एनी फ्रैंक ने डायरी रखने का फैसला क्यों किया?"
+      },
+      "options": {
+        "a": {"en": "She was a great writer", "hi": "वह एक महान लेखिका थी"},
+        "b": {"en": "She had no true friend to talk to", "hi": "उसके पास बात करने के लिए कोई सच्चा दोस्त नहीं था"},
+        "c": {"en": "Her father forced her", "hi": "उसके पिता ने उसे मजबूर किया"},
+        "d": {"en": "To record history", "hi": "इतिहास को रिकॉर्ड करने के लिए"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "She mentions that despite having a loving family and many friends, she lacked someone to share her inner secrets with.",
+        "hi": "उसने उल्लेख किया है कि एक प्यारा परिवार और कई दोस्त होने के बावजूद, उसके पास अपने आंतरिक रहस्यों को साझा करने के लिए कोई नहीं था।"
+      },
+      "explanation": {
+        "en": "Anne feels lonely because she has no 'true' friend. While she has a loving family and around thirty people she can call friends, she can only talk about everyday things with them, not her deepest feelings.",
+        "hi": "एनी अकेलापन महसूस करती है क्योंकि उसके पास कोई 'सच्चा' दोस्त नहीं है। उसके पास परिवार और परिचित तो हैं, लेकिन वह उनसे अपने मन की गहरी बातें साझा नहीं कर पाती थी।"
+      },
+      "key_takeaway": {
+        "en": "A diary can act as a silent, non-judgmental friend.",
+        "hi": "एक डायरी एक खामोश और बिना किसी निर्णय के सुनने वाले दोस्त की तरह काम कर सकती है।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "What did Anne Frank name her diary?",
+        "hi": "एनी फ्रैंक ने अपनी डायरी का क्या नाम रखा था?"
+      },
+      "options": {
+        "a": {"en": "Anne", "hi": "एनी"},
+        "b": {"en": "Kitty", "hi": "किटी"},
+        "c": {"en": "Margot", "hi": "मार्गेाट"},
+        "d": {"en": "Sanne", "hi": "साने"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "She wanted her diary to be a long-awaited friend, so she gave it a person's name.",
+        "hi": "वह चाहती थी कि उसकी डायरी एक लंबे समय से प्रतीक्षित मित्र बने, इसलिए उसने इसे एक व्यक्ति का नाम दिया।"
+      },
+      "explanation": {
+        "en": "To enhance the image of this long-awaited friend in her imagination, she didn't just want to jot down facts; she wanted the diary to be her friend, and she named it 'Kitty'.",
+        "hi": "अपनी कल्पना में इस लंबे समय से प्रतीक्षित मित्र की छवि को और गहरा करने के लिए, उन्होंने डायरी को 'किटी' नाम दिया।"
+      },
+      "key_takeaway": {
+        "en": "Kitty = Anne's imaginary true friend.",
+        "hi": "Kitty = एनी की काल्पनिक सच्ची सहेली।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "What does the phrase 'paper has more patience than people' mean?",
+        "hi": "'कागज में लोगों की तुलना में अधिक धैर्य होता है' वाक्यांश का क्या अर्थ है?"
+      },
+      "options": {
+        "a": {"en": "Paper is made from trees", "hi": "कागज पेड़ों से बनता है"},
+        "b": {"en": "Paper doesn't judge or get bored of listening", "hi": "कागज न तो निर्णय देता है और न ही सुनने से ऊबता है"},
+        "c": {"en": "Writing on paper is easy", "hi": "कागज पर लिखना आसान है"},
+        "d": {"en": "People are always busy", "hi": "लोग हमेशा व्यस्त रहते हैं"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Think about how people might react if you talk too much or share too many secrets.",
+        "hi": "सोचिए कि यदि आप बहुत अधिक बात करते हैं या बहुत सारे रहस्य साझा करते हैं तो लोग कैसे प्रतिक्रिया दे सकते हैं।"
+      },
+      "explanation": {
+        "en": "Anne believed that paper is a better listener than humans because you can write as much as you want without being interrupted, judged, or told to stop. It doesn't lose interest in what you have to say.",
+        "hi": "एनी का मानना था कि कागज इंसानों की तुलना में बेहतर श्रोता है क्योंकि आप बिना किसी रोक-टोक या निर्णय के जितना चाहें उतना लिख सकते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Expressing yourself through writing provides emotional relief.",
+        "hi": "लिखने के माध्यम से खुद को व्यक्त करना भावनात्मक राहत देता है।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "In which city did Anne and Margot stay with their grandmother?",
+        "hi": "एनी और मार्गेाट अपनी दादी के साथ किस शहर में रुकी थीं?"
+      },
+      "options": {
+        "a": {"en": "Amsterdam", "hi": "एम्स्टर्डम"},
+        "b": {"en": "Frankfurt", "hi": "फ्रैंकफर्ट"},
+        "c": {"en": "Aachen", "hi": "आचेन"},
+        "d": {"en": "Berlin", "hi": "बर्लिन"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "Their parents moved to Holland first, and the sisters were sent to live with their grandmother in this German city.",
+        "hi": "उनके माता-पिता पहले हॉलैंड चले गए, और बहनों को इस जर्मन शहर में अपनी दादी के साथ रहने के लिए भेज दिया गया।"
+      },
+      "explanation": {
+        "en": "When Anne's parents emigrated to Holland in 1933, Margot and Anne were sent to Aachen to stay with their grandmother before eventually joining them in Holland.",
+        "hi": "जब एनी के माता-पिता 1933 में हॉलैंड चले गए, तो मार्गेाट और एनी को उनकी दादी के पास रहने के लिए 'आचेन' भेज दिया गया था।"
+      },
+      "key_takeaway": {
+        "en": "Aachen = The place of Anne's temporary stay with her grandmother.",
+        "hi": "Aachen = अपनी दादी के साथ एनी के अस्थायी निवास का स्थान।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "How did Anne feel about her grandmother?",
+        "hi": "एनी अपनी दादी के बारे में कैसा महसूस करती थी?"
+      },
+      "options": {
+        "a": {"en": "She didn't like her", "hi": "वह उन्हें पसंद नहीं करती थी"},
+        "b": {"en": "She loved her dearly and often thought of her", "hi": "वह उन्हें बहुत प्यार करती थी और अक्सर उनके बारे में सोचती थी"},
+        "c": {"en": "She found her too strict", "hi": "वह उन्हें बहुत सख्त मानती थी"},
+        "d": {"en": "She forgot her after moving to Holland", "hi": "हॉलैंड जाने के बाद वह उन्हें भूल गई"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Anne lit a special candle for her grandmother on her own birthday to show her love.",
+        "hi": "एनी ने अपने जन्मदिन पर अपनी दादी के प्रति प्यार दिखाने के लिए उनके लिए एक विशेष मोमबत्ती जलाई थी।"
+      },
+      "explanation": {
+        "en": "Anne states in her diary that no one knows how often she thinks of her grandmother and still loves her. She missed her deeply after her death in 1942.",
+        "hi": "एनी अपनी डायरी में कहती है कि कोई नहीं जानता कि वह अपनी दादी को कितना याद करती है। 1942 में उनकी मृत्यु के बाद वह उन्हें बहुत याद करती थी।"
+      },
+      "key_takeaway": {
+        "en": "Anne was a deeply emotional and sensitive girl.",
+        "hi": "एनी एक गहरी भावनात्मक और संवेदनशील लड़की थी।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "Who was Mr. Keesing?",
+        "hi": "मिस्टर कीसिंग कौन थे?"
+      },
+      "options": {
+        "a": {"en": "Her English teacher", "hi": "उनके अंग्रेजी शिक्षक"},
+        "b": {"en": "Her Math teacher", "hi": "उनके गणित शिक्षक"},
+        "c": {"en": "The Headmaster", "hi": "प्रधानाध्यापक"},
+        "d": {"en": "Her neighbor", "hi": "उनके पड़ोसी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He was the one who was annoyed with Anne for talking too much in class.",
+        "hi": "वह कक्षा में एनी के बहुत अधिक बात करने के कारण उससे चिढ़े हुए थे।"
+      },
+      "explanation": {
+        "en": "Mr. Keesing was an 'old fogey' who taught mathematics. He was annoyed with Anne for ages because she talked so much during his lessons.",
+        "hi": "मिस्टर कीसिंग गणित के शिक्षक थे, जो एनी की बातूनी आदतों की वजह से उससे नाराज़ रहते थे।"
+      },
+      "key_takeaway": {
+        "en": "Mr. Keesing = The mathematics teacher.",
+        "hi": "Mr. Keesing = गणित के शिक्षक।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "What was the first essay topic assigned to Anne as a punishment?",
+        "hi": "सजा के तौर पर एनी को दिया गया पहला निबंध विषय क्या था?"
+      },
+      "options": {
+        "a": {"en": "A Quiet Girl", "hi": "एक शांत लड़की"},
+        "b": {"en": "My Best Friend", "hi": "मेरा सबसे अच्छा दोस्त"},
+        "c": {"en": "A Chatterbox", "hi": "एक बातूनी (A Chatterbox)"},
+        "d": {"en": "The Importance of Math", "hi": "गणित का महत्व"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "It refers to someone who talks a lot.",
+        "hi": "यह उस व्यक्ति को संदर्भित करता है जो बहुत अधिक बातें करता है।"
+      },
+      "explanation": {
+        "en": "Because Anne wouldn't stop talking in class, Mr. Keesing assigned her an extra homework essay on the subject 'A Chatterbox'.",
+        "hi": "चूंकि एनी ने कक्षा में बात करना बंद नहीं किया, मिस्टर कीसिंग ने उसे 'ए चैटरबॉक्स' विषय पर एक निबंध लिखने की अतिरिक्त सजा दी।"
+      },
+      "key_takeaway": {
+        "en": "Chatterbox = A person who talks excessively.",
+        "hi": "Chatterbox = बहुत अधिक बातें करने वाला व्यक्ति।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "What argument did Anne give for her talkative nature in her essay?",
+        "hi": "एनी ने अपने निबंध में अपने बातूनी स्वभाव के लिए क्या तर्क दिया?"
+      },
+      "options": {
+        "a": {"en": "She was bored", "hi": "वह ऊब गई थी"},
+        "b": {"en": "It was an inherited trait from her mother", "hi": "यह उसकी माँ से विरासत में मिला गुण था"},
+        "c": {"en": "She wanted to annoy the teacher", "hi": "वह शिक्षक को परेशान करना चाहती थी"},
+        "d": {"en": "She didn't know how to stay quiet", "hi": "वह नहीं जानती थी कि शांत कैसे रहा जाए"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "She argued that talking is a student's trait and that she got it from a family member.",
+        "hi": "उसने तर्क दिया कि बात करना एक छात्र का गुण है और उसे यह परिवार के किसी सदस्य से मिला है।"
+      },
+      "explanation": {
+        "en": "Anne argued that talking was a student's trait and she would do her best to control it. However, she claimed she couldn't cure it because her mother talked as much as she did, making it an 'inherited trait'.",
+        "hi": "एनी ने तर्क दिया कि उसकी माँ भी उतनी ही बातूनी थी, इसलिए यह एक 'विरासत में मिला गुण' (inherited trait) था जिसे बदला नहीं जा सकता।"
+      },
+      "key_takeaway": {
+        "en": "Inherited trait = A quality passed from parents to children.",
+        "hi": "Inherited trait = माता-पिता से बच्चों में आने वाला गुण।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "What was the second essay topic given to Anne?",
+        "hi": "एनी को दिया गया दूसरा निबंध विषय क्या था?"
+      },
+      "options": {
+        "a": {"en": "An Obedient Student", "hi": "एक आज्ञाकारी छात्र"},
+        "b": {"en": "An Incorrigible Chatterbox", "hi": "एक न सुधरने वाली बातूनी (An Incorrigible Chatterbox)"},
+        "c": {"en": "A Silent Classroom", "hi": "एक शांत कक्षा"},
+        "d": {"en": "The Diary of a Girl", "hi": "एक लड़की की डायरी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The word 'incorrigible' means something that cannot be corrected or improved.",
+        "hi": "'Incorrigible' शब्द का अर्थ है ऐसी चीज़ जिसे सुधारा नहीं जा सकता।"
+      },
+      "explanation": {
+        "en": "After Anne continued to talk despite the first essay, Mr. Keesing gave her another essay titled 'An Incorrigible Chatterbox'.",
+        "hi": "पहले निबंध के बावजूद एनी के बात करना जारी रखने पर, मिस्टर कीसिंग ने उसे 'एन इनकॉरिजिबल चैटरबॉक्स' नामक एक और निबंध दिया।"
+      },
+      "key_takeaway": {
+        "en": "Incorrigible = Something beyond repair or improvement.",
+        "hi": "Incorrigible = जिसे सुधारा न जा सके।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "Who helped Anne write her third essay in verse (poetry)?",
+        "hi": "एनी को उसका तीसरा निबंध पद्य (कविता) में लिखने में किसने मदद की?"
+      },
+      "options": {
+        "a": {"en": "Margot", "hi": "मार्गेाट"},
+        "b": {"en": "Her father", "hi": "उसके पिता"},
+        "c": {"en": "Her friend Sanne", "hi": "उसकी सहेली साने"},
+        "d": {"en": "Mr. Keesing", "hi": "मिस्टर कीसिंग"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "This friend was good at poetry and helped Anne make the punishment funny.",
+        "hi": "यह सहेली कविता में अच्छी थी और उसने एनी को सजा को मज़ेदार बनाने में मदद की।"
+      },
+      "explanation": {
+        "en": "When Mr. Keesing assigned a third topic 'Quack, Quack, Quack, Said Mistress Chatterbox', Anne's friend Sanne, who was good at poetry, offered to help her write it in verse from beginning to end.",
+        "hi": "एनी की सहेली साने, जो कविता लिखने में माहिर थी, उसने एनी को तीसरा निबंध पूरी तरह कविता के रूप में लिखने में मदद की।"
+      },
+      "key_takeaway": {
+        "en": "Creative collaboration can turn a punishment into art.",
+        "hi": "रचनात्मक सहयोग एक सजा को कला में बदल सकता है।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "What was the story of the poem Anne wrote for her third essay?",
+        "hi": "एनी द्वारा अपने तीसरे निबंध के लिए लिखी गई कविता की कहानी क्या थी?"
+      },
+      "options": {
+        "a": {"en": "A girl and her cat", "hi": "एक लड़की और उसकी बिल्ली"},
+        "b": {"en": "A mother duck and a father swan with three ducklings", "hi": "एक माँ बत्तख और पिता हंस और उनके तीन बच्चे"},
+        "c": {"en": "A teacher and his students", "hi": "एक शिक्षक और उसके छात्र"},
+        "d": {"en": "A flower in a garden", "hi": "बगीचे में एक फूल"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The story had a father who was very strict and biting.",
+        "hi": "कहानी में एक पिता था जो बहुत सख्त और काटने वाला था।"
+      },
+      "explanation": {
+        "en": "The poem was about a mother duck and a father swan with three baby ducklings who were bitten to death by the father because they quacked too much.",
+        "hi": "कविता एक माँ बत्तख और पिता हंस के बारे में थी जिन्होंने अपने तीन बच्चों को केवल इसलिए मार दिया क्योंकि वे बहुत अधिक 'क्वैक्-क्वैक्' (बातें) करते थे।"
+      },
+      "key_takeaway": {
+        "en": "The poem was a humorous satire on Mr. Keesing.",
+        "hi": "यह कविता मिस्टर कीसिंग पर एक मज़ाकिया व्यंग्य थी।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "How did Mr. Keesing react to Anne's poem?",
+        "hi": "मिस्टर कीसिंग ने एनी की कविता पर कैसी प्रतिक्रिया दी?"
+      },
+      "options": {
+        "a": {"en": "He got very angry and expelled her", "hi": "उन्हें बहुत गुस्सा आया और उन्होंने उसे निकाल दिया"},
+        "b": {"en": "He took the joke in the right way and read it to the class", "hi": "उन्होंने मज़ाक को सही तरीके से लिया और इसे कक्षा को पढ़कर सुनाया"},
+        "c": {"en": "He didn't understand it", "hi": "उन्हें यह समझ में नहीं आया"},
+        "d": {"en": "He complained to her parents", "hi": "उन्होंने उसके माता-पिता से शिकायत की"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He enjoyed the humor and even added his own comments while reading it.",
+        "hi": "उन्होंने इसके मज़ाक का आनंद लिया और इसे पढ़ते समय अपनी टिप्पणी भी जोड़ी।"
+      },
+      "explanation": {
+        "en": "Mr. Keesing took the joke perfectly. He read the poem to Anne's class and several other classes, adding his own remarks. After that, he allowed Anne to talk in class.",
+        "hi": "मिस्टर कीसिंग ने मज़ाक को खेल की भावना से लिया। उन्होंने इसे पूरी कक्षा को सुनाया और उसके बाद एनी को कक्षा में बात करने की अनुमति दे दी।"
+      },
+      "key_takeaway": {
+        "en": "Humor can bridge gaps between teachers and students.",
+        "hi": "हास्य शिक्षकों और छात्रों के बीच की दूरी को कम कर सकता है।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "What did Anne call her family in the brief sketch of her life?",
+        "hi": "एनी ने अपने जीवन के संक्षिप्त रेखाचित्र में अपने परिवार को क्या कहा?"
+      },
+      "options": {
+        "a": {"en": "Ordinary and boring", "hi": "साधारण और उबाऊ"},
+        "b": {"en": "Loving and supportive", "hi": "प्यारा और सहायक"},
+        "c": {"en": "Strict and cold", "hi": "सख्त और रूखा"},
+        "d": {"en": "Small and quiet", "hi": "छोटा और शांत"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "She describes her 'adorable father' and a good home environment.",
+        "hi": "वह अपने 'प्यारे पिता' और घर के अच्छे माहौल का वर्णन करती है।"
+      },
+      "explanation": {
+        "en": "Anne provided a brief sketch because she felt no one would understand her stories to Kitty otherwise. She describes a loving family, including her 'most adorable father' and a sixteen-year-old sister.",
+        "hi": "एनी ने बताया कि उसका परिवार बहुत प्यारा था, विशेष रूप से उसके पिता जिन्हें वह बहुत मानती थी।"
+      },
+      "key_takeaway": {
+        "en": "Anne valued her family despite her loneliness for a friend.",
+        "hi": "दोस्त की कमी के बावजूद एनी अपने परिवार को बहुत महत्व देती थी।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "Which subject was Anne most unsure about passing?",
+        "hi": "एनी को किस विषय में पास होने का सबसे कम भरोसा था?"
+      },
+      "options": {
+        "a": {"en": "English", "hi": "अंग्रेजी"},
+        "b": {"en": "History", "hi": "इतिहास"},
+        "c": {"en": "Mathematics", "hi": "गणित"},
+        "d": {"en": "Science", "hi": "विज्ञान"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "It was the subject taught by Mr. Keesing.",
+        "hi": "यह मिस्टर कीसिंग द्वारा पढ़ाया जाने वाला विषय था।"
+      },
+      "explanation": {
+        "en": "Anne and her friends were nervous about the upcoming meeting where teachers would decide who moves to the next form. Anne was confident about most subjects, except for Math.",
+        "hi": "एनी को लगभग सभी विषयों में यकीन था, सिवाय गणित के, जिसमें वह थोड़ा कमज़ोर महसूस करती थी।"
+      },
+      "key_takeaway": {
+        "en": "Math is often a source of anxiety for many students.",
+        "hi": "गणित अक्सर कई छात्रों के लिए चिंता का विषय होता है।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "What does Anne mean by saying 'teachers are the most unpredictable creatures on earth'?",
+        "hi": "एनी का यह कहने का क्या मतलब है कि 'शिक्षक पृथ्वी पर सबसे अप्रत्याशित प्राणी हैं'?"
+      },
+      "options": {
+        "a": {"en": "Teachers are like animals", "hi": "शिक्षक जानवरों की तरह होते हैं"},
+        "b": {"en": "It is hard to guess how teachers will decide results", "hi": "यह अंदाज़ा लगाना मुश्किल है कि शिक्षक परिणामों का फैसला कैसे करेंगे"},
+        "c": {"en": "Teachers are very kind", "hi": "शिक्षक बहुत दयालु होते हैं"},
+        "d": {"en": "Teachers never change their minds", "hi": "शिक्षक कभी अपना मन नहीं बदलते"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "She said this while discussing which students would pass and which would fail.",
+        "hi": "उन्होंने यह बात तब कही जब वे चर्चा कर रहे थे कि कौन से छात्र पास होंगे और कौन से फेल।"
+      },
+      "explanation": {
+        "en": "Anne believed that you can never tell what teachers might do or how they will judge students during the final results. Their decisions can be surprising and unexpected.",
+        "hi": "एनी का मानना था कि शिक्षक कब क्या फैसला कर लें, इसका अंदाज़ा लगाना बहुत मुश्किल है।"
+      },
+      "key_takeaway": {
+        "en": "Unpredictable = Someone whose actions cannot be guessed beforehand.",
+        "hi": "Unpredictable = जिसके कार्यों का पहले से अंदाज़ा न लगाया जा सके।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "Why was the whole class 'quaking in its boots'?",
+        "hi": "पूरी कक्षा 'खौफ से कांप' (quaking in its boots) क्यों रही थी?"
+      },
+      "options": {
+        "a": {"en": "Because it was very cold", "hi": "क्योंकि बहुत ठंड थी"},
+        "b": {"en": "Because the results were about to be announced", "hi": "क्योंकि परिणाम घोषित होने वाले थे"},
+        "c": {"en": "Because they saw a ghost", "hi": "क्योंकि उन्होंने एक भूत देखा"},
+        "d": {"en": "Because they were going on a trip", "hi": "क्योंकि वे एक यात्रा पर जा रहे थे"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Think about the nervousness students feel before the teacher decides who goes to the next grade.",
+        "hi": "अगली कक्षा में कौन जाएगा, इस फैसले से पहले छात्रों को होने वाली घबराहट के बारे में सोचें।"
+      },
+      "explanation": {
+        "en": "The class was nervous because of the upcoming meeting where teachers would decide who stays back and who moves to the next class. They were betting on each other's success.",
+        "hi": "कक्षा के छात्र घबराए हुए थे क्योंकि शिक्षकों की मीटिंग होने वाली थी जिसमें अगली कक्षा में जाने वाले छात्रों का फैसला होना था।"
+      },
+      "key_takeaway": {
+        "en": "Quaking in its boots = Extremely nervous or shaking with fear.",
+        "hi": "Quaking in its boots = बहुत अधिक घबराया हुआ या डर से कांपना।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "How did Anne's father describe her mother as a wife?",
+        "hi": "एनी के पिता ने उसकी माँ को पत्नी के रूप में कैसे वर्णित किया?"
+      },
+      "options": {
+        "a": {"en": "He didn't mention it", "hi": "उन्होंने इसका उल्लेख नहीं किया"},
+        "b": {"en": "He waited until he was thirty-six to marry her", "hi": "उन्होंने उनसे शादी करने के लिए छत्तीस साल की उम्र तक इंतज़ार किया"},
+        "c": {"en": "They were always fighting", "hi": "वे हमेशा लड़ते रहते थे"},
+        "d": {"en": "She was too young", "hi": "वह बहुत छोटी थी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Anne's father married her mother when she was twenty-five and he was much older.",
+        "hi": "एनी के पिता ने उसकी माँ से तब शादी की जब वह पच्चीस साल की थी और वह काफी बड़े थे।"
+      },
+      "explanation": {
+        "en": "Anne writes that her 'adorable father' didn't marry her mother until he was thirty-six and she was twenty-five. This shows a traditional family background.",
+        "hi": "एनी ने बताया कि उसके पिता ने 36 वर्ष की आयु में उसकी माँ (25 वर्ष) से विवाह किया था।"
+      },
+      "key_takeaway": {
+        "en": "Anne provided specific biographical details to build trust with the diary reader.",
+        "hi": "एनी ने डायरी पाठक के साथ विश्वास बनाने के लिए विशिष्ट जीवनी संबंधी विवरण दिए।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "What did Anne do to pass the time during the math lesson punishment?",
+        "hi": "गणित के पाठ की सजा के दौरान एनी ने समय बिताने के लिए क्या किया?"
+      },
+      "options": {
+        "a": {"en": "She slept", "hi": "वह सो गई"},
+        "b": {"en": "She drew pictures", "hi": "उसने चित्र बनाए"},
+        "c": {"en": "She thought about how to make her essay unique", "hi": "उसने सोचा कि अपने निबंध को अद्वितीय कैसे बनाया जाए"},
+        "d": {"en": "She kept talking to Sanne", "hi": "वह साने से बात करती रही"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "She didn't want to just fill space; she wanted to give convincing arguments.",
+        "hi": "वह केवल खाली जगह नहीं भरना चाहती थी; वह ठोस तर्क देना चाहती थी।"
+      },
+      "explanation": {
+        "en": "Anne was worried about the essay homework. She wanted to come up with 'convincing arguments' to prove the necessity of talking, rather than just writing words with big spaces in between.",
+        "hi": "एनी केवल शब्द नहीं भरना चाहती थी, बल्कि वह बात करने की आवश्यकता को साबित करने के लिए 'ठोस तर्क' देना चाहती थी।"
+      },
+      "key_takeaway": {
+        "en": "Convincing arguments = Powerful reasons that make people believe you.",
+        "hi": "Convincing arguments = शक्तिशाली कारण जो लोगों को आप पर विश्वास दिलाते हैं।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "On what date did Anne begin her diary entry in the chapter?",
+        "hi": "अध्याय में एनी ने अपनी डायरी प्रविष्टि किस तारीख को शुरू की थी?"
+      },
+      "options": {
+        "a": {"en": "12 June 1929", "hi": "12 जून 1929"},
+        "b": {"en": "20 June 1942", "hi": "20 जून 1942"},
+        "c": {"en": "10 May 1994", "hi": "10 मई 1994"},
+        "d": {"en": "21 January 2026", "hi": "21 जनवरी 2026"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It was a Saturday. She began writing it about two years before she went into hiding.",
+        "hi": "वह शनिवार का दिन था। उसने इसे छिपने के करीब दो साल पहले लिखना शुरू किया था।"
+      },
+      "explanation": {
+        "en": "The specific entry provided in the textbook is dated Saturday, 20 June 1942. This is when she describes the nervous atmosphere in her class.",
+        "hi": "पाठ्यपुस्तक में दी गई डायरी प्रविष्टि शनिवार, 20 जून 1942 की है।"
+      },
+      "key_takeaway": {
+        "en": "A diary entry usually starts with the date and day.",
+        "hi": "एक डायरी प्रविष्टि आमतौर पर तारीख और दिन के साथ शुरू होती है।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "What did Anne call 'the most annoying part of the school year'?",
+        "hi": "एनी ने 'स्कूल वर्ष का सबसे कष्टप्रद हिस्सा' किसे कहा?"
+      },
+      "options": {
+        "a": {"en": "The math lessons", "hi": "गणित के पाठ"},
+        "b": {"en": "The long walks home", "hi": "घर तक की लंबी पैदल यात्रा"},
+        "c": {"en": "Waiting for the exam results", "hi": "परीक्षा परिणामों की प्रतीक्षा करना"},
+        "d": {"en": "Writing essays", "hi": "निबंध लिखना"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "It involves the 'teachers' meeting' and lots of betting.",
+        "hi": "इसमें 'शिक्षकों की बैठक' और बहुत सारी सट्टेबाजी शामिल है।"
+      },
+      "explanation": {
+        "en": "Anne refers to the time when teachers decide students' futures as a period of extreme anxiety and betting, where half the class is making bets on who will pass.",
+        "hi": "एनी ने उस समय को सबसे कष्टप्रद बताया जब शिक्षक छात्रों के भविष्य का फैसला करते हैं और छात्र आपस में शर्त लगाते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Result time is stressful for students of all eras.",
+        "hi": "रिजल्ट का समय हर युग के छात्रों के लिए तनावपूर्ण होता है।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "What does Anne say about her sister Margot?",
+        "hi": "एनी अपनी बहन मार्गेाट के बारे में क्या कहती है?"
+      },
+      "options": {
+        "a": {"en": "Margot was born in 1926", "hi": "मार्गेाट का जन्म 1926 में हुआ था"},
+        "b": {"en": "Margot was lazy", "hi": "मार्गेाट आलसी थी"},
+        "c": {"en": "Margot didn't go to school", "hi": "मार्गेाट स्कूल नहीं गई"},
+        "d": {"en": "Margot hated the diary", "hi": "मार्गेाट को डायरी से नफरत थी"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "Margot was three years older than Anne.",
+        "hi": "मार्गेाट एनी से तीन साल बड़ी थी।"
+      },
+      "explanation": {
+        "en": "Anne records that Margot was born in Frankfurt, Germany in 1926, while Anne herself was born in 1929.",
+        "hi": "एनी ने बताया कि मार्गेाट का जन्म 1926 में हुआ था और वह उसकी बड़ी बहन थी।"
+      },
+      "key_takeaway": {
+        "en": "Anne and Margot had a typical sibling relationship.",
+        "hi": "एनी और मार्गेाट के बीच एक सामान्य भाई-बहन का रिश्ता था।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "What did Anne think about 'quarter of the class'?",
+        "hi": "एनी ने 'कक्षा के एक चौथाई' भाग के बारे में क्या सोचा?"
+      },
+      "options": {
+        "a": {"en": "They were geniuses", "hi": "वे प्रतिभाशाली थे"},
+        "b": {"en": "They were 'dummies' who should be kept back", "hi": "वे 'मूर्ख' (dummies) थे जिन्हें उसी कक्षा में रखना चाहिए"},
+        "c": {"en": "They were her best friends", "hi": "वे उसके सबसे अच्छे दोस्त थे"},
+        "d": {"en": "They were great athletes", "hi": "वे महान एथलीट थे"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "She used a harsh word to describe students who didn't study well.",
+        "hi": "उसने उन छात्रों का वर्णन करने के लिए एक कठोर शब्द का इस्तेमाल किया जो ठीक से पढ़ाई नहीं करते थे।"
+      },
+      "explanation": {
+        "en": "Anne says that in her opinion, there are about a quarter of the class who are so 'dummies' that they should be kept back in the same grade.",
+        "hi": "एनी का मानना था कि कक्षा के लगभग एक चौथाई छात्र इतने फिसड्डी (dummies) थे कि उन्हें फेल कर देना चाहिए।"
+      },
+      "key_takeaway": {
+        "en": "Dummies = Students who are considered unintelligent or slow at learning.",
+        "hi": "Dummies = वे छात्र जिन्हें कम बुद्धिमान या सीखने में धीमा माना जाता है।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "Which year did Anne's grandmother die?",
+        "hi": "एनी की दादी की मृत्यु किस वर्ष हुई थी?"
+      },
+      "options": {
+        "a": {"en": "1940", "hi": "1940"},
+        "b": {"en": "1941", "hi": "1941"},
+        "c": {"en": "1942", "hi": "1942"},
+        "d": {"en": "1945", "hi": "1945"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "She fell ill in 1941 but passed away in January of the following year.",
+        "hi": "वह 1941 में बीमार पड़ीं लेकिन अगले वर्ष जनवरी में उनका निधन हो गया।"
+      },
+      "explanation": {
+        "en": "Grandmother fell ill in the summer of 1941 and had an operation, but she passed away in January 1942.",
+        "hi": "एनी की दादी का निधन जनवरी 1942 में हुआ था।"
+      },
+      "key_takeaway": {
+        "en": "January 1942 = The end of an era for Anne with her grandmother.",
+        "hi": "जनवरी 1942 = दादी के साथ एनी के एक युग का अंत।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "Why was writing in a diary a 'strange experience' for Anne?",
+        "hi": "डायरी में लिखना एनी के लिए एक 'अजीब अनुभव' क्यों था?"
+      },
+      "options": {
+        "a": {"en": "She had never written anything before", "hi": "उसने पहले कभी कुछ नहीं लिखा था"},
+        "b": {"en": "She thought no one would be interested in a thirteen-year-old's thoughts later", "hi": "उसने सोचा कि बाद में किसी को तेरह साल की बच्ची के विचारों में दिलचस्पी नहीं होगी"},
+        "c": {"en": "The paper was too expensive", "hi": "कागज बहुत महंगा था"},
+        "d": {"en": "She was afraid her parents would read it", "hi": "उसे डर था कि उसके माता-पिता इसे पढ़ लेंगे"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "She questioned if the musings of a young girl would matter to adults or her future self.",
+        "hi": "उसने सवाल किया कि क्या एक छोटी लड़की के विचार वयस्कों या उसके भविष्य के लिए मायने रखेंगे।"
+      },
+      "explanation": {
+        "en": "Writing in a diary was strange because Anne had never written before, and she felt that neither she nor anyone else would be interested in the musings of a thirteen-year-old schoolgirl later on.",
+        "hi": "एनी को लगा कि शायद भविष्य में कोई तेरह साल की लड़की के विचारों को पढ़ना नहीं चाहेगा, इसलिए उसे लिखना अजीब लग रहा था।"
+      },
+      "key_takeaway": {
+        "en": "Musings = Reflections or deep thoughts.",
+        "hi": "Musings = चिंतन या गहरे विचार।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "What did Anne do to start her diary entry of 20th June 1942?",
+        "hi": "एनी ने 20 जून 1942 की अपनी डायरी प्रविष्टि शुरू करने के लिए क्या किया?"
+      },
+      "options": {
+        "a": {"en": "She wrote a long poem", "hi": "उसने एक लंबी कविता लिखी"},
+        "b": {"en": "She addressed it to 'Dearest Kitty'", "hi": "उसने इसे 'डियरेस्ट किटी' (Dearest Kitty) कहकर संबोधित किया"},
+        "c": {"en": "She complained about her Math teacher", "hi": "उसने अपने गणित शिक्षक के बारे में शिकायत की"},
+        "d": {"en": "She drew a picture of her class", "hi": "उसने अपनी कक्षा का चित्र बनाया"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This is how someone starts a letter to a close friend.",
+        "hi": "इस तरह कोई अपने करीबी दोस्त को पत्र शुरू करता है।"
+      },
+      "explanation": {
+        "en": "Anne started her diary entries by addressing it to 'Dearest Kitty', treating the diary as a living friend to whom she was writing a letter.",
+        "hi": "एनी ने अपनी डायरी को 'डियरेस्ट किटी' के रूप में संबोधित करना शुरू किया, जैसे कि वह किसी मित्र को पत्र लिख रही हो।"
+      },
+      "key_takeaway": {
+        "en": "Personalizing the diary helped Anne overcome her loneliness.",
+        "hi": "डायरी को व्यक्तिगत रूप देने से एनी को अपना अकेलापन दूर करने में मदद मिली।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "What was the result of the betting between GN and Anne?",
+        "hi": "जीएन (GN) और एनी के बीच सट्टेबाजी का क्या परिणाम रहा?"
+      },
+      "options": {
+        "a": {"en": "They lost all their money", "hi": "वे अपने सारे पैसे हार गए"},
+        "b": {"en": "They laughed at the two boys behind them", "hi": "वे अपने पीछे बैठे दो लड़कों पर हँसे"},
+        "c": {"en": "They got into a fight", "hi": "उनका झगड़ा हो गया"},
+        "d": {"en": "They stopped talking to each other", "hi": "उन्होंने एक-दूसरे से बात करना बंद कर दिया"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The boys had staked their entire holiday savings on their bet.",
+        "hi": "लड़कों ने अपनी पूरी छुट्टी की बचत दांव पर लगा दी थी।"
+      },
+      "explanation": {
+        "en": "Anne and her friend GN laughed themselves silly at CN and Jacques, the two boys behind them, who had staked their entire holiday savings on their bet of who would pass.",
+        "hi": "एनी और उसकी सहेली अपने पीछे बैठे दो लड़कों पर हँस रहे थे जिन्होंने अपनी छुट्टियों की पूरी कमाई शर्त पर लगा दी थी।"
+      },
+      "key_takeaway": {
+        "en": "Staked = Risked something valuable on a bet.",
+        "hi": "Staked = दांव पर लगाना।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "Which of these is a nickname given to talkative people by Mr. Keesing?",
+        "hi": "मिस्टर कीसिंग द्वारा बातूनी लोगों को दिया गया उपनाम इनमें से कौन सा है?"
+      },
+      "options": {
+        "a": {"en": "The Swan", "hi": "हंस"},
+        "b": {"en": "Mistress Chatterbox", "hi": "मिस्ट्रेस चैटरबॉक्स"},
+        "c": {"en": "The Silent One", "hi": "शांत रहने वाला"},
+        "d": {"en": "The Professor", "hi": "प्रोफेसर"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He used this title for the third essay assignment.",
+        "hi": "उन्होंने तीसरे निबंध असाइनमेंट के लिए इस शीर्षक का उपयोग किया था।"
+      },
+      "explanation": {
+        "en": "For the third punishment essay, Mr. Keesing used the title 'Quack, Quack, Quack, Said Mistress Chatterbox' to mock Anne's talking habit.",
+        "hi": "मिस्टर कीसिंग ने एनी का मज़ाक उड़ाने के लिए उसे 'मिस्ट्रेस चैटरबॉक्स' कहा।"
+      },
+      "key_takeaway": {
+        "en": "Mistress Chatterbox = A mocking title for a talkative girl.",
+        "hi": "Mistress Chatterbox = बातूनी लड़की के लिए इस्तेमाल किया गया मज़ाकिया नाम।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "What did Anne feel was a 'student's trait'?",
+        "hi": "एनी को क्या लगा कि यह एक 'छात्र का गुण' है?"
+      },
+      "options": {
+        "a": {"en": "Studying hard", "hi": "कड़ी मेहनत से पढ़ाई करना"},
+        "b": {"en": "Talking", "hi": "बात करना (Talking)"},
+        "c": {"en": "Playing sports", "hi": "खेल खेलना"},
+        "d": {"en": "Drawing", "hi": "चित्रकारी करना"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "She argued this in her very first essay to justify her behavior.",
+        "hi": "उसने अपने व्यवहार को सही ठहराने के लिए अपने पहले निबंध में यह तर्क दिया था।"
+      },
+      "explanation": {
+        "en": "In her essay, Anne wrote that 'talking is a student’s trait' and that she would try her best to keep it under control, though she knew it would be difficult.",
+        "hi": "एनी ने अपने निबंध में लिखा कि 'बात करना एक छात्र का गुण है' और वह इसे नियंत्रित करने की कोशिश करेगी।"
+      },
+      "key_takeaway": {
+        "en": "Trait = A particular characteristic or quality.",
+        "hi": "Trait = एक विशेष विशेषता या गुण।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "How many baby ducklings were in the poem Anne wrote?",
+        "hi": "एनी द्वारा लिखी गई कविता में बत्तख के कितने बच्चे थे?"
+      },
+      "options": {
+        "a": {"en": "Two", "hi": "दो"},
+        "b": {"en": "Three", "hi": "तीन"},
+        "c": {"en": "Four", "hi": "चार"},
+        "d": {"en": "Five", "hi": "पाँच"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The number is mentioned specifically in the context of the father swan's reaction.",
+        "hi": "संख्या का उल्लेख विशेष रूप से पिता हंस की प्रतिक्रिया के संदर्भ में किया गया है।"
+      },
+      "explanation": {
+        "en": "The poem featured three baby ducklings who were bitten to death by their father because they quacked too much.",
+        "hi": "कविता में बत्तख के तीन बच्चे थे जिन्हें उनके पिता ने मार दिया था।"
+      },
+      "key_takeaway": {
+        "en": "The number three symbolized how small and innocent the talkers were.",
+        "hi": "संख्या तीन इस बात का प्रतीक थी कि बात करने वाले कितने छोटे और मासूम थे।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "What does this chapter tell us about Anne's relationship with her teachers?",
+        "hi": "यह अध्याय हमें अपने शिक्षकों के साथ एनी के संबंधों के बारे में क्या बताता है?"
+      },
+      "options": {
+        "a": {"en": "She hated all of them", "hi": "वह उन सभी से नफरत करती थी"},
+        "b": {"en": "She was respectful but witty and bold", "hi": "वह सम्मानजनक थी लेकिन विनोदी और साहसी भी थी"},
+        "c": {"en": "She was afraid of them", "hi": "वह उनसे डरती थी"},
+        "d": {"en": "She never talked to them", "hi": "उसने उनसे कभी बात नहीं की"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Look at how she handled Mr. Keesing's punishment with humor instead of anger.",
+        "hi": "देखें कि उसने गुस्से के बजाय हास्य के साथ मिस्टर कीसिंग की सजा को कैसे संभाला।"
+      },
+      "explanation": {
+        "en": "Anne's interaction with Mr. Keesing shows that she was clever and used her wit to turn a negative situation into a positive one. She didn't rebel disrespectfully but used humor to win him over.",
+        "hi": "मिस्टर कीसिंग के साथ एनी की बातचीत दिखाती है कि वह चतुर थी और उसने नकारात्मक स्थिति को सकारात्मक में बदलने के लिए अपनी बुद्धि का उपयोग किया।"
+      },
+      "key_takeaway": {
+        "en": "Intelligence and wit can solve many interpersonal conflicts.",
+        "hi": "बुद्धि और हास्य कई व्यक्तिगत संघर्षों को हल कर सकते हैं।"
+      }
+    }
+  ]
+}

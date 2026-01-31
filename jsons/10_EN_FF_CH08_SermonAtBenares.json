@@ -1,0 +1,800 @@
+{
+  "metadata": {
+    "chapter_number": 8,
+    "chapter_title": "The Sermon at Benares",
+    "chapter_title_hindi": "बनारस में प्रवचन",
+    "subject": "English (First Flight) - Class 10",
+    "board": "HPBOSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.0",
+    "naming_convention": "10_EN_FF_CH08_SermonAtBenares.json"
+  },
+  "validation_report": {
+    "is_valid": true,
+    "checked_by": "AI Tutor",
+    "checked_at": "2026-01-21T14:30:00Z",
+    "notes": "Covers historical context of the Buddha and the philosophical journey of Kisa Gotami."
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "What was the original name of Gautama Buddha?",
+        "hi": "गौतम बुद्ध का मूल नाम क्या था?"
+      },
+      "options": {
+        "a": {"en": "Siddharth", "hi": "सिद्धार्थ"},
+        "b": {"en": "Suddhodana", "hi": "शुद्धोधन"},
+        "c": {"en": "Mahavir", "hi": "महावीर"},
+        "d": {"en": "Rahul", "hi": "राहुल"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "He was a prince born in Northern India who later became the enlightened one.",
+        "hi": "वे उत्तर भारत में जन्मे एक राजकुमार थे जो बाद में प्रबुद्ध (enlightened) बने।"
+      },
+      "explanation": {
+        "en": "Gautama Buddha began his life as a prince named Siddhartha Gautama in Northern India. He was kept away from the sufferings of the world during his early years.",
+        "hi": "गौतम बुद्ध का जन्म उत्तरी भारत में सिद्धार्थ गौतम नाम के एक राजकुमार के रूप में हुआ था। उन्हें उनके शुरुआती वर्षों में दुनिया के दुखों से दूर रखा गया था।"
+      },
+      "key_takeaway": {
+        "en": "Siddhartha Gautama = The birth name of the Buddha.",
+        "hi": "सिद्धार्थ गौतम = बुद्ध के बचपन का नाम।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "At what age was Siddhartha sent away for schooling?",
+        "hi": "सिद्धार्थ को किस उम्र में स्कूली शिक्षा के लिए भेजा गया था?"
+      },
+      "options": {
+        "a": {"en": "Ten", "hi": "दस"},
+        "b": {"en": "Twelve", "hi": "बारह"},
+        "c": {"en": "Sixteen", "hi": "सोलह"},
+        "d": {"en": "Eighteen", "hi": "अठारह"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He was sent to study Hindu sacred scriptures.",
+        "hi": "उन्हें हिंदू पवित्र शास्त्रों का अध्ययन करने के लिए भेजा गया था।"
+      },
+      "explanation": {
+        "en": "At the age of twelve, Siddhartha was sent away for schooling in the Hindu sacred scriptures and returned four years later to marry a princess.",
+        "hi": "बारह वर्ष की आयु में, सिद्धार्थ को हिंदू पवित्र शास्त्रों की शिक्षा के लिए भेजा गया और चार साल बाद वे वापस लौटे।"
+      },
+      "key_takeaway": {
+        "en": "Age 12 = Beginning of formal religious education.",
+        "hi": "12 वर्ष = औपचारिक धार्मिक शिक्षा की शुरुआत।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "What sight first moved Siddhartha to seek enlightenment?",
+        "hi": "किस दृश्य ने सिद्धार्थ को पहली बार ज्ञान (enlightenment) की खोज के लिए प्रेरित किया?"
+      },
+      "options": {
+        "a": {"en": "A beautiful garden", "hi": "एक सुंदर बगीचा"},
+        "b": {"en": "A sick man, an aged man, and a funeral procession", "hi": "एक बीमार व्यक्ति, एक वृद्ध व्यक्ति और एक शव यात्रा"},
+        "c": {"en": "A grand wedding", "hi": "एक भव्य शादी"},
+        "d": {"en": "A victory in war", "hi": "युद्ध में जीत"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He saw these while out hunting, and these sights represented the inevitable sufferings of life.",
+        "hi": "उन्होंने शिकार के दौरान ये दृश्य देखे थे, जो जीवन के अपरिहार्य दुखों का प्रतिनिधित्व करते थे।"
+      },
+      "explanation": {
+        "en": "While out hunting, Siddhartha chanced upon a sick man, then an aged man, then a funeral procession, and finally a monk begging for alms. These sights moved him so deeply that he went out into the world to seek enlightenment.",
+        "hi": "शिकार के दौरान सिद्धार्थ ने एक बीमार व्यक्ति, एक बूढ़ा आदमी और एक अर्थी देखी। इन दुखों को देखकर उनका मन बदल गया और वे ज्ञान की खोज में निकल पड़े।"
+      },
+      "key_takeaway": {
+        "en": "Sickness, old age, and death are the fundamental realities of life.",
+        "hi": "बीमारी, बुढ़ापा और मृत्यु जीवन की मूलभूत वास्तविकताएं हैं।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "How long did Siddhartha wander before he sat under the Peepal tree?",
+        "hi": "पीपल के पेड़ के नीचे बैठने से पहले सिद्धार्थ कितने समय तक भटकते रहे?"
+      },
+      "options": {
+        "a": {"en": "Five years", "hi": "पाँच साल"},
+        "b": {"en": "Seven years", "hi": "सात साल"},
+        "c": {"en": "Ten years", "hi": "दस साल"},
+        "d": {"en": "One month", "hi": "एक महीना"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It was a long period of searching for answers to the sorrows of the world.",
+        "hi": "यह दुनिया के दुखों के जवाब खोजने की एक लंबी अवधि थी।"
+      },
+      "explanation": {
+        "en": "Siddhartha wandered for seven years and finally sat down under a peepal tree, where he vowed to stay until enlightenment came.",
+        "hi": "सिद्धार्थ सात वर्षों तक भटकते रहे और अंततः एक पीपल के पेड़ के नीचे बैठ गए, जहाँ उन्होंने ज्ञान प्राप्त होने तक न उठने का संकल्प लिया।"
+      },
+      "key_takeaway": {
+        "en": "7 years of wandering = A period of intense seeking.",
+        "hi": "7 साल का भटकना = गहन खोज की अवधि।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "What did Siddhartha rename the Peepal tree after receiving enlightenment?",
+        "hi": "ज्ञान प्राप्त करने के बाद सिद्धार्थ ने पीपल के पेड़ का नाम बदलकर क्या रखा?"
+      },
+      "options": {
+        "a": {"en": "The Peace Tree", "hi": "शांति वृक्ष"},
+        "b": {"en": "The Bodhi Tree", "hi": "बोधि वृक्ष (Bodhi Tree)"},
+        "c": {"en": "The Tree of Life", "hi": "जीवन का वृक्ष"},
+        "d": {"en": "The Holy Tree", "hi": "पवित्र वृक्ष"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "'Bodhi' refers to wisdom or enlightenment.",
+        "hi": "'बोधि' का अर्थ ज्ञान या बुद्धिमत्ता से है।"
+      },
+      "explanation": {
+        "en": "Enlightened after seven days, he renamed the tree the Bodhi Tree (Tree of Wisdom) and began to teach and share his new understandings.",
+        "hi": "सात दिनों के बाद ज्ञान प्राप्त कर उन्होंने पेड़ का नाम 'बोधि वृक्ष' (ज्ञान का वृक्ष) रखा और अपने ज्ञान को दूसरों के साथ साझा करना शुरू किया।"
+      },
+      "key_takeaway": {
+        "en": "Bodhi Tree = The Tree of Wisdom.",
+        "hi": "बोधि वृक्ष = ज्ञान का वृक्ष।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "Where did the Buddha give his first sermon?",
+        "hi": "बुद्ध ने अपना पहला प्रवचन कहाँ दिया था?"
+      },
+      "options": {
+        "a": {"en": "Lumbini", "hi": "लुंबिनी"},
+        "b": {"en": "Benares", "hi": "बनारस"},
+        "c": {"en": "Kushinagar", "hi": "कुशीनगर"},
+        "d": {"en": "Gaya", "hi": "गया"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It is considered the holiest of the dipping places on the River Ganges.",
+        "hi": "इसे गंगा नदी के सबसे पवित्र स्नान स्थलों में से एक माना जाता है।"
+      },
+      "explanation": {
+        "en": "The Buddha preached his first sermon at the city of Benares, which is a holy city on the banks of the River Ganges.",
+        "hi": "बुद्ध ने अपना पहला प्रवचन बनारस शहर में दिया था, जो गंगा नदी के तट पर स्थित एक पवित्र शहर है।"
+      },
+      "key_takeaway": {
+        "en": "Benares = The site of the first sermon.",
+        "hi": "बनारस = बुद्ध के प्रथम प्रवचन का स्थल।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "Why was Kisa Gotami sad?",
+        "hi": "किसा गौतमी क्यों दुखी थी?"
+      },
+      "options": {
+        "a": {"en": "She lost her house", "hi": "उसका घर खो गया था"},
+        "b": {"en": "Her only son had died", "hi": "उसका इकलौता बेटा मर गया था"},
+        "c": {"en": "She was poor", "hi": "वह गरीब थी"},
+        "d": {"en": "She was ill", "hi": "वह बीमार थी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Her grief was so great that she carried the lifeless body to her neighbors asking for medicine.",
+        "hi": "उसका दुख इतना बड़ा था कि वह निर्जीव शरीर को अपने पड़ोसियों के पास ले गई और दवा मांगने लगी।"
+      },
+      "explanation": {
+        "en": "Kisa Gotami had an only son, and he died. In her great grief, she carried the dead child to all her neighbors, asking them for medicine to bring him back to life.",
+        "hi": "किसा गौतमी का इकलौता पुत्र मर गया था। अपने अपार दुख में, वह मृत बच्चे को लेकर पड़ोसियों के पास गई और उसे जीवित करने की दवा मांगने लगी।"
+      },
+      "key_takeaway": {
+        "en": "Deep grief can sometimes cloud a person's sense of reality.",
+        "hi": "गहरा दुख कभी-कभी व्यक्ति की वास्तविकता की समझ को धुंधला कर सकता है।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "What did the neighbors think of Kisa Gotami?",
+        "hi": "पड़ोसियों ने किसा गौतमी के बारे में क्या सोचा?"
+      },
+      "options": {
+        "a": {"en": "She was very kind", "hi": "वह बहुत दयालु थी"},
+        "b": {"en": "She had lost her senses", "hi": "वह अपना मानसिक संतुलन खो चुकी थी (पागल हो गई थी)"},
+        "c": {"en": "She was a magician", "hi": "वह एक जादूगरनी थी"},
+        "d": {"en": "She was very lucky", "hi": "वह बहुत भाग्यशाली थी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "They saw her asking for medicine for a child who was already dead.",
+        "hi": "उन्होंने उसे एक ऐसे बच्चे के लिए दवा मांगते देखा जो पहले ही मर चुका था।"
+      },
+      "explanation": {
+        "en": "The neighbors said, 'The girl has lost her senses. The boy is dead.' They realized that her request for medicine was impossible because death is final.",
+        "hi": "पड़ोसियों को लगा कि वह अपना होश खो बैठी है क्योंकि वह एक मृत बालक के लिए दवा मांग रही थी।"
+      },
+      "key_takeaway": {
+        "en": "To the outside world, extreme grief often looks like madness.",
+        "hi": "बाहरी दुनिया के लिए, अत्यधिक दुख अक्सर पागलपन जैसा लगता है।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "Who did the man suggest Kisa Gotami should go to for help?",
+        "hi": "उस व्यक्ति ने किसा गौतमी को मदद के लिए किसके पास जाने का सुझाव दिया?"
+      },
+      "options": {
+        "a": {"en": "A doctor", "hi": "एक डॉक्टर"},
+        "b": {"en": "Shakyamuni, the Buddha", "hi": "शाक्यमुनि, बुद्ध"},
+        "c": {"en": "The King", "hi": "राजा"},
+        "d": {"en": "A priest", "hi": "एक पुजारी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He believed this person was the only physician who could give the right 'medicine'.",
+        "hi": "उनका मानना था कि यह व्यक्ति ही एकमात्र 'वैद्य' है जो सही 'दवा' दे सकता है।"
+      },
+      "explanation": {
+        "en": "A man met Kisa Gotami and told her, 'I cannot give thee medicine for thy child, but I know a physician who can... go to Shakyamuni, the Buddha.'",
+        "hi": "एक व्यक्ति ने उसे सलाह दी कि वह बुद्ध (शाक्यमुनि) के पास जाए, क्योंकि केवल वे ही उसकी समस्या का समाधान कर सकते थे।"
+      },
+      "key_takeaway": {
+        "en": "The Buddha was seen as a healer of the soul and mind.",
+        "hi": "बुद्ध को आत्मा और मन के उपचारक के रूप में देखा जाता था।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "What did the Buddha ask Kisa Gotami to bring?",
+        "hi": "बुद्ध ने किसा गौतमी को क्या लाने के लिए कहा?"
+      },
+      "options": {
+        "a": {"en": "A handful of gold", "hi": "मुट्ठी भर सोना"},
+        "b": {"en": "A handful of mustard seeds", "hi": "मुट्ठी भर सरसों के बीज"},
+        "c": {"en": "A bowl of water", "hi": "एक कटोरा पानी"},
+        "d": {"en": "A flower from the palace", "hi": "महल का एक फूल"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It is a very common seed found in every household, but there was a condition attached.",
+        "hi": "यह हर घर में पाया जाने वाला एक बहुत ही सामान्य बीज है, लेकिन इसके साथ एक शर्त जुड़ी थी।"
+      },
+      "explanation": {
+        "en": "The Buddha asked her to bring a handful of mustard seeds. Kisa Gotami was happy because it seemed like an easy task to perform to save her son.",
+        "hi": "बुद्ध ने उससे मुट्ठी भर सरसों के बीज लाने को कहा। किसा गौतमी खुश थी क्योंकि उसे लगा कि यह एक आसान काम है।"
+      },
+      "key_takeaway": {
+        "en": "Mustard seeds = A common household item used to teach a deep lesson.",
+        "hi": "सरसों के बीज = एक सामान्य वस्तु जिसका उपयोग गहरा सबक सिखाने के लिए किया गया।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "What was the condition the Buddha put for the mustard seeds?",
+        "hi": "सरसों के बीजों के लिए बुद्ध ने क्या शर्त रखी थी?"
+      },
+      "options": {
+        "a": {"en": "They must be black in color", "hi": "वे काले रंग के होने चाहिए"},
+        "b": {"en": "They must be from a house where no one had ever died", "hi": "वे ऐसे घर से होने चाहिए जहाँ कभी किसी की मृत्यु न हुई हो"},
+        "c": {"en": "They must be grown in her own field", "hi": "वे उसके अपने खेत में उगे होने चाहिए"},
+        "d": {"en": "They must be brought before sunset", "hi": "वे सूर्यास्त से पहले लाए जाने चाहिए"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This condition forced Kisa Gotami to realize that death is a part of every family.",
+        "hi": "इस शर्त ने किसा गौतमी को यह महसूस करने पर मजबूर कर दिया कि मृत्यु हर परिवार का हिस्सा है।"
+      },
+      "explanation": {
+        "en": "The Buddha added, 'The mustard-seed must be taken from a house where no one has lost a child, husband, parent or friend.' This was the core of the lesson.",
+        "hi": "बुद्ध ने शर्त रखी कि बीज उसी घर से हों जहाँ कभी किसी बच्चे, पति, माता-पिता या मित्र की मृत्यु न हुई हो।"
+      },
+      "key_takeaway": {
+        "en": "Death is universal and leaves no household untouched.",
+        "hi": "मृत्यु सार्वभौमिक है और कोई भी घर इससे अछूता नहीं है।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "What did Kisa Gotami find when she went from house to house?",
+        "hi": "जब किसा गौतमी घर-घर गई तो उसने क्या पाया?"
+      },
+      "options": {
+        "a": {"en": "No one had mustard seeds", "hi": "किसी के पास सरसों के बीज नहीं थे"},
+        "b": {"en": "Everyone was willing to give seeds, but every house had known death", "hi": "हर कोई बीज देने को तैयार था, लेकिन हर घर ने मृत्यु को देखा था"},
+        "c": {"en": "The people were very rude", "hi": "लोग बहुत असभ्य थे"},
+        "d": {"en": "She found the magical house", "hi": "उसे वह जादुई घर मिल गया"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "People told her, 'The living are few, but the dead are many.'",
+        "hi": "लोगों ने उससे कहा, 'जीवित तो थोड़े हैं, लेकिन मरने वाले बहुत हैं।'"
+      },
+      "explanation": {
+        "en": "At every house, people were kind and gave her seeds, but when she asked the condition, they replied that a beloved one had died there. She could not find a single house where no one had died.",
+        "hi": "हर घर में लोग बीज देने को तैयार थे, लेकिन पूछने पर पता चला कि हर घर में किसी न किसी की मृत्यु हुई थी। उसे ऐसा एक भी घर नहीं मिला।"
+      },
+      "key_takeaway": {
+        "en": "Personal tragedy is part of the common human experience.",
+        "hi": "व्यक्तिगत त्रासदी सामान्य मानवीय अनुभव का हिस्सा है।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "Sitting by the wayside, what did Kisa Gotami watch?",
+        "hi": "रास्ते के किनारे बैठकर किसा गौतमी ने क्या देखा?"
+      },
+      "options": {
+        "a": {"en": "The sunset", "hi": "सूर्यास्त"},
+        "b": {"en": "The flickering lights of the city", "hi": "शहर की टिमटिमाती रोशनी"},
+        "c": {"en": "The river flowing", "hi": "नदी का बहाव"},
+        "d": {"en": "People laughing", "hi": "हँसते हुए लोग"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The lights went out, and darkness reigned over all.",
+        "hi": "रोशनी बुझ गई, और चारों ओर अंधेरा छा गया।"
+      },
+      "explanation": {
+        "en": "Kisa Gotami sat down at the wayside, watching the lights of the city as they flickered up and were extinguished again. Finally, the darkness of the night reigned everywhere.",
+        "hi": "किसा गौतमी ने शहर की लाइटों को टिमटिमाते और फिर बुझते हुए देखा। अंततः हर तरफ रात का अंधेरा छा गया।"
+      },
+      "key_takeaway": {
+        "en": "The flickering lights symbolized the birth and death of humans.",
+        "hi": "टिमटिमाती रोशनी मनुष्य के जन्म और मृत्यु का प्रतीक थी।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "What realization did Kisa Gotami have while watching the lights?",
+        "hi": "रोशनी को देखते समय किसा गौतमी को क्या एहसास हुआ?"
+      },
+      "options": {
+        "a": {"en": "She needed to go home", "hi": "उसे घर जाने की ज़रूरत थी"},
+        "b": {"en": "She was being selfish in her grief and death is common to all", "hi": "वह अपने दुख में स्वार्थी हो रही थी और मृत्यु सभी के लिए सामान्य है"},
+        "c": {"en": "She should ask the King for help", "hi": "उसे राजा से मदद मांगनी चाहिए"},
+        "d": {"en": "She was afraid of the dark", "hi": "वह अंधेरे से डरती थी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "She understood that her fate was linked with the fate of all mortals.",
+        "hi": "वह समझ गई कि उसका भाग्य सभी नश्वर जीवों के भाग्य से जुड़ा हुआ है।"
+      },
+      "explanation": {
+        "en": "She thought to herself, 'How selfish am I in my grief! Death is common to all; yet in this valley of desolation there is a path that leads him to immortality who has surrendered all selfishness.'",
+        "hi": "उसने महसूस किया कि मृत्यु सबके लिए है और वह अपने दुख में स्वार्थी हो रही थी। उसने समझा कि स्वार्थ त्याग कर ही अमरता का मार्ग मिलता है।"
+      },
+      "key_takeaway": {
+        "en": "Wisdom comes from understanding the shared nature of suffering.",
+        "hi": "दुख की साझा प्रकृति को समझने से ही ज्ञान प्राप्त होता है।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "According to the Buddha, what is the life of mortals like?",
+        "hi": "बुद्ध के अनुसार नश्वर जीवों (mortals) का जीवन कैसा है?"
+      },
+      "options": {
+        "a": {"en": "Long and peaceful", "hi": "लंबा और शांतिपूर्ण"},
+        "b": {"en": "Troubled, brief, and combined with pain", "hi": "परेशानियों से भरा, संक्षिप्त और दर्द के साथ"},
+        "c": {"en": "Happy and without end", "hi": "खुशहाल और अंतहीन"},
+        "d": {"en": "Only for the poor", "hi": "केवल गरीबों के लिए"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The Buddha compares life to ripe fruits and earthen vessels.",
+        "hi": "बुद्ध जीवन की तुलना पके हुए फलों और मिट्टी के बर्तनों से करते हैं।"
+      },
+      "explanation": {
+        "en": "The Buddha said, 'The life of mortals in this world is troubled and brief and combined with pain. For there is not any means by which those that have been born can avoid dying.'",
+        "hi": "बुद्ध ने कहा कि इस संसार में जीवन संक्षिप्त और कष्टों से भरा है। जो जन्मा है, उसका मरना निश्चित है।"
+      },
+      "key_takeaway": {
+        "en": "Mortality is an inescapable fact of existence.",
+        "hi": "नश्वरता अस्तित्व का एक अपरिहार्य तथ्य है।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "What comparison does the Buddha use for mortals in danger of death?",
+        "hi": "मृत्यु के खतरे में पड़े नश्वर जीवों के लिए बुद्ध किस तुलना का उपयोग करते हैं?"
+      },
+      "options": {
+        "a": {"en": "Birds in a cage", "hi": "पिंजरे में पक्षी"},
+        "b": {"en": "Ripe fruits in danger of falling", "hi": "पके हुए फल जिनके गिरने का डर हो"},
+        "c": {"en": "Clouds in the sky", "hi": "आसमान में बादल"},
+        "d": {"en": "Fish in a net", "hi": "जाल में मछली"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Just as they are always in danger of falling, mortals are always in danger of death.",
+        "hi": "जैसे उनके गिरने का हमेशा डर रहता है, वैसे ही नश्वर जीवों को हमेशा मृत्यु का खतरा रहता है।"
+      },
+      "explanation": {
+        "en": "The Buddha said, 'As ripe fruits are early in danger of falling, so mortals when born are always in danger of death.'",
+        "hi": "बुद्ध ने कहा कि जैसे पके फलों के गिरने का डर रहता है, वैसे ही मनुष्यों को मृत्यु का भय बना रहता है।"
+      },
+      "key_takeaway": {
+        "en": "Life is fragile and can end at any time.",
+        "hi": "जीवन नाजुक है और कभी भी समाप्त हो सकता है।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "What happens to the earthen vessels made by the potter?",
+        "hi": "कुम्हार द्वारा बनाए गए मिट्टी के बर्तनों का क्या होता है?"
+      },
+      "options": {
+        "a": {"en": "They last forever", "hi": "वे हमेशा बने रहते हैं"},
+        "b": {"en": "They end in being broken", "hi": "वे अंततः टूट जाते हैं"},
+        "c": {"en": "They turn into gold", "hi": "वे सोने में बदल जाते हैं"},
+        "d": {"en": "They are kept in museums", "hi": "उन्हें संग्रहालयों में रखा जाता है"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This is another metaphor for the life of mortals.",
+        "hi": "यह नश्वर जीवों के जीवन के लिए एक और रूपक (metaphor) है।"
+      },
+      "explanation": {
+        "en": "The Buddha stated, 'As all earthen vessels made by the potter end in being broken, so is the life of mortals.' No matter how strong they seem, they are fragile.",
+        "hi": "बुद्ध ने कहा कि जैसे मिट्टी के बर्तन अंततः टूटते ही हैं, वैसे ही मानव जीवन का भी अंत निश्चित है।"
+      },
+      "key_takeaway": {
+        "en": "Everything that is formed must eventually dissolve.",
+        "hi": "जो कुछ भी बना है, उसका विघटन होना ही है।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "Who are subject to death, according to the Buddha?",
+        "hi": "बुद्ध के अनुसार मृत्यु के अधीन कौन हैं?"
+      },
+      "options": {
+        "a": {"en": "Only fools", "hi": "केवल मूर्ख"},
+        "b": {"en": "Both fools and wise men, both young and adult", "hi": "मूर्ख और बुद्धिमान दोनों, युवा और वयस्क दोनों"},
+        "c": {"en": "Only the poor", "hi": "केवल गरीब"},
+        "d": {"en": "Only those who are sick", "hi": "केवल वे जो बीमार हैं"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Death does not distinguish between status, age, or intelligence.",
+        "hi": "मृत्यु पद, आयु या बुद्धि के आधार पर भेदभाव नहीं करती है।"
+      },
+      "explanation": {
+        "en": "The Buddha taught that all are subject to death—the young, the adult, the fools, and the wise. All fall into the power of death.",
+        "hi": "बुद्ध ने सिखाया कि चाहे कोई बुद्धिमान हो या मूर्ख, युवा हो या वृद्ध, सभी मृत्यु के वश में हैं।"
+      },
+      "key_takeaway": {
+        "en": "Death is the ultimate equalizer.",
+        "hi": "मृत्यु परम समानता लाने वाली शक्ति है।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "Can a father save his son from death?",
+        "hi": "क्या पिता अपने पुत्र को मृत्यु से बचा सकता है?"
+      },
+      "options": {
+        "a": {"en": "Yes, through prayer", "hi": "हाँ, प्रार्थना के माध्यम से"},
+        "b": {"en": "No, not even kinsmen can save each other", "hi": "नहीं, यहाँ तक कि सगे-संबंधी भी एक-दूसरे को नहीं बचा सकते"},
+        "c": {"en": "Only if he is very rich", "hi": "केवल तभी जब वह बहुत अमीर हो"},
+        "d": {"en": "Only if the son is young", "hi": "केवल तभी जब पुत्र छोटा हो"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Kinsmen refers to relatives or family members.",
+        "hi": "Kinsmen का अर्थ रिश्तेदारों या परिवार के सदस्यों से है।"
+      },
+      "explanation": {
+        "en": "The Buddha said that when people are carried off by death, a father cannot save his son, nor kinsmen their relations. Human power is useless against death.",
+        "hi": "बुद्ध ने कहा कि जब मृत्यु किसी को ले जाती है, तो न तो पिता अपने पुत्र को बचा सकता है और न ही रिश्तेदार एक-दूसरे को।"
+      },
+      "key_takeaway": {
+        "en": "Human relationships cannot prevent the natural process of death.",
+        "hi": "मानवीय रिश्ते मृत्यु की प्राकृतिक प्रक्रिया को नहीं रोक सकते।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "What happens if a person grieves and laments excessively?",
+        "hi": "यदि कोई व्यक्ति अत्यधिक शोक और विलाप करता है तो क्या होता है?"
+      },
+      "options": {
+        "a": {"en": "The dead person comes back", "hi": "मृत व्यक्ति वापस आ जाता है"},
+        "b": {"en": "The person's pain will be greater and his body will suffer", "hi": "व्यक्ति का दर्द और बढ़ जाएगा और उसका शरीर कष्ट झेलेगा"},
+        "c": {"en": "It shows true love", "hi": "यह सच्चा प्यार दिखाता है"},
+        "d": {"en": "It makes the soul pure", "hi": "यह आत्मा को शुद्ध बनाता है"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Does crying help the living or the dead?",
+        "hi": "क्या रोने से जीवित या मृत को कोई मदद मिलती है?"
+      },
+      "explanation": {
+        "en": "The Buddha taught that by lamenting, no one obtains peace of mind. On the contrary, his pain will be greater and his body will suffer; he will make himself sick and pale.",
+        "hi": "बुद्ध ने सिखाया कि विलाप करने से मन की शांति नहीं मिलती। इससे केवल दुख बढ़ता है और शरीर अस्वस्थ हो जाता है।"
+      },
+      "key_takeaway": {
+        "en": "Lamentation does not heal; it only increases suffering.",
+        "hi": "विलाप घाव नहीं भरता; यह केवल दुख बढ़ाता है।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "How can one obtain peace of mind?",
+        "hi": "मन की शांति कैसे प्राप्त की जा सकती है?"
+      },
+      "options": {
+        "a": {"en": "By crying more", "hi": "ज़्यादा रोने से"},
+        "b": {"en": "By drawing out the arrow of lamentation and complaint", "hi": "विलाप और शिकायत के तीर को बाहर निकालकर (छोड़कर)"},
+        "c": {"en": "By ignoring everyone", "hi": "सबको नज़रअंदाज़ करके"},
+        "d": {"en": "By becoming very rich", "hi": "बहुत अमीर बनकर"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "One must overcome sorrow instead of being trapped by it.",
+        "hi": "व्यक्ति को दुख में फंसने के बजाय उससे ऊपर उठना चाहिए।"
+      },
+      "explanation": {
+        "en": "The Buddha advised that he who seeks peace should draw out the arrow of lamentation, complaint, and grief. Only then can he become composed and obtain peace.",
+        "hi": "बुद्ध ने सलाह दी कि जो शांति चाहता है उसे विलाप और दुख के 'तीर' को बाहर निकालना होगा।"
+      },
+      "key_takeaway": {
+        "en": "Letting go of grief is the path to inner peace.",
+        "hi": "दुख को छोड़ना ही आंतरिक शांति का मार्ग है।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "He who has overcome all sorrow will become ______.",
+        "hi": "जिसने सभी दुखों पर विजय प्राप्त कर ली है वह ______ बन जाएगा।"
+      },
+      "options": {
+        "a": {"en": "Famous", "hi": "प्रसिद्ध"},
+        "b": {"en": "Free from sorrow, and be blessed", "hi": "दुख से मुक्त, और धन्य (blessed)"},
+        "c": {"en": "A king", "hi": "एक राजा"},
+        "d": {"en": "Very powerful", "hi": "बहुत शक्तिशाली"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This is the ultimate state of a wise person who understands life.",
+        "hi": "यह उस बुद्धिमान व्यक्ति की अंतिम अवस्था है जो जीवन को समझता है।"
+      },
+      "explanation": {
+        "en": "The sermon concludes by saying that he who has overcome all sorrow will become free from sorrow, and be blessed. This is the goal of the Buddha's teaching.",
+        "hi": "प्रवचन का निष्कर्ष है कि जो दुखों को जीत लेता है, वह वास्तव में सुखी और धन्य हो जाता है।"
+      },
+      "key_takeaway": {
+        "en": "Victory over grief leads to a blessed life.",
+        "hi": "दुख पर विजय एक धन्य जीवन की ओर ले जाती है।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "What does the word 'lamentation' mean?",
+        "hi": "'Lamentation' शब्द का क्या अर्थ है?"
+      },
+      "options": {
+        "a": {"en": "Extreme joy", "hi": "अत्यधिक खुशी"},
+        "b": {"en": "Expression of deep sorrow or grief", "hi": "गहरे दुख या शोक की अभिव्यक्ति"},
+        "c": {"en": "A type of medicine", "hi": "एक प्रकार की दवा"},
+        "d": {"en": "A religious song", "hi": "एक धार्मिक गीत"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It is what Kisa Gotami was doing for her dead son.",
+        "hi": "यह वही है जो किसा गौतमी अपने मृत पुत्र के लिए कर रही थी।"
+      },
+      "explanation": {
+        "en": "Lamentation is the passionate expression of grief or sorrow, often through weeping or loud cries. The Buddha taught that this should be overcome.",
+        "hi": "Lamentation का अर्थ है गहरा शोक प्रकट करना, अक्सर रोने या चिल्लाने के माध्यम से।"
+      },
+      "key_takeaway": {
+        "en": "Lamentation = Grief-stricken mourning.",
+        "hi": "Lamentation = विलाप या शोक मनाना।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "How did Kisa Gotami describe the fate of men?",
+        "hi": "किसा गौतमी ने मनुष्यों के भाग्य का वर्णन कैसे किया?"
+      },
+      "options": {
+        "a": {"en": "They live as long as they want", "hi": "वे जब तक चाहें तब तक जीवित रहते हैं"},
+        "b": {"en": "Their lives flicker up and are extinguished again", "hi": "उनका जीवन टिमटिमाता है और फिर से बुझ जाता है"},
+        "c": {"en": "They are like the sun", "hi": "वे सूर्य की तरह हैं"},
+        "d": {"en": "They are immortal", "hi": "वे अमर हैं"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "She used the city lights as a metaphor for human lives.",
+        "hi": "उसने मानवीय जीवन के रूपक के रूप में शहर की रोशनी का उपयोग किया।"
+      },
+      "explanation": {
+        "en": "Watching the city lights, Kisa Gotami realized that the lives of men flicker up and are extinguished again, meaning life is temporary.",
+        "hi": "शहर की लाइटों को देखकर किसा गौतमी ने समझा कि मनुष्यों का जीवन भी अस्थायी है—कभी जलता है तो कभी बुझ जाता है।"
+      },
+      "key_takeaway": {
+        "en": "Human life is as fleeting as a flickering light.",
+        "hi": "मानव जीवन टिमटिमाती रोशनी की तरह क्षणभंगुर है।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "What did the man who told Kisa Gotami about the Buddha call him?",
+        "hi": "जिस व्यक्ति ने किसा गौतमी को बुद्ध के बारे में बताया, उसने उन्हें क्या कहा?"
+      },
+      "options": {
+        "a": {"en": "A magician", "hi": "एक जादूगर"},
+        "b": {"en": "A physician", "hi": "एक वैद्य (Physician)"},
+        "c": {"en": "A neighbor", "hi": "एक पड़ोसी"},
+        "d": {"en": "A soldier", "hi": "एक सैनिक"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "A physician is a doctor who heals people.",
+        "hi": "Physician एक डॉक्टर होता है जो लोगों को ठीक करता है।"
+      },
+      "explanation": {
+        "en": "The man called the Buddha a 'physician' because he believed the Buddha could provide the medicine or wisdom needed to heal Kisa Gotami's heart.",
+        "hi": "उस व्यक्ति ने बुद्ध को एक 'वैद्य' कहा क्योंकि उसे विश्वास था कि बुद्ध किसा गौतमी के दुख का इलाज कर सकते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Physician = Healer of spiritual suffering.",
+        "hi": "Physician = आध्यात्मिक कष्टों का निवारक।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "What does the Buddha mean by the 'valley of desolation'?",
+        "hi": "बुद्ध का 'Valley of desolation' (दुख की घाटी) से क्या तात्पर्य है?"
+      },
+      "options": {
+        "a": {"en": "A real valley in the mountains", "hi": "पहाड़ों में एक वास्तविक घाटी"},
+        "b": {"en": "The world full of suffering and death", "hi": "दुख और मृत्यु से भरी दुनिया"},
+        "c": {"en": "A place where no one lives", "hi": "एक ऐसी जगह जहाँ कोई नहीं रहता"},
+        "d": {"en": "A beautiful garden", "hi": "एक सुंदर बगीचा"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It describes the state of the world where death is everywhere.",
+        "hi": "यह दुनिया की उस स्थिति का वर्णन करता है जहाँ मृत्यु हर जगह है।"
+      },
+      "explanation": {
+        "en": "The 'valley of desolation' refers to the world where everyone experiences loss and death. It is a place of deep sadness for those who are attached to life.",
+        "hi": "'Valley of desolation' उस दुनिया को संदर्भित करता है जहाँ हर कोई हानि और मृत्यु का अनुभव करता है।"
+      },
+      "key_takeaway": {
+        "en": "The world is characterized by sorrow and mortality.",
+        "hi": "दुनिया दुख और नश्वरता की विशेषता वाली है।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "Which word in the text means 'to give up' or 'hand over'?",
+        "hi": "पाठ में किस शब्द का अर्थ 'त्याग देना' या 'सौंप देना' है?"
+      },
+      "options": {
+        "a": {"en": "Preached", "hi": "प्रचार किया"},
+        "b": {"en": "Surrendered", "hi": "समर्पित (Surrendered)"},
+        "c": {"en": "Flickered", "hi": "टिमटिमाते"},
+        "d": {"en": "Extinguished", "hi": "बुझ गए"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It is used in the context of giving up selfishness.",
+        "hi": "इसका उपयोग स्वार्थ त्यागने के संदर्भ में किया गया है।"
+      },
+      "explanation": {
+        "en": "In the text, 'surrendered' is used to describe giving up all selfishness to find the path to immortality.",
+        "hi": "पाठ में 'surrendered' का उपयोग अमरता का मार्ग खोजने के लिए स्वार्थ त्यागने के वर्णन में किया गया है।"
+      },
+      "key_takeaway": {
+        "en": "Surrender = Giving up the ego/selfishness.",
+        "hi": "Surrender = अहंकार/स्वार्थ का त्याग।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "How many days did Siddhartha sit under the Bodhi tree before gaining enlightenment?",
+        "hi": "ज्ञान प्राप्त करने से पहले सिद्धार्थ बोधि वृक्ष के नीचे कितने दिनों तक बैठे रहे?"
+      },
+      "options": {
+        "a": {"en": "Three days", "hi": "तीन दिन"},
+        "b": {"en": "Seven days", "hi": "सात दिन"},
+        "c": {"en": "Twenty-one days", "hi": "इक्कीस दिन"},
+        "d": {"en": "Forty days", "hi": "चालीस दिन"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He vowed to stay there until he found the truth, and he found it in a week.",
+        "hi": "उन्होंने संकल्प लिया था कि सत्य मिलने तक वे वहीं रहेंगे, और एक सप्ताह में उन्हें वह मिल गया।"
+      },
+      "explanation": {
+        "en": "The text mentions that Siddhartha was enlightened after seven days of meditation under the peepal tree.",
+        "hi": "पाठ में उल्लेख है कि पीपल के पेड़ के नीचे सात दिनों के ध्यान के बाद सिद्धार्थ को ज्ञान प्राप्त हुआ था।"
+      },
+      "key_takeaway": {
+        "en": "Seven days = The duration of final meditation.",
+        "hi": "सात दिन = अंतिम ध्यान की अवधि।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "What did the Buddha want to teach Kisa Gotami through the mustard seeds?",
+        "hi": "बुद्ध सरसों के बीजों के माध्यम से किसा गौतमी को क्या सिखाना चाहते थे?"
+      },
+      "options": {
+        "a": {"en": "The importance of farming", "hi": "खेती का महत्व"},
+        "b": {"en": "That death is common to all and grief is useless", "hi": "कि मृत्यु सभी के लिए सामान्य है और दुख व्यर्थ है"},
+        "c": {"en": "How to cook a meal", "hi": "खाना बनाना"},
+        "d": {"en": "That she should be angry at her neighbors", "hi": "कि उसे अपने पड़ोसियों पर गुस्सा होना चाहिए"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The task was designed to make her see that every family suffers loss.",
+        "hi": "यह कार्य उसे यह दिखाने के लिए बनाया गया था कि हर परिवार को नुकसान सहना पड़ता है।"
+      },
+      "explanation": {
+        "en": "The Buddha used a practical task to make Kisa Gotami realize that she was not alone in her sorrow. By seeing that every house has known death, she understood that death is inevitable.",
+        "hi": "बुद्ध ने किसा गौतमी को यह महसूस कराने के लिए एक व्यावहारिक कार्य का उपयोग किया कि वह अपने दुख में अकेली नहीं थी।"
+      },
+      "key_takeaway": {
+        "en": "Direct experience is often more powerful than words.",
+        "hi": "प्रत्यक्ष अनुभव अक्सर शब्दों से अधिक शक्तिशाली होता है।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "Which of these is the main message of 'The Sermon at Benares'?",
+        "hi": "'The Sermon at Benares' का मुख्य संदेश क्या है?"
+      },
+      "options": {
+        "a": {"en": "Accepting the inevitability of death leads to peace", "hi": "मृत्यु की अपरिहार्यता को स्वीकार करना शांति की ओर ले जाता है"},
+        "b": {"en": "Never leave your home", "hi": "अपना घर कभी न छोड़ें"},
+        "c": {"en": "Science is better than religion", "hi": "विज्ञान धर्म से बेहतर है"},
+        "d": {"en": "Life is a happy party", "hi": "जीवन एक खुशहाल पार्टी है"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "Peace comes from drawing out the arrow of lamentation and accepting reality.",
+        "hi": "शांति विलाप के तीर को बाहर निकालने और वास्तविकता को स्वीकार करने से आती है।"
+      },
+      "explanation": {
+        "en": "The central theme is that death is an inescapable part of life. Wise people do not grieve because they understand how the world works, and this acceptance brings peace.",
+        "hi": "मुख्य संदेश यह है कि मृत्यु जीवन का एक अनिवार्य हिस्सा है। बुद्धिमान लोग शोक नहीं करते क्योंकि वे जीवन की सच्चाई को समझते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Wisdom is the understanding of universal suffering and death.",
+        "hi": "ज्ञान सार्वभौमिक दुख और मृत्यु की समझ है।"
+      }
+    }
+  ]
+}
