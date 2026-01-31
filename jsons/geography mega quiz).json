@@ -1,0 +1,127 @@
+{
+  "metadata": {
+    "quiz_title": "Class 9 Geography - Final Mega-Quiz",
+    "quiz_title_hindi": "कक्षा 9 भूगोल - फाइनल मेगा-क्विज़",
+    "chapters_covered": [1, 2, 3, 4, 5, 6],
+    "total_questions": 30,
+    "subject": "Geography - Class 9",
+    "version": "1.0",
+    "naming_convention": "09_GE_MEGA_Geography_30MCQ.json"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "chapter_ref": "Ch 1: Size and Location",
+      "question": {
+        "en": "What is the latitudinal extent of the mainland of India?",
+        "hi": "भारत की मुख्य भूमि का अक्षांशीय विस्तार क्या है?"
+      },
+      "options": {
+        "a": {"en": "8°4' N to 37°6' N", "hi": "8°4' उत्तर से 37°6' उत्तर"},
+        "b": {"en": "68°7' E to 97°25' E", "hi": "68°7' पूर्व से 97°25' पूर्व"},
+        "c": {"en": "8°4' S to 37°6' S", "hi": "8°4' दक्षिण से 37°6' दक्षिण"},
+        "d": {"en": "0° to 23°30' N", "hi": "0° से 23°30' उत्तर"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "India lies entirely in the Northern Hemisphere, extending from 8°4' N to 37°6' N latitude.",
+        "hi": "भारत पूरी तरह से उत्तरी गोलार्द्ध में स्थित है, और इसका विस्तार 8°4' उत्तर से 37°6' उत्तर अक्षांश तक है।"
+      }
+    },
+    {
+      "question_id": 6,
+      "chapter_ref": "Ch 2: Physical Features",
+      "question": {
+        "en": "The range consisting of the loftiest peaks with an average height of 6,000 meters is:",
+        "hi": "6,000 मीटर की औसत ऊँचाई वाली सबसे ऊँची चोटियों वाली श्रेणी कौन सी है?"
+      },
+      "options": {
+        "a": {"en": "Shiwaliks", "hi": "शिवालिक"},
+        "b": {"en": "Himachal", "hi": "हिमाचल"},
+        "c": {"en": "Himadri", "hi": "हिमाद्रि"},
+        "d": {"en": "Purvanchal", "hi": "पूर्वांचल"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "Himadri, or the Great Himalayas, is the northernmost range and contains the world's highest peaks.",
+        "hi": "हिमाद्रि या महान हिमालय सबसे उत्तरी श्रेणी है और इसमें दुनिया की सबसे ऊँची चोटियाँ हैं।"
+      }
+    },
+    {
+      "question_id": 11,
+      "chapter_ref": "Ch 3: Drainage",
+      "question": {
+        "en": "Which river is known as the 'Dakshin Ganga'?",
+        "hi": "किस नदी को 'दक्षिण गंगा' के नाम से जाना जाता है?"
+      },
+      "options": {
+        "a": {"en": "Krishna", "hi": "कृष्णा"},
+        "b": {"en": "Kaveri", "hi": "कावेरी"},
+        "c": {"en": "Godavari", "hi": "गोदावरी"},
+        "d": {"en": "Mahanadi", "hi": "महानदी"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "Due to its large size and extent, the Godavari is called the Dakshin Ganga.",
+        "hi": "अपने विशाल आकार और विस्तार के कारण गोदावरी को दक्षिण गंगा कहा जाता है।"
+      }
+    },
+    {
+      "question_id": 16,
+      "chapter_ref": "Ch 4: Climate",
+      "question": {
+        "en": "Which of the following causes rainfall during winters in the north-western part of India?",
+        "hi": "भारत के उत्तर-पश्चिमी भाग में सर्दियों में वर्षा का क्या कारण है?"
+      },
+      "options": {
+        "a": {"en": "Cyclonic depression", "hi": "चक्रवाती अवदाब"},
+        "b": {"en": "Western disturbances", "hi": "पश्चिमी विक्षोभ"},
+        "c": {"en": "Retreating monsoon", "hi": "लौटता मानसून"},
+        "d": {"en": "South-west monsoon", "hi": "दक्षिण-पश्चिम मानसून"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Western disturbances originating from the Mediterranean Sea cause winter rain in North India.",
+        "hi": "भूमध्य सागर से उठने वाले पश्चिमी विक्षोभ उत्तर भारत में शीतकालीन वर्षा का कारण बनते हैं।"
+      }
+    },
+    {
+      "question_id": 21,
+      "chapter_ref": "Ch 5: Natural Vegetation",
+      "question": {
+        "en": "In which type of forest are Sundari trees found?",
+        "hi": "सुंदरी वृक्ष किस प्रकार के वन में पाए जाते हैं?"
+      },
+      "options": {
+        "a": {"en": "Tropical Evergreen", "hi": "उष्णकटिबंधीय सदाबहार"},
+        "b": {"en": "Tropical Deciduous", "hi": "उष्णकटिबंधीय पर्णपाती"},
+        "c": {"en": "Mangrove Forests", "hi": "मैंग्रोव वन"},
+        "d": {"en": "Montane Forests", "hi": "पर्वतीय वन"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "Sundari trees are found in the mangrove forests of the Ganga-Brahmaputra delta.",
+        "hi": "सुंदरी वृक्ष गंगा-ब्रह्मपुत्र डेल्टा के मैंग्रोव वनों में पाए जाते हैं।"
+      }
+    },
+    {
+      "question_id": 26,
+      "chapter_ref": "Ch 6: Population",
+      "question": {
+        "en": "Which state has the highest population density in India according to the 2011 Census?",
+        "hi": "2011 की जनगणना के अनुसार भारत के किस राज्य में जनसंख्या घनत्व सबसे अधिक है?"
+      },
+      "options": {
+        "a": {"en": "West Bengal", "hi": "पश्चिम बंगाल"},
+        "b": {"en": "Uttar Pradesh", "hi": "उत्तर प्रदेश"},
+        "c": {"en": "Bihar", "hi": "बिहार"},
+        "d": {"en": "Kerala", "hi": "केरल"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "Bihar had the highest density with 1,102 persons per square kilometer in 2011.",
+        "hi": "2011 में बिहार का घनत्व सबसे अधिक 1,102 व्यक्ति प्रति वर्ग किलोमीटर था।"
+      }
+    }
+  ]
+}

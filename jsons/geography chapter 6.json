@@ -1,0 +1,794 @@
+{
+  "metadata": {
+    "chapter_number": 6,
+    "chapter_title": "Population",
+    "chapter_title_hindi": "जनसंख्या",
+    "subject": "Geography - Class 9",
+    "board": "CBSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.0",
+    "naming_convention": "09_GE_CH06_Population_30MCQ.json"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "What is the official enumeration of population done periodically called?",
+        "hi": "एक निश्चित समयांतराल में जनसंख्या की आधिकारिक गणना को क्या कहते हैं?"
+      },
+      "options": {
+        "a": {"en": "Survey", "hi": "सर्वेक्षण"},
+        "b": {"en": "Census", "hi": "जनगणना (Census)"},
+        "c": {"en": "Checklist", "hi": "चेकलिस्ट"},
+        "d": {"en": "Poll", "hi": "मतदान"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "In India, the first complete one was held in 1881.",
+        "hi": "भारत में पहली बार पूर्ण जनगणना 1881 में हुई थी।"
+      },
+      "explanation": {
+        "en": "A census is an official enumeration of population done periodically. In India, the first census was held in 1872, but the first complete census was taken in 1881.",
+        "hi": "जनगणना एक निश्चित समय के बाद जनसंख्या की आधिकारिक गिनती है।"
+      },
+      "key_takeaway": {
+        "en": "Census = Periodic population count.",
+        "hi": "जनगणना = जनसंख्या की आवधिक गणना।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "What percentage of the world's population does India account for?",
+        "hi": "भारत विश्व की कुल जनसंख्या का कितने प्रतिशत हिस्सा है?"
+      },
+      "options": {
+        "a": {"en": "2.4%", "hi": "2.4%"},
+        "b": {"en": "17.5%", "hi": "17.5% (approx)"},
+        "c": {"en": "25%", "hi": "25%"},
+        "d": {"en": "10%", "hi": "10%"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This is much higher than India's share of the world's land area (2.4%).",
+        "hi": "यह विश्व के भू-क्षेत्र (2.4%) के भारत के हिस्से से बहुत अधिक है।"
+      },
+      "explanation": {
+        "en": "According to the 2011 Census, India's population was 1210.6 million, accounting for about 17.5 per cent of the world's population.",
+        "hi": "2011 की जनगणना के अनुसार, भारत में विश्व की लगभग 17.5% जनसंख्या रहती है।"
+      },
+      "key_takeaway": {
+        "en": "India Population Share = ~17.5% of world.",
+        "hi": "भारत की जनसंख्या का हिस्सा = विश्व का ~17.5%।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "Which state of India is the most populous?",
+        "hi": "भारत का सबसे अधिक जनसंख्या वाला राज्य कौन सा है?"
+      },
+      "options": {
+        "a": {"en": "Maharashtra", "hi": "महाराष्ट्र"},
+        "b": {"en": "Bihar", "hi": "बिहार"},
+        "c": {"en": "Uttar Pradesh", "hi": "उत्तर प्रदेश (UP)"},
+        "d": {"en": "West Bengal", "hi": "पश्चिम बंगाल"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "It accounts for about 16 per cent of the country's population.",
+        "hi": "देश की लगभग 16 प्रतिशत जनसंख्या इसी राज्य में रहती है।"
+      },
+      "explanation": {
+        "en": "Uttar Pradesh is the most populous state of India with a population of 199 million (2011 Census).",
+        "hi": "उत्तर प्रदेश भारत का सर्वाधिक जनसंख्या वाला राज्य है।"
+      },
+      "key_takeaway": {
+        "en": "Most Populous State = Uttar Pradesh.",
+        "hi": "सर्वाधिक जनसंख्या वाला राज्य = उत्तर प्रदेश।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "Which state has the lowest population in India?",
+        "hi": "भारत में सबसे कम जनसंख्या वाला राज्य कौन सा है?"
+      },
+      "options": {
+        "a": {"en": "Sikkim", "hi": "सिक्किम (Sikkim)"},
+        "b": {"en": "Goa", "hi": "गोवा"},
+        "c": {"en": "Mizoram", "hi": "मिजोरम"},
+        "d": {"en": "Arunachal Pradesh", "hi": "अरुणाचल प्रदेश"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "Its population is only about 0.6 million.",
+        "hi": "इसकी जनसंख्या केवल लगभग 6 लाख है।"
+      },
+      "explanation": {
+        "en": "Sikkim has the lowest population among Indian states, with just 0.6 million people.",
+        "hi": "सिक्किम भारत का सबसे कम जनसंख्या वाला राज्य है।"
+      },
+      "key_takeaway": {
+        "en": "Least Populous State = Sikkim.",
+        "hi": "न्यूनतम जनसंख्या वाला राज्य = सिक्किम।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "What is 'Population Density'?",
+        "hi": "'जनसंख्या घनत्व' (Population Density) क्या है?"
+      },
+      "options": {
+        "a": {"en": "Total number of people in a country", "hi": "एक देश में लोगों की कुल संख्या"},
+        "b": {"en": "Number of persons per unit area", "hi": "प्रति इकाई क्षेत्र में व्यक्तियों की संख्या"},
+        "c": {"en": "The rate of population growth", "hi": "जनसंख्या वृद्धि की दर"},
+        "d": {"en": "The number of children in a family", "hi": "एक परिवार में बच्चों की संख्या"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It is calculated by dividing total population by total land area.",
+        "hi": "इसकी गणना कुल जनसंख्या को कुल भूमि क्षेत्र से विभाजित करके की जाती है।"
+      },
+      "explanation": {
+        "en": "Population density is calculated as the number of persons per unit area. India is one of the most densely populated countries of the world.",
+        "hi": "प्रति इकाई क्षेत्रफल (जैसे 1 वर्ग किमी) में रहने वाले लोगों की संख्या को जनसंख्या घनत्व कहते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Population Density = Persons per sq. km.",
+        "hi": "जनसंख्या घनत्व = प्रति वर्ग किमी व्यक्तियों की संख्या।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "According to the 2011 Census, what was the population density of India?",
+        "hi": "2011 की जनगणना के अनुसार, भारत का जनसंख्या घनत्व कितना था?"
+      },
+      "options": {
+        "a": {"en": "124 persons per sq km", "hi": "124 व्यक्ति प्रति वर्ग किमी"},
+        "b": {"en": "382 persons per sq km", "hi": "382 व्यक्ति प्रति वर्ग किमी"},
+        "c": {"en": "943 persons per sq km", "hi": "943 व्यक्ति प्रति वर्ग किमी"},
+        "d": {"en": "1102 persons per sq km", "hi": "1102 व्यक्ति प्रति वर्ग किमी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It has increased significantly since 1951.",
+        "hi": "1951 के बाद से इसमें काफी वृद्धि हुई है।"
+      },
+      "explanation": {
+        "en": "The population density of India in the year 2011 was 382 persons per sq km.",
+        "hi": "2011 में भारत का औसत जनसंख्या घनत्व 382 व्यक्ति प्रति वर्ग किमी था।"
+      },
+      "key_takeaway": {
+        "en": "India Density (2011) = 382 persons/sq. km.",
+        "hi": "भारत का घनत्व (2011) = 382 व्यक्ति/वर्ग किमी।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "Which state has the highest population density in India?",
+        "hi": "भारत के किस राज्य में जनसंख्या घनत्व सबसे अधिक है?"
+      },
+      "options": {
+        "a": {"en": "West Bengal", "hi": "पश्चिम बंगाल"},
+        "b": {"en": "Uttar Pradesh", "hi": "उत्तर प्रदेश"},
+        "c": {"en": "Bihar", "hi": "बिहार (Bihar)"},
+        "d": {"en": "Kerala", "hi": "केरल"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "Its density is 1,102 persons per sq km.",
+        "hi": "इसका घनत्व 1,102 व्यक्ति प्रति वर्ग किमी है।"
+      },
+      "explanation": {
+        "en": "Bihar has the highest population density (1,102 persons per sq km), while Arunachal Pradesh has the lowest (17 persons per sq km).",
+        "hi": "बिहार भारत का सबसे सघन बसा हुआ राज्य है।"
+      },
+      "key_takeaway": {
+        "en": "Highest Density State = Bihar.",
+        "hi": "सर्वाधिक घनत्व वाला राज्य = बिहार।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "What is the primary reason for low population density in states like Jammu & Kashmir, Himachal Pradesh, and Uttarakhand?",
+        "hi": "जम्मू और कश्मीर, हिमाचल प्रदेश और उत्तराखंड जैसे राज्यों में कम जनसंख्या घनत्व का प्राथमिक कारण क्या है?"
+      },
+      "options": {
+        "a": {"en": "Lack of water", "hi": "पानी की कमी"},
+        "b": {"en": "Rugged terrain and unfavorable climatic conditions", "hi": "ऊबड़-खाबड़ भूभाग और प्रतिकूल जलवायु परिस्थितियाँ"},
+        "c": {"en": "High industrialization", "hi": "अत्यधिक औद्योगीकरण"},
+        "d": {"en": "Very high rainfall", "hi": "बहुत भारी वर्षा"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Hilly areas make it difficult for large-scale farming and transportation.",
+        "hi": "पहाड़ी क्षेत्र बड़े पैमाने पर खेती और परिवहन को कठिन बनाते हैं।"
+      },
+      "explanation": {
+        "en": "Rugged terrain and unfavorable (cold) climatic conditions are primarily responsible for sparse population in these Himalayan states.",
+        "hi": "पहाड़ी इलाका और कठोर जलवायु के कारण इन राज्यों में कम लोग रहते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Low Density = Rugged terrain / Harsh climate.",
+        "hi": "कम घनत्व = दुर्गम भूभाग / कठिन जलवायु।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "Which area of India has high population density due to flat plains, fertile soil, and abundant rainfall?",
+        "hi": "सपाट मैदान, उपजाऊ मिट्टी और प्रचुर वर्षा के कारण भारत के किस क्षेत्र में जनसंख्या घनत्व अधिक है?"
+      },
+      "options": {
+        "a": {"en": "The Peninsular Plateau", "hi": "प्रायद्वीपीय पठार"},
+        "b": {"en": "The Northern Plains", "hi": "उत्तरी मैदान (Northern Plains)"},
+        "c": {"en": "The Thar Desert", "hi": "थार मरुस्थल"},
+        "d": {"en": "The Himalayas", "hi": "हिमालय"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "States like West Bengal and Bihar are located here.",
+        "hi": "पश्चिम बंगाल और बिहार जैसे राज्य यहीं स्थित हैं।"
+      },
+      "explanation": {
+        "en": "The Northern Plains have very high population density because of the flat terrain, fertile alluvial soil, and adequate rainfall for agriculture.",
+        "hi": "उपजाऊ मिट्टी और खेती के लिए उपयुक्त मैदानों के कारण उत्तरी मैदानों में जनसंख्या सघन है।"
+      },
+      "key_takeaway": {
+        "en": "High Density = Fertile plains (North India).",
+        "hi": "उच्च घनत्व = उपजाऊ मैदान (उत्तर भारत)।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "What is the magnitude of population growth?",
+        "hi": "जनसंख्या वृद्धि का परिमाण (Magnitude) क्या है?"
+      },
+      "options": {
+        "a": {"en": "The percentage increase per year", "hi": "प्रति वर्ष प्रतिशत वृद्धि"},
+        "b": {"en": "The absolute increase in numbers added each year or decade", "hi": "प्रत्येक वर्ष या दशक में जोड़ी गई कुल निरपेक्ष संख्या"},
+        "c": {"en": "The total population of a country", "hi": "एक देश की कुल जनसंख्या"},
+        "d": {"en": "The number of births per 1000 people", "hi": "प्रति 1000 लोगों पर जन्मों की संख्या"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It is obtained by subtracting the earlier population from the later population.",
+        "hi": "यह बाद की जनसंख्या से पहले की जनसंख्या को घटाकर प्राप्त किया जाता है।"
+      },
+      "explanation": {
+        "en": "The absolute increase (magnitude) is the number of people added to the population. For example, 2011 population minus 2001 population.",
+        "hi": "वृद्धि का परिमाण वह संख्या है जो किसी निश्चित समय में जनसंख्या में जुड़ती है।"
+      },
+      "key_takeaway": {
+        "en": "Magnitude = Absolute number of people added.",
+        "hi": "परिमाण = जुड़े हुए लोगों की कुल संख्या।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "What are the three main processes of population change?",
+        "hi": "जनसंख्या परिवर्तन की तीन मुख्य प्रक्रियाएं कौन सी हैं?"
+      },
+      "options": {
+        "a": {"en": "Births, Deaths, and Marriages", "hi": "जन्म, मृत्यु और विवाह"},
+        "b": {"en": "Births, Deaths, and Migration", "hi": "जन्म, मृत्यु और प्रवास (Migration)"},
+        "c": {"en": "Education, Health, and Income", "hi": "शिक्षा, स्वास्थ्य और आय"},
+        "d": {"en": "Age, Sex, and Literacy", "hi": "आयु, लिंग और साक्षरता"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "These factors determine how the number of people in an area changes over time.",
+        "hi": "ये कारक यह निर्धारित करते हैं कि किसी क्षेत्र में लोगों की संख्या समय के साथ कैसे बदलती है।"
+      },
+      "explanation": {
+        "en": "There are three main processes of change of population: birth rates, death rates and migration.",
+        "hi": "जन्म दर, मृत्यु दर और प्रवास जनसंख्या के आकार को बदलने वाले तीन मुख्य घटक हैं।"
+      },
+      "key_takeaway": {
+        "en": "Population Change = Births - Deaths + Migration.",
+        "hi": "जनसंख्या परिवर्तन = जन्म - मृत्यु + प्रवास।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "The number of live births per thousand persons in a year is called:",
+        "hi": "एक वर्ष में प्रति हजार व्यक्तियों पर जीवित जन्मों की संख्या को क्या कहा जाता है?"
+      },
+      "options": {
+        "a": {"en": "Death rate", "hi": "मृत्यु दर"},
+        "b": {"en": "Birth rate", "hi": "जन्म दर (Birth rate)"},
+        "c": {"en": "Growth rate", "hi": "वृद्धि दर"},
+        "d": {"en": "Fertility rate", "hi": "प्रजनन दर"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "In India, this has always been higher than the death rate.",
+        "hi": "भारत में, यह हमेशा मृत्यु दर से अधिक रही है।"
+      },
+      "explanation": {
+        "en": "Birth rate is the number of live births per thousand persons in a year. It is a major component of growth because it has always been higher than death rates in India.",
+        "hi": "जन्म दर का अर्थ प्रति 1000 व्यक्तियों पर जन्म लेने वाले बच्चों की संख्या है।"
+      },
+      "key_takeaway": {
+        "en": "Birth Rate = Births per 1000 people/year.",
+        "hi": "जन्म दर = प्रति 1000 व्यक्ति/वर्ष जन्म।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "The 'Natural Increase' of population is the difference between:",
+        "hi": "जनसंख्या की 'प्राकृतिक वृद्धि' किसके बीच का अंतर है?"
+      },
+      "options": {
+        "a": {"en": "Internal and External migration", "hi": "आंतरिक और बाह्य प्रवास"},
+        "b": {"en": "Birth rate and Death rate", "hi": "जन्म दर और मृत्यु दर (Birth & Death rate)"},
+        "c": {"en": "Urban and Rural population", "hi": "शहरी और ग्रामीण जनसंख्या"},
+        "d": {"en": "Literate and Illiterate population", "hi": "साक्षर और निरक्षर जनसंख्या"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It does not include the effects of people moving in or out of an area.",
+        "hi": "इसमें किसी क्षेत्र में आने या जाने वाले लोगों के प्रभाव शामिल नहीं हैं।"
+      },
+      "explanation": {
+        "en": "Natural increase of population is the difference between birth rates and death rates.",
+        "hi": "प्राकृतिक वृद्धि का अर्थ जन्म दर और मृत्यु दर का अंतर है।"
+      },
+      "key_takeaway": {
+        "en": "Natural Increase = Birth Rate - Death Rate.",
+        "hi": "प्राकृतिक वृद्धि = जन्म दर - मृत्यु दर।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "Internal migration (within the country) does not change the size of the population, but it influences:",
+        "hi": "आंतरिक प्रवास (देश के भीतर) जनसंख्या के आकार को नहीं बदलता है, लेकिन यह किसे प्रभावित करता है?"
+      },
+      "options": {
+        "a": {"en": "Total death rate", "hi": "कुल मृत्यु दर"},
+        "b": {"en": "The distribution of population within the nation", "hi": "राष्ट्र के भीतर जनसंख्या का वितरण"},
+        "c": {"en": "The national borders", "hi": "राष्ट्रीय सीमाएं"},
+        "d": {"en": "Total area of the country", "hi": "देश का कुल क्षेत्रफल"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It changes how many people live in cities versus villages.",
+        "hi": "यह बदलता है कि शहरों बनाम गाँवों में कितने लोग रहते हैं।"
+      },
+      "explanation": {
+        "en": "Internal migration does not change the size of the population, but influences the distribution of population within the nation.",
+        "hi": "आंतरिक प्रवास से कुल जनसंख्या नहीं बदलती, लेकिन अलग-अलग क्षेत्रों की जनसंख्या कम या ज्यादा हो जाती है।"
+      },
+      "key_takeaway": {
+        "en": "Internal Migration = Changes distribution, not total size.",
+        "hi": "आंतरिक प्रवास = वितरण बदलता है, कुल आकार नहीं।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "In India, most migrations have been from rural to urban areas because of:",
+        "hi": "भारत में, अधिकांश प्रवास ग्रामीण से शहरी क्षेत्रों की ओर हुए हैं क्योंकि:"
+      },
+      "options": {
+        "a": {"en": "Adverse conditions in rural areas (Push factor)", "hi": "ग्रामीण क्षेत्रों में प्रतिकूल परिस्थितियाँ (पुश फैक्टर)"},
+        "b": {"en": "Increased employment and better living conditions in cities (Pull factor)", "hi": "शहरों में बढ़ा हुआ रोजगार और बेहतर जीवन स्तर (पुल फैक्टर)"},
+        "c": {"en": "Both a and b", "hi": "a और b दोनों"},
+        "d": {"en": "Lack of schools in cities", "hi": "शहरों में स्कूलों की कमी"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "Poverty in villages 'pushes' people, while jobs in cities 'pull' them.",
+        "hi": "गाँवों में गरीबी लोगों को 'धकेलती' (push) है, जबकि शहरों में नौकरियाँ उन्हें 'खींचती' (pull) हैं।"
+      },
+      "explanation": {
+        "en": "Migration in India is mainly from rural to urban areas due to 'push' factors (poverty, lack of jobs in villages) and 'pull' factors (better jobs, education, and lifestyle in cities).",
+        "hi": "गाँवों में सुविधाओं की कमी और शहरों में बेहतर अवसरों के कारण लोग शहरों की ओर पलायन करते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Rural-Urban Migration = Push & Pull factors.",
+        "hi": "ग्रामीण-शहरी प्रवास = अपकर्षण और अभिकर्षण कारक।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "What is the 'Sex Ratio'?",
+        "hi": "'लिंग अनुपात' (Sex Ratio) क्या है?"
+      },
+      "options": {
+        "a": {"en": "Number of men per 100 women", "hi": "प्रति 100 महिलाओं पर पुरुषों की संख्या"},
+        "b": {"en": "Number of females per 1000 males", "hi": "प्रति 1000 पुरुषों पर महिलाओं की संख्या"},
+        "c": {"en": "The total number of females in a country", "hi": "एक देश में महिलाओं की कुल संख्या"},
+        "d": {"en": "The percentage of women in workforce", "hi": "कार्यबल में महिलाओं का प्रतिशत"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It is an important social indicator to measure the equality between males and females.",
+        "hi": "यह पुरुषों और महिलाओं के बीच समानता को मापने के लिए एक महत्वपूर्ण सामाजिक संकेतक है।"
+      },
+      "explanation": {
+        "en": "Sex ratio is defined as the number of females per 1000 males in the population.",
+        "hi": "प्रति 1000 पुरुषों पर महिलाओं की संख्या को लिंग अनुपात कहा जाता है।"
+      },
+      "key_takeaway": {
+        "en": "Sex Ratio = Females per 1000 males.",
+        "hi": "लिंग अनुपात = प्रति 1000 पुरुष महिलाएँ।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "Which state in India has a sex ratio of 1084 females per 1000 males (favorable to women)?",
+        "hi": "भारत के किस राज्य में लिंग अनुपात प्रति 1000 पुरुषों पर 1084 महिलाएं (महिलाओं के अनुकूल) है?"
+      },
+      "options": {
+        "a": {"en": "Haryana", "hi": "हरियाणा"},
+        "b": {"en": "Kerala", "hi": "केरल (Kerala)"},
+        "c": {"en": "Tamil Nadu", "hi": "तमिलनाडु"},
+        "d": {"en": "Puducherry", "hi": "पुदुचेरी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This state also has the highest literacy rate in India.",
+        "hi": "इस राज्य में भारत की साक्षरता दर भी सबसे अधिक है।"
+      },
+      "explanation": {
+        "en": "Kerala has a sex ratio of 1084 females per 1000 males, while Puducherry has 1037. This shows a favorable status for women in these areas.",
+        "hi": "केरल में महिलाओं की संख्या पुरुषों से अधिक है, जो एक सकारात्मक सामाजिक सूचक है।"
+      },
+      "key_takeaway": {
+        "en": "Highest Sex Ratio State = Kerala.",
+        "hi": "सर्वाधिक लिंग अनुपात वाला राज्य = केरल।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "A person aged 7 years and above who can read and write with understanding in any language is treated as:",
+        "hi": "7 वर्ष और उससे अधिक आयु का व्यक्ति जो किसी भी भाषा को समझ के साथ पढ़ और लिख सकता है, उसे क्या माना जाता है?"
+      },
+      "options": {
+        "a": {"en": "Educated", "hi": "शिक्षित"},
+        "b": {"en": "Literate", "hi": "साक्षर (Literate)"},
+        "c": {"en": "Graduate", "hi": "स्नातक"},
+        "d": {"en": "Scholar", "hi": "विद्वान"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This is the official definition used in the Census of India.",
+        "hi": "यह भारत की जनगणना में उपयोग की जाने वाली आधिकारिक परिभाषा है।"
+      },
+      "explanation": {
+        "en": "According to the Census, a person aged 7 years and above, who can read and write with understanding in any language, is treated as literate.",
+        "hi": "7 साल से ऊपर का कोई भी व्यक्ति जो पढ़-लिख सकता है, उसे साक्षर माना जाता है।"
+      },
+      "key_takeaway": {
+        "en": "Literate Definition = 7+ years, Read/Write skills.",
+        "hi": "साक्षर की परिभाषा = 7+ वर्ष, पढ़ने/लिखने का कौशल।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "What was the literacy rate of India according to the 2011 Census?",
+        "hi": "2011 की जनगणना के अनुसार भारत की साक्षरता दर क्या थी?"
+      },
+      "options": {
+        "a": {"en": "64.84%", "hi": "64.84%"},
+        "b": {"en": "73%", "hi": "73% (approx)"},
+        "c": {"en": "82.14%", "hi": "82.14%"},
+        "d": {"en": "93.91%", "hi": "93.91%"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It consisted of 80.9% for males and 64.6% for females.",
+        "hi": "इसमें पुरुषों के लिए 80.9% और महिलाओं के लिए 64.6% शामिल थे।"
+      },
+      "explanation": {
+        "en": "The literacy rate in the country as per the Census of 2011 is 73 per cent (80.9 per cent for males and 64.6 per cent for females).",
+        "hi": "2011 में भारत की साक्षरता दर 73% थी।"
+      },
+      "key_takeaway": {
+        "en": "India Literacy (2011) = 73%.",
+        "hi": "भारत की साक्षरता (2011) = 73%।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "What is 'Occupational Structure'?",
+        "hi": "'व्यावसायिक संरचना' (Occupational Structure) क्या है?"
+      },
+      "options": {
+        "a": {"en": "The number of people having high-salary jobs", "hi": "उच्च वेतन वाली नौकरी करने वाले लोगों की संख्या"},
+        "b": {"en": "The distribution of the population according to different types of occupations", "hi": "विभिन्न प्रकार के व्यवसायों के अनुसार जनसंख्या का वितरण"},
+        "c": {"en": "The total number of offices in a city", "hi": "एक शहर में कार्यालयों की कुल संख्या"},
+        "d": {"en": "The structure of office buildings", "hi": "कार्यालय भवनों की संरचना"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It tells us how many people are in primary, secondary, and tertiary sectors.",
+        "hi": "यह हमें बताता है कि प्राथमिक, द्वितीयक और तृतीयक क्षेत्रों में कितने लोग हैं।"
+      },
+      "explanation": {
+        "en": "Occupational structure refers to the distribution of the population according to different types of occupations. It is divided into primary, secondary, and tertiary sectors.",
+        "hi": "लोग किस तरह के काम करते हैं, उसके आधार पर जनसंख्या के बँटवारे को व्यावसायिक संरचना कहते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Occupational Structure = Work distribution by sector.",
+        "hi": "व्यावसायिक संरचना = क्षेत्रानुसार कार्य वितरण।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "Which sector includes agriculture, animal husbandry, forestry, and fishing?",
+        "hi": "किस क्षेत्र में कृषि, पशुपालन, वानिकी और मछली पकड़ना शामिल है?"
+      },
+      "options": {
+        "a": {"en": "Primary sector", "hi": "प्राथमिक क्षेत्र (Primary)"},
+        "b": {"en": "Secondary sector", "hi": "द्वितीयक क्षेत्र"},
+        "c": {"en": "Tertiary sector", "hi": "तृतीयक क्षेत्र"},
+        "d": {"en": "Information sector", "hi": "सूचना क्षेत्र"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "This sector involves the direct use of natural resources.",
+        "hi": "इस क्षेत्र में प्राकृतिक संसाधनों का प्रत्यक्ष उपयोग शामिल है।"
+      },
+      "explanation": {
+        "en": "Primary activities include agriculture, animal husbandry, forestry, fishing, mining and quarrying, etc.",
+        "hi": "खेती और प्रकृति से जुड़े कामों को प्राथमिक क्षेत्र में रखा जाता है।"
+      },
+      "key_takeaway": {
+        "en": "Primary Sector = Natural resource based work.",
+        "hi": "प्राथमिक क्षेत्र = प्राकृतिक संसाधन आधारित कार्य।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "Manufacturing and construction are examples of which sector?",
+        "hi": "विनिर्माण और निर्माण किस क्षेत्र के उदाहरण हैं?"
+      },
+      "options": {
+        "a": {"en": "Primary", "hi": "प्राथमिक"},
+        "b": {"en": "Secondary", "hi": "द्वितीयक (Secondary)"},
+        "c": {"en": "Tertiary", "hi": "तृतीयक"},
+        "d": {"en": "Service", "hi": "सेवा"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This sector involves processing raw materials into goods.",
+        "hi": "इस क्षेत्र में कच्चे माल को वस्तुओं में बदलना शामिल है।"
+      },
+      "explanation": {
+        "en": "Secondary activities include manufacturing industry, building and construction work, etc.",
+        "hi": "फैक्ट्रियों और निर्माण कार्यों को द्वितीयक क्षेत्र में रखा जाता है।"
+      },
+      "key_takeaway": {
+        "en": "Secondary Sector = Manufacturing/Construction.",
+        "hi": "द्वितीयक क्षेत्र = विनिर्माण/निर्माण।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "Which sector includes transport, communications, commerce, administration, and services?",
+        "hi": "किस क्षेत्र में परिवहन, संचार, वाणिज्य, प्रशासन और सेवाएँ शामिल हैं?"
+      },
+      "options": {
+        "a": {"en": "Primary", "hi": "प्राथमिक"},
+        "b": {"en": "Secondary", "hi": "द्वितीयक"},
+        "c": {"en": "Tertiary", "hi": "तृतीयक (Tertiary)"},
+        "d": {"en": "Agricultural", "hi": "कृषि"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "This sector provides services to people and other industries.",
+        "hi": "यह क्षेत्र लोगों और अन्य उद्योगों को सेवाएँ प्रदान करता है।"
+      },
+      "explanation": {
+        "en": "Tertiary activities include transport, communications, commerce, administration and other services.",
+        "hi": "सेवाओं से जुड़े कार्यों को तृतीयक क्षेत्र कहा जाता है।"
+      },
+      "key_takeaway": {
+        "en": "Tertiary Sector = Services/Administration.",
+        "hi": "तृतीयक क्षेत्र = सेवाएँ/प्रशासन।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "In India, about what percentage of the population is dependent on agriculture?",
+        "hi": "भारत में लगभग कितने प्रतिशत जनसंख्या कृषि पर निर्भर है?"
+      },
+      "options": {
+        "a": {"en": "24%", "hi": "24%"},
+        "b": {"en": "64%", "hi": "64% (approx)"},
+        "c": {"en": "10%", "hi": "10%"},
+        "d": {"en": "90%", "hi": "90%"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This reflects the agrarian nature of the Indian economy.",
+        "hi": "यह भारतीय अर्थव्यवस्था की कृषि प्रधान प्रकृति को दर्शाता है।"
+      },
+      "explanation": {
+        "en": "In India, about 64 per cent of the population is engaged only in agriculture. This is high compared to developed nations.",
+        "hi": "भारत में लगभग 64% लोग खेती के कामों में लगे हुए हैं।"
+      },
+      "key_takeaway": {
+        "en": "Agri Dependency = ~64% in India.",
+        "hi": "कृषि निर्भरता = भारत में ~64%।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "A significant feature of the Indian population is the size of its _________ population (aged 10-19 years).",
+        "hi": "भारतीय जनसंख्या की एक महत्वपूर्ण विशेषता इसकी _________ जनसंख्या (10-19 वर्ष की आयु) का आकार है।"
+      },
+      "options": {
+        "a": {"en": "Elderly", "hi": "बुजुर्ग"},
+        "b": {"en": "Adolescent", "hi": "किशोर (Adolescent)"},
+        "c": {"en": "Infant", "hi": "शिशु"},
+        "d": {"en": "Retired", "hi": "सेवानिवृत्त"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "They constitute about one-fifth of the total population of India.",
+        "hi": "वे भारत की कुल जनसंख्या का लगभग पाँचवाँ हिस्सा हैं।"
+      },
+      "explanation": {
+        "en": "Adolescents (aged 10 to 19 years) constitute about one-fifth of India's population. They are the most important resource for the future.",
+        "hi": "भारत की 1/5 जनसंख्या किशोरों की है जो देश के भविष्य के लिए बहुत महत्वपूर्ण हैं।"
+      },
+      "key_takeaway": {
+        "en": "Adolescents = 10-19 age group.",
+        "hi": "किशोर = 10-19 आयु वर्ग।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "The National Population Policy (NPP) 2000 was launched primarily to:",
+        "hi": "राष्ट्रीय जनसंख्या नीति (NPP) 2000 मुख्य रूप से किस लिए शुरू की गई थी?"
+      },
+      "options": {
+        "a": {"en": "Increase the death rate", "hi": "मृत्यु दर बढ़ाना"},
+        "b": {"en": "Provide a framework for family welfare and stable population", "hi": "परिवार कल्याण और स्थिर जनसंख्या के लिए एक रूपरेखा प्रदान करना"},
+        "c": {"en": "Decrease the number of schools", "hi": "स्कूलों की संख्या कम करना"},
+        "d": {"en": "Encourage migration to other countries", "hi": "दूसरे देशों में प्रवास को प्रोत्साहित करना"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It aimed at free education up to 14 years and universal immunization.",
+        "hi": "इसका उद्देश्य 14 वर्ष तक मुफ्त शिक्षा और सार्वभौमिक टीकाकरण था।"
+      },
+      "explanation": {
+        "en": "NPP 2000 provides a policy framework for imparting free education up to 14 years of age, reducing infant mortality, and achieving universal immunization.",
+        "hi": "NPP 2000 का लक्ष्य जनसंख्या को स्थिर करना और स्वास्थ्य सुविधाओं में सुधार करना है।"
+      },
+      "key_takeaway": {
+        "en": "NPP 2000 = Family welfare and population control.",
+        "hi": "NPP 2000 = परिवार कल्याण और जनसंख्या नियंत्रण।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "The population of a nation is generally grouped into three broad categories based on age. Which of the following is NOT one of them?",
+        "hi": "एक राष्ट्र की जनसंख्या को सामान्यतः आयु के आधार पर तीन श्रेणियों में बांटा जाता है। इनमें से कौन सी श्रेणी नहीं है?"
+      },
+      "options": {
+        "a": {"en": "Children (below 15 years)", "hi": "बच्चे (15 वर्ष से कम)"},
+        "b": {"en": "Working Age (15-59 years)", "hi": "कार्यशील आयु (15-59 वर्ष)"},
+        "c": {"en": "Aged (above 59 years)", "hi": "बुजुर्ग (59 वर्ष से ऊपर)"},
+        "d": {"en": "Infants (below 1 year)", "hi": "शिशु (1 वर्ष से कम)"}
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "While infants are part of the 'children' category, they are not a separate 'broad' category for demographic grouping.",
+        "hi": "शिशु 'बच्चों' की श्रेणी का हिस्सा हैं, लेकिन वे जनसांख्यिकीय समूह के लिए एक अलग श्रेणी नहीं हैं।"
+      },
+      "explanation": {
+        "en": "The age composition of a population is grouped into: Children (generally below 15 years), Working Age (15-59 years) and Aged (above 59 years).",
+        "hi": "जनसंख्या को मुख्य रूप से बच्चे, कार्यशील आयु और बुजुर्गों में बांटा जाता है।"
+      },
+      "key_takeaway": {
+        "en": "Age Composition = Children, Working Age, Aged.",
+        "hi": "आयु संरचना = बच्चे, कार्यशील आयु, बुजुर्ग।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "People of the 'Working Age' group (15-59 years) are considered as:",
+        "hi": "'कार्यशील आयु' समूह (15-59 वर्ष) के लोगों को क्या माना जाता है?"
+      },
+      "options": {
+        "a": {"en": "Dependent population", "hi": "आश्रित जनसंख्या"},
+        "b": {"en": "Economically productive population", "hi": "आर्थिक रूप से उत्पादक जनसंख्या"},
+        "c": {"en": "Unproductive population", "hi": "अनुत्पादक जनसंख्या"},
+        "d": {"en": "Retired population", "hi": "सेवानिवृत्त जनसंख्या"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "They are the ones who work and pay taxes to support the young and elderly.",
+        "hi": "ये वे लोग हैं जो काम करते हैं और बच्चों और बुजुर्गों की सहायता के लिए कर देते हैं।"
+      },
+      "explanation": {
+        "en": "The group of 15-59 years is economically productive and biologically reproductive. They comprise the working population.",
+        "hi": "15-59 वर्ष के लोग देश की आर्थिक गतिविधियों में सक्रिय योगदान देते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Working Age = 15-59 years (Productive group).",
+        "hi": "कार्यशील आयु = 15-59 वर्ष (उत्पादक समूह)।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "Which year is known as the 'Year of Great Divide' in the history of Indian census?",
+        "hi": "भारतीय जनगणना के इतिहास में किस वर्ष को 'महान विभाजक वर्ष' (Year of Great Divide) कहा जाता है?"
+      },
+      "options": {
+        "a": {"en": "1921", "hi": "1921 (Great Divide)"},
+        "b": {"en": "1951", "hi": "1951"},
+        "c": {"en": "1981", "hi": "1981"},
+        "d": {"en": "2011", "hi": "2011"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "Before this year, population growth was stagnant; after this, it started increasing consistently.",
+        "hi": "इस वर्ष से पहले जनसंख्या वृद्धि स्थिर थी; इसके बाद इसमें लगातार वृद्धि शुरू हुई।"
+      },
+      "explanation": {
+        "en": "1921 is called the Year of Great Divide because, before 1921, the population of India was fluctuating, but after 1921, there has been a continuous increase.",
+        "hi": "1921 के बाद से भारत की जनसंख्या कभी कम नहीं हुई, हमेशा बढ़ती ही रही।"
+      },
+      "key_takeaway": {
+        "en": "1921 = Year of Great Divide.",
+        "hi": "1921 = महान विभाजक वर्ष।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "What is the impact of rapid population growth on resources?",
+        "hi": "तेजी से बढ़ती जनसंख्या का संसाधनों पर क्या प्रभाव पड़ता है?"
+      },
+      "options": {
+        "a": {"en": "Increase in resources", "hi": "संसाधनों में वृद्धि"},
+        "b": {"en": "Depletion and strain on resources", "hi": "संसाधनों का ह्रास और उन पर दबाव"},
+        "c": {"en": "No effect", "hi": "कोई प्रभाव नहीं"},
+        "d": {"en": "Resources become free", "hi": "संसाधन मुफ्त हो जाते हैं"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "More people need more food, water, land, and energy.",
+        "hi": "अधिक लोगों को अधिक भोजन, पानी, जमीन और ऊर्जा की आवश्यकता होती है।"
+      },
+      "explanation": {
+        "en": "Rapid population growth puts enormous pressure on existing natural resources and infrastructure like housing, health, and education.",
+        "hi": "जनसंख्या बढ़ने से भोजन, पानी और आवास जैसे संसाधनों पर बोझ बढ़ जाता है।"
+      },
+      "key_takeaway": {
+        "en": "Overpopulation = Strain on natural resources.",
+        "hi": "अत्यधिक जनसंख्या = प्राकृतिक संसाधनों पर दबाव।"
+      }
+    }
+  ]
+}

@@ -1,0 +1,794 @@
+{
+  "metadata": {
+    "chapter_number": 1,
+    "chapter_title": "India - Size and Location",
+    "chapter_title_hindi": "भारत - आकार और स्थिति",
+    "subject": "Geography - Class 9",
+    "board": "CBSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.0",
+    "naming_convention": "09_GE_CH01_IndiaSizeLocation_30MCQ.json"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "In which hemisphere is India entirely located?",
+        "hi": "भारत पूर्णतः किस गोलार्द्ध में स्थित है?"
+      },
+      "options": {
+        "a": {"en": "Southern Hemisphere", "hi": "दक्षिणी गोलार्द्ध"},
+        "b": {"en": "Northern Hemisphere", "hi": "उत्तरी गोलार्द्ध"},
+        "c": {"en": "Eastern Hemisphere only", "hi": "केवल पूर्वी गोलार्द्ध"},
+        "d": {"en": "Western Hemisphere", "hi": "पश्चिमी गोलार्द्ध"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It lies north of the Equator.",
+        "hi": "यह भूमध्य रेखा के उत्तर में स्थित है।"
+      },
+      "explanation": {
+        "en": "India is a vast country. Lying entirely in the Northern Hemisphere, its main land extends between latitudes 8°4'N and 37°6'N.",
+        "hi": "भारत एक विशाल देश है। यह पूरी तरह से उत्तरी गोलार्द्ध में स्थित है, और इसका मुख्य भाग 8°4' उत्तर से 37°6' उत्तर अक्षांश के बीच फैला है।"
+      },
+      "key_takeaway": {
+        "en": "India = Northern Hemisphere.",
+        "hi": "भारत = उत्तरी गोलार्द्ध।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "Which line divides India into almost two equal parts?",
+        "hi": "कौन सी रेखा भारत को लगभग दो बराबर भागों में विभाजित करती है?"
+      },
+      "options": {
+        "a": {"en": "Equator", "hi": "भूमध्य रेखा"},
+        "b": {"en": "Tropic of Capricorn", "hi": "मकर रेखा"},
+        "c": {"en": "Tropic of Cancer", "hi": "कर्क रेखा"},
+        "d": {"en": "Arctic Circle", "hi": "आर्कटिक वृत्त"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "The latitude of this line is 23° 30' N.",
+        "hi": "इस रेखा का अक्षांश 23° 30' उत्तर है।"
+      },
+      "explanation": {
+        "en": "The Tropic of Cancer (23° 30' N) divides the country into almost two equal parts.",
+        "hi": "कर्क रेखा (23° 30' उत्तर) देश को लगभग दो बराबर भागों में बांटती है।"
+      },
+      "key_takeaway": {
+        "en": "Tropic of Cancer = 23° 30' N.",
+        "hi": "कर्क रेखा = 23° 30' उत्तर।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "What is the total area of India's landmass?",
+        "hi": "भारत के भूभाग का कुल क्षेत्रफल कितना है?"
+      },
+      "options": {
+        "a": {"en": "2.4 million sq. km", "hi": "2.4 मिलियन वर्ग किमी"},
+        "b": {"en": "3.28 million sq. km", "hi": "3.28 मिलियन वर्ग किमी"},
+        "c": {"en": "5.1 million sq. km", "hi": "5.1 मिलियन वर्ग किमी"},
+        "d": {"en": "7.5 million sq. km", "hi": "7.5 मिलियन वर्ग किमी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It accounts for about 2.4 per cent of the total geographical area of the world.",
+        "hi": "यह दुनिया के कुल भौगोलिक क्षेत्रफल का लगभग 2.4 प्रतिशत है।"
+      },
+      "explanation": {
+        "en": "The landmass of India has an area of 3.28 million square km. India’s total area accounts for about 2.4 per cent of the total geographical area of the world.",
+        "hi": "भारत का कुल क्षेत्रफल लगभग 32.8 लाख (3.28 मिलियन) वर्ग किलोमीटर है।"
+      },
+      "key_takeaway": {
+        "en": "India's Area = 3.28 million sq. km.",
+        "hi": "भारत का क्षेत्रफल = 3.28 मिलियन वर्ग किमी।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "What is the rank of India in the world in terms of area?",
+        "hi": "क्षेत्रफल की दृष्टि से विश्व में भारत का कौन सा स्थान है?"
+      },
+      "options": {
+        "a": {"en": "Fifth", "hi": "पाँचवाँ"},
+        "b": {"en": "Sixth", "hi": "छठा"},
+        "c": {"en": "Seventh", "hi": "सातवाँ"},
+        "d": {"en": "Second", "hi": "दूसरा"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "Russia, Canada, USA, China, Brazil, and Australia are larger than India.",
+        "hi": "रूस, कनाडा, अमेरिका, चीन, ब्राजील और ऑस्ट्रेलिया भारत से बड़े हैं।"
+      },
+      "explanation": {
+        "en": "India is the seventh largest country of the world. It follows Russia, Canada, USA, China, Brazil, and Australia.",
+        "hi": "भारत विश्व का सातवाँ सबसे बड़ा देश है।"
+      },
+      "key_takeaway": {
+        "en": "India = 7th largest country.",
+        "hi": "भारत = 7वाँ सबसे बड़ा देश।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "What is the length of India's land boundary?",
+        "hi": "भारत की स्थल सीमा की लंबाई कितनी है?"
+      },
+      "options": {
+        "a": {"en": "7,516.6 km", "hi": "7,516.6 किमी"},
+        "b": {"en": "15,200 km", "hi": "15,200 किमी"},
+        "c": {"en": "6,100 km", "hi": "6,100 किमी"},
+        "d": {"en": "2,933 km", "hi": "2,933 किमी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This is almost double the length of the coastline.",
+        "hi": "यह तटरेखा की लंबाई से लगभग दोगुना है।"
+      },
+      "explanation": {
+        "en": "India has a land boundary of about 15,200 km and the total length of the coastline including Andaman and Nicobar and Lakshadweep is 7,516.6 km.",
+        "hi": "भारत की स्थल सीमा रेखा लगभग 15,200 किमी है।"
+      },
+      "key_takeaway": {
+        "en": "Land Boundary = 15,200 km.",
+        "hi": "स्थल सीमा = 15,200 किमी।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "Which water body separates Sri Lanka from India?",
+        "hi": "कौन सा जलडमरूमध्य श्रीलंका को भारत से अलग करता है?"
+      },
+      "options": {
+        "a": {"en": "Palk Strait", "hi": "पाक जलडमरूमध्य (Palk Strait)"},
+        "b": {"en": "10 Degree Channel", "hi": "10 डिग्री चैनल"},
+        "c": {"en": "English Channel", "hi": "इंग्लिश चैनल"},
+        "d": {"en": "Panama Canal", "hi": "पनामा नहर"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "It is a narrow channel of sea.",
+        "hi": "यह समुद्र का एक संकीर्ण चैनल है।"
+      },
+      "explanation": {
+        "en": "Sri Lanka is separated from India by a narrow channel of sea formed by the Palk Strait and the Gulf of Mannar.",
+        "hi": "श्रीलंका और भारत के बीच पाक जलडमरूमध्य और मन्नार की खाड़ी स्थित है।"
+      },
+      "key_takeaway": {
+        "en": "Palk Strait = Separates India & Sri Lanka.",
+        "hi": "पाक जलडमरूमध्य = भारत और श्रीलंका को अलग करता है।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "What is the Standard Meridian of India?",
+        "hi": "भारत का मानक याम्योत्तर (Standard Meridian) क्या है?"
+      },
+      "options": {
+        "a": {"en": "82° 30' E", "hi": "82° 30' पूर्व"},
+        "b": {"en": "68° 7' E", "hi": "68° 7' पूर्व"},
+        "c": {"en": "97° 25' E", "hi": "97° 25' पूर्व"},
+        "d": {"en": "23° 30' N", "hi": "23° 30' उत्तर"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "It passes through Mirzapur in Uttar Pradesh.",
+        "hi": "यह उत्तर प्रदेश के मिर्जापुर से होकर गुजरता है।"
+      },
+      "explanation": {
+        "en": "Standard Meridian of India (82°30'E) passing through Mirzapur (in Uttar Pradesh) is taken as the standard time for the whole country.",
+        "hi": "82°30' पूर्व देशांतर रेखा को भारत का मानक याम्योत्तर माना गया है।"
+      },
+      "key_takeaway": {
+        "en": "Indian Standard Time (IST) = 82° 30' E.",
+        "hi": "भारतीय मानक समय (IST) = 82° 30' पूर्व।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "What is the time lag between Gujarat and Arunachal Pradesh?",
+        "hi": "गुजरात और अरुणाचल प्रदेश के बीच समय का कितना अंतर है?"
+      },
+      "options": {
+        "a": {"en": "1 hour", "hi": "1 घंटा"},
+        "b": {"en": "2 hours", "hi": "2 घंटे"},
+        "c": {"en": "30 minutes", "hi": "30 मिनट"},
+        "d": {"en": "45 minutes", "hi": "45 मिनट"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This is due to the longitudinal extent of nearly 30 degrees.",
+        "hi": "यह लगभग 30 डिग्री के देशांतरीय विस्तार के कारण है।"
+      },
+      "explanation": {
+        "en": "From Gujarat to Arunachal Pradesh, there is a time lag of two hours. Hence, time along the Standard Meridian of India is taken as the standard time.",
+        "hi": "गुजरात से अरुणाचल प्रदेश के स्थानीय समय में दो घंटे का अंतर है।"
+      },
+      "key_takeaway": {
+        "en": "East-West Time Lag = 2 hours.",
+        "hi": "पूर्व-पश्चिम समय अंतराल = 2 घंटे।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "The southernmost point of the Indian Union, 'Indira Point', got submerged under sea water in:",
+        "hi": "भारतीय संघ का सबसे दक्षिणी बिंदु, 'इन्दिरा बिंदु', समुद्र के पानी में कब डूब गया?"
+      },
+      "options": {
+        "a": {"en": "1984", "hi": "1984"},
+        "b": {"en": "2001", "hi": "2001"},
+        "c": {"en": "2004", "hi": "2004"},
+        "d": {"en": "2010", "hi": "2010"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "It happened during the Tsunami.",
+        "hi": "यह सुनामी के दौरान हुआ था।"
+      },
+      "explanation": {
+        "en": "The southernmost point of the Indian Union ‘Indira Point’ got submerged under the sea water in 2004 during the Tsunami.",
+        "hi": "2004 की सुनामी में 'इन्दिरा बिंदु' समुद्र में डूब गया।"
+      },
+      "key_takeaway": {
+        "en": "Indira Point = Submerged in 2004 Tsunami.",
+        "hi": "इन्दिरा बिंदु = 2004 की सुनामी में जलमग्न।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "Which of these countries does not share a land boundary with India?",
+        "hi": "इनमें से कौन सा देश भारत के साथ स्थल सीमा साझा नहीं करता है?"
+      },
+      "options": {
+        "a": {"en": "Bhutan", "hi": "भूटान"},
+        "b": {"en": "Tajikistan", "hi": "ताजिकिस्तान"},
+        "c": {"en": "Bangladesh", "hi": "बांग्लादेश"},
+        "d": {"en": "Nepal", "hi": "नेपाल"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It is located in Central Asia, north of Pakistan and Afghanistan.",
+        "hi": "यह मध्य एशिया में स्थित है, पाकिस्तान और अफगानिस्तान के उत्तर में।"
+      },
+      "explanation": {
+        "en": "India shares land boundaries with Pakistan, Afghanistan, China, Nepal, Bhutan, Myanmar, and Bangladesh. Tajikistan does not border India.",
+        "hi": "ताजिकिस्तान की सीमा भारत से नहीं लगती है।"
+      },
+      "key_takeaway": {
+        "en": "Neighbors = Pak, Afg, China, Nepal, Bhutan, Myanmar, Bang.",
+        "hi": "पड़ोसी = पाक, अफग, चीन, नेपाल, भूटान, म्यांमार, बांग।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "Which state of India has the longest coastline?",
+        "hi": "भारत के किस राज्य की तटरेखा सबसे लंबी है?"
+      },
+      "options": {
+        "a": {"en": "Maharashtra", "hi": "महाराष्ट्र"},
+        "b": {"en": "Tamil Nadu", "hi": "तमिलनाडु"},
+        "c": {"en": "Gujarat", "hi": "गुजरात"},
+        "d": {"en": "Andhra Pradesh", "hi": "आंध्र प्रदेश"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "It is located on the western coast.",
+        "hi": "यह पश्चिमी तट पर स्थित है।"
+      },
+      "explanation": {
+        "en": "Gujarat has the longest coastline in India, exceeding 1,600 km.",
+        "hi": "भारत में गुजरात की तटरेखा सबसे लंबी है।"
+      },
+      "key_takeaway": {
+        "en": "Longest Coastline = Gujarat.",
+        "hi": "सबसे लंबी तटरेखा = गुजरात।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "The opening of the Suez Canal in 1869 reduced India's distance from Europe by:",
+        "hi": "1869 में स्वेज नहर के खुलने से भारत की यूरोप से दूरी कितनी कम हो गई?"
+      },
+      "options": {
+        "a": {"en": "5,000 km", "hi": "5,000 किमी"},
+        "b": {"en": "7,000 km", "hi": "7,000 किमी"},
+        "c": {"en": "10,000 km", "hi": "10,000 किमी"},
+        "d": {"en": "2,000 km", "hi": "2,000 किमी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This canal connects the Mediterranean Sea to the Red Sea.",
+        "hi": "यह नहर भूमध्य सागर को लाल सागर से जोड़ती है।"
+      },
+      "explanation": {
+        "en": "Since the opening of the Suez Canal in 1869, India’s distance from Europe has been reduced by 7,000 km.",
+        "hi": "स्वेज नहर के कारण भारत और यूरोप के बीच की दूरी 7,000 किमी कम हो गई।"
+      },
+      "key_takeaway": {
+        "en": "Suez Canal = 7,000 km shorter route to Europe.",
+        "hi": "स्वेज नहर = यूरोप के लिए 7,000 किमी छोटा रास्ता।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "Which of these states does the Tropic of Cancer NOT pass through?",
+        "hi": "इनमें से किस राज्य से होकर कर्क रेखा नहीं गुजरती है?"
+      },
+      "options": {
+        "a": {"en": "Rajasthan", "hi": "राजस्थान"},
+        "b": {"en": "Odisha", "hi": "ओडिशा"},
+        "c": {"en": "Chhattisgarh", "hi": "छत्तीसगढ़"},
+        "d": {"en": "Tripura", "hi": "त्रिपुरा"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It passes through 8 states: Gujarat, Rajasthan, MP, Chhattisgarh, Jharkhand, WB, Tripura, and Mizoram.",
+        "hi": "यह 8 राज्यों से गुजरती है: गुजरात, राजस्थान, मप्र, छत्तीसगढ़, झारखंड, प.बंगाल, त्रिपुरा और मिजोरम।"
+      },
+      "explanation": {
+        "en": "The Tropic of Cancer passes through Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura and Mizoram. It does not pass through Odisha.",
+        "hi": "कर्क रेखा ओडिशा से होकर नहीं गुजरती है।"
+      },
+      "key_takeaway": {
+        "en": "Tropic of Cancer = Passes through 8 Indian states.",
+        "hi": "कर्क रेखा = भारत के 8 राज्यों से गुजरती है।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "The easternmost longitude of India is:",
+        "hi": "भारत का सबसे पूर्वी देशांतर कौन सा है?"
+      },
+      "options": {
+        "a": {"en": "97° 25' E", "hi": "97° 25' पूर्व"},
+        "b": {"en": "68° 7' E", "hi": "68° 7' पूर्व"},
+        "c": {"en": "77° 6' E", "hi": "77° 6' पूर्व"},
+        "d": {"en": "82° 32' E", "hi": "82° 32' पूर्व"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "It is located in Arunachal Pradesh.",
+        "hi": "यह अरुणाचल प्रदेश में स्थित है।"
+      },
+      "explanation": {
+        "en": "The longitudinal extent of India's mainland is between 68°7'E and 97°25'E. Thus, 97°25'E is the easternmost longitude.",
+        "hi": "भारत का सबसे पूर्वी देशांतर 97° 25' पूर्व है।"
+      },
+      "key_takeaway": {
+        "en": "Easternmost Longitude = 97° 25' E.",
+        "hi": "सबसे पूर्वी देशांतर = 97° 25' पूर्व।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "Uttarakhand, Uttar Pradesh, Bihar, West Bengal and Sikkim have common frontiers with:",
+        "hi": "उत्तराखंड, उत्तर प्रदेश, बिहार, पश्चिम बंगाल और सिक्किम की सीमाएँ किस देश से मिलती हैं?"
+      },
+      "options": {
+        "a": {"en": "China", "hi": "चीन"},
+        "b": {"en": "Bhutan", "hi": "भूटान"},
+        "c": {"en": "Nepal", "hi": "नेपाल"},
+        "d": {"en": "Myanmar", "hi": "म्यांमार"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "This country is located between India and Tibet.",
+        "hi": "यह देश भारत और तिब्बत के बीच स्थित है।"
+      },
+      "explanation": {
+        "en": "Nepal shares its boundaries with five Indian states: Uttarakhand, Uttar Pradesh, Bihar, West Bengal, and Sikkim.",
+        "hi": "इन सभी पाँच राज्यों की सीमाएँ नेपाल से लगती हैं।"
+      },
+      "key_takeaway": {
+        "en": "Nepal = Borders 5 Indian states.",
+        "hi": "नेपाल = 5 भारतीय राज्यों के साथ सीमा साझा करता है।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "If you intend to visit Kavaratti during your summer vacations, which Union Territory of India will you be going to?",
+        "hi": "यदि आप अपनी गर्मियों की छुट्टियों में कवरत्ती जाना चाहते हैं, तो आप भारत के किस केंद्र शासित प्रदेश में जाएंगे?"
+      },
+      "options": {
+        "a": {"en": "Puducherry", "hi": "पुदुचेरी"},
+        "b": {"en": "Lakshadweep", "hi": "लक्षद्वीप"},
+        "c": {"en": "Andaman and Nicobar Islands", "hi": "अंडमान और निकोबार द्वीप समूह"},
+        "d": {"en": "Daman and Diu", "hi": "दमन और दीव"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Kavaratti is the administrative headquarters of this island group.",
+        "hi": "कवरत्ती इस द्वीप समूह का प्रशासनिक मुख्यालय है।"
+      },
+      "explanation": {
+        "en": "Kavaratti is the capital/administrative headquarters of the Union Territory of Lakshadweep.",
+        "hi": "कवरत्ती लक्षद्वीप की राजधानी है।"
+      },
+      "key_takeaway": {
+        "en": "Kavaratti = Capital of Lakshadweep.",
+        "hi": "कवरत्ती = लक्षद्वीप की राजधानी।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "Which of the following is the smallest state of India in terms of area?",
+        "hi": "क्षेत्रफल की दृष्टि से भारत का सबसे छोटा राज्य कौन सा है?"
+      },
+      "options": {
+        "a": {"en": "Sikkim", "hi": "सिक्किम"},
+        "b": {"en": "Tripura", "hi": "त्रिपुरा"},
+        "c": {"en": "Goa", "hi": "गोवा"},
+        "d": {"en": "Mizoram", "hi": "मिजोरम"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "It is located on the western coast of India.",
+        "hi": "यह भारत के पश्चिमी तट पर स्थित है।"
+      },
+      "explanation": {
+        "en": "Goa is the smallest state of India by area, whereas Rajasthan is the largest.",
+        "hi": "गोवा क्षेत्रफल के हिसाब से भारत का सबसे छोटा राज्य है।"
+      },
+      "key_takeaway": {
+        "en": "Smallest State = Goa.",
+        "hi": "सबसे छोटा राज्य = गोवा।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "India is bounded by young fold mountains in the:",
+        "hi": "भारत उत्तर-पश्चिम, उत्तर और उत्तर-पूर्व में किन पहाड़ों से घिरा है?"
+      },
+      "options": {
+        "a": {"en": "North-west, North and North-east", "hi": "उत्तर-पश्चिम, उत्तर और उत्तर-पूर्व"},
+        "b": {"en": "South-west", "hi": "दक्षिण-पश्चिम"},
+        "c": {"en": "South-east", "hi": "दक्षिण-पूर्व"},
+        "d": {"en": "None of the above", "hi": "उपरोक्त में से कोई नहीं"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "These mountains are the Himalayas.",
+        "hi": "ये पहाड़ हिमालय हैं।"
+      },
+      "explanation": {
+        "en": "India is bounded by the young fold mountains (Himalayas) in the northwest, north, and northeast.",
+        "hi": "भारत के उत्तर में हिमालय जैसे नवीन वलित पर्वत स्थित हैं।"
+      },
+      "key_takeaway": {
+        "en": "Northern Boundary = Himalayas.",
+        "hi": "उत्तरी सीमा = हिमालय।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "What is the North-South extent of India in kilometers?",
+        "hi": "भारत का उत्तर-दक्षिण विस्तार किलोमीटर में कितना है?"
+      },
+      "options": {
+        "a": {"en": "2,933 km", "hi": "2,933 किमी"},
+        "b": {"en": "3,214 km", "hi": "3,214 किमी"},
+        "c": {"en": "1,500 km", "hi": "1,500 किमी"},
+        "d": {"en": "7,516 km", "hi": "7,516 किमी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This is the distance from Kashmir to Kanyakumari.",
+        "hi": "यह कश्मीर से कन्याकुमारी तक की दूरी है।"
+      },
+      "explanation": {
+        "en": "The north-south distance of India from Ladakh/Kashmir to Kanyakumari is 3,214 km.",
+        "hi": "भारत का उत्तर से दक्षिण तक का विस्तार 3,214 किमी है।"
+      },
+      "key_takeaway": {
+        "en": "N-S Extent = 3,214 km.",
+        "hi": "उत्तर-दक्षिण विस्तार = 3,214 किमी।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "What is the East-West extent of India in kilometers?",
+        "hi": "भारत का पूर्व-पश्चिम विस्तार किलोमीटर में कितना है?"
+      },
+      "options": {
+        "a": {"en": "3,214 km", "hi": "3,214 किमी"},
+        "b": {"en": "2,933 km", "hi": "2,933 किमी"},
+        "c": {"en": "15,200 km", "hi": "15,200 किमी"},
+        "d": {"en": "6,100 km", "hi": "6,100 किमी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This is the distance from Gujarat to Arunachal Pradesh.",
+        "hi": "यह गुजरात से अरुणाचल प्रदेश तक की दूरी है।"
+      },
+      "explanation": {
+        "en": "The east-west distance of India from Gujarat to Arunachal Pradesh is 2,933 km.",
+        "hi": "भारत का पूर्व से पश्चिम तक का विस्तार 2,933 किमी है।"
+      },
+      "key_takeaway": {
+        "en": "E-W Extent = 2,933 km.",
+        "hi": "पूर्व-पश्चिम विस्तार = 2,933 किमी।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "Which ocean is named after India?",
+        "hi": "किस महासागर का नाम भारत के नाम पर रखा गया है?"
+      },
+      "options": {
+        "a": {"en": "Pacific Ocean", "hi": "प्रशांत महासागर"},
+        "b": {"en": "Atlantic Ocean", "hi": "अटलांटिक महासागर"},
+        "c": {"en": "Indian Ocean", "hi": "हिंद महासागर"},
+        "d": {"en": "Arctic Ocean", "hi": "आर्कटिक महासागर"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "India has a long coastline on this ocean.",
+        "hi": "इस महासागर पर भारत की एक लंबी तटरेखा है।"
+      },
+      "explanation": {
+        "en": "The Indian Ocean is named after India because of its long coastline and strategic position at the head of the ocean.",
+        "hi": "हिंद महासागर का नाम भारत (India) के नाम पर रखा गया है।"
+      },
+      "key_takeaway": {
+        "en": "Indian Ocean = Named after India.",
+        "hi": "हिंद महासागर = भारत के नाम पर।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "Which of India's neighbors is an island country located to the south?",
+        "hi": "दक्षिण में स्थित भारत का कौन सा पड़ोसी देश एक द्वीप देश है?"
+      },
+      "options": {
+        "a": {"en": "Nepal", "hi": "नेपाल"},
+        "b": {"en": "Maldives", "hi": "मालदीव"},
+        "c": {"en": "Myanmar", "hi": "म्यांमार"},
+        "d": {"en": "Pakistan", "hi": "पाकिस्तान"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It is located south of the Lakshadweep Islands.",
+        "hi": "यह लक्षद्वीप द्वीप समूह के दक्षिण में स्थित है।"
+      },
+      "explanation": {
+        "en": "India’s southern neighbors across the sea consist of two island countries, namely Sri Lanka and Maldives.",
+        "hi": "दक्षिण में मालदीव और श्रीलंका भारत के समुद्री पड़ोसी द्वीप देश हैं।"
+      },
+      "key_takeaway": {
+        "en": "Island Neighbors = Sri Lanka and Maldives.",
+        "hi": "द्वीपीय पड़ोसी = श्रीलंका और मालदीव।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "Before 1947, how many types of states were there in India?",
+        "hi": "1947 से पहले भारत में कितने प्रकार के राज्य थे?"
+      },
+      "options": {
+        "a": {"en": "Two", "hi": "दो"},
+        "b": {"en": "Three", "hi": "तीन"},
+        "c": {"en": "Four", "hi": "चार"},
+        "d": {"en": "One", "hi": "एक"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "They were Provinces and Princely States.",
+        "hi": "वे प्रांत और रियासतें थे।"
+      },
+      "explanation": {
+        "en": "Before 1947, there were two types of states in India — the provinces (ruled directly by British officials) and the princely states (ruled by local hereditary rulers).",
+        "hi": "1947 से पहले भारत में दो तरह के राज्य थे: प्रांत और रियासतें।"
+      },
+      "key_takeaway": {
+        "en": "Pre-1947 States = Provinces & Princely States.",
+        "hi": "1947 से पहले = प्रांत और रियासतें।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "Which state does NOT share a border with Pakistan?",
+        "hi": "कौन सा राज्य पाकिस्तान के साथ सीमा साझा नहीं करता है?"
+      },
+      "options": {
+        "a": {"en": "Gujarat", "hi": "गुजरात"},
+        "b": {"en": "Punjab", "hi": "पंजाब"},
+        "c": {"en": "Haryana", "hi": "हरियाणा"},
+        "d": {"en": "Rajasthan", "hi": "राजस्थान"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "It is a landlocked state in North India, situated between Punjab and Delhi.",
+        "hi": "यह उत्तर भारत में एक स्थल रुद्ध राज्य है, जो पंजाब और दिल्ली के बीच स्थित है।"
+      },
+      "explanation": {
+        "en": "Gujarat, Rajasthan, and Punjab share borders with Pakistan. Haryana does not share an international border.",
+        "hi": "हरियाणा की कोई अंतरराष्ट्रीय सीमा नहीं है।"
+      },
+      "key_takeaway": {
+        "en": "Pak Border = Guj, Raj, Pun, J&K, Ladakh.",
+        "hi": "पाकिस्तान सीमा = गुज, राज, पंजा, ज&क, लद्दाख।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "Which country shares the longest land boundary with India?",
+        "hi": "भारत के साथ सबसे लंबी स्थल सीमा साझा करने वाला देश कौन सा है?"
+      },
+      "options": {
+        "a": {"en": "China", "hi": "चीन"},
+        "b": {"en": "Pakistan", "hi": "पाकिस्तान"},
+        "c": {"en": "Bangladesh", "hi": "बांग्लादेश"},
+        "d": {"en": "Nepal", "hi": "नेपाल"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "The length of this boundary is about 4,096 km.",
+        "hi": "इस सीमा की लंबाई लगभग 4,096 किमी है।"
+      },
+      "explanation": {
+        "en": "India shares its longest land boundary with Bangladesh (4,096.7 km).",
+        "hi": "भारत की सबसे लंबी सीमा बांग्लादेश के साथ है।"
+      },
+      "key_takeaway": {
+        "en": "Longest Boundary = Bangladesh.",
+        "hi": "सबसे लंबी सीमा = बांग्लादेश।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "The sun rises two hours earlier in Arunachal Pradesh as compared to Gujarat. What is used to keep the same time?",
+        "hi": "गुजरात की तुलना में अरुणाचल प्रदेश में सूर्य दो घंटे पहले उगता है। समान समय रखने के लिए किसका उपयोग किया जाता है?"
+      },
+      "options": {
+        "a": {"en": "Local time of each state", "hi": "प्रत्येक राज्य का स्थानीय समय"},
+        "b": {"en": "Standard Meridian of India", "hi": "भारत का मानक याम्योत्तर"},
+        "c": {"en": "International Date Line", "hi": "अंतरराष्ट्रीय तिथि रेखा"},
+        "d": {"en": "Greenwich Mean Time", "hi": "ग्रीनविच मीन टाइम"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Its value is 82° 30' E.",
+        "hi": "इसका मान 82° 30' पूर्व है।"
+      },
+      "explanation": {
+        "en": "To avoid confusion, the time along the Standard Meridian of India (82°30'E) is taken as the standard time for the whole country.",
+        "hi": "पूरे देश में एक ही समय के लिए मानक याम्योत्तर (82°30' पूर्व) का समय उपयोग किया जाता है।"
+      },
+      "key_takeaway": {
+        "en": "Uniform Time = Standard Meridian.",
+        "hi": "एकसमान समय = मानक याम्योत्तर।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "Which of these water bodies lies to the east of India?",
+        "hi": "भारत के पूर्व में इनमें से कौन सा जल निकाय स्थित है?"
+      },
+      "options": {
+        "a": {"en": "Arabian Sea", "hi": "अरब सागर"},
+        "b": {"en": "Bay of Bengal", "hi": "बंगाल की खाड़ी"},
+        "c": {"en": "Indian Ocean", "hi": "हिंद महासागर"},
+        "d": {"en": "Red Sea", "hi": "लाल सागर"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Andaman and Nicobar Islands are located here.",
+        "hi": "अंडमान और निकोबार द्वीप समूह यहाँ स्थित हैं।"
+      },
+      "explanation": {
+        "en": "To the southeast of the mainland lie the Andaman and Nicobar islands in the Bay of Bengal.",
+        "hi": "भारत के पूर्व/दक्षिण-पूर्व में बंगाल की खाड़ी स्थित है।"
+      },
+      "key_takeaway": {
+        "en": "East = Bay of Bengal; West = Arabian Sea.",
+        "hi": "पूर्व = बंगाल की खाड़ी; पश्चिम = अरब सागर।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "India's central location at the head of the Indian Ocean is of great significance because:",
+        "hi": "हिंद महासागर के शीर्ष पर भारत की केंद्रीय स्थिति का बहुत महत्व है क्योंकि:"
+      },
+      "options": {
+        "a": {"en": "It helps in trade with West Asia, Africa and Europe", "hi": "यह पश्चिम एशिया, अफ्रीका और यूरोप के साथ व्यापार में मदद करता है"},
+        "b": {"en": "It helps in establishing close contact with East Asia", "hi": "यह पूर्वी एशिया के साथ घनिष्ठ संपर्क स्थापित करने में मदद करता है"},
+        "c": {"en": "It provides a strategic location for maritime routes", "hi": "यह समुद्री मार्गों के लिए एक रणनीतिक स्थान प्रदान करता है"},
+        "d": {"en": "All of the above", "hi": "उपरोक्त सभी"}
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "India connects the West and the East through sea routes.",
+        "hi": "भारत समुद्री मार्गों के माध्यम से पश्चिम और पूर्व को जोड़ता है।"
+      },
+      "explanation": {
+        "en": "India's strategic position helps it maintain trade and cultural links with both Western and Eastern countries via the Indian Ocean routes.",
+        "hi": "भारत की स्थिति इसे दुनिया के विभिन्न हिस्सों से व्यापारिक रूप से जोड़ती है।"
+      },
+      "key_takeaway": {
+        "en": "Strategic Location = Advantage in global trade.",
+        "hi": "रणनीतिक स्थिति = वैश्विक व्यापार में लाभ।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "How many states and Union Territories does India have currently?",
+        "hi": "वर्तमान में भारत में कितने राज्य और केंद्र शासित प्रदेश हैं?"
+      },
+      "options": {
+        "a": {"en": "28 States and 8 UTs", "hi": "28 राज्य और 8 केंद्र शासित प्रदेश"},
+        "b": {"en": "29 States and 7 UTs", "hi": "29 राज्य और 7 केंद्र शासित प्रदेश"},
+        "c": {"en": "28 States and 9 UTs", "hi": "28 राज्य और 9 केंद्र शासित प्रदेश"},
+        "d": {"en": "27 States and 8 UTs", "hi": "27 राज्य और 8 केंद्र शासित प्रदेश"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "Jammu & Kashmir was reorganized into UTs in 2019.",
+        "hi": "2019 में जम्मू और कश्मीर को केंद्र शासित प्रदेशों में पुनर्गठित किया गया था।"
+      },
+      "explanation": {
+        "en": "India currently has 28 states and 8 union territories (after the merger of Daman & Diu and Dadra & Nagar Haveli).",
+        "hi": "भारत में अब 28 राज्य और 8 केंद्र शासित प्रदेश हैं।"
+      },
+      "key_takeaway": {
+        "en": "India = 28 States + 8 UTs.",
+        "hi": "भारत = 28 राज्य + 8 केंद्र शासित प्रदेश।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "The latitudinal extent of India influences:",
+        "hi": "भारत का अक्षांशीय विस्तार किसे प्रभावित करता है?"
+      },
+      "options": {
+        "a": {"en": "The duration of day and night", "hi": "दिन और रात की अवधि"},
+        "b": {"en": "The longitudinal time lag", "hi": "देशांतरीय समय अंतराल"},
+        "c": {"en": "The total area of the country", "hi": "देश का कुल क्षेत्रफल"},
+        "d": {"en": "The name of the ocean", "hi": "महासागर का नाम"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "This is felt more as one moves from South to North.",
+        "hi": "यह दक्षिण से उत्तर की ओर बढ़ने पर अधिक महसूस किया जाता है।"
+      },
+      "explanation": {
+        "en": "The latitudinal extent influences the duration of the day and night, as one moves from south to north. At Kanyakumari, the difference is minimal, but it increases as we go north.",
+        "hi": "अक्षांशीय विस्तार दिन और रात की अवधि को प्रभावित करता है।"
+      },
+      "key_takeaway": {
+        "en": "Latitude = Affects Day/Night duration.",
+        "hi": "अक्षांश = दिन/रात की अवधि को प्रभावित करता है।"
+      }
+    }
+  ]
+}

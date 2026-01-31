@@ -1,0 +1,794 @@
+{
+  "metadata": {
+    "chapter_number": 3,
+    "chapter_title": "Poverty as a Challenge",
+    "chapter_title_hindi": "निर्धनता: एक चुनौती",
+    "subject": "Economics - Class 9",
+    "board": "CBSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.0",
+    "naming_convention": "09_EC_CH03_PovertyChallenge_30MCQ.json"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "In which country is every fourth person poor, according to data mentioned in the chapter?",
+        "hi": "अध्याय में दिए गए आंकड़ों के अनुसार, किस देश में हर चौथा व्यक्ति गरीब है?"
+      },
+      "options": {
+        "a": {"en": "China", "hi": "चीन"},
+        "b": {"en": "India", "hi": "भारत (India)"},
+        "c": {"en": "USA", "hi": "यूएसए"},
+        "d": {"en": "Brazil", "hi": "ब्राजील"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This country has the largest single concentration of poor in the world.",
+        "hi": "इस देश में दुनिया के गरीबों का सबसे बड़ा संकेंद्रण है।"
+      },
+      "explanation": {
+        "en": "In India, roughly 270 million (or 27 crore) people live in poverty (2011-12 data). This means every fourth person in India is poor.",
+        "hi": "भारत में लगभग 27 करोड़ लोग गरीबी में जीवन बिताते हैं, यानी यहाँ हर चौथा व्यक्ति निर्धन है।"
+      },
+      "key_takeaway": {
+        "en": "Poverty Scale = Every 4th person in India.",
+        "hi": "निर्धनता का पैमाना = भारत में हर चौथा व्यक्ति।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "Poverty as seen by social scientists is not just about income, but also includes:",
+        "hi": "सामाजिक वैज्ञानिकों की दृष्टि में निर्धनता का अर्थ केवल आय नहीं है, बल्कि इसमें क्या शामिल है?"
+      },
+      "options": {
+        "a": {"en": "Illiteracy", "hi": "निरक्षरता"},
+        "b": {"en": "Lack of job opportunities", "hi": "रोजगार के अवसरों की कमी"},
+        "c": {"en": "Lack of access to safe drinking water and sanitation", "hi": "सुरक्षित पेयजल और स्वच्छता तक पहुँच की कमी"},
+        "d": {"en": "All of the above", "hi": "उपरोक्त सभी"}
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "Social scientists look at a variety of indicators to define poverty.",
+        "hi": "सामाजिक वैज्ञानिक गरीबी को परिभाषित करने के लिए विभिन्न संकेतकों को देखते हैं।"
+      },
+      "explanation": {
+        "en": "Poverty is a multi-dimensional problem. Social scientists look at indicators like illiteracy, malnutrition, lack of healthcare, and lack of safe drinking water.",
+        "hi": "निर्धनता के कई आयाम हैं जैसे अशिक्षा, कुपोषण, स्वास्थ्य सेवा की कमी और रोजगार के अवसरों का अभाव।"
+      },
+      "key_takeaway": {
+        "en": "Poverty Indicators = Income + Social factors.",
+        "hi": "निर्धनता के सूचक = आय + सामाजिक कारक।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "What is 'Social Exclusion' in the context of poverty?",
+        "hi": "निर्धनता के संदर्भ में 'सामाजिक अपवर्जन' (Social Exclusion) क्या है?"
+      },
+      "options": {
+        "a": {"en": "Living with rich people", "hi": "अमीर लोगों के साथ रहना"},
+        "b": {"en": "Poor people having to live only in a poor surrounding with other poor people", "hi": "गरीब लोगों का केवल अन्य गरीब लोगों के साथ गरीब परिवेश में रहना"},
+        "c": {"en": "Being invited to social parties", "hi": "सामाजिक पार्टियों में आमंत्रित होना"},
+        "d": {"en": "Excluding rich people from the village", "hi": "गाँव से अमीरों को बाहर निकालना"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It means poor people are excluded from enjoying social equality with better-off people.",
+        "hi": "इसका मतलब है कि गरीबों को संपन्न लोगों के साथ सामाजिक समानता का आनंद लेने से बाहर रखा जाता है।"
+      },
+      "explanation": {
+        "en": "Social exclusion is a process through which individuals or groups are excluded from facilities and opportunities that others enjoy. It can be both a cause and consequence of poverty.",
+        "hi": "सामाजिक अपवर्जन का अर्थ है गरीबों को उन सुविधाओं और मौकों से वंचित रखना जिनका लाभ संपन्न लोग उठाते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Social Exclusion = Deprivation of social equality.",
+        "hi": "सामाजिक अपवर्जन = सामाजिक समानता से वंचित होना।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "Which concept describes the greater probability of certain communities (like SC/ST) or individuals (like widows) becoming or remaining poor?",
+        "hi": "कौन सी अवधारणा कुछ समुदायों (जैसे SC/ST) या व्यक्तियों (जैसे विधवाओं) के गरीब होने या बने रहने की अधिक संभावना का वर्णन करती है?"
+      },
+      "options": {
+        "a": {"en": "Vulnerability", "hi": "असुरक्षा (Vulnerability)"},
+        "b": {"en": "Security", "hi": "सुरक्षा"},
+        "c": {"en": "Urbanization", "hi": "शहरीकरण"},
+        "d": {"en": "Growth", "hi": "वृद्धि"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "It is a measure which describes the higher risk of facing poverty during tough times.",
+        "hi": "यह एक उपाय है जो कठिन समय के दौरान गरीबी का सामना करने के उच्च जोखिम का वर्णन करता है।"
+      },
+      "explanation": {
+        "en": "Vulnerability to poverty is determined by the options available to different communities for finding an alternative living in terms of assets, education, and health.",
+        "hi": "निर्धनता के प्रति असुरक्षा का अर्थ है आपदा के समय किसी व्यक्ति या समुदाय के गरीब होने की उच्च संभावना।"
+      },
+      "key_takeaway": {
+        "en": "Vulnerability = High risk of poverty.",
+        "hi": "असुरक्षा = गरीबी का उच्च जोखिम।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "A common method used to measure poverty is based on ________ and ________ levels.",
+        "hi": "निर्धनता को मापने के लिए उपयोग की जाने वाली एक सामान्य विधि ________ और ________ स्तरों पर आधारित है।"
+      },
+      "options": {
+        "a": {"en": "Height and Weight", "hi": "ऊंचाई और वजन"},
+        "b": {"en": "Income and Consumption", "hi": "आय और उपभोग (Income & Consumption)"},
+        "c": {"en": "Education and Caste", "hi": "शिक्षा और जाति"},
+        "d": {"en": "Age and Sex", "hi": "आयु और लिंग"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It involves a minimum level necessary to fulfill basic needs.",
+        "hi": "इसमें बुनियादी जरूरतों को पूरा करने के लिए आवश्यक न्यूनतम स्तर शामिल है।"
+      },
+      "explanation": {
+        "en": "In India, a poverty line is determined based on a minimum level of income or consumption required to satisfy basic needs like food, clothing, and shelter.",
+        "hi": "भारत में निर्धनता रेखा का निर्धारण आय या उपभोग के न्यूनतम स्तर के आधार पर किया जाता है।"
+      },
+      "key_takeaway": {
+        "en": "Measurement = Income/Consumption threshold.",
+        "hi": "मापन = आय/उपभोग की सीमा।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "What is the accepted average calorie requirement per person per day in rural areas in India?",
+        "hi": "भारत के ग्रामीण क्षेत्रों में प्रति व्यक्ति प्रति दिन स्वीकृत औसत कैलोरी आवश्यकता कितनी है?"
+      },
+      "options": {
+        "a": {"en": "2100 calories", "hi": "2100 कैलोरी"},
+        "b": {"en": "2400 calories", "hi": "2400 कैलोरी (2400 cal)"},
+        "c": {"en": "1800 calories", "hi": "1800 कैलोरी"},
+        "d": {"en": "3000 calories", "hi": "3000 कैलोरी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It is higher than the requirement in urban areas because people do more physical work.",
+        "hi": "यह शहरी क्षेत्रों की तुलना में अधिक है क्योंकि ग्रामीण लोग अधिक शारीरिक श्रम करते हैं।"
+      },
+      "explanation": {
+        "en": "The accepted average calorie requirement in India is 2400 calories per person per day in rural areas and 2100 calories in urban areas.",
+        "hi": "शारीरिक श्रम अधिक होने के कारण ग्रामीण क्षेत्रों में 2400 और शहरी क्षेत्रों में 2100 कैलोरी की आवश्यकता मानी गई है।"
+      },
+      "key_takeaway": {
+        "en": "Rural Calories = 2400; Urban = 2100.",
+        "hi": "ग्रामीण कैलोरी = 2400; शहरी = 2100।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "Why is the calorie requirement lower in urban areas compared to rural areas?",
+        "hi": "ग्रामीण क्षेत्रों की तुलना में शहरी क्षेत्रों में कैलोरी की आवश्यकता कम क्यों है?"
+      },
+      "options": {
+        "a": {"en": "Urban people eat less", "hi": "शहरी लोग कम खाते हैं"},
+        "b": {"en": "Urban people engage in less physical labor", "hi": "शहरी लोग कम शारीरिक श्रम करते हैं"},
+        "c": {"en": "Food is expensive in cities", "hi": "शहरों में खाना महंगा है"},
+        "d": {"en": "Urban areas are hotter", "hi": "शहरी क्षेत्र अधिक गर्म होते हैं"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Farming and physical activities in villages require more energy.",
+        "hi": "गाँवों में खेती और शारीरिक गतिविधियों के लिए अधिक ऊर्जा की आवश्यकता होती है।"
+      },
+      "explanation": {
+        "en": "Since people living in rural areas engage themselves in more physical labour, calorie requirements in rural areas are considered to be higher than urban areas.",
+        "hi": "गाँव के लोग अधिक मेहनत का काम करते हैं, इसलिए उन्हें शहर के लोगों से ज्यादा कैलोरी चाहिए।"
+      },
+      "key_takeaway": {
+        "en": "Calorie Gap = Difference in physical labor.",
+        "hi": "कैलोरी का अंतर = शारीरिक श्रम में अंतर।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "For the year 2011–12, the poverty line for a person was fixed at ₹ ______ per month for rural areas.",
+        "hi": "वर्ष 2011-12 के लिए, ग्रामीण क्षेत्रों के लिए एक व्यक्ति के लिए निर्धनता रेखा ₹ ______ प्रति माह निर्धारित की गई थी।"
+      },
+      "options": {
+        "a": {"en": "₹816", "hi": "₹816"},
+        "b": {"en": "₹1000", "hi": "₹1000"},
+        "c": {"en": "₹500", "hi": "₹500"},
+        "d": {"en": "₹1200", "hi": "₹1200"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "The amount for urban areas was higher (₹1000) due to higher prices of goods.",
+        "hi": "वस्तुओं की अधिक कीमतों के कारण शहरी क्षेत्रों के लिए राशि अधिक (₹1000) थी।"
+      },
+      "explanation": {
+        "en": "For 2011-12, the poverty line was fixed at ₹816 per month for rural areas and ₹1000 for urban areas.",
+        "hi": "2011-12 में ग्रामीण इलाकों के लिए 816 रुपये और शहरों के लिए 1000 रुपये प्रति माह गरीबी रेखा मानी गई थी।"
+      },
+      "key_takeaway": {
+        "en": "Rural Poverty Line (2011-12) = ₹816/month.",
+        "hi": "ग्रामीण निर्धनता रेखा (2011-12) = ₹816/माह।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "Which organization carries out periodic sample surveys to estimate the poverty line in India?",
+        "hi": "भारत में निर्धनता रेखा का आकलन करने के लिए कौन सा संगठन समय-समय पर नमूना सर्वेक्षण करता है?"
+      },
+      "options": {
+        "a": {"en": "NSSO", "hi": "राष्ट्रीय प्रतिदर्श सर्वेक्षण संगठन (NSSO)"},
+        "b": {"en": "RBI", "hi": "भारतीय रिजर्व बैंक"},
+        "c": {"en": "Supreme Court", "hi": "सुप्रीम कोर्ट"},
+        "d": {"en": "World Bank", "hi": "विश्व बैंक"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "It stands for National Sample Survey Organisation.",
+        "hi": "इसका पूरा नाम नेशनल सैंपल सर्वे ऑर्गनाइजेशन है।"
+      },
+      "explanation": {
+        "en": "The poverty line is estimated periodically (normally every five years) by conducting sample surveys. These surveys are carried out by the National Sample Survey Organisation (NSSO).",
+        "hi": "NSSO वह संस्था है जो हर 5 साल में गरीबी के आंकड़े जुटाने के लिए सर्वे करती है।"
+      },
+      "key_takeaway": {
+        "en": "NSSO = Agency for poverty surveys in India.",
+        "hi": "NSSO = भारत में निर्धनता सर्वेक्षण की एजेंसी।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "For making comparisons between developing countries, the World Bank uses a uniform standard for the poverty line as a minimum availability of:",
+        "hi": "विकासशील देशों के बीच तुलना करने के लिए, विश्व बैंक निर्धनता रेखा के लिए न्यूनतम उपलब्धता के रूप में एक समान मानक का उपयोग करता है:"
+      },
+      "options": {
+        "a": {"en": "$1.90 per person per day", "hi": "$1.90 प्रति व्यक्ति प्रति दिन"},
+        "b": {"en": "$5 per person per day", "hi": "$5 प्रति व्यक्ति प्रति दिन"},
+        "c": {"en": "₹100 per person per day", "hi": "₹100 प्रति व्यक्ति प्रति दिन"},
+        "d": {"en": "$10 per person per day", "hi": "$10 प्रति व्यक्ति प्रति दिन"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "This is based on 2011 purchasing power parity (current textbook data).",
+        "hi": "यह 2011 की क्रय शक्ति समानता पर आधारित है।"
+      },
+      "explanation": {
+        "en": "The World Bank uses a uniform standard for the poverty line: minimum availability of the equivalent of $1.90 per person per day.",
+        "hi": "विश्व बैंक अंतरराष्ट्रीय स्तर पर $1.90 प्रति दिन को गरीबी रेखा का मानक मानता है।"
+      },
+      "key_takeaway": {
+        "en": "WB Standard = $1.90 (PPP) per day.",
+        "hi": "विश्व बैंक मानक = $1.90 प्रति दिन।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "Which of the following social groups are most vulnerable to poverty in India?",
+        "hi": "भारत में निम्नलिखित में से कौन से सामाजिक समूह निर्धनता के प्रति सर्वाधिक असुरक्षित हैं?"
+      },
+      "options": {
+        "a": {"en": "General caste", "hi": "सामान्य जाति"},
+        "b": {"en": "Scheduled Castes and Scheduled Tribes", "hi": "अनुसूचित जाति और अनुसूचित जनजाति (SC/ST)"},
+        "c": {"en": "Business owners", "hi": "व्यवसाय के स्वामी"},
+        "d": {"en": "Doctors", "hi": "डॉक्टर"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "They face social exclusion and historical disadvantages.",
+        "hi": "वे सामाजिक अपवर्जन और ऐतिहासिक नुकसान का सामना करते हैं।"
+      },
+      "explanation": {
+        "en": "Social groups which are most vulnerable to poverty are Scheduled Caste and Scheduled Tribe households.",
+        "hi": "अनुसूचित जाति और अनुसूचित जनजाति के परिवारों में गरीबी की दर सबसे अधिक पाई जाती है।"
+      },
+      "key_takeaway": {
+        "en": "Vulnerable Social Groups = SC and ST households.",
+        "hi": "असुरक्षित सामाजिक समूह = SC और ST परिवार।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "Which economic groups are most vulnerable to poverty in India?",
+        "hi": "भारत में कौन से आर्थिक समूह निर्धनता के प्रति सर्वाधिक असुरक्षित हैं?"
+      },
+      "options": {
+        "a": {"en": "Government employees", "hi": "सरकारी कर्मचारी"},
+        "b": {"en": "Rural agricultural labor and urban casual labor households", "hi": "ग्रामीण कृषि श्रमिक और शहरी अनियमित श्रमिक परिवार"},
+        "c": {"en": "Rich farmers", "hi": "अमीर किसान"},
+        "d": {"en": "Software engineers", "hi": "सॉफ्टवेयर इंजीनियर"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "They lack steady income and land assets.",
+        "hi": "उनके पास स्थिर आय और भूमि संपत्ति की कमी है।"
+      },
+      "explanation": {
+        "en": "Among economic groups, the most vulnerable are the rural agricultural labour households and the urban casual labour households.",
+        "hi": "आर्थिक समूहों में खेतिहर मजदूर और दिहाड़ी मजदूर सबसे अधिक गरीब होते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Vulnerable Economic Groups = Casual laborers.",
+        "hi": "असुरक्षित आर्थिक समूह = दिहाड़ी/अनियमित मजदूर।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "Which state has the highest poverty ratio in India according to 2011–12 data?",
+        "hi": "2011-12 के आंकड़ों के अनुसार भारत के किस राज्य में निर्धनता अनुपात सबसे अधिक है?"
+      },
+      "options": {
+        "a": {"en": "Punjab", "hi": "पंजाब"},
+        "b": {"en": "Bihar", "hi": "बिहार (Bihar)"},
+        "c": {"en": "Kerala", "hi": "केरल"},
+        "d": {"en": "Gujarat", "hi": "गुजरात"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Odisha and this state continue to be the two poorest states.",
+        "hi": "ओडिशा और यह राज्य दो सबसे गरीब राज्य बने हुए हैं।"
+      },
+      "explanation": {
+        "en": "Bihar and Odisha continue to be the two poorest states with poverty ratios of 33.7 and 32.6 per cent respectively (2011-12).",
+        "hi": "बिहार भारत का सबसे गरीब राज्य बना हुआ है जहाँ 33.7 प्रतिशत लोग गरीब हैं।"
+      },
+      "key_takeaway": {
+        "en": "Poorest States = Bihar and Odisha.",
+        "hi": "सर्वाधिक निर्धन राज्य = बिहार और ओडिशा।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "Which state has seen a significant decline in poverty through high agricultural growth rates?",
+        "hi": "किस राज्य ने उच्च कृषि विकास दर के माध्यम से निर्धनता में महत्वपूर्ण कमी देखी है?"
+      },
+      "options": {
+        "a": {"en": "West Bengal", "hi": "पश्चिम बंगाल"},
+        "b": {"en": "Punjab and Haryana", "hi": "पंजाब और हरियाणा (Punjab & Haryana)"},
+        "c": {"en": "Bihar", "hi": "बिहार"},
+        "d": {"en": "Kerala", "hi": "केरल"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "These states were the heart of the Green Revolution.",
+        "hi": "ये राज्य हरित क्रांति का केंद्र थे।"
+      },
+      "explanation": {
+        "en": "States like Punjab and Haryana have traditionally succeeded in reducing poverty with the help of high agricultural growth rates.",
+        "hi": "पंजाब और हरियाणा ने खेती में तरक्की करके अपनी गरीबी को बहुत कम किया है।"
+      },
+      "key_takeaway": {
+        "en": "Poverty Reduction (Punjab/Haryana) = Agricultural Growth.",
+        "hi": "निर्धनता में कमी (पंजाब/हरियाणा) = कृषि विकास।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "In West Bengal, poverty has been reduced primarily through:",
+        "hi": "पश्चिम बंगाल में निर्धनता मुख्य रूप से किसके माध्यम से कम हुई है?"
+      },
+      "options": {
+        "a": {"en": "Public Distribution System", "hi": "सार्वजनिक वितरण प्रणाली"},
+        "b": {"en": "Land reform measures", "hi": "भूमि सुधार उपाय (Land reforms)"},
+        "c": {"en": "High industrialization", "hi": "उच्च औद्योगीकरण"},
+        "d": {"en": "Human resource development", "hi": "मानव संसाधन विकास"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The government redistributed land to the landless poor.",
+        "hi": "सरकार ने भूमिहीन गरीबों को भूमि पुनर्वितरित की।"
+      },
+      "explanation": {
+        "en": "West Bengal has reduced poverty significantly through land reform measures.",
+        "hi": "पश्चिम बंगाल में भूमि सुधार (Land reforms) के जरिए गरीबी कम करने में सफलता मिली है।"
+      },
+      "key_takeaway": {
+        "en": "Poverty Reduction (West Bengal) = Land Reforms.",
+        "hi": "निर्धनता में कमी (पश्चिम बंगाल) = भूमि सुधार।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "Which state has reduced poverty by focusing on 'Human Resource Development' (Education and Health)?",
+        "hi": "किस राज्य ने 'मानव संसाधन विकास' (शिक्षा और स्वास्थ्य) पर ध्यान केंद्रित करके निर्धनता कम की है?"
+      },
+      "options": {
+        "a": {"en": "Andhra Pradesh", "hi": "आंध्र प्रदेश"},
+        "b": {"en": "Kerala", "hi": "केरल (Kerala)"},
+        "c": {"en": "Odisha", "hi": "ओडिशा"},
+        "d": {"en": "Uttar Pradesh", "hi": "उत्तर प्रदेश"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This state is famous for having the highest literacy rate in India.",
+        "hi": "यह राज्य भारत में उच्चतम साक्षरता दर के लिए प्रसिद्ध है।"
+      },
+      "explanation": {
+        "en": "Kerala has focused more on human resource development (investing in education and health), which helped in reducing poverty.",
+        "hi": "केरल ने शिक्षा और स्वास्थ्य पर निवेश करके गरीबी को कम किया है।"
+      },
+      "key_takeaway": {
+        "en": "Poverty Reduction (Kerala) = Education and Health.",
+        "hi": "निर्धनता में कमी (केरल) = शिक्षा और स्वास्थ्य।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "Poverty in Andhra Pradesh and Tamil Nadu was reduced significantly due to:",
+        "hi": "आंध्र प्रदेश और तमिलनाडु में निर्धनता में महत्वपूर्ण कमी किस कारण हुई?"
+      },
+      "options": {
+        "a": {"en": "High agricultural growth", "hi": "उच्च कृषि विकास"},
+        "b": {"en": "Public distribution of food grains (PDS)", "hi": "खाद्यान्न का सार्वजनिक वितरण (PDS)"},
+        "c": {"en": "Land reforms", "hi": "भूमि सुधार"},
+        "d": {"en": "Information Technology", "hi": "सूचना प्रौद्योगिकी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It involves providing cheap food to the poor through ration shops.",
+        "hi": "इसमें राशन की दुकानों के माध्यम से गरीबों को सस्ता भोजन उपलब्ध कराना शामिल है।"
+      },
+      "explanation": {
+        "en": "In Andhra Pradesh and Tamil Nadu, public distribution of food grains (PDS) could be responsible for the reduction of poverty.",
+        "hi": "आंध्र प्रदेश और तमिलनाडु में सस्ते राशन (PDS) की व्यवस्था ने गरीबी कम करने में मदद की है।"
+      },
+      "key_takeaway": {
+        "en": "Poverty Reduction (AP/TN) = PDS (Food Security).",
+        "hi": "निर्धनता में कमी (AP/TN) = PDS (खाद्य सुरक्षा)।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "In which country did poverty decline from 88 per cent in 1981 to 0.7 per cent in 2015?",
+        "hi": "किस देश में निर्धनता 1981 में 88 प्रतिशत से घटकर 2015 में 0.7 प्रतिशत रह गई?"
+      },
+      "options": {
+        "a": {"en": "India", "hi": "भारत"},
+        "b": {"en": "China", "hi": "चीन (China)"},
+        "c": {"en": "Pakistan", "hi": "पाकिस्तान"},
+        "d": {"en": "Sri Lanka", "hi": "श्रीलंका"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This was achieved through rapid economic growth and massive investments in human resource development.",
+        "hi": "यह तेजी से आर्थिक विकास और मानव संसाधन विकास में भारी निवेश के माध्यम से प्राप्त किया गया था।"
+      },
+      "explanation": {
+        "en": "Poverty declined substantially in China as a result of rapid economic growth and massive investments in human resource development.",
+        "hi": "चीन ने अपने आर्थिक विकास और शिक्षा-स्वास्थ्य पर जोर देकर गरीबी को लगभग खत्म कर दिया है।"
+      },
+      "key_takeaway": {
+        "en": "China = Most successful at rapid poverty reduction.",
+        "hi": "चीन = तेजी से गरीबी कम करने में सबसे सफल।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "What was the main cause of poverty during the colonial period in India?",
+        "hi": "भारत में औपनिवेशिक काल के दौरान निर्धनता का मुख्य कारण क्या था?"
+      },
+      "options": {
+        "a": {"en": "High industrialization", "hi": "उच्च औद्योगीकरण"},
+        "b": {"en": "Policies of the British administration that discouraged local industries", "hi": "ब्रिटिश प्रशासन की नीतियां जिन्होंने स्थानीय उद्योगों को हतोत्साहित किया"},
+        "c": {"en": "Green Revolution", "hi": "हरित क्रांति"},
+        "d": {"en": "Over-education of people", "hi": "लोगों की अत्यधिक शिक्षा"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The traditional handicrafts industry was ruined under British rule.",
+        "hi": "ब्रिटिश शासन के तहत पारंपरिक हस्तशिल्प उद्योग बर्बाद हो गया था।"
+      },
+      "explanation": {
+        "en": "One historical reason is the low level of economic development under the British colonial administration. Their policies ruined traditional handicrafts and discouraged development of industries like textiles.",
+        "hi": "अंग्रेजों के शासन में भारतीय हस्तशिल्प और उद्योगों को नुकसान पहुँचाया गया, जो गरीबी का एक बड़ा ऐतिहासिक कारण है।"
+      },
+      "key_takeaway": {
+        "en": "Colonial Legacy = Ruined industries, high poverty.",
+        "hi": "औपनिवेशिक विरासत = बर्बाद उद्योग, उच्च निर्धनता।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "Which of the following is a 'Push Factor' responsible for high rural poverty?",
+        "hi": "निम्नलिखित में से कौन सा उच्च ग्रामीण निर्धनता के लिए जिम्मेदार एक 'पुश फैक्टर' है?"
+      },
+      "options": {
+        "a": {"en": "Equal distribution of land", "hi": "भूमि का समान वितरण"},
+        "b": {"en": "Unequal distribution of land and other resources", "hi": "भूमि और अन्य संसाधनों का असमान वितरण"},
+        "c": {"en": "Full employment", "hi": "पूर्ण रोजगार"},
+        "d": {"en": "Access to high-tech farming", "hi": "उच्च तकनीक वाली खेती तक पहुँच"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Many people are landless and have limited assets.",
+        "hi": "कई लोग भूमिहीन हैं और उनके पास सीमित संपत्ति है।"
+      },
+      "explanation": {
+        "en": "One of the major causes of poverty is the unequal distribution of land and other resources. Despite many policies, we have not been able to tackle the issue of land ownership effectively.",
+        "hi": "जमीन और संसाधनों का कुछ ही लोगों के पास होना ग्रामीण गरीबी का एक मुख्य कारण है।"
+      },
+      "key_takeaway": {
+        "en": "Rural Poverty Cause = Land inequality.",
+        "hi": "ग्रामीण निर्धनता का कारण = भूमि की असमानता।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "The 'MGNREGA' act of 2005 aims to provide ________ days of guaranteed wage employment in a year.",
+        "hi": "2005 का 'मनरेगा' (MGNREGA) अधिनियम एक वर्ष में ________ दिनों के गारंटीकृत मजदूरी रोजगार प्रदान करने का लक्ष्य रखता है।"
+      },
+      "options": {
+        "a": {"en": "50 days", "hi": "50 दिन"},
+        "b": {"en": "100 days", "hi": "100 दिन (100 days)"},
+        "c": {"en": "150 days", "hi": "150 दिन"},
+        "d": {"en": "365 days", "hi": "365 दिन"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "One-third of the proposed jobs are reserved for women.",
+        "hi": "प्रस्तावित नौकरियों में से एक-तिहाई महिलाओं के लिए आरक्षित हैं।"
+      },
+      "explanation": {
+        "en": "Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) 2005 aims to provide 100 days of guaranteed wage employment to every household to ensure livelihood security in rural areas.",
+        "hi": "मनरेगा के तहत हर ग्रामीण परिवार को साल में कम से कम 100 दिन के काम की गारंटी दी जाती है।"
+      },
+      "key_takeaway": {
+        "en": "MGNREGA = 100 days job guarantee.",
+        "hi": "मनरेगा = 100 दिन के रोजगार की गारंटी।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "Under MGNREGA, if an applicant is not provided employment within 15 days, she/he will be entitled to:",
+        "hi": "मनरेगा के तहत, यदि किसी आवेदक को 15 दिनों के भीतर रोजगार नहीं दिया जाता है, तो वह किसका हकदार होगा?"
+      },
+      "options": {
+        "a": {"en": "A double salary", "hi": "दोहरा वेतन"},
+        "b": {"en": "Daily unemployment allowance", "hi": "दैनिक बेरोजगारी भत्ता (Allowance)"},
+        "c": {"en": "Free food", "hi": "मुफ्त भोजन"},
+        "d": {"en": "A tractor", "hi": "एक ट्रैक्टर"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The government compensates the person for the lack of work.",
+        "hi": "सरकार काम की कमी के लिए व्यक्ति को मुआवजा देती है।"
+      },
+      "explanation": {
+        "en": "If the government fails in its duty to provide work within 15 days, it will give unemployment allowance to the people.",
+        "hi": "यदि 15 दिनों में काम नहीं मिलता, तो सरकार उस व्यक्ति को बेरोजगारी भत्ता देती है।"
+      },
+      "key_takeaway": {
+        "en": "MGNREGA Compensation = Unemployment Allowance.",
+        "hi": "मनरेगा मुआवजा = बेरोजगारी भत्ता।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "Which scheme was launched in 1993 to create self-employment opportunities for educated unemployed youth in rural areas and small towns?",
+        "hi": "ग्रामीण क्षेत्रों और छोटे शहरों में शिक्षित बेरोजगार युवाओं के लिए स्वरोजगार के अवसर पैदा करने के लिए 1993 में कौन सी योजना शुरू की गई थी?"
+      },
+      "options": {
+        "a": {"en": "Prime Minister Rozgar Yojana (PMRY)", "hi": "प्रधानमंत्री रोजगार योजना (PMRY)"},
+        "b": {"en": "MGNREGA", "hi": "मनरेगा"},
+        "c": {"en": "Antyodaya Anna Yojana", "hi": "अंत्योदय अन्न योजना"},
+        "d": {"en": "Swarnajayanti Gram Swarozgar Yojana", "hi": "स्वर्णजयंती ग्राम स्वरोजगार योजना"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "It helps them in setting up small business and industries.",
+        "hi": "यह उन्हें छोटे व्यवसाय और उद्योग स्थापित करने में मदद करता है।"
+      },
+      "explanation": {
+        "en": "PMRY (1993) aims to create self-employment opportunities for educated unemployed youth in rural areas and small towns by helping them set up small businesses.",
+        "hi": "PMRY योजना 1993 में शिक्षित युवाओं को अपना काम शुरू करने में मदद देने के लिए लाई गई थी।"
+      },
+      "key_takeaway": {
+        "en": "PMRY = Self-employment for educated youth.",
+        "hi": "PMRY = शिक्षित युवाओं के लिए स्वरोजगार।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "The Swarnajayanti Gram Swarozgar Yojana (SGSY) launched in 1999 aims at:",
+        "hi": "1999 में शुरू की गई स्वर्णजयंती ग्राम स्वरोजगार योजना (SGSY) का उद्देश्य क्या है?"
+      },
+      "options": {
+        "a": {"en": "Providing free computers to schools", "hi": "स्कूलों को मुफ्त कंप्यूटर प्रदान करना"},
+        "b": {"en": "Bringing assisted poor families above the poverty line by organizing them into Self Help Groups (SHGs)", "hi": "सहायता प्राप्त गरीब परिवारों को स्वयं सहायता समूहों (SHGs) में संगठित करके निर्धनता रेखा से ऊपर लाना"},
+        "c": {"en": "Building highways", "hi": "राजमार्ग बनाना"},
+        "d": {"en": "Controlling the population", "hi": "जनसंख्या को नियंत्रित करना"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It uses a mix of bank credit and government subsidy.",
+        "hi": "यह बैंक ऋण और सरकारी सब्सिडी के मिश्रण का उपयोग करता है।"
+      },
+      "explanation": {
+        "en": "SGSY (1999) aims at bringing the assisted poor families above the poverty line by organizing them into self-help groups (SHGs) through a mix of bank credit and government subsidy.",
+        "hi": "SGSY के तहत गरीबों को समूह (SHG) बनाकर और बैंक से मदद दिलाकर गरीबी रेखा से ऊपर लाया जाता है।"
+      },
+      "key_takeaway": {
+        "en": "SGSY = Poverty reduction via SHGs.",
+        "hi": "SGSY = SHGs के माध्यम से निर्धनता निवारण।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "What is the primary target of the 'Antyodaya Anna Yojana' (AAY)?",
+        "hi": "'अंत्योदय अन्न योजना' (AAY) का प्राथमिक लक्ष्य क्या है?"
+      },
+      "options": {
+        "a": {"en": "Children in primary schools", "hi": "प्राथमिक स्कूलों में बच्चे"},
+        "b": {"en": "The poorest of the poor", "hi": "निर्धनों में भी सबसे निर्धन (Poorest of the poor)"},
+        "c": {"en": "Rich farmers", "hi": "अमीर किसान"},
+        "d": {"en": "People living in cities", "hi": "शहरों में रहने वाले लोग"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It involves providing highly subsidized food grains.",
+        "hi": "इसमें अत्यधिक सब्सिडी वाले खाद्यान्न उपलब्ध कराना शामिल है।"
+      },
+      "explanation": {
+        "en": "Antyodaya Anna Yojana was launched for the 'poorest of the poor' to provide them with food security through subsidized grains.",
+        "hi": "अंत्योदय अन्न योजना समाज के सबसे गरीब तबके को बहुत कम दाम पर अनाज देने की योजना है।"
+      },
+      "key_takeaway": {
+        "en": "AAY = Food security for the poorest.",
+        "hi": "AAY = सबसे निर्धनों के लिए खाद्य सुरक्षा।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "The current anti-poverty strategy of the government is based broadly on two planks: ________ and ________.",
+        "hi": "सरकार की वर्तमान निर्धनता निरोधी रणनीति मोटे तौर पर दो स्तंभों पर आधारित है: ________ और ________।"
+      },
+      "options": {
+        "a": {"en": "War and Peace", "hi": "युद्ध और शांति"},
+        "b": {"en": "Promotion of economic growth and targeted anti-poverty programmes", "hi": "आर्थिक विकास को बढ़ावा देना और लक्षित निर्धनता निरोधी कार्यक्रम"},
+        "c": {"en": "Import and Export", "hi": "आयात और निर्यात"},
+        "d": {"en": "Taxation and Fines", "hi": "कराधान और जुर्माना"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "One focuses on overall wealth while the other targets the poor directly.",
+        "hi": "एक समग्र धन पर केंद्रित है जबकि दूसरा सीधे गरीबों को लक्षित करता है।"
+      },
+      "explanation": {
+        "en": "India’s anti-poverty strategy has two main parts: (1) Promotion of economic growth (to create jobs and resources) and (2) Targeted anti-poverty programmes (like MGNREGA).",
+        "hi": "भारत सरकार गरीबी हटाने के लिए दो तरीके अपनाती है - आर्थिक विकास को तेज करना और गरीबों के लिए विशेष योजनाएं चलाना।"
+      },
+      "key_takeaway": {
+        "en": "Strategy = Economic Growth + Direct Intervention.",
+        "hi": "रणनीति = आर्थिक विकास + प्रत्यक्ष हस्तक्षेप।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "What is the biggest challenge to anti-poverty programs in India?",
+        "hi": "भारत में निर्धनता निरोधी कार्यक्रमों के लिए सबसे बड़ी चुनौती क्या है?"
+      },
+      "options": {
+        "a": {"en": "Too many programs", "hi": "बहुत अधिक कार्यक्रम"},
+        "b": {"en": "Lack of proper implementation and right targeting", "hi": "उचित कार्यान्वयन और सही लक्ष्यीकरण का अभाव"},
+        "c": {"en": "Poor people are not interested", "hi": "गरीब लोगों को दिलचस्पी नहीं है"},
+        "d": {"en": "There is no money", "hi": "पैसा नहीं है"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Benefits often do not reach the deserving poor due to overlapping and leakages.",
+        "hi": "ओवरलैपिंग और लीकेज के कारण अक्सर लाभ पात्र गरीबों तक नहीं पहुँच पाते हैं।"
+      },
+      "explanation": {
+        "en": "Despite many schemes, the results are less than expected due to lack of proper implementation and right targeting. Also, there is a lot of overlapping of schemes.",
+        "hi": "योजनाएं बहुत हैं पर वे सही लोगों तक पहुँच नहीं पातीं, यह सबसे बड़ी समस्या है।"
+      },
+      "key_takeaway": {
+        "en": "Challenge = Effective delivery of benefits.",
+        "hi": "चुनौती = लाभों का प्रभावी वितरण।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "How does 'Poverty' relate to the size of a family?",
+        "hi": "निर्धनता का परिवार के आकार से क्या संबंध है?"
+      },
+      "options": {
+        "a": {"en": "Smaller families are usually poorer", "hi": "छोटे परिवार आमतौर पर अधिक गरीब होते हैं"},
+        "b": {"en": "Larger families can lead to higher poverty due to more dependents", "hi": "बड़े परिवार अधिक आश्रितों के कारण उच्च निर्धनता की ओर ले जा सकते हैं"},
+        "c": {"en": "Family size has no effect on poverty", "hi": "परिवार के आकार का निर्धनता पर कोई प्रभाव नहीं पड़ता है"},
+        "d": {"en": "Rich people have the largest families", "hi": "अमीरों के परिवार सबसे बड़े होते हैं"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "When many people depend on one earner, the resources per person decrease.",
+        "hi": "जब कई लोग एक कमाने वाले पर निर्भर होते हैं, तो प्रति व्यक्ति संसाधन कम हो जाते हैं।"
+      },
+      "explanation": {
+        "en": "High growth rate of population among the poor is a major cause of poverty. Larger families with more dependents put extra pressure on limited income.",
+        "hi": "परिवार बड़ा होने पर खर्च बढ़ जाता है, जिससे गरीबी कम करना मुश्किल हो जाता है।"
+      },
+      "key_takeaway": {
+        "en": "Demographic factor = Population pressure on poor families.",
+        "hi": "जनसांख्यिकीय कारक = गरीब परिवारों पर जनसंख्या का दबाव।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "What is the 'Human Poverty' concept?",
+        "hi": "'मानवीय निर्धनता' (Human Poverty) की अवधारणा क्या है?"
+      },
+      "options": {
+        "a": {"en": "It only counts money", "hi": "यह केवल पैसे को गिनता है"},
+        "b": {"en": "It includes lack of education, healthcare, and dignity beyond just income", "hi": "इसमें केवल आय के अलावा शिक्षा, स्वास्थ्य सेवा और सम्मान की कमी शामिल है"},
+        "c": {"en": "It only applies to animals", "hi": "यह केवल जानवरों पर लागू होता है"},
+        "d": {"en": "It is about the number of humans in a city", "hi": "यह एक शहर में मनुष्यों की संख्या के बारे में है"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The definition of poverty should move towards 'Human Poverty' for a meaningful life.",
+        "hi": "सार्थक जीवन के लिए निर्धनता की परिभाषा को 'मानवीय निर्धनता' की ओर बढ़ना चाहिए।"
+      },
+      "explanation": {
+        "en": "Human poverty extends the definition of poverty beyond income to include education, health, shelter, gender equality, and dignity.",
+        "hi": "मानवीय निर्धनता का अर्थ है केवल रोटी-कपड़ा ही नहीं, बल्कि शिक्षा, सम्मान और अवसरों का होना भी।"
+      },
+      "key_takeaway": {
+        "en": "Broad concept = Human Poverty (Dignified life).",
+        "hi": "व्यापक अवधारणा = मानवीय निर्धनता (गरिमापूर्ण जीवन)।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "What is the ultimate goal of anti-poverty measures in a democracy?",
+        "hi": "लोकतंत्र में निर्धनता निरोधी उपायों का अंतिम लक्ष्य क्या है?"
+      },
+      "options": {
+        "a": {"en": "To make everyone a millionaire", "hi": "सभी को करोड़पति बनाना"},
+        "b": {"en": "To provide a dignified life and equal opportunities to all citizens", "hi": "सभी नागरिकों को गरिमापूर्ण जीवन और समान अवसर प्रदान करना"},
+        "c": {"en": "To stop people from moving to cities", "hi": "लोगों को शहरों में जाने से रोकना"},
+        "d": {"en": "To increase taxes", "hi": "टैक्स बढ़ाना"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Democracy is meaningful only if its citizens are free from hunger and deprivation.",
+        "hi": "लोकतंत्र तभी सार्थक है जब उसके नागरिक भूख और अभाव से मुक्त हों।"
+      },
+      "explanation": {
+        "en": "Ending poverty is a moving target. The goal is to ensure that everyone has the minimum necessary for a dignified life, including education, health, and jobs.",
+        "hi": "गरीबी हटाना एक निरंतर चलने वाला लक्ष्य है ताकि हर किसी को समान अवसर और सम्मान मिल सके।"
+      },
+      "key_takeaway": {
+        "en": "End goal = Dignity and Opportunity for all.",
+        "hi": "अंतिम लक्ष्य = सभी के लिए गरिमा और अवसर।"
+      }
+    }
+  ]
+}

@@ -1,0 +1,794 @@
+{
+  "metadata": {
+    "chapter_number": 1,
+    "chapter_title": "What is Democracy? Why Democracy?",
+    "chapter_title_hindi": "लोकतंत्र क्या? लोकतंत्र क्यों?",
+    "subject": "Civics (Political Science) - Class 9",
+    "board": "CBSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.0",
+    "naming_convention": "09_CI_CH01_WhatWhyDemocracy_30MCQ.json"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "The word 'Democracy' comes from which Greek word?",
+        "hi": "'डेमोक्रेसी' (Democracy) शब्द की उत्पत्ति किस यूनानी शब्द से हुई है?"
+      },
+      "options": {
+        "a": {"en": "Demokratia", "hi": "डेमोक्रेशिया (Demokratia)"},
+        "b": {"en": "Democra", "hi": "डेमोक्रा"},
+        "c": {"en": "Demos", "hi": "डेमोस"},
+        "d": {"en": "Kratia", "hi": "क्रेशिया"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "'Demos' means people and 'kratia' means rule.",
+        "hi": "'डेमोस' का अर्थ है लोग और 'क्रेशिया' का अर्थ है शासन।"
+      },
+      "explanation": {
+        "en": "Democracy comes from the Greek word 'Demokratia'. In Greek, 'demos' means people and 'kratia' means rule. So, democracy is rule by the people.",
+        "hi": "यूनानी में 'डेमोस' का अर्थ होता है लोग और 'क्रेशिया' का अर्थ होता है शासन। इस प्रकार डेमोक्रेसी का अर्थ है लोगों का शासन।"
+      },
+      "key_takeaway": {
+        "en": "Democracy = Demos (People) + Kratia (Rule).",
+        "hi": "लोकतंत्र = डेमोस (लोग) + क्रेशिया (शासन)।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "According to Abraham Lincoln, Democracy is a government:",
+        "hi": "अब्राहम लिंकन के अनुसार, लोकतंत्र एक ऐसी सरकार है जो:"
+      },
+      "options": {
+        "a": {"en": "Of the people, by the people, and for the people", "hi": "जनता का, जनता के द्वारा और जनता के लिए"},
+        "b": {"en": "Of the rich, by the rich, and for the rich", "hi": "अमीरों का, अमीरों के द्वारा और अमीरों के लिए"},
+        "c": {"en": "Of the King, by the King, and for the King", "hi": "राजा का, राजा के द्वारा और राजा के लिए"},
+        "d": {"en": "Of the military, by the military, and for the military", "hi": "सेना का, सेना के द्वारा और सेना के लिए"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "He was the 16th President of the United States.",
+        "hi": "वे संयुक्त राज्य अमेरिका के 16वें राष्ट्रपति थे।"
+      },
+      "explanation": {
+        "en": "Abraham Lincoln defined democracy as 'Government of the people, by the people, and for the people'. This is the most famous simple definition of democracy.",
+        "hi": "अब्राहम लिंकन ने लोकतंत्र को 'जनता का, जनता के लिए और जनता के द्वारा शासन' के रूप में परिभाषित किया था।"
+      },
+      "key_takeaway": {
+        "en": "Lincoln's Definition = People-centric government.",
+        "hi": "लिंकन की परिभाषा = जन-केंद्रित शासन।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "In Pakistan, General Pervez Musharraf led a military coup in which year?",
+        "hi": "पाकिस्तान में, जनरल परवेज़ मुशर्रफ ने किस वर्ष सैन्य तख्तापलट का नेतृत्व किया था?"
+      },
+      "options": {
+        "a": {"en": "1990", "hi": "1990"},
+        "b": {"en": "1999", "hi": "1999"},
+        "c": {"en": "2001", "hi": "2001"},
+        "d": {"en": "2008", "hi": "2008"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He overthrew a democratically elected government.",
+        "hi": "उन्होंने लोकतांत्रिक रूप से चुनी गई सरकार को उखाड़ फेंका था।"
+      },
+      "explanation": {
+        "en": "In October 1999, General Pervez Musharraf led a military coup and designated himself as the 'Chief Executive' of Pakistan.",
+        "hi": "अक्टूबर 1999 में जनरल परवेज़ मुशर्रफ ने सैन्य तख्तापलट किया और खुद को 'मुख्य कार्यकारी' घोषित किया।"
+      },
+      "key_takeaway": {
+        "en": "1999 Pakistan Coup = Shift from democracy to military rule.",
+        "hi": "1999 पाकिस्तान तख्तापलट = लोकतंत्र से सैन्य शासन की ओर बदलाव।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "Why was the rule of General Musharraf in Pakistan not called a democracy?",
+        "hi": "पाकिस्तान में जनरल मुशर्रफ के शासन को लोकतंत्र क्यों नहीं कहा गया?"
+      },
+      "options": {
+        "a": {"en": "Because people did not elect their rulers", "hi": "क्योंकि लोगों ने अपने शासकों का चुनाव नहीं किया था"},
+        "b": {"en": "Because the final power rested with military officers and Musharraf", "hi": "क्योंकि अंतिम शक्ति सैन्य अधिकारियों और मुशर्रफ के पास थी"},
+        "c": {"en": "Because there were no elections at all", "hi": "क्योंकि वहाँ कोई चुनाव नहीं हुए थे"},
+        "d": {"en": "Both a and b", "hi": "a और b दोनों"}
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "In a democracy, final decision-making power must rest with those elected by the people.",
+        "hi": "लोकतंत्र में, अंतिम निर्णय लेने की शक्ति लोगों द्वारा चुने गए प्रतिनिधियों के पास होनी चाहिए।"
+      },
+      "explanation": {
+        "en": "Although there was an elected parliament, the final power rested with military officers and General Musharraf. In a democracy, the final decision-making power must rest with those elected by the people.",
+        "hi": "चुनी हुई संसद होने के बावजूद अंतिम फैसले मुशर्रफ लेते थे, जो जनता द्वारा नहीं चुने गए थे।"
+      },
+      "key_takeaway": {
+        "en": "Feature 1 = Elected leaders must have the final power.",
+        "hi": "विशेषता 1 = चुने हुए नेताओं के पास ही अंतिम शक्ति होनी चाहिए।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "In China, elections are held every five years for electing the country’s parliament, called:",
+        "hi": "चीन में, देश की संसद चुनने के लिए हर पाँच साल में चुनाव होते हैं, जिसे कहा जाता है:"
+      },
+      "options": {
+        "a": {"en": "National People’s Congress", "hi": "क्वांगुओ रेनमियान दाइबियाओ दहुई (राष्ट्रीय जन संसद)"},
+        "b": {"en": "Duma", "hi": "ड्यूमा"},
+        "c": {"en": "House of Representatives", "hi": "हाउस ऑफ रिप्रेजेंटेटिव्स"},
+        "d": {"en": "Diet", "hi": "डायट"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "It has nearly 3,000 members elected from all over China.",
+        "hi": "इसमें पूरे चीन से चुने गए लगभग 3,000 सदस्य होते हैं।"
+      },
+      "explanation": {
+        "en": "The National People’s Congress (Quanguo Renmin Daibiao Dahui) is the parliament of China. It has the power to appoint the President of the country.",
+        "hi": "चीन की संसद को 'राष्ट्रीय जन संसद' कहा जाता है, जिसके पास राष्ट्रपति नियुक्त करने की शक्ति होती है।"
+      },
+      "key_takeaway": {
+        "en": "China's Parliament = National People’s Congress.",
+        "hi": "चीन की संसद = राष्ट्रीय जन संसद।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "Why is China not considered a true democracy despite holding regular elections?",
+        "hi": "नियमित चुनाव होने के बावजूद चीन को सच्चा लोकतंत्र क्यों नहीं माना जाता?"
+      },
+      "options": {
+        "a": {"en": "Because only members of the Communist Party are allowed to contest", "hi": "क्योंकि केवल कम्युनिस्ट पार्टी के सदस्यों को चुनाव लड़ने की अनुमति है"},
+        "b": {"en": "Because people have no real choice", "hi": "क्योंकि लोगों के पास कोई वास्तविक विकल्प नहीं है"},
+        "c": {"en": "Because the government is always formed by the Communist Party", "hi": "क्योंकि सरकार हमेशा कम्युनिस्ट पार्टी द्वारा बनाई जाती है"},
+        "d": {"en": "All of the above", "hi": "उपरोक्त सभी"}
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "A democracy must be based on a free and fair election where those currently in power have a fair chance of losing.",
+        "hi": "लोकतंत्र एक स्वतंत्र और निष्पक्ष चुनाव पर आधारित होना चाहिए जहाँ सत्ताधारियों के हारने की संभावना हो।"
+      },
+      "explanation": {
+        "en": "In China, candidates need the approval of the Chinese Communist Party. Voters have no choice but to vote for the ruling party, which violates the principle of free and fair elections.",
+        "hi": "चीन में चुनाव लड़ने के लिए कम्युनिस्ट पार्टी की मंजूरी चाहिए होती है, इसलिए जनता के पास कोई वास्तविक विकल्प नहीं बचता।"
+      },
+      "key_takeaway": {
+        "en": "Feature 2 = Free and fair elections with a real choice.",
+        "hi": "विशेषता 2 = वास्तविक विकल्प के साथ स्वतंत्र और निष्पक्ष चुनाव।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "Since its independence in 1930, which country has never been under a military or dictator's rule?",
+        "hi": "1930 में अपनी स्वतंत्रता के बाद से, कौन सा देश कभी सैन्य या तानाशाह शासन के अधीन नहीं रहा है?"
+      },
+      "options": {
+        "a": {"en": "Mexico", "hi": "मेक्सिको"},
+        "b": {"en": "Pakistan", "hi": "पाकिस्तान"},
+        "c": {"en": "Chile", "hi": "चिली"},
+        "d": {"en": "Poland", "hi": "पोलैंड"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "However, until 2000, every election was won by a party called PRI.",
+        "hi": "हालांकि, साल 2000 तक हर चुनाव पीआरआई (PRI) नामक पार्टी द्वारा जीता गया था।"
+      },
+      "explanation": {
+        "en": "Mexico holds elections every six years to elect its President. It has never been under a military rule, but for 70 years, the PRI used dirty tricks to win every election.",
+        "hi": "मेक्सिको 1930 में आजाद हुआ और तब से वहाँ चुनाव होते हैं, लेकिन 2000 तक वहाँ केवल एक ही पार्टी जीतती रही।"
+      },
+      "key_takeaway": {
+        "en": "Mexico = Example of unfair electoral practices (until 2000).",
+        "hi": "मेक्सिको = अनुचित चुनावी प्रथाओं का उदाहरण (2000 तक)।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "What was the 'PRI' in Mexico known for?",
+        "hi": "मेक्सिको में 'पीआरआई' (PRI) किस लिए जानी जाती थी?"
+      },
+      "options": {
+        "a": {"en": "Promoting absolute democracy", "hi": "पूर्ण लोकतंत्र को बढ़ावा देने के लिए"},
+        "b": {"en": "Using dirty tricks and government machinery to win elections", "hi": "चुनाव जीतने के लिए गंदी चालों और सरकारी मशीनरी का उपयोग करने के लिए"},
+        "c": {"en": "Establishing military rule", "hi": "सैन्य शासन स्थापित करने के लिए"},
+        "d": {"en": "Its fair election process", "hi": "अपनी निष्पक्ष चुनाव प्रक्रिया के लिए"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It stands for Institutional Revolutionary Party.",
+        "hi": "इसका पूरा नाम इंस्टीट्यूशनल रिवोल्यूशनरी पार्टी है।"
+      },
+      "explanation": {
+        "en": "The PRI (Institutional Revolutionary Party) forced government employees to attend its meetings, used teachers to influence parents, and often shifted polling booths at the last minute.",
+        "hi": "PRI चुनाव जीतने के लिए सरकारी कर्मचारियों और शिक्षकों का दबाव बनाती थी और अंतिम समय पर मतदान केंद्र बदल देती थी।"
+      },
+      "key_takeaway": {
+        "en": "Unfair Elections = Not a true democracy.",
+        "hi": "अनुचित चुनाव = सच्चा लोकतंत्र नहीं।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "Until 2015, in which country were women not allowed to vote?",
+        "hi": "2015 तक, किस देश में महिलाओं को वोट देने की अनुमति नहीं थी?"
+      },
+      "options": {
+        "a": {"en": "Estonia", "hi": "एस्तोनिया"},
+        "b": {"en": "Fiji", "hi": "फिजी"},
+        "c": {"en": "Saudi Arabia", "hi": "सऊदी अरब"},
+        "d": {"en": "Mexico", "hi": "मेक्सिको"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "Democracy is based on the principle of political equality.",
+        "hi": "लोकतंत्र राजनीतिक समानता के सिद्धांत पर आधारित है।"
+      },
+      "explanation": {
+        "en": "In Saudi Arabia women did not have the right to vote until 2015. This violated the democratic principle of Universal Adult Franchise.",
+        "hi": "सऊदी अरब में 2015 तक महिलाओं को मताधिकार नहीं था, जो 'एक व्यक्ति-एक वोट' के सिद्धांत के खिलाफ था।"
+      },
+      "key_takeaway": {
+        "en": "Feature 3 = One person, one vote, one value.",
+        "hi": "विशेषता 3 = एक व्यक्ति, एक वोट, एक मोल।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "In which country is the electoral system such that the vote of an indigenous citizen has more value than that of an Indian-Fijian?",
+        "hi": "किस देश में चुनावी प्रणाली ऐसी है कि एक मूल निवासी के वोट का मूल्य भारतीय-फिजी नागरिक के वोट से अधिक है?"
+      },
+      "options": {
+        "a": {"en": "Estonia", "hi": "एस्तोनिया"},
+        "b": {"en": "Fiji", "hi": "फिजी"},
+        "c": {"en": "South Africa", "hi": "दक्षिण अफ्रीका"},
+        "d": {"en": "Sri Lanka", "hi": "श्रीलंका"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This violates the principle that each vote must have one value.",
+        "hi": "यह इस सिद्धांत का उल्लंघन करता है कि प्रत्येक वोट का एक समान मूल्य होना चाहिए।"
+      },
+      "explanation": {
+        "en": "In Fiji, the electoral system is designed so that the vote of an indigenous Fiji has more value than that of an Indian-Fijian.",
+        "hi": "फिजी में मूल निवासियों के वोट का मूल्य भारतीय मूल के फिजी नागरिकों के वोट से ज्यादा है।"
+      },
+      "key_takeaway": {
+        "en": "Political Equality = Equal weight for every vote.",
+        "hi": "राजनीतिक समानता = प्रत्येक वोट के लिए समान महत्व।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "Robert Mugabe was the President of which country from its independence in 1980 until 2017?",
+        "hi": "रॉबर्ट मुगाबे 1980 में स्वतंत्रता के बाद से 2017 तक किस देश के राष्ट्रपति थे?"
+      },
+      "options": {
+        "a": {"en": "South Africa", "hi": "दक्षिण अफ्रीका"},
+        "b": {"en": "Zimbabwe", "hi": "ज़िम्बाब्वे"},
+        "c": {"en": "Kenya", "hi": "केन्या"},
+        "d": {"en": "Ghana", "hi": "घाना"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "His party ZANU-PF led the freedom struggle.",
+        "hi": "उनकी पार्टी ZANU-PF ने स्वतंत्रता संग्राम का नेतृत्व किया था।"
+      },
+      "explanation": {
+        "en": "Zimbabwe attained independence from White minority rule in 1980. Since then the country was ruled by Robert Mugabe, the leader of ZANU-PF.",
+        "hi": "ज़िम्बाब्वे 1980 में स्वतंत्र हुआ और तब से रॉबर्ट मुगाबे वहाँ शासन कर रहे थे।"
+      },
+      "key_takeaway": {
+        "en": "Robert Mugabe = Popular but undemocratic leader.",
+        "hi": "रॉबर्ट मुगाबे = लोकप्रिय लेकिन अलोकतांत्रिक नेता।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "Why was Zimbabwe under Robert Mugabe not considered a democracy?",
+        "hi": "रॉबर्ट मुगाबे के अधीन ज़िम्बाब्वे को लोकतंत्र क्यों नहीं माना गया?"
+      },
+      "options": {
+        "a": {"en": "Because he used unfair practices in elections", "hi": "क्योंकि उन्होंने चुनावों में गलत तरीकों का इस्तेमाल किया"},
+        "b": {"en": "Because the government harassed opposition workers", "hi": "क्योंकि सरकार ने विपक्षी कार्यकर्ताओं को परेशान किया"},
+        "c": {"en": "Because the right to criticize the government was limited", "hi": "क्योंकि सरकार की आलोचना करने का अधिकार सीमित था"},
+        "d": {"en": "All of the above", "hi": "उपरोक्त सभी"}
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "A democratic government rules within limits set by constitutional law and citizens’ rights.",
+        "hi": "एक लोकतांत्रिक सरकार संवैधानिक कानून और नागरिक अधिकारों द्वारा निर्धारित सीमाओं के भीतर काम करती है।"
+      },
+      "explanation": {
+        "en": "Even if a leader is popular, the government is not democratic if it ignores the rule of law and suppresses citizens' rights and media freedom.",
+        "hi": "मुगाबे ने संविधान बदला, विपक्ष को कुचला और विरोध प्रदर्शनों को गैर-कानूनी घोषित कर दिया, जो लोकतंत्र के खिलाफ है।"
+      },
+      "key_takeaway": {
+        "en": "Feature 4 = Rule of Law and respect for citizens' rights.",
+        "hi": "विशेषता 4 = कानून का शासन और नागरिक अधिकारों का सम्मान।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "Which of the following is an argument AGAINST democracy?",
+        "hi": "निम्नलिखित में से कौन सा लोकतंत्र के खिलाफ एक तर्क है?"
+      },
+      "options": {
+        "a": {"en": "It improves the quality of decision-making", "hi": "यह निर्णय लेने की गुणवत्ता में सुधार करता है"},
+        "b": {"en": "It leads to instability as leaders keep changing", "hi": "नेताओं के बदलते रहने से अस्थिरता पैदा होती है"},
+        "c": {"en": "It provides a method to deal with differences", "hi": "यह मतभेदों को सुलझाने का एक तरीका प्रदान करता है"},
+        "d": {"en": "It enhances the dignity of citizens", "hi": "यह नागरिकों की गरिमा को बढ़ाता है"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Arguments against democracy often highlight delay and instability.",
+        "hi": "लोकतंत्र के खिलाफ तर्क अक्सर देरी और अस्थिरता को उजागर करते हैं।"
+      },
+      "explanation": {
+        "en": "One major criticism of democracy is that leaders keep changing, which leads to instability and lack of long-term vision.",
+        "hi": "लोकतंत्र की एक आलोचना यह है कि नेता बदलते रहते हैं, जिससे नीतियों में निरंतरता नहीं रहती और अस्थिरता आती है।"
+      },
+      "key_takeaway": {
+        "en": "Criticism = Political instability due to frequent changes.",
+        "hi": "आलोचना = बार-बार होने वाले परिवर्तनों के कारण राजनीतिक अस्थिरता।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "Democracy is better than other forms of government because it allows us to:",
+        "hi": "लोकतंत्र सरकार के अन्य रूपों से बेहतर है क्योंकि यह हमें अनुमति देता है:"
+      },
+      "options": {
+        "a": {"en": "Correct our own mistakes", "hi": "अपनी गलतियों को सुधारने की"},
+        "b": {"en": "Appoint a King", "hi": "एक राजा नियुक्त करने की"},
+        "c": {"en": "Rule without laws", "hi": "बिना कानून के शासन करने की"},
+        "d": {"en": "Ignore the minority", "hi": "अल्पसंख्यकों की अनदेखी करने की"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "Either the rulers have to change their decisions, or the rulers can be changed.",
+        "hi": "या तो शासकों को अपने फैसले बदलने होंगे, या शासकों को बदला जा सकता है।"
+      },
+      "explanation": {
+        "en": "In a democracy, mistakes cannot be hidden for long. There is space for public discussion and a chance to correct decisions through voting or protests.",
+        "hi": "लोकतंत्र में गलतियों पर सार्वजनिक चर्चा की गुंजाइश होती है और चुनाव के जरिए उन्हें सुधारा जा सकता है।"
+      },
+      "key_takeaway": {
+        "en": "Advantage = Room for correction of mistakes.",
+        "hi": "लाभ = गलतियों को सुधारने की गुंजाइश।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "China’s famine of 1958-1961 was the nearly worst recorded famine in world history. Why did India NOT face a similar famine despite being poor?",
+        "hi": "1958-1961 का चीन का अकाल विश्व इतिहास का सबसे भयानक अकाल था। गरीब होने के बावजूद भारत ने ऐसे अकाल का सामना क्यों नहीं किया?"
+      },
+      "options": {
+        "a": {"en": "India had more food grains", "hi": "भारत के पास अधिक खाद्यान्न था"},
+        "b": {"en": "Because of democratic government policies and a free press", "hi": "लोकतांत्रिक सरकारी नीतियों और स्वतंत्र प्रेस के कारण"},
+        "c": {"en": "India had a smaller population", "hi": "भारत की जनसंख्या कम थी"},
+        "d": {"en": "China had no land for farming", "hi": "चीन के पास खेती के लिए जमीन नहीं थी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Democratic governments are more accountable to the people.",
+        "hi": "लोकतांत्रिक सरकारें जनता के प्रति अधिक जवाबदेह होती हैं।"
+      },
+      "explanation": {
+        "en": "India's democracy meant that the government had to respond to food scarcity. A free press and opposition parties ensured that the government acted quickly to prevent a famine.",
+        "hi": "भारत में स्वतंत्र प्रेस और विपक्षी दलों ने सरकार को सचेत रखा और जवाबदेह बनाया, जिससे अकाल की स्थिति नहीं बनी।"
+      },
+      "key_takeaway": {
+        "en": "Accountability = Democracy responds to people's needs better.",
+        "hi": "जवाबदेही = लोकतंत्र लोगों की जरूरतों के प्रति बेहतर प्रतिक्रिया देता है।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "Democracy improves the quality of decision-making because:",
+        "hi": "लोकतंत्र निर्णय लेने की गुणवत्ता में सुधार करता है क्योंकि:"
+      },
+      "options": {
+        "a": {"en": "Decisions are taken by one person", "hi": "निर्णय एक व्यक्ति द्वारा लिए जाते हैं"},
+        "b": {"en": "Decisions involve consultation and discussion with many people", "hi": "निर्णयों में कई लोगों के साथ परामर्श और चर्चा शामिल होती है"},
+        "c": {"en": "Decisions are taken very quickly", "hi": "निर्णय बहुत जल्दी लिए जाते हैं"},
+        "d": {"en": "It follows the military code", "hi": "यह सैन्य संहिता का पालन करता है"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Consultation reduces the chances of rash or irresponsible decisions.",
+        "hi": "परामर्श से जल्दबाजी या गैर-जिम्मेदाराना फैसलों की संभावना कम हो जाती है।"
+      },
+      "explanation": {
+        "en": "Democratic decisions always involve many persons, discussions and meetings. This takes time, but it reduces the chance of making big, irresponsible mistakes.",
+        "hi": "लोकतंत्र में फैसले चर्चा और बैठकों के बाद लिए जाते हैं, जिससे गलत फैसलों की गुंजाइश कम हो जाती है।"
+      },
+      "key_takeaway": {
+        "en": "Better Quality = Based on deliberation and consensus.",
+        "hi": "बेहतर गुणवत्ता = विचार-विमर्श और आम सहमति पर आधारित।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "What is the most common form of democracy in the modern world?",
+        "hi": "आधुनिक दुनिया में लोकतंत्र का सबसे सामान्य रूप क्या है?"
+      },
+      "options": {
+        "a": {"en": "Direct Democracy", "hi": "प्रत्यक्ष लोकतंत्र"},
+        "b": {"en": "Representative Democracy", "hi": "प्रतिनिधि लोकतंत्र (Representative)"},
+        "c": {"en": "Monarchy", "hi": "राजशाही"},
+        "d": {"en": "Dictatorship", "hi": "तानाशाही"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The majority of people rule through their elected representatives.",
+        "hi": "अधिकांश लोग अपने निर्वाचित प्रतिनिधियों के माध्यम से शासन करते हैं।"
+      },
+      "explanation": {
+        "en": "In most countries, it is not possible for everyone to sit together and take decisions. Thus, people elect representatives to act on their behalf.",
+        "hi": "आधुनिक लोकतंत्र में सभी नागरिक सीधे फैसले नहीं लेते, बल्कि अपने प्रतिनिधियों को चुनते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Representative Democracy = Rule through elected members.",
+        "hi": "प्रतिनिधि लोकतंत्र = निर्वाचित सदस्यों के माध्यम से शासन।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "Which of these is NOT a democratic way of taking a decision in a family?",
+        "hi": "इनमें से कौन सा परिवार में निर्णय लेने का लोकतांत्रिक तरीका नहीं है?"
+      },
+      "options": {
+        "a": {"en": "All members sit together and reach a consensus", "hi": "सभी सदस्य एक साथ बैठते हैं और आम सहमति पर पहुँचते हैं"},
+        "b": {"en": "The father takes all decisions without consulting others", "hi": "पिता दूसरों से सलाह लिए बिना सभी निर्णय लेते हैं"},
+        "c": {"en": "Children’s opinions are heard by parents", "hi": "माता-पिता द्वारा बच्चों की राय सुनी जाती है"},
+        "d": {"en": "Everyone has an equal say in important matters", "hi": "महत्वपूर्ण मामलों में सभी की समान बात होती है"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Democracy is a principle that can be applied to any sphere of life.",
+        "hi": "लोकतंत्र एक सिद्धांत है जिसे जीवन के किसी भी क्षेत्र में लागू किया जा सकता है।"
+      },
+      "explanation": {
+        "en": "A democratic decision involves consultation with and consent of all those who are affected by that decision.",
+        "hi": "लोकतांत्रिक निर्णय में उन सभी की राय शामिल होती है जो उस फैसले से प्रभावित होने वाले हैं।"
+      },
+      "key_takeaway": {
+        "en": "Democracy = A method of decision-making beyond just politics.",
+        "hi": "लोकतंत्र = केवल राजनीति से परे निर्णय लेने की एक पद्धति।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "What is 'Universal Adult Franchise'?",
+        "hi": "'सार्वभौमिक वयस्क मताधिकार' (Universal Adult Franchise) क्या है?"
+      },
+      "options": {
+        "a": {"en": "Right to vote only for educated people", "hi": "केवल शिक्षित लोगों के लिए वोट देने का अधिकार"},
+        "b": {"en": "Right to vote for all adult citizens regardless of caste, religion, or gender", "hi": "जाति, धर्म या लिंग की परवाह किए बिना सभी वयस्क नागरिकों के लिए वोट देने का अधिकार"},
+        "c": {"en": "Right to vote for rich people", "hi": "अमीर लोगों के लिए वोट देने का अधिकार"},
+        "d": {"en": "Right to vote only for men", "hi": "केवल पुरुषों के लिए वोट देने का अधिकार"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It is based on the principle of one person, one vote.",
+        "hi": "यह एक व्यक्ति, एक वोट के सिद्धांत पर आधारित है।"
+      },
+      "explanation": {
+        "en": "Universal Adult Franchise means that every adult citizen in a country has the right to vote, and each vote has equal value.",
+        "hi": "इसका अर्थ है कि देश के प्रत्येक वयस्क नागरिक को वोट देने का अधिकार है और हर वोट का मूल्य बराबर है।"
+      },
+      "key_takeaway": {
+        "en": "Universal Adult Franchise = Equality in voting.",
+        "hi": "सार्वभौमिक वयस्क मताधिकार = मतदान में समानता।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "A country that has a king or queen as head of state but also has a democratic parliament is called a:",
+        "hi": "एक देश जिसमें राजा या रानी राष्ट्राध्यक्ष होते हैं लेकिन वहाँ लोकतांत्रिक संसद भी होती है, उसे कहा जाता है:"
+      },
+      "options": {
+        "a": {"en": "Absolute Monarchy", "hi": "पूर्ण राजशाही"},
+        "b": {"en": "Constitutional Monarchy", "hi": "संवैधानिक राजशाही (Constitutional Monarchy)"},
+        "c": {"en": "Republic", "hi": "गणतंत्र"},
+        "d": {"en": "Dictatorship", "hi": "तानाशाही"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The UK is a classic example of this form.",
+        "hi": "यूके (UK) इसका एक उत्कृष्ट उदाहरण है।"
+      },
+      "explanation": {
+        "en": "In a constitutional monarchy, the monarch's powers are limited by a constitution, and the actual power is exercised by an elected parliament.",
+        "hi": "संवैधानिक राजशाही में राजा की शक्तियाँ संविधान द्वारा सीमित होती हैं और असली शक्ति संसद के पास होती है।"
+      },
+      "key_takeaway": {
+        "en": "Constitutional Monarchy = Limited royal power.",
+        "hi": "संवैधानिक राजशाही = सीमित शाही शक्ति।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "In a democracy, no one is a 'permanent' winner or loser. This means:",
+        "hi": "लोकतंत्र में कोई भी 'स्थायी' विजेता या हारने वाला नहीं होता है। इसका अर्थ है:"
+      },
+      "options": {
+        "a": {"en": "Elections happen only once", "hi": "चुनाव केवल एक बार होते हैं"},
+        "b": {"en": "Parties in power can lose in the next election", "hi": "सत्ताधारी दल अगले चुनाव में हार सकते हैं"},
+        "c": {"en": "The same person remains President forever", "hi": "एक ही व्यक्ति हमेशा के लिए राष्ट्रपति बना रहता है"},
+        "d": {"en": "Losing parties are banned", "hi": "हारने वाली पार्टियों पर प्रतिबंध लगा दिया जाता है"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This ensures that rulers stay accountable to the people.",
+        "hi": "यह सुनिश्चित करता है कि शासक जनता के प्रति जवाबदेह रहें।"
+      },
+      "explanation": {
+        "en": "Because elections are held regularly, people have the power to remove a government they are not happy with.",
+        "hi": "नियमित चुनाव होने के कारण जनता के पास सरकार बदलने की शक्ति होती है।"
+      },
+      "key_takeaway": {
+        "en": "Dynamic Power = Power shifts according to people's will.",
+        "hi": "गतिशील शक्ति = जनता की इच्छा के अनुसार सत्ता का हस्तांतरण।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "Democracy is based on the consultation of many, which helps in avoiding ________ decisions.",
+        "hi": "लोकतंत्र कई लोगों के परामर्श पर आधारित है, जो ________ निर्णयों से बचने में मदद करता है।"
+      },
+      "options": {
+        "a": {"en": "Rational", "hi": "तर्कसंगत"},
+        "b": {"en": "Rash or irresponsible", "hi": "जल्दबाजी या गैर-जिम्मेदाराना (Rash)"},
+        "c": {"en": "Careful", "hi": "सावधानीपूर्वक"},
+        "d": {"en": "Popular", "hi": "लोकप्रिय"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Taking time for discussion ensures a better outcome.",
+        "hi": "चर्चा के लिए समय लेने से बेहतर परिणाम सुनिश्चित होता है।"
+      },
+      "explanation": {
+        "en": "Since many people are involved in the decision-making process, it reduces the possibility of taking hasty or foolish decisions.",
+        "hi": "चूँकि कई लोग निर्णय प्रक्रिया में शामिल होते हैं, इसलिए गलत या जल्दबाजी में लिए गए फैसलों की संभावना कम हो जाती है।"
+      },
+      "key_takeaway": {
+        "en": "Quality Control = Deliberation leads to responsible decisions.",
+        "hi": "गुणवत्ता नियंत्रण = विचार-विमर्श से जिम्मेदार निर्णय मिलते हैं।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "Which form of government is considered the best for dealing with social differences and conflicts?",
+        "hi": "सामाजिक मतभेदों और संघर्षों से निपटने के लिए किस प्रकार की सरकार को सबसे अच्छा माना जाता है?"
+      },
+      "options": {
+        "a": {"en": "Dictatorship", "hi": "तानाशाही"},
+        "b": {"en": "Monarchy", "hi": "राजशाही"},
+        "c": {"en": "Democracy", "hi": "लोकतंत्र (Democracy)"},
+        "d": {"en": "Military Rule", "hi": "सैन्य शासन"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "It provides a peaceful solution to problems in diverse societies like India.",
+        "hi": "यह भारत जैसे विविधतापूर्ण समाजों में समस्याओं का शांतिपूर्ण समाधान प्रदान करता है।"
+      },
+      "explanation": {
+        "en": "In a diverse country like India, people belong to different religions and languages. Democracy provides a way to live together peacefully without any group dominating the other.",
+        "hi": "लोकतंत्र विभिन्न समूहों के बीच शांतिपूर्ण तरीके से रहने का रास्ता प्रदान करता है।"
+      },
+      "key_takeaway": {
+        "en": "Conflict Resolution = Democracy handles diversity better.",
+        "hi": "संघर्ष समाधान = लोकतंत्र विविधता को बेहतर तरीके से संभालता है।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "A true democracy will be achieved only when:",
+        "hi": "एक वास्तविक लोकतंत्र तभी प्राप्त होगा जब:"
+      },
+      "options": {
+        "a": {"en": "The rich get more power", "hi": "अमीरों को अधिक शक्ति मिले"},
+        "b": {"en": "No one goes hungry to bed", "hi": "कोई भी भूखा न सोए"},
+        "c": {"en": "One party rules forever", "hi": "एक ही पार्टी हमेशा शासन करे"},
+        "d": {"en": "Military takes control", "hi": "सेना नियंत्रण कर ले"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This refers to the 'ideal' meaning of democracy.",
+        "hi": "यह लोकतंत्र के 'आदर्श' अर्थ को संदर्भित करता है।"
+      },
+      "explanation": {
+        "en": "Democracy is not just about voting; it is also about ensuring social and economic equality for all citizens.",
+        "hi": "लोकतंत्र केवल वोट देने तक सीमित नहीं है, बल्कि सभी नागरिकों के लिए सामाजिक और आर्थिक समानता सुनिश्चित करना भी इसका लक्ष्य है।"
+      },
+      "key_takeaway": {
+        "en": "Ideal Democracy = Equality and basic needs for all.",
+        "hi": "आदर्श लोकतंत्र = सभी के लिए समानता और बुनियादी जरूरतें।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "What does 'Rule of Law' mean?",
+        "hi": "'कानून का शासन' (Rule of Law) का क्या अर्थ है?"
+      },
+      "options": {
+        "a": {"en": "The King makes the law", "hi": "राजा कानून बनाता है"},
+        "b": {"en": "Law is supreme and everyone is equal before it", "hi": "कानून सर्वोच्च है और इसके सामने सभी समान हैं"},
+        "c": {"en": "Military makes the law", "hi": "सेना कानून बनाती है"},
+        "d": {"en": "Law can be changed by the President anytime", "hi": "राष्ट्रपति कभी भी कानून बदल सकते हैं"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Even the elected rulers must follow the law.",
+        "hi": "यहाँ तक कि चुने हुए शासकों को भी कानून का पालन करना चाहिए।"
+      },
+      "explanation": {
+        "en": "Rule of law means that no one is above the law and the government must act according to the rules set by the constitution.",
+        "hi": "इसका अर्थ है कि कोई भी कानून से ऊपर नहीं है और सरकार को संविधान के नियमों के अनुसार काम करना चाहिए।"
+      },
+      "key_takeaway": {
+        "en": "Rule of Law = Supremacy of the Constitution.",
+        "hi": "कानून का शासन = संविधान की सर्वोच्चता।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "In a democracy, the minority must be:",
+        "hi": "लोकतंत्र में, अल्पसंख्यकों के साथ कैसा व्यवहार होना चाहिए?"
+      },
+      "options": {
+        "a": {"en": "Ignored by the majority", "hi": "बहुसंख्यकों द्वारा अनदेखा"},
+        "b": {"en": "Respectfully protected and heard", "hi": "सम्मानपूर्वक संरक्षित और उनकी बात सुनी जानी चाहिए"},
+        "c": {"en": "Forced to change their religion", "hi": "अपना धर्म बदलने के लिए मजबूर"},
+        "d": {"en": "Given no rights", "hi": "कोई अधिकार नहीं दिए जाने चाहिए"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Democracy is not just about 'rule by majority'.",
+        "hi": "लोकतंत्र केवल 'बहुमत का शासन' नहीं है।"
+      },
+      "explanation": {
+        "en": "A democratic government must respect the rights of minorities. Majority rule should not result in the suppression of minority views.",
+        "hi": "लोकतंत्र में बहुमत का अर्थ यह नहीं है कि अल्पसंख्यकों के अधिकारों को कुचल दिया जाए।"
+      },
+      "key_takeaway": {
+        "en": "Inclusion = Respect for all groups.",
+        "hi": "समावेशिता = सभी समूहों का सम्मान।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "Which of the following is NOT a feature of democracy?",
+        "hi": "निम्नलिखित में से कौन सी लोकतंत्र की विशेषता नहीं है?"
+      },
+      "options": {
+        "a": {"en": "Rulers elected by the people", "hi": "जनता द्वारा चुने गए शासक"},
+        "b": {"en": "One person, one vote", "hi": "एक व्यक्ति, एक वोट"},
+        "c": {"en": "Censorship of the press", "hi": "प्रेस पर सेंसरशिप (प्रतिबंध)"},
+        "d": {"en": "Rule of law", "hi": "कानून का शासन"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "A free press is essential to keep the government accountable.",
+        "hi": "सरकार को जवाबदेह बनाए रखने के लिए एक स्वतंत्र प्रेस आवश्यक है।"
+      },
+      "explanation": {
+        "en": "A true democracy allows for freedom of expression and a free press. Censorship is a feature of dictatorships.",
+        "hi": "प्रेस पर प्रतिबंध या सेंसरशिप तानाशाही की निशानी है, लोकतंत्र की नहीं।"
+      },
+      "key_takeaway": {
+        "en": "Free Press = Watchdog of Democracy.",
+        "hi": "स्वतंत्र प्रेस = लोकतंत्र का प्रहरी।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "Democracy is a better form of government because it enhances the ________ of citizens.",
+        "hi": "लोकतंत्र सरकार का एक बेहतर रूप है क्योंकि यह नागरिकों की ________ को बढ़ाता है।"
+      },
+      "options": {
+        "a": {"en": "Dignity", "hi": "गरिमा (Dignity)"},
+        "b": {"en": "Wealth", "hi": "संपत्ति"},
+        "c": {"en": "Physical strength", "hi": "शारीरिक शक्ति"},
+        "d": {"en": "Laziness", "hi": "आलस्य"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "Citizens are treated as equals regardless of their status.",
+        "hi": "नागरिकों के साथ उनकी स्थिति की परवाह किए बिना समान व्यवहार किया जाता है।"
+      },
+      "explanation": {
+        "en": "Democracy is based on the principle of political equality. Even the poorest and the least educated has the same status as the rich and the educated.",
+        "hi": "लोकतंत्र राजनीतिक समानता पर आधारित है, जो हर नागरिक को सम्मान और गरिमा प्रदान करता है।"
+      },
+      "key_takeaway": {
+        "en": "Human Dignity = Core value of democracy.",
+        "hi": "मानवीय गरिमा = लोकतंत्र का मुख्य मूल्य।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "Why do some people argue that democracy leads to delays?",
+        "hi": "कुछ लोग यह तर्क क्यों देते हैं कि लोकतंत्र में देरी होती है?"
+      },
+      "options": {
+        "a": {"en": "Because rulers are lazy", "hi": "क्योंकि शासक आलसी हैं"},
+        "b": {"en": "Because many people have to be consulted", "hi": "क्योंकि कई लोगों से सलाह लेनी पड़ती है"},
+        "c": {"en": "Because there are no computers", "hi": "क्योंकि वहाँ कोई कंप्यूटर नहीं है"},
+        "d": {"en": "Because it is a new form of government", "hi": "क्योंकि यह सरकार का एक नया रूप है"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Discussions and consultations take time.",
+        "hi": "चर्चा और परामर्श में समय लगता है।"
+      },
+      "explanation": {
+        "en": "In a democracy, decisions are not taken by one person. The process of consultation with different groups leads to delays, but usually produces better decisions.",
+        "hi": "लोकतंत्र में सबकी राय लेने की प्रक्रिया में समय लगता है, लेकिन इससे निर्णय बेहतर होते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Trade-off = Time for quality.",
+        "hi": "समझौता = गुणवत्ता के लिए समय।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "Which of these is the most significant challenge to democracy?",
+        "hi": "इनमें से कौन सा लोकतंत्र के लिए सबसे बड़ी चुनौती है?"
+      },
+      "options": {
+        "a": {"en": "Corruption and use of muscle power", "hi": "भ्रष्टाचार और बाहुबल का प्रयोग"},
+        "b": {"en": "Poverty and inequality", "hi": "गरीबी और असमानता"},
+        "c": {"en": "Illiteracy", "hi": "निरक्षरता"},
+        "d": {"en": "All of the above", "hi": "उपरोक्त सभी"}
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "To make democracy better, these social and political issues must be addressed.",
+        "hi": "लोकतंत्र को बेहतर बनाने के लिए इन सामाजिक और राजनीतिक मुद्दों को हल किया जाना चाहिए।"
+      },
+      "explanation": {
+        "en": "While democracy is the best available form of government, it still faces challenges like money power, muscle power, and social inequality that need to be improved.",
+        "hi": "लोकतंत्र एक आदर्श व्यवस्था की ओर एक कदम है, लेकिन भ्रष्टाचार और असमानता जैसी चुनौतियाँ अभी भी बनी हुई हैं।"
+      },
+      "key_takeaway": {
+        "en": "Ongoing Process = Democracy needs constant improvement.",
+        "hi": "सतत प्रक्रिया = लोकतंत्र को निरंतर सुधार की आवश्यकता है।"
+      }
+    }
+  ]
+}

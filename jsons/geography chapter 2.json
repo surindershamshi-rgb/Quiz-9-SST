@@ -1,0 +1,794 @@
+{
+  "metadata": {
+    "chapter_number": 2,
+    "chapter_title": "Physical Features of India",
+    "chapter_title_hindi": "भारत का भौतिक स्वरूप",
+    "subject": "Geography - Class 9",
+    "board": "CBSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.0",
+    "naming_convention": "09_GE_CH02_PhysicalFeatures_30MCQ.json"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "According to the 'Theory of Plate Tectonics', the earth's crust is formed of how many major plates?",
+        "hi": "'प्लेट विवर्तनिकी के सिद्धांत' (Theory of Plate Tectonics) के अनुसार, पृथ्वी की ऊपरी पर्पटी कितनी मुख्य प्लेटों से बनी है?"
+      },
+      "options": {
+        "a": {"en": "Five", "hi": "पाँच"},
+        "b": {"en": "Seven", "hi": "सात"},
+        "c": {"en": "Nine", "hi": "नौ"},
+        "d": {"en": "Ten", "hi": "दस"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "These plates move and cause geological activity like earthquakes and mountain building.",
+        "hi": "ये प्लेटें हिलती हैं और भूकंप और पर्वत निर्माण जैसी भूगर्भीय गतिविधियों का कारण बनती हैं।"
+      },
+      "explanation": {
+        "en": "The Earth's crust is divided into seven major and some minor plates. Their movement leads to folding, faulting, and volcanic activity.",
+        "hi": "पृथ्वी की ऊपरी पर्पटी सात बड़ी और कुछ छोटी प्लेटों से बनी है।"
+      },
+      "key_takeaway": {
+        "en": "Major Tectonic Plates = 7.",
+        "hi": "मुख्य विवर्तनिक प्लेटें = 7।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "The oldest landmass of India, the Peninsular part, was once a part of which ancient supercontinent?",
+        "hi": "भारत का सबसे प्राचीन भूभाग, प्रायद्वीपीय भाग, किस प्राचीन विशाल महाद्वीप का हिस्सा था?"
+      },
+      "options": {
+        "a": {"en": "Angara land", "hi": "अंगारा लैंड"},
+        "b": {"en": "Gondwana land", "hi": "गोंडवाना लैंड"},
+        "c": {"en": "Tethys Sea", "hi": "टेथिस सागर"},
+        "d": {"en": "Eurasian Plate", "hi": "यूरेशियाई प्लेट"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This landmass also included South America, Africa, Australia, and Antarctica.",
+        "hi": "इस भूभाग में दक्षिण अमेरिका, अफ्रीका, ऑस्ट्रेलिया और अंटार्कटिका भी शामिल थे।"
+      },
+      "explanation": {
+        "en": "The Peninsular plateau is the oldest landmass and was part of the Gondwana land, which included India, Australia, South Africa, South America, and Antarctica as one single landmass.",
+        "hi": "भारत का प्रायद्वीपीय पठार प्राचीन गोंडवाना लैंड का हिस्सा था।"
+      },
+      "key_takeaway": {
+        "en": "Peninsular Plateau = Part of Gondwana Land.",
+        "hi": "प्रायद्वीपीय पठार = गोंडवाना लैंड का हिस्सा।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "The Himalayas were formed due to the upliftment of sediments from which sea?",
+        "hi": "हिमालय का निर्माण किस सागर के अवसादों के ऊपर उठने से हुआ था?"
+      },
+      "options": {
+        "a": {"en": "Arabian Sea", "hi": "अरब सागर"},
+        "b": {"en": "Caspian Sea", "hi": "कैस्पियन सागर"},
+        "c": {"en": "Tethys Sea", "hi": "टेथिस सागर"},
+        "d": {"en": "Red Sea", "hi": "लाल सागर"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "It was a geosyncline between the Gondwana land and the Eurasian plate.",
+        "hi": "यह गोंडवाना लैंड और यूरेशियाई प्लेट के बीच एक भू-सन्नति थी।"
+      },
+      "explanation": {
+        "en": "The collision of the Indo-Australian plate with the Eurasian plate caused the sedimentary rocks of the Tethys sea to fold and form the Himalayas.",
+        "hi": "टेथिस सागर के अवसादों में वलन (folding) पड़ने के कारण हिमालय पर्वत का निर्माण हुआ।"
+      },
+      "key_takeaway": {
+        "en": "Himalayas = Formed from Tethys Sea sediments.",
+        "hi": "हिमालय = टेथिस सागर के अवसादों से निर्मित।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "Which of the following is the northernmost range of the Himalayas?",
+        "hi": "हिमालय की सबसे उत्तरी श्रेणी कौन सी है?"
+      },
+      "options": {
+        "a": {"en": "Himachal", "hi": "हिमाचल"},
+        "b": {"en": "Shiwaliks", "hi": "शिवालिक"},
+        "c": {"en": "Himadri (Great Himalayas)", "hi": "हिमाद्रि (महान हिमालय)"},
+        "d": {"en": "Purvanchal", "hi": "पूर्वांचल"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "It contains the highest peaks like Mount Everest and Kanchenjunga.",
+        "hi": "इसमें माउंट एवरेस्ट और कंचनजंगा जैसी सबसे ऊंची चोटियाँ शामिल हैं।"
+      },
+      "explanation": {
+        "en": "The northernmost range is known as the Great or Inner Himalayas or the ‘Himadri’. It is the most continuous range consisting of the loftiest peaks.",
+        "hi": "सबसे उत्तरी श्रेणी को हिमाद्रि या महान हिमालय कहा जाता है।"
+      },
+      "key_takeaway": {
+        "en": "Himadri = Great/Inner Himalayas.",
+        "hi": "हिमाद्रि = महान/आंतरिक हिमालय।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "What is the average height of the peaks in the Himadri range?",
+        "hi": "हिमाद्रि श्रेणी की चोटियों की औसत ऊँचाई क्या है?"
+      },
+      "options": {
+        "a": {"en": "6,000 meters", "hi": "6,000 मीटर"},
+        "b": {"en": "3,000 meters", "hi": "3,000 मीटर"},
+        "c": {"en": "1,000 meters", "hi": "1,000 मीटर"},
+        "d": {"en": "8,000 meters", "hi": "8,000 मीटर"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "This range is permanently snow-bound.",
+        "hi": "यह श्रेणी स्थायी रूप से बर्फ से ढकी रहती है।"
+      },
+      "explanation": {
+        "en": "The Himadri is the highest range with an average height of 6,000 meters. It contains all prominent Himalayan peaks.",
+        "hi": "हिमाद्रि श्रेणी की चोटियों की औसत ऊँचाई 6,000 मीटर है।"
+      },
+      "key_takeaway": {
+        "en": "Himadri Avg Height = 6,000m.",
+        "hi": "हिमाद्रि औसत ऊँचाई = 6,000 मीटर।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "The range lying to the south of the Himadri is known as:",
+        "hi": "हिमाद्रि के दक्षिण में स्थित श्रेणी को किस नाम से जाना जाता है?"
+      },
+      "options": {
+        "a": {"en": "Shiwaliks", "hi": "शिवालिक"},
+        "b": {"en": "Himachal (Lesser Himalayas)", "hi": "हिमाचल (निम्न हिमालय)"},
+        "c": {"en": "Himadri", "hi": "हिमाद्रि"},
+        "d": {"en": "Vindhyas", "hi": "विंध्य"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This range is famous for its hill stations like Shimla and Mussoorie.",
+        "hi": "यह श्रेणी शिमला और मसूरी जैसे हिल स्टेशनों के लिए प्रसिद्ध है।"
+      },
+      "explanation": {
+        "en": "The range lying to the south of the Himadri forms the most rugged mountain system and is known as Himachal or lesser Himalaya.",
+        "hi": "हिमाद्रि के दक्षिण में स्थित श्रेणी को हिमाचल या निम्न हिमालय कहा जाता है।"
+      },
+      "key_takeaway": {
+        "en": "Himachal = Lesser Himalayas.",
+        "hi": "हिमाचल = निम्न हिमालय।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "Which is the longest and the most important range of the Himachal Himalayas?",
+        "hi": "हिमाचल हिमालय की सबसे लंबी और सबसे महत्वपूर्ण श्रेणी कौन सी है?"
+      },
+      "options": {
+        "a": {"en": "Dhaola Dhar", "hi": "धौलाधार"},
+        "b": {"en": "Mahabharat", "hi": "महाभारत"},
+        "c": {"en": "Pir Panjal", "hi": "पीर पंजाल"},
+        "d": {"en": "Zanskar", "hi": "जांस्कर"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "It is located in Jammu and Kashmir.",
+        "hi": "यह जम्मू और कश्मीर में स्थित है।"
+      },
+      "explanation": {
+        "en": "The Pir Panjal range forms the longest and the most important range of the Lesser Himalayas (Himachal).",
+        "hi": "पीर पंजाल श्रेणी हिमाचल हिमालय की सबसे लंबी श्रेणी है।"
+      },
+      "key_takeaway": {
+        "en": "Pir Panjal = Longest range of Himachal.",
+        "hi": "पीर पंजाल = हिमाचल की सबसे लंबी श्रेणी।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "The outermost range of the Himalayas is called:",
+        "hi": "हिमालय की सबसे बाहरी श्रेणी को क्या कहा जाता है?"
+      },
+      "options": {
+        "a": {"en": "Himachal", "hi": "हिमाचल"},
+        "b": {"en": "Shiwaliks", "hi": "शिवालिक"},
+        "c": {"en": "Himadri", "hi": "हिमाद्रि"},
+        "d": {"en": "Nilgiris", "hi": "नीलगिरि"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "They are composed of unconsolidated sediments brought down by rivers.",
+        "hi": "वे नदियों द्वारा लाए गए असंगठित अवसादों से बनी हैं।"
+      },
+      "explanation": {
+        "en": "The outermost range of the Himalayas is called the Shiwaliks. They extend over a width of 10-50 km.",
+        "hi": "हिमालय की सबसे बाहरी श्रेणी को शिवालिक कहा जाता है।"
+      },
+      "key_takeaway": {
+        "en": "Shiwaliks = Outermost Himalayan range.",
+        "hi": "शिवालिक = हिमालय की सबसे बाहरी श्रेणी।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "What are the longitudinal valleys lying between Lesser Himalayas and the Shiwaliks called?",
+        "hi": "निम्न हिमालय और शिवालिक के बीच स्थित अनुदैर्ध्य घाटियों (longitudinal valleys) को क्या कहा जाता है?"
+      },
+      "options": {
+        "a": {"en": "Duns", "hi": "दून (Duns)"},
+        "b": {"en": "Passes", "hi": "दर्रे"},
+        "c": {"en": "Bugyals", "hi": "बुग्याल"},
+        "d": {"en": "Terai", "hi": "तराई"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "Dehra, Kotli, and Patli are famous examples.",
+        "hi": "देहरा, कोटली और पाटली इसके प्रसिद्ध उदाहरण हैं।"
+      },
+      "explanation": {
+        "en": "The longitudinal valley lying between lesser Himalaya and the Shiwaliks are known as Duns. Dehradun is the most well-known example.",
+        "hi": "हिमाचल और शिवालिक के बीच की घाटियों को 'दून' कहा जाता है, जैसे देहरादून।"
+      },
+      "key_takeaway": {
+        "en": "Duns = Valleys between Himachal and Shiwaliks.",
+        "hi": "दून = हिमाचल और शिवालिक के बीच की घाटियाँ।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "Which part of the Himalayas is located between the Indus and Satluj rivers?",
+        "hi": "हिमालय का कौन सा भाग सिंधु और सतलुज नदियों के बीच स्थित है?"
+      },
+      "options": {
+        "a": {"en": "Kumaon Himalayas", "hi": "कुमाऊं हिमालय"},
+        "b": {"en": "Nepal Himalayas", "hi": "नेपाल हिमालय"},
+        "c": {"en": "Punjab Himalayas", "hi": "पंजाब हिमालय"},
+        "d": {"en": "Assam Himalayas", "hi": "असम हिमालय"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "It is also known regionally as Kashmir and Himachal Himalayas.",
+        "hi": "इसे क्षेत्रीय रूप से कश्मीर और हिमाचल हिमालय के रूप में भी जाना जाता है।"
+      },
+      "explanation": {
+        "en": "The part of Himalayas lying between Indus and Satluj has been traditionally known as Punjab Himalaya.",
+        "hi": "सिंधु और सतलुज के बीच के भाग को पंजाब हिमालय कहा जाता है।"
+      },
+      "key_takeaway": {
+        "en": "Indus to Satluj = Punjab Himalayas.",
+        "hi": "सिंधु से सतलुज = पंजाब हिमालय।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "The Himalayas bending sharply to the south beyond the Dihang gorge are known as:",
+        "hi": "दिहांग गार्ज के बाद हिमालय दक्षिण की ओर तेजी से मुड़ जाता है, उसे किस नाम से जाना जाता है?"
+      },
+      "options": {
+        "a": {"en": "Himadri", "hi": "हिमाद्रि"},
+        "b": {"en": "Purvanchal", "hi": "पूर्वांचल (Purvanchal)"},
+        "c": {"en": "Shiwaliks", "hi": "शिवालिक"},
+        "d": {"en": "Himachal", "hi": "हिमाचल"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "They run along the eastern boundary of India.",
+        "hi": "वे भारत की पूर्वी सीमा के साथ चलते हैं।"
+      },
+      "explanation": {
+        "en": "Beyond the Dihang gorge, the Himalayas bend sharply to the south and spread along the eastern boundary of India, known as the Purvanchal or Eastern hills.",
+        "hi": "पूर्वोत्तर भारत की इन पहाड़ियों को पूर्वांचल कहा जाता है।"
+      },
+      "key_takeaway": {
+        "en": "Purvanchal = Eastern Himalayas.",
+        "hi": "पूर्वांचल = पूर्वी हिमालय।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "The Northern Plains have been formed by the interplay of which three major river systems?",
+        "hi": "उत्तरी मैदानों का निर्माण किन तीन प्रमुख नदी प्रणालियों के परस्पर क्रिया से हुआ है?"
+      },
+      "options": {
+        "a": {"en": "Indus, Ganga and Brahmaputra", "hi": "सिंधु, गंगा और ब्रह्मपुत्र"},
+        "b": {"en": "Ganga, Yamuna and Saraswati", "hi": "गंगा, यमुना और सरस्वती"},
+        "c": {"en": "Godavari, Krishna and Kaveri", "hi": "गोदावरी, कृष्णा और कावेरी"},
+        "d": {"en": "Narmada, Tapi and Mahi", "hi": "नर्मदा, तापी और माही"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "These rivers bring large amounts of alluvium from the Himalayas.",
+        "hi": "ये नदियाँ हिमालय से बड़ी मात्रा में जलोढ़ लाती हैं।"
+      },
+      "explanation": {
+        "en": "The Northern Plain has been formed by the interplay of the three major river systems, namely — the Indus, the Ganga and the Brahmaputra along with their tributaries.",
+        "hi": "उत्तरी मैदान सिंधु, गंगा और ब्रह्मपुत्र नदी प्रणालियों के जलोढ़ निक्षेपों से बना है।"
+      },
+      "key_takeaway": {
+        "en": "Northern Plains = Indus + Ganga + Brahmaputra.",
+        "hi": "उत्तरी मैदान = सिंधु + गंगा + ब्रह्मपुत्र।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "A narrow belt of about 8 to 16 km in width lying parallel to the slopes of the Shiwaliks, where rivers deposit pebbles, is known as:",
+        "hi": "शिवालिक की ढलानों के समानांतर लगभग 8 से 16 किमी चौड़ी एक संकीर्ण पट्टी, जहाँ नदियाँ कंकड़ जमा करती हैं, उसे क्या कहा जाता है?"
+      },
+      "options": {
+        "a": {"en": "Bhangar", "hi": "भांगर"},
+        "b": {"en": "Khadar", "hi": "खादर"},
+        "c": {"en": "Bhabar", "hi": "भाबर (Bhabar)"},
+        "d": {"en": "Terai", "hi": "तराई"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "All the streams disappear in this belt.",
+        "hi": "इस पट्टी में सभी धाराएँ विलुप्त हो जाती हैं।"
+      },
+      "explanation": {
+        "en": "The rivers, after descending from the mountains, deposit pebbles in a narrow belt called Bhabar. Streams often disappear underground here.",
+        "hi": "नदियों द्वारा पहाड़ों से उतरते समय कंकड़ों के जमाव से बनी पट्टी को भाबर कहते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Bhabar = Pebble belt at foothills.",
+        "hi": "भाबर = तराई क्षेत्र में कंकड़ वाली पट्टी।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "The swampy and marshy region south of the Bhabar belt is known as:",
+        "hi": "भाबर पट्टी के दक्षिण में स्थित दलदली और नम क्षेत्र को क्या कहा जाता है?"
+      },
+      "options": {
+        "a": {"en": "Bhangar", "hi": "भांगर"},
+        "b": {"en": "Terai", "hi": "तराई (Terai)"},
+        "c": {"en": "Khadar", "hi": "खादर"},
+        "d": {"en": "Doab", "hi": "दोआब"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This was once a thickly forested region full of wildlife.",
+        "hi": "यह कभी वन्यजीवों से भरा घना जंगली क्षेत्र था।"
+      },
+      "explanation": {
+        "en": "South of the Bhabar belt, the streams re-emerge and create a wet, swampy, and marshy region known as Terai.",
+        "hi": "भाबर के दक्षिण में नदियों के पुनः प्रकट होने से बना दलदली क्षेत्र तराई कहलाता है।"
+      },
+      "key_takeaway": {
+        "en": "Terai = Swampy region south of Bhabar.",
+        "hi": "तराई = भाबर के दक्षिण का दलदली क्षेत्र।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "What is 'Bhangar'?",
+        "hi": "'भांगर' (Bhangar) क्या है?"
+      },
+      "options": {
+        "a": {"en": "New alluvial soil", "hi": "नई जलोढ़ मिट्टी"},
+        "b": {"en": "Old alluvial soil", "hi": "पुरानी जलोढ़ मिट्टी"},
+        "c": {"en": "Mountain pass", "hi": "पहाड़ी दर्रा"},
+        "d": {"en": "Desert sand", "hi": "रेगिस्तानी रेत"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It contains calcareous deposits locally known as 'kankar'.",
+        "hi": "इसमें स्थानीय रूप से 'कंकड़' कहे जाने वाले कैल्शियम युक्त निक्षेप होते हैं।"
+      },
+      "explanation": {
+        "en": "Bhangar is the older alluvium of the northern plains, lying above the floodplains. It often contains kankar (calcium deposits).",
+        "hi": "उत्तरी मैदान के पुराने जलोढ़ को भांगर कहते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Bhangar = Old Alluvium.",
+        "hi": "भांगर = पुरानी जलोढ़ मिट्टी।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "The newer, younger deposits of the floodplains are called:",
+        "hi": "बाढ़ के मैदानों के नए और युवा निक्षेपों को क्या कहा जाता है?"
+      },
+      "options": {
+        "a": {"en": "Bhangar", "hi": "भांगर"},
+        "b": {"en": "Khadar", "hi": "खादर (Khadar)"},
+        "c": {"en": "Bhabar", "hi": "भाबर"},
+        "d": {"en": "Terai", "hi": "तराई"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "They are renewed almost every year and are very fertile.",
+        "hi": "ये लगभग हर साल नए हो जाते हैं और बहुत उपजाऊ होते हैं।"
+      },
+      "explanation": {
+        "en": "Khadar are the newer, younger deposits of the floodplains. They are very fertile and ideal for intensive agriculture.",
+        "hi": "बाढ़ के मैदानों की नई और उपजाऊ मिट्टी को खादर कहा जाता है।"
+      },
+      "key_takeaway": {
+        "en": "Khadar = New, fertile alluvium.",
+        "hi": "खादर = नई, उपजाऊ जलोढ़ मिट्टी।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "The Peninsular Plateau is divided into two broad divisions. What are they?",
+        "hi": "प्रायद्वीपीय पठार को दो मुख्य भागों में बांटा गया है। वे क्या हैं?"
+      },
+      "options": {
+        "a": {"en": "Himadri and Himachal", "hi": "हिमाद्रि और हिमाचल"},
+        "b": {"en": "Central Highlands and Deccan Plateau", "hi": "मध्य उच्चभूमि और दक्कन का पठार"},
+        "c": {"en": "Western and Eastern Ghats", "hi": "पश्चिमी और पूर्वी घाट"},
+        "d": {"en": "Konkan and Malabar", "hi": "कोंकण और मालाबार"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "One part lies north of the Narmada river, and the other to its south.",
+        "hi": "एक भाग नर्मदा नदी के उत्तर में स्थित है, और दूसरा इसके दक्षिण में।"
+      },
+      "explanation": {
+        "en": "The Peninsular plateau consists of two broad divisions: the Central Highlands (north of Narmada) and the Deccan Plateau (south of Narmada).",
+        "hi": "प्रायद्वीपीय पठार के दो मुख्य भाग मध्य उच्चभूमि और दक्कन का पठार हैं।"
+      },
+      "key_takeaway": {
+        "en": "Peninsular Plateau = Central Highlands + Deccan Plateau.",
+        "hi": "प्रायद्वीपीय पठार = मध्य उच्चभूमि + दक्कन का पठार।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "The black soil area of the Peninsular Plateau is known as:",
+        "hi": "प्रायद्वीपीय पठार के काली मिट्टी वाले क्षेत्र को किस नाम से जाना जाता है?"
+      },
+      "options": {
+        "a": {"en": "Central Highlands", "hi": "मध्य उच्चभूमि"},
+        "b": {"en": "Deccan Trap", "hi": "दक्कन ट्रैप (Deccan Trap)"},
+        "c": {"en": "Chotanagpur Plateau", "hi": "छोटा नागपुर पठार"},
+        "d": {"en": "Malwa Plateau", "hi": "मालवा का पठार"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This region is of volcanic origin.",
+        "hi": "यह क्षेत्र ज्वालामुखी मूल का है।"
+      },
+      "explanation": {
+        "en": "One of the distinct features of the Peninsular plateau is the black soil area known as Deccan Trap. It is of volcanic origin.",
+        "hi": "प्रायद्वीपीय पठार की काली मिट्टी वाले क्षेत्र को दक्कन ट्रैप कहा जाता है।"
+      },
+      "key_takeaway": {
+        "en": "Deccan Trap = Black soil region.",
+        "hi": "दक्कन ट्रैप = काली मिट्टी का क्षेत्र।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "Which is the highest peak in the Western Ghats?",
+        "hi": "पश्चिमी घाट की सबसे ऊँची चोटी कौन सी है?"
+      },
+      "options": {
+        "a": {"en": "Mahendragiri", "hi": "महेन्द्रगिरि"},
+        "b": {"en": "Anaimudi", "hi": "अनाईमुडी (Anaimudi)"},
+        "c": {"en": "Doda Betta", "hi": "डोडा बेटा"},
+        "d": {"en": "Kanchenjunga", "hi": "कंचनजंगा"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Its height is 2,695 meters.",
+        "hi": "इसकी ऊँचाई 2,695 मीटर है।"
+      },
+      "explanation": {
+        "en": "The Western Ghats are higher than the Eastern Ghats. Anaimudi (2,695m) is the highest peak in the Western Ghats.",
+        "hi": "अनाईमुडी पश्चिमी घाट की सबसे ऊँची चोटी है।"
+      },
+      "key_takeaway": {
+        "en": "Highest Peak (Western Ghats) = Anaimudi.",
+        "hi": "सबसे ऊँची चोटी (पश्चिमी घाट) = अनाईमुडी।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "Which is the highest peak in the Eastern Ghats?",
+        "hi": "पूर्वी घाट की सबसे ऊँची चोटी कौन सी है?"
+      },
+      "options": {
+        "a": {"en": "Anai Mudi", "hi": "अनाई मुडी"},
+        "b": {"en": "Mahendragiri", "hi": "महेन्द्रगिरि (Mahendragiri)"},
+        "c": {"en": "Doda Betta", "hi": "डोडा बेटा"},
+        "d": {"en": "Kalsubai", "hi": "कलसूबाई"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Its height is 1,501 meters.",
+        "hi": "इसकी ऊँचाई 1,501 मीटर है।"
+      },
+      "explanation": {
+        "en": "Mahendragiri (1,501 metres) is the highest peak in the Eastern Ghats.",
+        "hi": "महेन्द्रगिरि पूर्वी घाट की सबसे ऊँची चोटी है।"
+      },
+      "key_takeaway": {
+        "en": "Highest Peak (Eastern Ghats) = Mahendragiri.",
+        "hi": "सबसे ऊँची चोटी (पूर्वी घाट) = महेन्द्रगिरि।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "The Indian Desert lies towards the western margins of which hills?",
+        "hi": "भारतीय मरुस्थल किन पहाड़ियों के पश्चिमी किनारे पर स्थित है?"
+      },
+      "options": {
+        "a": {"en": "Aravali Hills", "hi": "अरावली की पहाड़ियाँ"},
+        "b": {"en": "Nilgiri Hills", "hi": "नीलगिरि की पहाड़ियाँ"},
+        "c": {"en": "Satpura Range", "hi": "सतपुड़ा श्रेणी"},
+        "d": {"en": "Vindhya Range", "hi": "विंध्य श्रेणी"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "These are one of the oldest fold mountains in the world.",
+        "hi": "ये दुनिया के सबसे पुराने वलित पर्वतों में से एक हैं।"
+      },
+      "explanation": {
+        "en": "The Indian desert lies towards the western margins of the Aravali Hills. It is an undulating sandy plain covered with sand dunes.",
+        "hi": "भारतीय मरुस्थल अरावली पहाड़ियों के पश्चिम में स्थित है।"
+      },
+      "key_takeaway": {
+        "en": "Thar Desert = West of Aravali Hills.",
+        "hi": "थार मरुस्थल = अरावली के पश्चिम में।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "Which is the only large river in the Indian Desert region?",
+        "hi": "भारतीय मरुस्थल क्षेत्र की एकमात्र बड़ी नदी कौन सी है?"
+      },
+      "options": {
+        "a": {"en": "Narmada", "hi": "नर्मदा"},
+        "b": {"en": "Luni", "hi": "लूनी (Luni)"},
+        "c": {"en": "Tapi", "hi": "तापी"},
+        "d": {"en": "Sabarmati", "hi": "साबरमती"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It flows during the rainy season and often disappears into the sand.",
+        "hi": "यह बरसात के मौसम में बहती है और अक्सर रेत में विलीन हो जाती है।"
+      },
+      "explanation": {
+        "en": "Luni is the only large river in the Indian desert (Thar Desert) region.",
+        "hi": "लूनी मरुस्थल की एकमात्र बड़ी नदी है।"
+      },
+      "key_takeaway": {
+        "en": "Luni = Largest desert river.",
+        "hi": "लूनी = मरुस्थल की सबसे बड़ी नदी।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "What are crescent-shaped sand dunes called?",
+        "hi": "अर्धचंद्राकार रेत के टीलों को क्या कहा जाता है?"
+      },
+      "options": {
+        "a": {"en": "Barchans", "hi": "बरकान (Barchans)"},
+        "b": {"en": "Dunes", "hi": "ड्यून्स"},
+        "c": {"en": "Reefs", "hi": "रीफ"},
+        "d": {"en": "Lagoons", "hi": "लैगून"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "They cover larger areas of the Thar desert, especially near Jaisalmer.",
+        "hi": "वे थार मरुस्थल के बड़े क्षेत्रों को कवर करते हैं, खासकर जैसलमेर के पास।"
+      },
+      "explanation": {
+        "en": "Barchans are crescent-shaped sand dunes that cover large areas of the desert.",
+        "hi": "रेगिस्तान में बनने वाले अर्धचंद्राकार टीलों को बरकान कहते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Barchans = Crescent-shaped dunes.",
+        "hi": "बरकान = अर्धचंद्राकार टीले।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "The northern part of the Western Coastal plain is called:",
+        "hi": "पश्चिमी तटीय मैदान के उत्तरी भाग को क्या कहा जाता है?"
+      },
+      "options": {
+        "a": {"en": "Kannad plain", "hi": "कन्नड़ मैदान"},
+        "b": {"en": "Konkan", "hi": "कोंकण (Konkan)"},
+        "c": {"en": "Malabar coast", "hi": "मालाबार तट"},
+        "d": {"en": "Coromandel coast", "hi": "कोरोमंडल तट"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It includes the coast of Mumbai and Goa.",
+        "hi": "इसमें मुंबई और गोवा का तट शामिल है।"
+      },
+      "explanation": {
+        "en": "The western coast is divided into Konkan (Mumbai-Goa), the Kannad Plain (central), and the Malabar coast (south).",
+        "hi": "पश्चिमी तट के उत्तरी भाग (मुंबई-गोवा) को कोंकण कहते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Konkan = North Western Coast.",
+        "hi": "कोंकण = उत्तर-पश्चिमी तट।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "The southern part of the Eastern Coastal plain is known as:",
+        "hi": "पूर्वी तटीय मैदान के दक्षिणी भाग को किस नाम से जाना जाता है?"
+      },
+      "options": {
+        "a": {"en": "Northern Circar", "hi": "उत्तरी सरकार"},
+        "b": {"en": "Coromandel Coast", "hi": "कोरोमंडल तट (Coromandel Coast)"},
+        "c": {"en": "Konkan", "hi": "कोंकण"},
+        "d": {"en": "Malabar coast", "hi": "मालाबार तट"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The northern part is called Northern Circar.",
+        "hi": "उत्तरी भाग को उत्तरी सरकार कहा जाता है।"
+      },
+      "explanation": {
+        "en": "The Eastern Coastal plain is divided into the Northern Circar (north) and the Coromandel Coast (south).",
+        "hi": "पूर्वी तट के दक्षिणी भाग को कोरोमंडल तट कहा जाता है।"
+      },
+      "key_takeaway": {
+        "en": "Coromandel = South Eastern Coast.",
+        "hi": "कोरोमंडल = दक्षिण-पूर्वी तट।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "Which of these is the largest saltwater lake in India, located in Odisha?",
+        "hi": "ओडिशा में स्थित भारत की सबसे बड़ी खारे पानी की झील कौन सी है?"
+      },
+      "options": {
+        "a": {"en": "Wular Lake", "hi": "वुलर झील"},
+        "b": {"en": "Chilika Lake", "hi": "चिलिका झील (Chilika Lake)"},
+        "c": {"en": "Dal Lake", "hi": "डल झील"},
+        "d": {"en": "Pulicat Lake", "hi": "पुलिकट झील"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It lies to the south of the Mahanadi delta.",
+        "hi": "यह महानदी डेल्टा के दक्षिण में स्थित है।"
+      },
+      "explanation": {
+        "en": "The Chilika Lake is the largest salt water lake in India. It lies in the state of Odisha, south of the Mahanadi delta.",
+        "hi": "चिलिका झील भारत की सबसे बड़ी खारे पानी की झील है।"
+      },
+      "key_takeaway": {
+        "en": "Chilika Lake = Largest salt water lake (Odisha).",
+        "hi": "चिलिका झील = सबसे बड़ी खारे पानी की झील (ओडिशा)।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "Lakshadweep Islands are composed of small ______ islands.",
+        "hi": "लक्षद्वीप समूह छोटे ______ द्वीपों से बना है।"
+      },
+      "options": {
+        "a": {"en": "Volcanic", "hi": "ज्वालामुखी"},
+        "b": {"en": "Coral", "hi": "प्रवाल (Coral)"},
+        "c": {"en": "Sedimentary", "hi": "अवसादी"},
+        "d": {"en": "Riverine", "hi": "नदी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "They are formed from the skeletons of tiny marine organisms.",
+        "hi": "वे नन्हे समुद्री जीवों के कंकालों से बने हैं।"
+      },
+      "explanation": {
+        "en": "Lakshadweep islands are composed of small coral islands. They were earlier known as Laccadive, Minicoy and Amindive.",
+        "hi": "लक्षद्वीप प्रवाल (मूंगा) द्वीपों से बना है।"
+      },
+      "key_takeaway": {
+        "en": "Lakshadweep = Coral Islands.",
+        "hi": "लक्षद्वीप = प्रवाल द्वीप।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "Where is India's only active volcano situated?",
+        "hi": "भारत का एकमात्र सक्रिय ज्वालामुखी कहाँ स्थित है?"
+      },
+      "options": {
+        "a": {"en": "Lakshadweep", "hi": "लक्षद्वीप"},
+        "b": {"en": "Barren Island", "hi": "बैरेन द्वीप (Barren Island)"},
+        "c": {"en": "Nicobar Island", "hi": "निकोबार द्वीप"},
+        "d": {"en": "Pamban Island", "hi": "पंबन द्वीप"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It is part of the Andaman and Nicobar group of islands.",
+        "hi": "यह अंडमान और निकोबार द्वीप समूह का हिस्सा है।"
+      },
+      "explanation": {
+        "en": "India’s only active volcano is found on Barren Island in the Andaman and Nicobar group of Islands.",
+        "hi": "भारत का एकमात्र सक्रिय ज्वालामुखी अंडमान-निकोबार के बैरेन द्वीप पर है।"
+      },
+      "key_takeaway": {
+        "en": "Barren Island = India's only active volcano.",
+        "hi": "बैरेन द्वीप = भारत का एकमात्र सक्रिय ज्वालामुखी।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "The island group of India lying in the Arabian Sea is:",
+        "hi": "अरब सागर में स्थित भारत का द्वीप समूह कौन सा है?"
+      },
+      "options": {
+        "a": {"en": "Andaman and Nicobar", "hi": "अंडमान और निकोबार"},
+        "b": {"en": "Lakshadweep", "hi": "लक्षद्वीप (Lakshadweep)"},
+        "c": {"en": "Sri Lanka", "hi": "श्रीलंका"},
+        "d": {"en": "Maldives", "hi": "मालदीव"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It is close to the Malabar coast of Kerala.",
+        "hi": "यह केरल के मालाबार तट के करीब है।"
+      },
+      "explanation": {
+        "en": "The Lakshadweep Islands are located in the Arabian Sea, while Andaman and Nicobar Islands are in the Bay of Bengal.",
+        "hi": "लक्षद्वीप अरब सागर में है, जबकि अंडमान-निकोबार बंगाल की खाड़ी में है।"
+      },
+      "key_takeaway": {
+        "en": "Arabian Sea = Lakshadweep; Bay of Bengal = Andaman & Nicobar.",
+        "hi": "अरब सागर = लक्षद्वीप; बंगाल की खाड़ी = अंडमान-निकोबार।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "What is a 'Doab'?",
+        "hi": "'दोआब' (Doab) क्या है?"
+      },
+      "options": {
+        "a": {"en": "The meeting point of two oceans", "hi": "दो महासागरों का मिलन स्थल"},
+        "b": {"en": "The land between two rivers", "hi": "दो नदियों के बीच की भूमि"},
+        "c": {"en": "A mountain pass", "hi": "एक पहाड़ी दर्रा"},
+        "d": {"en": "A type of forest", "hi": "एक प्रकार का वन"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "In Persian, 'do' means two and 'ab' means water.",
+        "hi": "फारसी में 'दो' का अर्थ है दो और 'आब' का अर्थ है पानी।"
+      },
+      "explanation": {
+        "en": "A Doab is the land between two rivers. Similarly, ‘Punjab’ is made up of two words — ‘Panj’ meaning five and ‘ab’ meaning water.",
+        "hi": "दो नदियों के बीच की भूमि को दोआब कहा जाता है।"
+      },
+      "key_takeaway": {
+        "en": "Doab = Land between two rivers.",
+        "hi": "दोआब = दो नदियों के बीच की भूमि।"
+      }
+    }
+  ]
+}

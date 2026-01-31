@@ -1,0 +1,794 @@
+{
+  "metadata": {
+    "chapter_number": 2,
+    "chapter_title": "People as Resource",
+    "chapter_title_hindi": "संसाधन के रूप में लोग",
+    "subject": "Economics - Class 9",
+    "board": "CBSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.0",
+    "naming_convention": "09_EC_CH02_PeopleResource_30MCQ.json"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "What does 'People as Resource' refer to?",
+        "hi": "'संसाधन के रूप में लोग' से क्या तात्पर्य है?"
+      },
+      "options": {
+        "a": {"en": "The total population of a country", "hi": "किसी देश की कुल जनसंख्या"},
+        "b": {"en": "A country's working people in terms of their existing productive skills and abilities", "hi": "किसी देश के कामकाजी लोग उनकी मौजूदा उत्पादक कौशल और क्षमताओं के संदर्भ में"},
+        "c": {"en": "The number of children in a country", "hi": "किसी देश में बच्चों की संख्या"},
+        "d": {"en": "People who are not working", "hi": "वे लोग जो काम नहीं कर रहे हैं"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It emphasizes the productive aspect of the population.",
+        "hi": "यह जनसंख्या के उत्पादक पहलू पर जोर देता है।"
+      },
+      "explanation": {
+        "en": "'People as Resource' is a way of referring to a country’s working people in terms of their existing productive skills and abilities.",
+        "hi": "'संसाधन के रूप में लोग' का अर्थ देश की कार्यशील जनसंख्या के कौशल और उनकी क्षमताओं से है।"
+      },
+      "key_takeaway": {
+        "en": "Human Resource = Productive skills of people.",
+        "hi": "मानव संसाधन = लोगों का उत्पादक कौशल।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "When investment is made in the form of education, training, and medical care, the population becomes:",
+        "hi": "जब शिक्षा, प्रशिक्षण और चिकित्सा सेवा के रूप में निवेश किया जाता है, तो जनसंख्या क्या बन जाती है?"
+      },
+      "options": {
+        "a": {"en": "A liability", "hi": "एक दायित्व (बोझ)"},
+        "b": {"en": "Human Capital", "hi": "मानव पूँजी (Human Capital)"},
+        "c": {"en": "Working Capital", "hi": "कार्यशील पूँजी"},
+        "d": {"en": "Fixed Capital", "hi": "स्थायी पूँजी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This is the stock of skill and productive knowledge embodied in them.",
+        "hi": "यह उनमें निहित कौशल और उत्पादक ज्ञान का भंडार है।"
+      },
+      "explanation": {
+        "en": "Human capital is the stock of skill and productive knowledge embodied in people. Investment in humans yields a return just like investment in physical capital.",
+        "hi": "शिक्षा और स्वास्थ्य में निवेश करने पर जनसंख्या 'मानव पूँजी' में बदल जाती है, जो भविष्य में उच्च प्रतिफल देती है।"
+      },
+      "key_takeaway": {
+        "en": "Investment in People = Human Capital Formation.",
+        "hi": "लोगों में निवेश = मानव पूँजी निर्माण।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "Which of the following is an example of a primary sector activity?",
+        "hi": "निम्नलिखित में से कौन सा प्राथमिक क्षेत्र की गतिविधि का उदाहरण है?"
+      },
+      "options": {
+        "a": {"en": "Manufacturing", "hi": "विनिर्माण"},
+        "b": {"en": "Agriculture", "hi": "कृषि (Agriculture)"},
+        "c": {"en": "Banking", "hi": "बैंकिंग"},
+        "d": {"en": "Education", "hi": "शिक्षा"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It involves the direct extraction of natural resources.",
+        "hi": "इसमें प्राकृतिक संसाधनों का प्रत्यक्ष निष्कर्षण शामिल है।"
+      },
+      "explanation": {
+        "en": "Primary sector activities include agriculture, forestry, animal husbandry, fishing, poultry farming, and mining.",
+        "hi": "प्राथमिक क्षेत्र में वे कार्य आते हैं जो सीधे प्रकृति से जुड़े होते हैं, जैसे खेती और पशुपालन।"
+      },
+      "key_takeaway": {
+        "en": "Primary Sector = Nature-based (Agri, Mining).",
+        "hi": "प्राथमिक क्षेत्र = प्रकृति आधारित (कृषि, खनन)।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "Processing of raw materials into finished goods happens in which sector?",
+        "hi": "कच्चे माल को तैयार माल में बदलने की प्रक्रिया किस क्षेत्र में होती है?"
+      },
+      "options": {
+        "a": {"en": "Primary", "hi": "प्राथमिक"},
+        "b": {"en": "Secondary", "hi": "द्वितीयक (Secondary)"},
+        "c": {"en": "Tertiary", "hi": "तृतीयक"},
+        "d": {"en": "Information", "hi": "सूचना"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Manufacturing is the main part of this sector.",
+        "hi": "विनिर्माण इस क्षेत्र का मुख्य हिस्सा है।"
+      },
+      "explanation": {
+        "en": "Manufacturing is included in the secondary sector. It involves transforming raw materials from the primary sector into usable goods.",
+        "hi": "द्वितीयक क्षेत्र में विनिर्माण (फैक्ट्री में सामान बनाना) शामिल है।"
+      },
+      "key_takeaway": {
+        "en": "Secondary Sector = Manufacturing.",
+        "hi": "द्वितीयक क्षेत्र = विनिर्माण।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "Tertiary sector is also known as:",
+        "hi": "तृतीयक क्षेत्र को और किस नाम से जाना जाता है?"
+      },
+      "options": {
+        "a": {"en": "Industrial sector", "hi": "औद्योगिक क्षेत्र"},
+        "b": {"en": "Service sector", "hi": "सेवा क्षेत्र (Service sector)"},
+        "c": {"en": "Agricultural sector", "hi": "कृषि क्षेत्र"},
+        "d": {"en": "Mining sector", "hi": "खनन क्षेत्र"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It provides support services like transport, banking, and education.",
+        "hi": "यह परिवहन, बैंकिंग और शिक्षा जैसी सहायता सेवाएँ प्रदान करता है।"
+      },
+      "explanation": {
+        "en": "The activities in this sector result in the production of services rather than goods. Examples include trade, transport, communication, and health.",
+        "hi": "तृतीयक क्षेत्र सेवाओं का उत्पादन करता है, इसलिए इसे सेवा क्षेत्र भी कहते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Tertiary Sector = Support Services.",
+        "hi": "तृतीयक क्षेत्र = सहायक सेवाएँ।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "Activities that add value to the national income are called:",
+        "hi": "वे गतिविधियाँ जो राष्ट्रीय आय में मूल्य जोड़ती हैं, क्या कहलाती हैं?"
+      },
+      "options": {
+        "a": {"en": "Social activities", "hi": "सामाजिक गतिविधियाँ"},
+        "b": {"en": "Economic activities", "hi": "आर्थिक गतिविधियाँ (Economic activities)"},
+        "c": {"en": "Domestic activities", "hi": "घरेलू गतिविधियाँ"},
+        "d": {"en": "Religious activities", "hi": "धार्मिक गतिविधियाँ"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "These activities involve the production of goods or services for profit or payment.",
+        "hi": "इन गतिविधियों में लाभ या भुगतान के लिए वस्तुओं या सेवाओं का उत्पादन शामिल है।"
+      },
+      "explanation": {
+        "en": "Economic activities have two parts: market activities (performed for pay/profit) and non-market activities (production for self-consumption). Together they contribute to the economy.",
+        "hi": "आर्थिक गतिविधियाँ वे हैं जिनके बदले में पैसे मिलते हैं और जो देश की जीडीपी में जुड़ती हैं।"
+      },
+      "key_takeaway": {
+        "en": "Economic Activity = Production for profit/income.",
+        "hi": "आर्थिक गतिविधि = लाभ/आय के लिए उत्पादन।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "Why is the work of women in the household (like cooking and cleaning) usually not recognized in National Income?",
+        "hi": "घर में महिलाओं के काम (जैसे खाना बनाना और सफाई) को आमतौर पर राष्ट्रीय आय में मान्यता क्यों नहीं दी जाती है?"
+      },
+      "options": {
+        "a": {"en": "Because it is not hard work", "hi": "क्योंकि यह कठिन काम नहीं है"},
+        "b": {"en": "Because it is performed for self-consumption and no payment is made", "hi": "क्योंकि यह स्वयं के उपभोग के लिए किया जाता है और कोई भुगतान नहीं किया जाता है"},
+        "c": {"en": "Because it is not productive", "hi": "क्योंकि यह उत्पादक नहीं है"},
+        "d": {"en": "Because women don't want to be paid", "hi": "क्योंकि महिलाएं भुगतान नहीं चाहती हैं"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Market activities are those that are paid for; household work is often unpaid.",
+        "hi": "बाज़ार की गतिविधियाँ वे हैं जिनका भुगतान किया जाता है; घरेलू काम अक्सर अवैतनिक होता है।"
+      },
+      "explanation": {
+        "en": "Household chores performed by women are non-market activities. Since they are not paid for these services, they are not included in the National Income.",
+        "hi": "घरेलू काम के बदले वेतन नहीं मिलता, इसलिए इसे आर्थिक गतिविधि नहीं माना जाता और यह राष्ट्रीय आय में नहीं जुड़ता।"
+      },
+      "key_takeaway": {
+        "en": "Unpaid Labor = Not part of National Income.",
+        "hi": "अवैतनिक श्रम = राष्ट्रीय आय का हिस्सा नहीं।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "What are the two major determinants of the earnings of any individual in the market?",
+        "hi": "बाज़ार में किसी भी व्यक्ति की कमाई के दो प्रमुख निर्धारक क्या हैं?"
+      },
+      "options": {
+        "a": {"en": "Caste and Religion", "hi": "जाति और धर्म"},
+        "b": {"en": "Education and Skill", "hi": "शिक्षा और कौशल (Education and Skill)"},
+        "c": {"en": "Age and Height", "hi": "आयु और ऊँचाई"},
+        "d": {"en": "Family background and Wealth", "hi": "पारिवारिक पृष्ठभूमि और धन"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Better quality of these lead to higher income.",
+        "hi": "इनकी बेहतर गुणवत्ता से उच्च आय प्राप्त होती है।"
+      },
+      "explanation": {
+        "en": "Education and skill are the major determinants of the earnings of any individual in the market. Education helps an individual make better use of economic opportunities.",
+        "hi": "शिक्षा और कौशल ही तय करते हैं कि कोई व्यक्ति बाज़ार में कितना पैसा कमाएगा।"
+      },
+      "key_takeaway": {
+        "en": "Income Factors = Education + Skills.",
+        "hi": "आय के कारक = शिक्षा + कौशल।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "The quality of population depends upon:",
+        "hi": "जनसंख्या की गुणवत्ता किस पर निर्भर करती है?"
+      },
+      "options": {
+        "a": {"en": "Literacy rate", "hi": "साक्षरता दर"},
+        "b": {"en": "Health of a person", "hi": "व्यक्ति का स्वास्थ्य"},
+        "c": {"en": "Skill formation", "hi": "कौशल निर्माण"},
+        "d": {"en": "All of the above", "hi": "उपरोक्त सभी"}
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "It ultimately decides the growth rate of the country.",
+        "hi": "यह अंततः देश की विकास दर तय करता है।"
+      },
+      "explanation": {
+        "en": "The quality of population is decided by literacy rate, health (life expectancy), and skills acquired by the people. Healthy and educated people are an asset.",
+        "hi": "शिक्षित और स्वस्थ लोग ही देश की गुणवत्ता बढ़ाते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Quality Population = Asset for the country.",
+        "hi": "गुणवत्तापूर्ण जनसंख्या = देश के लिए संपत्ति।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "Which scheme was launched by the government to provide elementary education to all children in the age group of 6-14 years?",
+        "hi": "6-14 वर्ष की आयु के सभी बच्चों को प्रारंभिक शिक्षा प्रदान करने के लिए सरकार द्वारा कौन सी योजना शुरू की गई थी?"
+      },
+      "options": {
+        "a": {"en": "Mid-day Meal", "hi": "मध्याह्न भोजन"},
+        "b": {"en": "Sarva Shiksha Abhiyan", "hi": "सर्व शिक्षा अभियान (SSA)"},
+        "c": {"en": "Integrated Child Development Services", "hi": "एकीकृत बाल विकास सेवाएँ"},
+        "d": {"en": "Beti Bachao Beti Padhao", "hi": "बेटी बचाओ बेटी पढ़ाओ"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It is a significant step towards providing universal elementary education.",
+        "hi": "यह सार्वभौमिक प्रारंभिक शिक्षा प्रदान करने की दिशा में एक महत्वपूर्ण कदम है।"
+      },
+      "explanation": {
+        "en": "Sarva Shiksha Abhiyan is a time-bound initiative of the Central Government, in partnership with states, to achieve universalization of elementary education.",
+        "hi": "सर्व शिक्षा अभियान का उद्देश्य 14 साल तक के सभी बच्चों को प्राथमिक शिक्षा देना है।"
+      },
+      "key_takeaway": {
+        "en": "SSA = Universal elementary education.",
+        "hi": "सर्व शिक्षा अभियान = सार्वभौमिक प्राथमिक शिक्षा।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "Why was the 'Mid-day Meal' scheme implemented in schools?",
+        "hi": "स्कूलों में 'मध्याह्न भोजन' (Mid-day Meal) योजना क्यों लागू की गई थी?"
+      },
+      "options": {
+        "a": {"en": "To give teachers a break", "hi": "शिक्षकों को छुट्टी देने के लिए"},
+        "b": {"en": "To encourage attendance and improve nutritional status of children", "hi": "बच्चों की उपस्थिति को प्रोत्साहित करने और उनकी पोषण स्थिति में सुधार करने के लिए"},
+        "c": {"en": "To reduce the cost of books", "hi": "किताबों की कीमत कम करने के लिए"},
+        "d": {"en": "To provide jobs to farmers", "hi": "किसानों को नौकरी देने के लिए"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It helps poor children who might otherwise come to school hungry.",
+        "hi": "यह उन गरीब बच्चों की मदद करता है जो भूखे पेट स्कूल आ सकते हैं।"
+      },
+      "explanation": {
+        "en": "The mid-day meal scheme has been implemented to encourage attendance and retention of children and improve their nutritional status.",
+        "hi": "दोपहर के भोजन की योजना से बच्चों का स्कूल में नाम लिखाना और उपस्थिति बढ़ी है, साथ ही उनके स्वास्थ्य में सुधार हुआ है।"
+      },
+      "key_takeaway": {
+        "en": "Mid-day Meal = Attendance + Nutrition.",
+        "hi": "मध्याह्न भोजन = उपस्थिति + पोषण।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "What is 'Life Expectancy'?",
+        "hi": "'जीवन प्रत्याशा' (Life Expectancy) क्या है?"
+      },
+      "options": {
+        "a": {"en": "The number of children born in a year", "hi": "एक वर्ष में पैदा हुए बच्चों की संख्या"},
+        "b": {"en": "The average number of years a person is expected to live", "hi": "किसी व्यक्ति के जीवित रहने की अपेक्षित औसत वर्षों की संख्या"},
+        "c": {"en": "The age at which a person starts working", "hi": "वह आयु जिस पर व्यक्ति काम करना शुरू करता है"},
+        "d": {"en": "The total population of a country", "hi": "किसी देश की कुल जनसंख्या"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It is an indicator of the health status of a country.",
+        "hi": "यह किसी देश की स्वास्थ्य स्थिति का सूचक है।"
+      },
+      "explanation": {
+        "en": "Life expectancy is the average period that a person is expected to live. Increase in life expectancy is an indicator of good health facilities.",
+        "hi": "एक व्यक्ति औसतन कितने साल जिएगा, उसे जीवन प्रत्याशा कहते हैं। भारत में यह निरंतर बढ़ रही है।"
+      },
+      "key_takeaway": {
+        "en": "Life Expectancy = Health indicator.",
+        "hi": "जीवन प्रत्याशा = स्वास्थ्य सूचक।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "Infant Mortality Rate (IMR) is the death of a child below the age of:",
+        "hi": "शिशु मृत्यु दर (IMR) किस आयु से कम के बच्चे की मृत्यु है?"
+      },
+      "options": {
+        "a": {"en": "5 years", "hi": "5 वर्ष"},
+        "b": {"en": "1 year", "hi": "1 वर्ष (One year)"},
+        "c": {"en": "2 years", "hi": "2 वर्ष"},
+        "d": {"en": "10 years", "hi": "10 वर्ष"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It measures the quality of healthcare for newborns.",
+        "hi": "यह नवजात शिशुओं के लिए स्वास्थ्य देखभाल की गुणवत्ता को मापता है।"
+      },
+      "explanation": {
+        "en": "Infant mortality rate (IMR) is the death of a child below one year of age.",
+        "hi": "एक वर्ष से कम आयु के बच्चों की मृत्यु दर को शिशु मृत्यु दर कहते हैं।"
+      },
+      "key_takeaway": {
+        "en": "IMR = Death below 1 year.",
+        "hi": "शिशु मृत्यु दर = 1 वर्ष से कम उम्र में मृत्यु।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "The number of deaths per 1,000 people during a specific period of time is called:",
+        "hi": "समय की एक विशिष्ट अवधि के दौरान प्रति 1,000 लोगों पर होने वाली मौतों की संख्या को क्या कहा जाता है?"
+      },
+      "options": {
+        "a": {"en": "Birth Rate", "hi": "जन्म दर"},
+        "b": {"en": "Death Rate", "hi": "मृत्यु दर (Death Rate)"},
+        "c": {"en": "Growth Rate", "hi": "वृद्धि दर"},
+        "d": {"en": "Fertility Rate", "hi": "प्रजनन दर"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It is a basic demographic indicator.",
+        "hi": "यह एक बुनियादी जनसांख्यिकीय सूचक है।"
+      },
+      "explanation": {
+        "en": "Death rate is the number of people per 1,000 who die during a particular period of time.",
+        "hi": "प्रति 1,000 व्यक्तियों पर मरने वालों की संख्या को मृत्यु दर कहते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Death Rate = Deaths per 1000 persons.",
+        "hi": "मृत्यु दर = प्रति 1000 व्यक्तियों पर मृत्यु।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "When a person is willing to work at the going wages but cannot find jobs, it is called:",
+        "hi": "जब कोई व्यक्ति प्रचलित मजदूरी पर काम करने का इच्छुक हो लेकिन उसे काम न मिले, तो उसे क्या कहा जाता है?"
+      },
+      "options": {
+        "a": {"en": "Employment", "hi": "रोजगार"},
+        "b": {"en": "Unemployment", "hi": "बेरोजगारी (Unemployment)"},
+        "c": {"en": "Retirement", "hi": "सेवानिवृत्ति"},
+        "d": {"en": "Child Labor", "hi": "बाल श्रम"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The workforce population includes people from 15 to 59 years.",
+        "hi": "कार्यबल जनसंख्या में 15 से 59 वर्ष के लोग शामिल हैं।"
+      },
+      "explanation": {
+        "en": "Unemployment is said to exist when people who are willing to work at the going wages cannot find jobs. This leads to wastage of manpower resource.",
+        "hi": "प्रचलित मजदूरी पर काम चाहने के बावजूद काम न मिलना बेरोजगारी कहलाता है।"
+      },
+      "key_takeaway": {
+        "en": "Unemployment = Joblessness among willing workers.",
+        "hi": "बेरोजगारी = काम के इच्छुक लोगों के पास काम न होना।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "What type of unemployment is common in rural areas when people do not find jobs during some months of the year?",
+        "hi": "ग्रामीण क्षेत्रों में किस प्रकार की बेरोजगारी आम है जब लोगों को वर्ष के कुछ महीनों के दौरान काम नहीं मिलता है?"
+      },
+      "options": {
+        "a": {"en": "Structural unemployment", "hi": "संरचनात्मक बेरोजगारी"},
+        "b": {"en": "Seasonal unemployment", "hi": "मौसमी बेरोजगारी (Seasonal)"},
+        "c": {"en": "Educated unemployment", "hi": "शिक्षित बेरोजगारी"},
+        "d": {"en": "Frictional unemployment", "hi": "घर्षणात्मक बेरोजगारी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It happens because agriculture depends on specific times for sowing and harvesting.",
+        "hi": "ऐसा इसलिए होता है क्योंकि कृषि बुवाई और कटाई के लिए विशिष्ट समय पर निर्भर करती है।"
+      },
+      "explanation": {
+        "en": "Seasonal unemployment happens when people are not able to find jobs during some months of the year. Agricultural laborers often face this during off-seasons.",
+        "hi": "खेती में साल के कुछ महीनों में बहुत काम होता है और बाकी समय लोग खाली रहते हैं, इसे मौसमी बेरोजगारी कहते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Seasonal Unemployment = Common in Agriculture.",
+        "hi": "मौसमी बेरोजगारी = कृषि में आम।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "What is 'Disguised Unemployment'?",
+        "hi": "'प्रच्छन्न बेरोजगारी' (Disguised Unemployment) क्या है?"
+      },
+      "options": {
+        "a": {"en": "When people are clearly unemployed", "hi": "जब लोग स्पष्ट रूप से बेरोजगार होते हैं"},
+        "b": {"en": "When more people are engaged in a work than required", "hi": "जब किसी काम में आवश्यकता से अधिक लोग लगे होते हैं"},
+        "c": {"en": "When people don't want to work", "hi": "जब लोग काम नहीं करना चाहते"},
+        "d": {"en": "When children are working", "hi": "जब बच्चे काम कर रहे होते हैं"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "If some people are removed, the total production does not decrease.",
+        "hi": "यदि कुछ लोगों को हटा दिया जाए, तो कुल उत्पादन कम नहीं होता है।"
+      },
+      "explanation": {
+        "en": "In disguised unemployment, people appear to be employed but their contribution is zero. For example, 8 people working on a plot where only 5 are needed.",
+        "hi": "जब किसी खेत पर 5 लोगों की जरूरत हो और 8 लोग काम कर रहे हों, तो वे 3 अतिरिक्त लोग प्रच्छन्न रूप से बेरोजगार हैं।"
+      },
+      "key_takeaway": {
+        "en": "Disguised Unemployment = Hidden unemployment (excess labor).",
+        "hi": "प्रच्छन्न बेरोजगारी = छिपी हुई बेरोजगारी (आवश्यकता से अधिक श्रमिक)।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "Which type of unemployment is a peculiar problem of urban India?",
+        "hi": "शहरी भारत में किस प्रकार की बेरोजगारी एक विशेष समस्या है?"
+      },
+      "options": {
+        "a": {"en": "Seasonal unemployment", "hi": "मौसमी बेरोजगारी"},
+        "b": {"en": "Educated unemployment", "hi": "शिक्षित बेरोजगारी (Educated)"},
+        "c": {"en": "Disguised unemployment", "hi": "प्रच्छन्न बेरोजगारी"},
+        "d": {"en": "Technological unemployment", "hi": "तकनीकी बेरोजगारी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Many youth with matriculation, graduation, and post-graduation degrees are unable to find jobs.",
+        "hi": "मैट्रिक, स्नातक और स्नातकोत्तर डिग्री वाले कई युवा काम पाने में असमर्थ हैं।"
+      },
+      "explanation": {
+        "en": "In urban areas, educated unemployment is common. Many degree holders are jobless, representing a great wastage of human resources.",
+        "hi": "शहरों में डिग्री होने के बावजूद नौकरी न मिलना 'शिक्षित बेरोजगारी' कहलाता है।"
+      },
+      "key_takeaway": {
+        "en": "Urban Unemployment = Mainly educated youth.",
+        "hi": "शहरी बेरोजगारी = मुख्य रूप से शिक्षित युवा।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "A 'Virtuous Cycle' of human development is created when:",
+        "hi": "मानव विकास का एक 'प्रभावी चक्र' (Virtuous Cycle) तब बनता है जब:"
+      },
+      "options": {
+        "a": {"en": "Parents ignore their children's health", "hi": "माता-पिता अपने बच्चों के स्वास्थ्य की अनदेखी करते हैं"},
+        "b": {"en": "Educated and healthy parents invest more in their children's education and health", "hi": "शिक्षित और स्वस्थ माता-पिता अपने बच्चों की शिक्षा और स्वास्थ्य में अधिक निवेश करते हैं"},
+        "c": {"en": "The population increases rapidly", "hi": "जनसंख्या तेजी से बढ़ती है"},
+        "d": {"en": "People stop going to schools", "hi": "लोग स्कूल जाना बंद कर देते हैं"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Good investment in one generation leads to a better next generation.",
+        "hi": "एक पीढ़ी में अच्छा निवेश अगली पीढ़ी को बेहतर बनाता है।"
+      },
+      "explanation": {
+        "en": "Educated parents realize the value of education and health, so they invest in their children, creating a virtuous cycle of development.",
+        "hi": "शिक्षित माता-पिता अपने बच्चों की शिक्षा पर ध्यान देते हैं, जिससे एक सकारात्मक चक्र बन जाता है।"
+      },
+      "key_takeaway": {
+        "en": "Virtuous Cycle = Continuous human capital investment.",
+        "hi": "प्रभावी चक्र = निरंतर मानव पूँजी निवेश।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "What is the result of high rates of unemployment in an economy?",
+        "hi": "एक अर्थव्यवस्था में बेरोजगारी की उच्च दर का क्या परिणाम होता है?"
+      },
+      "options": {
+        "a": {"en": "Increase in economic growth", "hi": "आर्थिक विकास में वृद्धि"},
+        "b": {"en": "Wastage of manpower resource and increase in economic overload", "hi": "जनशक्ति संसाधन की बर्बादी और आर्थिक बोझ में वृद्धि"},
+        "c": {"en": "Improvement in quality of life", "hi": "जीवन की गुणवत्ता में सुधार"},
+        "d": {"en": "Reduction in crime", "hi": "अपराध में कमी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It turns an asset into a liability.",
+        "hi": "यह एक संपत्ति को दायित्व (बोझ) में बदल देता है।"
+      },
+      "explanation": {
+        "en": "Unemployment leads to wastage of manpower and increases the dependence of the unemployed on the working population (economic overload).",
+        "hi": "बेरोजगारी से मानव संसाधनों की बर्बादी होती है और काम करने वाले लोगों पर बोझ बढ़ जाता है।"
+      },
+      "key_takeaway": {
+        "en": "High Unemployment = Economic liability.",
+        "hi": "उच्च बेरोजगारी = आर्थिक बोझ।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "The workforce population in India includes people of which age group?",
+        "hi": "भारत में कार्यबल जनसंख्या में किस आयु वर्ग के लोग शामिल हैं?"
+      },
+      "options": {
+        "a": {"en": "5 to 14 years", "hi": "5 से 14 वर्ष"},
+        "b": {"en": "15 to 59 years", "hi": "15 से 59 वर्ष (15-59 years)"},
+        "c": {"en": "18 to 60 years", "hi": "18 से 60 वर्ष"},
+        "d": {"en": "21 to 65 years", "hi": "21 से 65 वर्ष"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "People below or above this range are generally not considered part of the active labor market.",
+        "hi": "इस सीमा से नीचे या ऊपर के लोगों को आमतौर पर सक्रिय श्रम बाज़ार का हिस्सा नहीं माना जाता है।"
+      },
+      "explanation": {
+        "en": "Workforce population includes people from 15 years to 59 years. Children below 15 and elderly above 60 are not counted in the labor force.",
+        "hi": "15 से 59 साल के लोगों को कार्यबल माना जाता है जो काम करने के लायक होते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Workforce Age = 15-59 years.",
+        "hi": "कार्यबल की आयु = 15-59 वर्ष।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "Which country is a well-known example of having limited natural resources but high human capital?",
+        "hi": "सीमित प्राकृतिक संसाधनों लेकिन उच्च मानव पूँजी होने का एक प्रसिद्ध उदाहरण कौन सा देश है?"
+      },
+      "options": {
+        "a": {"en": "India", "hi": "भारत"},
+        "b": {"en": "Japan", "hi": "जापान (Japan)"},
+        "c": {"en": "Brazil", "hi": "ब्राजील"},
+        "d": {"en": "Russia", "hi": "रूस"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "They invested heavily in the education and health of their people.",
+        "hi": "उन्होंने अपने लोगों की शिक्षा और स्वास्थ्य में भारी निवेश किया।"
+      },
+      "explanation": {
+        "en": "Japan has almost no natural resources. They became a rich and developed country by investing in human resources (education and health).",
+        "hi": "जापान के पास खनिज नहीं हैं, फिर भी उसने अपने लोगों को शिक्षित और कुशल बनाकर खुद को विकसित बनाया।"
+      },
+      "key_takeaway": {
+        "en": "Japan = Development through Human Capital.",
+        "hi": "जापान = मानव पूँजी के माध्यम से विकास।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "Health of a person helps him to realize his ________ and ability to fight illness.",
+        "hi": "व्यक्ति का स्वास्थ्य उसे उसके ________ और बीमारी से लड़ने की क्षमता को पहचानने में मदद करता है।"
+      },
+      "options": {
+        "a": {"en": "Wealth", "hi": "धन"},
+        "b": {"en": "Potential", "hi": "संभाव्यता/क्षमता (Potential)"},
+        "c": {"en": "Shortcomings", "hi": "कमियाँ"},
+        "d": {"en": "Enemies", "hi": "शत्रु"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "An unhealthy person becomes a liability for an organization.",
+        "hi": "एक अस्वस्थ व्यक्ति किसी संगठन के लिए बोझ बन जाता है।"
+      },
+      "explanation": {
+        "en": "The health of a person helps him to realize his potential and his ability to fight illness. It is an indispensable basis for realizing one’s well-being.",
+        "hi": "स्वस्थ व्यक्ति ही अपनी पूरी क्षमता का उपयोग कर सकता है, अन्यथा वह देश पर बोझ होगा।"
+      },
+      "key_takeaway": {
+        "en": "Health = Prerequisite for productivity.",
+        "hi": "स्वास्थ्य = उत्पादकता के लिए अनिवार्य शर्त।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "The National Health Policy of India aims at improving the accessibility of health care, especially for:",
+        "hi": "भारत की राष्ट्रीय स्वास्थ्य नीति का उद्देश्य स्वास्थ्य देखभाल की सुलभता में सुधार करना है, विशेष रूप से किसके लिए?"
+      },
+      "options": {
+        "a": {"en": "Rich urban people", "hi": "धनी शहरी लोग"},
+        "b": {"en": "Underprivileged sections of society", "hi": "समाज के वंचित वर्ग"},
+        "c": {"en": "Government employees only", "hi": "केवल सरकारी कर्मचारी"},
+        "d": {"en": "Foreign tourists", "hi": "विदेशी पर्यटक"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It focuses on primary health care in rural and remote areas.",
+        "hi": "यह ग्रामीण और दूरदराज के क्षेत्रों में प्राथमिक स्वास्थ्य देखभाल पर केंद्रित है।"
+      },
+      "explanation": {
+        "en": "Our national policy aims at improving the accessibility of health care, family welfare, and nutritional services, with a special focus on the underprivileged segments of the population.",
+        "hi": "स्वास्थ्य नीति का मुख्य लक्ष्य गरीबों और पिछड़ों तक इलाज पहुँचाना है।"
+      },
+      "key_takeaway": {
+        "en": "Health Policy Focus = Underprivileged sections.",
+        "hi": "स्वास्थ्य नीति का फोकस = वंचित वर्ग।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "Why does unemployment have a 'detrimental impact' on the overall growth of an economy?",
+        "hi": "अर्थव्यवस्था के समग्र विकास पर बेरोजगारी का 'हानिकारक प्रभाव' क्यों पड़ता है?"
+      },
+      "options": {
+        "a": {"en": "Because it increases national income", "hi": "क्योंकि इससे राष्ट्रीय आय बढ़ती है"},
+        "b": {"en": "Because it is an indicator of a depressed economy", "hi": "क्योंकि यह एक सुस्त अर्थव्यवस्था का सूचक है"},
+        "c": {"en": "Because people save more money", "hi": "क्योंकि लोग अधिक पैसा बचाते हैं"},
+        "d": {"en": "Because it helps in starting new businesses", "hi": "क्योंकि यह नए व्यवसाय शुरू करने में मदद करता है"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Increase in unemployment shows that the economy is not working well.",
+        "hi": "बेरोजगारी में वृद्धि दर्शाती है कि अर्थव्यवस्था अच्छी तरह से काम नहीं कर रही है।"
+      },
+      "explanation": {
+        "en": "Increase in unemployment is an indicator of a depressed economy. It also wastes the resource which could have been gainfully employed.",
+        "hi": "बेरोजगारी बढ़ने का मतलब है कि देश अपनी जनशक्ति का सही उपयोग नहीं कर पा रहा है, जो अर्थव्यवस्था के लिए बुरा है।"
+      },
+      "key_takeaway": {
+        "en": "Unemployment = Indicator of economic depression.",
+        "hi": "बेरोजगारी = आर्थिक मंदी का सूचक।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "What is the primary reason for low literacy rates among females compared to males in India?",
+        "hi": "भारत में पुरुषों की तुलना में महिलाओं में कम साक्षरता दर का प्राथमिक कारण क्या है?"
+      },
+      "options": {
+        "a": {"en": "Lack of schools", "hi": "स्कूलों की कमी"},
+        "b": {"en": "Historical and social discrimination", "hi": "ऐतिहासिक और सामाजिक भेदभाव"},
+        "c": {"en": "Women do not want to study", "hi": "महिलाएं पढ़ना नहीं चाहतीं"},
+        "d": {"en": "There is no difference", "hi": "कोई अंतर नहीं है"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Gender inequality in education is rooted in traditional beliefs.",
+        "hi": "शिक्षा में लैंगिक असमानता पारंपरिक मान्यताओं में निहित है।"
+      },
+      "explanation": {
+        "en": "Historically, women have been denied equal economic and educational opportunities. Social norms often prioritized male education over females.",
+        "hi": "सामाजिक भेदभाव के कारण महिलाओं को पुरुषों के बराबर पढ़ने के मौके नहीं मिले।"
+      },
+      "key_takeaway": {
+        "en": "Literacy Gap = Result of social inequality.",
+        "hi": "साक्षरता अंतराल = सामाजिक असमानता का परिणाम।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "Which of these is a result of a 'Vicious Cycle' (Opposite of Virtuous)?",
+        "hi": "इनमें से कौन 'दुष्चक्र' (Vicious Cycle) का परिणाम है?"
+      },
+      "options": {
+        "a": {"en": "Healthy children in school", "hi": "स्कूल में स्वस्थ बच्चे"},
+        "b": {"en": "Illiterate parents keeping their children also illiterate and disadvantaged", "hi": "अनपढ़ माता-पिता का अपने बच्चों को भी अनपढ़ और वंचित रखना"},
+        "c": {"en": "Increase in investment", "hi": "निवेश में वृद्धि"},
+        "d": {"en": "High economic growth", "hi": "उच्च आर्थिक विकास"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Disadvantage in one generation is passed on to the next.",
+        "hi": "एक पीढ़ी का नुकसान अगली पीढ़ी को हस्तांतरित कर दिया जाता है।"
+      },
+      "explanation": {
+        "en": "A vicious cycle may be created by disadvantaged parents who, themselves uneducated and lacking hygiene, keep their children in a similarly disadvantaged state.",
+        "hi": "जब अनपढ़ और गरीब माता-पिता अपने बच्चों को भी नहीं पढ़ा पाते, तो गरीबी का एक दुष्चक्र बन जाता है।"
+      },
+      "key_takeaway": {
+        "en": "Vicious Cycle = Poverty/Illiteracy passing down generations.",
+        "hi": "दुष्चक्र = गरीबी/निरक्षरता का पीढ़ी दर पीढ़ी चलना।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "Economic activities like trade and transport contribute to:",
+        "hi": "व्यापार और परिवहन जैसी आर्थिक गतिविधियाँ किसमें योगदान देती हैं?"
+      },
+      "options": {
+        "a": {"en": "National Income (GDP)", "hi": "राष्ट्रीय आय (जीडीपी)"},
+        "b": {"en": "Environmental pollution only", "hi": "केवल पर्यावरण प्रदूषण"},
+        "c": {"en": "Loss to the government", "hi": "सरकार को नुकसान"},
+        "d": {"en": "Reduction in services", "hi": "सेवाओं में कमी"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "These activities involve the flow of money and services.",
+        "hi": "इन गतिविधियों में धन और सेवाओं का प्रवाह शामिल है।"
+      },
+      "explanation": {
+        "en": "Economic activities contribute to the value of national income. They help the economy grow by creating jobs and moving goods/services.",
+        "hi": "व्यापार और सेवाओं से देश की कमाई (राष्ट्रीय आय) बढ़ती है।"
+      },
+      "key_takeaway": {
+        "en": "Tertiary Activities = Value addition to economy.",
+        "hi": "तृतीयक गतिविधियाँ = अर्थव्यवस्था में मूल्य वृद्धि।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "Which of the following is a symptom of 'disguised unemployment' in a family farm?",
+        "hi": "पारिवारिक खेत में 'प्रच्छन्न बेरोजगारी' का लक्षण निम्नलिखित में से कौन सा है?"
+      },
+      "options": {
+        "a": {"en": "Everyone is working, but no one is fully employed", "hi": "हर कोई काम कर रहा है, लेकिन कोई भी पूरी तरह से नियोजित नहीं है"},
+        "b": {"en": "Half of the members are sleeping in the field", "hi": "आधे सदस्य खेत में सो रहे हैं"},
+        "c": {"en": "The crops are failing", "hi": "फसलें खराब हो रही हैं"},
+        "d": {"en": "The family has no land", "hi": "परिवार के पास कोई जमीन नहीं है"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "Work is shared, but individual effort is not fully utilized.",
+        "hi": "काम साझा किया जाता है, लेकिन व्यक्तिगत प्रयास का पूरी तरह से उपयोग नहीं किया जाता है।"
+      },
+      "explanation": {
+        "en": "In disguised unemployment, work is shared among family members, but the actual productivity of each person is less than their potential because there are too many workers.",
+        "hi": "प्रच्छन्न बेरोजगारी में लोग काम करते तो दिखते हैं, पर उनकी जरूरत नहीं होती।"
+      },
+      "key_takeaway": {
+        "en": "Disguised Unemployment = Hidden surplus labor.",
+        "hi": "प्रच्छन्न बेरोजगारी = छिपा हुआ अतिरिक्त श्रम।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "A large population of a country can be turned into a 'productive asset' by:",
+        "hi": "किसी देश की बड़ी जनसंख्या को 'उत्पादक संपत्ति' में बदला जा सकता है:"
+      },
+      "options": {
+        "a": {"en": "Providing them more food only", "hi": "केवल उन्हें अधिक भोजन देकर"},
+        "b": {"en": "Investing in human capital (Education/Health)", "hi": "मानव पूँजी (शिक्षा/स्वास्थ्य) में निवेश करके"},
+        "c": {"en": "Asking them to stay at home", "hi": "उन्हें घर पर रहने के लिए कहकर"},
+        "d": {"en": "Reducing the number of schools", "hi": "स्कूलों की संख्या कम करके"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Investment in skills makes people more useful for the economy.",
+        "hi": "कौशल में निवेश लोगों को अर्थव्यवस्था के लिए अधिक उपयोगी बनाता है।"
+      },
+      "explanation": {
+        "en": "A large population is not always a liability. It can be turned into an asset through investment in human capital like education, health, and vocational training.",
+        "hi": "बड़ी आबादी बोझ नहीं है, अगर हम उन्हें पढ़ाएँ-लिखाएँ और उनके स्वास्थ्य पर ध्यान दें।"
+      },
+      "key_takeaway": {
+        "en": "Human Capital = Turning population into an asset.",
+        "hi": "मानव पूँजी = जनसंख्या को संपत्ति में बदलना।"
+      }
+    }
+  ]
+}

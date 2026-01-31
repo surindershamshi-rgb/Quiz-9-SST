@@ -1,0 +1,794 @@
+{
+  "metadata": {
+    "chapter_number": 5,
+    "chapter_title": "Natural Vegetation and Wildlife",
+    "chapter_title_hindi": "प्राकृतिक वनस्पति तथा वन्य प्राणी",
+    "subject": "Geography - Class 9",
+    "board": "CBSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.0",
+    "naming_convention": "09_GE_CH05_NatVegWildlife_30MCQ.json"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "What is the vegetation which has grown naturally without human aid and has been left undisturbed by humans for a long time called?",
+        "hi": "वह वनस्पति जो मनुष्य की सहायता के बिना अपने आप पैदा होती है और लंबे समय तक उस पर मानवीय प्रभाव नहीं पड़ता, उसे क्या कहते हैं?"
+      },
+      "options": {
+        "a": {"en": "Cultivated crops", "hi": "लगाई गई फसलें"},
+        "b": {"en": "Virgin Vegetation", "hi": "अक्षत वनस्पति (Virgin Vegetation)"},
+        "c": {"en": "Orchards", "hi": "बागान"},
+        "d": {"en": "Horticulture", "hi": "बागवानी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It is purely natural vegetation.",
+        "hi": "यह पूरी तरह से प्राकृतिक वनस्पति है।"
+      },
+      "explanation": {
+        "en": "Virgin vegetation refers to a plant community which has grown naturally without human aid and has been left undisturbed by humans for a long time.",
+        "hi": "अक्षत वनस्पति वह है जो बिना मानवीय हस्तक्षेप के प्राकृतिक रूप से विकसित होती है।"
+      },
+      "key_takeaway": {
+        "en": "Virgin Vegetation = Purely natural, no human aid.",
+        "hi": "अक्षत वनस्पति = पूर्णतः प्राकृतिक, कोई मानवीय सहायता नहीं।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "Plants that are native to a specific country are known as:",
+        "hi": "वे पौधे जो किसी विशेष देश के मूल निवासी होते हैं, उन्हें क्या कहा जाता है?"
+      },
+      "options": {
+        "a": {"en": "Exotic plants", "hi": "विदेशी पौधे"},
+        "b": {"en": "Endemic species", "hi": "देशज प्रजातियाँ (Endemic)"},
+        "c": {"en": "Migratory plants", "hi": "प्रवासी पौधे"},
+        "d": {"en": "Global plants", "hi": "वैश्विक पौधे"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "They are also called indigenous species.",
+        "hi": "इन्हें स्वदेशी प्रजातियां भी कहा जाता है।"
+      },
+      "explanation": {
+        "en": "The virgin vegetation which are purely Indian are known as endemic or indigenous species but those which have come from outside India are termed as exotic plants.",
+        "hi": "शुद्ध रूप से भारतीय वनस्पति को देशज या स्वदेशी प्रजातियाँ कहा जाता है।"
+      },
+      "key_takeaway": {
+        "en": "Endemic = Native; Exotic = From outside.",
+        "hi": "देशज = मूल निवासी; विदेशी = बाहर से आए हुए।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "Which of the following factors does NOT affect the diversity of flora and fauna?",
+        "hi": "निम्नलिखित में से कौन सा कारक वनस्पति और जीव-जंतुओं की विविधता को प्रभावित नहीं करता है?"
+      },
+      "options": {
+        "a": {"en": "Land and Soil", "hi": "भूमि और मिट्टी"},
+        "b": {"en": "Temperature and Sunlight", "hi": "तापमान और सूर्य का प्रकाश"},
+        "c": {"en": "Precipitation", "hi": "वर्षण"},
+        "d": {"en": "Time Zone", "hi": "समय क्षेत्र"}
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "The main factors are relief and climate.",
+        "hi": "मुख्य कारक धरातल और जलवायु हैं।"
+      },
+      "explanation": {
+        "en": "The diversity in flora and fauna is due to variations in land, soil, temperature, photoperiod (sunlight), and precipitation. Time zones have no impact on biological diversity.",
+        "hi": "धरातल और जलवायु के कारकों से विविधता आती है; समय क्षेत्र का इस पर कोई प्रभाव नहीं पड़ता।"
+      },
+      "key_takeaway": {
+        "en": "Biodiversity Factors = Relief (Land, Soil) + Climate (Temp, Light, Rain).",
+        "hi": "जैव विविधता के कारक = धरातल (भूमि, मिट्टी) + जलवायु (ताप, प्रकाश, वर्षा)।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "Tropical Evergreen forests are found in areas receiving more than ______ cm of rainfall.",
+        "hi": "उष्णकटिबंधीय सदाबहार वन उन क्षेत्रों में पाए जाते हैं जहाँ ______ सेमी से अधिक वर्षा होती है।"
+      },
+      "options": {
+        "a": {"en": "70 cm", "hi": "70 सेमी"},
+        "b": {"en": "100 cm", "hi": "100 सेमी"},
+        "c": {"en": "200 cm", "hi": "200 सेमी (200 cm)"},
+        "d": {"en": "50 cm", "hi": "50 सेमी"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "These forests are also called rain forests.",
+        "hi": "इन वनों को वर्षा वन भी कहा जाता है।"
+      },
+      "explanation": {
+        "en": "Tropical Evergreen forests are restricted to heavy rainfall areas with more than 200 cm of rainfall and a short dry season.",
+        "hi": "उष्णकटिबंधीय सदाबहार वन 200 सेमी से अधिक वर्षा वाले क्षेत्रों में पाए जाते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Evergreen Forest = >200 cm rain.",
+        "hi": "सदाबहार वन = >200 सेमी वर्षा।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "Which of the following trees is a characteristic species of Tropical Evergreen forests?",
+        "hi": "निम्नलिखित में के कौन सा वृक्ष उष्णकटिबंधीय सदाबहार वनों की एक विशिष्ट प्रजाति है?"
+      },
+      "options": {
+        "a": {"en": "Ebony", "hi": "आबनूस (Ebony)"},
+        "b": {"en": "Teak", "hi": "सागौन"},
+        "c": {"en": "Peepal", "hi": "पीपल"},
+        "d": {"en": "Babool", "hi": "बबूल"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "Other examples include Rosewood, Mahogany, and Rubber.",
+        "hi": "अन्य उदाहरणों में रोज़वुड, महोगनी और रबर शामिल हैं।"
+      },
+      "explanation": {
+        "en": "Commercially important trees of Tropical Evergreen forests are ebony, mahogany, rosewood, rubber, and cinchona.",
+        "hi": "आबनूस, महोगनी और रोज़वुड सदाबहार वनों के मुख्य वृक्ष हैं।"
+      },
+      "key_takeaway": {
+        "en": "Evergreen Trees = Ebony, Mahogany, Rosewood.",
+        "hi": "सदाबहार वृक्ष = आबनूस, महोगनी, रोज़वुड।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "Which forests are the most widespread forests of India?",
+        "hi": "भारत में सबसे बड़े क्षेत्र में फैले हुए वन कौन से हैं?"
+      },
+      "options": {
+        "a": {"en": "Tropical Evergreen Forests", "hi": "उष्णकटिबंधीय सदाबहार वन"},
+        "b": {"en": "Tropical Deciduous Forests", "hi": "उष्णकटिबंधीय पर्णपाती वन (Deciduous)"},
+        "c": {"en": "Mangrove Forests", "hi": "मैंग्रोव वन"},
+        "d": {"en": "Montane Forests", "hi": "पर्वतीय वन"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "They are also called monsoon forests.",
+        "hi": "इन्हें मानसून वन भी कहा जाता है।"
+      },
+      "explanation": {
+        "en": "Tropical Deciduous forests are the most widespread forests of India. They are spread over regions receiving rainfall between 200 cm and 70 cm.",
+        "hi": "उष्णकटिबंधीय पर्णपाती वन भारत के सबसे व्यापक वन हैं।"
+      },
+      "key_takeaway": {
+        "en": "Deciduous Forest = Most widespread in India.",
+        "hi": "पर्णपाती वन = भारत में सर्वाधिक विस्तृत।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "Trees of Tropical Deciduous forests shed their leaves for about _________ in dry summer.",
+        "hi": "उष्णकटिबंधीय पर्णपाती वनों के वृक्ष शुष्क ग्रीष्म ऋतु में लगभग _________ के लिए अपनी पत्तियाँ गिरा देते हैं।"
+      },
+      "options": {
+        "a": {"en": "2 to 4 weeks", "hi": "2 से 4 सप्ताह"},
+        "b": {"en": "6 to 8 weeks", "hi": "6 से 8 सप्ताह (6 to 8 weeks)"},
+        "c": {"en": "6 months", "hi": "6 महीने"},
+        "d": {"en": "10 to 12 weeks", "hi": "10 से 12 सप्ताह"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This is a strategy to conserve water during the dry season.",
+        "hi": "शुष्क मौसम में पानी बचाने के लिए यह उनकी एक रणनीति है।"
+      },
+      "explanation": {
+        "en": "Trees of the deciduous forest type shed their leaves for about six to eight weeks in dry summer to reduce transpiration.",
+        "hi": "पर्णपाती वन के वृक्ष गर्मियों में 6 से 8 सप्ताह के लिए अपनी पत्तियाँ गिरा देते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Leaf Shedding = 6-8 weeks (Deciduous feature).",
+        "hi": "पत्तियाँ गिराना = 6-8 सप्ताह (पर्णपाती वनों की विशेषता)।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "Which tree is the most dominant species of Tropical Deciduous forests?",
+        "hi": "उष्णकटिबंधीय पर्णपाती वनों की सबसे प्रमुख प्रजाति कौन सी है?"
+      },
+      "options": {
+        "a": {"en": "Rubber", "hi": "रबर"},
+        "b": {"en": "Teak", "hi": "सागौन (Teak)"},
+        "c": {"en": "Coconut", "hi": "नारियल"},
+        "d": {"en": "Pine", "hi": "चीड़"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It is highly valued for its timber.",
+        "hi": "इसकी लकड़ी बहुत मूल्यवान मानी जाती है।"
+      },
+      "explanation": {
+        "en": "Teak is the most dominant species of this forest. Bamboos, sal, shisham, sandalwood, and khair are other commercially important species.",
+        "hi": "सागौन इन वनों की सबसे महत्वपूर्ण प्रजाति है।"
+      },
+      "key_takeaway": {
+        "en": "Teak = Main Deciduous tree.",
+        "hi": "सागौन = मुख्य पर्णपाती वृक्ष।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "Thorn forests and scrubs are found in regions with less than ______ cm of rainfall.",
+        "hi": "कंटीले वन तथा झाड़ियाँ उन क्षेत्रों में पाए जाते हैं जहाँ ______ सेमी से कम वर्षा होती है।"
+      },
+      "options": {
+        "a": {"en": "100 cm", "hi": "100 सेमी"},
+        "b": {"en": "70 cm", "hi": "70 सेमी (70 cm)"},
+        "c": {"en": "150 cm", "hi": "150 सेमी"},
+        "d": {"en": "200 cm", "hi": "200 सेमी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This vegetation is found in the northwestern part of India.",
+        "hi": "यह वनस्पति भारत के उत्तर-पश्चिमी भाग में पाई जाती है।"
+      },
+      "explanation": {
+        "en": "In regions with less than 70 cm of rainfall, the natural vegetation consists of thorny trees and bushes.",
+        "hi": "70 सेमी से कम वर्षा वाले क्षेत्रों में कंटीले वन पाए जाते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Thorn Forest = <70 cm rain.",
+        "hi": "कंटीले वन = <70 सेमी वर्षा।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "Which of the following is a characteristic feature of trees in thorn forests?",
+        "hi": "कंटीले वनों के वृक्षों की विशिष्ट विशेषता क्या है?"
+      },
+      "options": {
+        "a": {"en": "Broad leaves", "hi": "चौड़ी पत्तियाँ"},
+        "b": {"en": "Long roots penetrating deep into the soil", "hi": "मिट्टी में गहराई तक जाने वाली लंबी जड़ें"},
+        "c": {"en": "Thin barks", "hi": "पतली छाल"},
+        "d": {"en": "Breathing roots", "hi": "श्वसन जड़ें"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This helps them find water in arid regions.",
+        "hi": "यह उन्हें शुष्क क्षेत्रों में पानी खोजने में मदद करता है।"
+      },
+      "explanation": {
+        "en": "Trees are scattered and have long roots penetrating deep into the soil in order to get moisture. The leaves are mostly small to minimize evaporation.",
+        "hi": "कंटीले वनों के वृक्षों की जड़ें लंबी होती हैं ताकि वे गहराई से नमी प्राप्त कर सकें।"
+      },
+      "key_takeaway": {
+        "en": "Thorn Trees = Long roots, small leaves.",
+        "hi": "कंटीले वृक्ष = लंबी जड़ें, छोटी पत्तियाँ।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "In mountainous areas, the decrease in temperature with increasing altitude leads to:",
+        "hi": "पर्वतीय क्षेत्रों में ऊंचाई बढ़ने के साथ तापमान में कमी के कारण क्या होता है?"
+      },
+      "options": {
+        "a": {"en": "Uniform vegetation", "hi": "एकसमान वनस्पति"},
+        "b": {"en": "Succession of natural vegetation belts", "hi": "प्राकृतिक वनस्पति पेटियों का अनुक्रम (Succession)"},
+        "c": {"en": "Disappearance of all plants", "hi": "सभी पौधों का लुप्त होना"},
+        "d": {"en": "Growth of desert plants", "hi": "मरुस्थलीय पौधों की वृद्धि"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "As you go higher, the type of forest changes.",
+        "hi": "जैसे-जैसे आप ऊपर जाते हैं, वनों का प्रकार बदलता जाता है।"
+      },
+      "explanation": {
+        "en": "The decrease in temperature with increasing altitude leads to the corresponding change in natural vegetation. There is a succession of natural vegetation belts in the same order as we see from the tropical to the tundra region.",
+        "hi": "ऊंचाई के साथ तापमान घटने से वनस्पति के प्रकारों में बदलाव आता है।"
+      },
+      "key_takeaway": {
+        "en": "Montane Vegetation = Changes with altitude.",
+        "hi": "पर्वतीय वनस्पति = ऊंचाई के साथ बदलती है।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "Which trees are commonly found in the wet temperate type of forests at an altitude of 1000 to 2000 meters?",
+        "hi": "1000 से 2000 मीटर की ऊंचाई पर आर्द्र शीतोष्ण प्रकार के वनों में कौन से वृक्ष मुख्य रूप से पाए जाते हैं?"
+      },
+      "options": {
+        "a": {"en": "Silver fir", "hi": "सिल्वर फर"},
+        "b": {"en": "Oaks and Chestnuts", "hi": "ओक और चेस्टनट (Oaks and Chestnuts)"},
+        "c": {"en": "Teak and Sal", "hi": "सागौन और साल"},
+        "d": {"en": "Palm and Bamboo", "hi": "ताड़ और बाँस"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "They are broad-leaf evergreen trees.",
+        "hi": "वे चौड़ी पत्ती वाले सदाबहार वृक्ष हैं।"
+      },
+      "explanation": {
+        "en": "Between a height of 1000 and 2000 metres, wet temperate type of forests are found. Evergreen broad-leaf trees, such as oaks and chestnuts, predominate.",
+        "hi": "1000-2000 मीटर की ऊंचाई पर ओक और चेस्टनट जैसे चौड़ी पत्ती वाले वृक्ष पाए जाते हैं।"
+      },
+      "key_takeaway": {
+        "en": "1000-2000m = Oaks and Chestnuts.",
+        "hi": "1000-2000 मीटर = ओक और चेस्टनट।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "Which of the following are coniferous trees found at high altitudes (1500-3000m)?",
+        "hi": "निम्नलिखित में से कौन से शंकुधारी वृक्ष अधिक ऊंचाई (1500-3000 मीटर) पर पाए जाते हैं?"
+      },
+      "options": {
+        "a": {"en": "Pine, Deodar, Silver fir", "hi": "चीड़, देवदार, सिल्वर फर (Pine, Deodar)"},
+        "b": {"en": "Rubber and Cinchona", "hi": "रबर और सिनकोना"},
+        "c": {"en": "Banyan and Peepal", "hi": "बरगद और पीपल"},
+        "d": {"en": "Acacia and Cactus", "hi": "बबूल और नागफनी"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "They are needle-leaved trees.",
+        "hi": "वे सुई जैसी पत्तियों वाले पेड़ हैं।"
+      },
+      "explanation": {
+        "en": "Between 1500 and 3000 metres, temperate forests containing coniferous trees like pine, deodar, silver fir, spruce and cedar, are found.",
+        "hi": "1500-3000 मीटर की ऊंचाई पर चीड़, देवदार और सिल्वर फर जैसे शंकुधारी वन पाए जाते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Coniferous Forest = 1500-3000m altitude.",
+        "hi": "शंकुधारी वन = 1500-3000 मीटर की ऊंचाई।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "What type of vegetation is found at high altitudes, generally more than 3,600 meters above sea level?",
+        "hi": "समुद्र तल से 3,600 मीटर से अधिक की ऊंचाई पर किस प्रकार की वनस्पति पाई जाती है?"
+      },
+      "options": {
+        "a": {"en": "Tropical Rainforest", "hi": "उष्णकटिबंधीय वर्षावन"},
+        "b": {"en": "Alpine vegetation", "hi": "अल्पाइन वनस्पति (Alpine)"},
+        "c": {"en": "Mangroves", "hi": "मैंग्रोव"},
+        "d": {"en": "Deciduous forest", "hi": "पर्णपाती वन"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Common trees include silver fir, junipers, pines, and birches.",
+        "hi": "सामान्य वृक्षों में सिल्वर फर, जूनिपर, पाइन और बर्च शामिल हैं।"
+      },
+      "explanation": {
+        "en": "At high altitudes, generally more than 3,600 metres above sea-level, temperate forests and grasslands give way to the Alpine vegetation.",
+        "hi": "3,600 मीटर से अधिक की ऊंचाई पर अल्पाइन वनस्पति पाई जाती है।"
+      },
+      "key_takeaway": {
+        "en": "Alpine Vegetation = >3600m altitude.",
+        "hi": "अल्पाइन वनस्पति = >3600 मीटर की ऊंचाई।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "Which of these forests are found in the delta regions of rivers and can survive in saline water?",
+        "hi": "इनमें से कौन से वन नदियों के डेल्टा क्षेत्रों में पाए जाते हैं और खारे पानी में जीवित रह सकते हैं?"
+      },
+      "options": {
+        "a": {"en": "Thorn forests", "hi": "कंटीले वन"},
+        "b": {"en": "Mangrove forests", "hi": "मैंग्रोव वन (Mangrove)"},
+        "c": {"en": "Evergreen forests", "hi": "सदाबहार वन"},
+        "d": {"en": "Montane forests", "hi": "पर्वतीय वन"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "They are also known as tidal forests.",
+        "hi": "इन्हें ज्वारीय वन भी कहा जाता है।"
+      },
+      "explanation": {
+        "en": "The mangrove tidal forests are found in the areas of coasts influenced by tides. Mud and silt get accumulated on such coasts. Dense mangroves are the common varieties with roots of the plants submerged under water.",
+        "hi": "मैंग्रोव वन तटवर्ती क्षेत्रों में पाए जाते हैं जहाँ ज्वार-भाटा आता है।"
+      },
+      "key_takeaway": {
+        "en": "Mangroves = Saline water, Delta regions.",
+        "hi": "मैंग्रोव = खारा पानी, डेल्टा क्षेत्र।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "The Sundari trees are famous in which delta region?",
+        "hi": "सुंदरी वृक्ष किस डेल्टा क्षेत्र में प्रसिद्ध हैं?"
+      },
+      "options": {
+        "a": {"en": "Mahanadi Delta", "hi": "महानदी डेल्टा"},
+        "b": {"en": "Ganga-Brahmaputra Delta", "hi": "गंगा-ब्रह्मपुत्र डेल्टा (Sundarban)"},
+        "c": {"en": "Godavari Delta", "hi": "गोदावरी डेल्टा"},
+        "d": {"en": "Kaveri Delta", "hi": "कावेरी डेल्टा"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "They provide durable hard timber.",
+        "hi": "वे टिकाऊ कठोर लकड़ी प्रदान करते हैं।"
+      },
+      "explanation": {
+        "en": "In the Ganga-Brahmaputra delta, Sundari trees are found, which provide durable hard timber. This region is also known as the Sundarbans.",
+        "hi": "गंगा-ब्रह्मपुत्र डेल्टा में सुंदरी वृक्ष पाए जाते हैं, जिसके कारण इसे सुंदरवन कहा जाता है।"
+      },
+      "key_takeaway": {
+        "en": "Sundari Trees = Ganga-Brahmaputra (Sundarban) delta.",
+        "hi": "सुंदरी वृक्ष = गंगा-ब्रह्मपुत्र (सुंदरवन) डेल्टा।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "Which medicinal plant is used to treat blood pressure and is found only in India?",
+        "hi": "किस औषधीय पौधे का उपयोग रक्तचाप के इलाज के लिए किया जाता है और यह केवल भारत में पाया जाता है?"
+      },
+      "options": {
+        "a": {"en": "Neem", "hi": "नीम"},
+        "b": {"en": "Sarpagandha", "hi": "सर्पगंधा (Sarpagandha)"},
+        "c": {"en": "Tulsi", "hi": "तुलसी"},
+        "d": {"en": "Babool", "hi": "बबूल"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Its name is related to its snake-like roots.",
+        "hi": "इसका नाम इसकी सांप जैसी जड़ों से संबंधित है।"
+      },
+      "explanation": {
+        "en": "Sarpagandha is used to treat blood pressure and it is found only in India.",
+        "hi": "सर्पगंधा का उपयोग रक्तचाप के उपचार में होता है और यह केवल भारत में पाया जाता है।"
+      },
+      "key_takeaway": {
+        "en": "Sarpagandha = For Blood Pressure.",
+        "hi": "सर्पगंधा = रक्तचाप के लिए।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "How many species of animals does India approximately possess?",
+        "hi": "भारत में जानवरों की लगभग कितनी प्रजातियाँ पाई जाती हैं?"
+      },
+      "options": {
+        "a": {"en": "50,000", "hi": "50,000"},
+        "b": {"en": "90,000", "hi": "90,000"},
+        "c": {"en": "1,200", "hi": "1,200"},
+        "d": {"en": "10,000", "hi": "10,000"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "India is one of the 12 mega bio-diversity countries of the world.",
+        "hi": "भारत विश्व के 12 मुख्य जैव विविधता वाले देशों में से एक है।"
+      },
+      "explanation": {
+        "en": "India has approximately 90,000 animal species, as well as about 2,000 species of birds.",
+        "hi": "भारत में लगभग 90,000 जानवरों की प्रजातियाँ पाई जाती हैं।"
+      },
+      "key_takeaway": {
+        "en": "Animal Species in India = ~90,000.",
+        "hi": "भारत में जंतु प्रजातियाँ = ~90,000।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "The elephants are found in the hot wet forests of:",
+        "hi": "हाथी किन राज्यों के गर्म और आर्द्र वनों में पाए जाते हैं?"
+      },
+      "options": {
+        "a": {"en": "Rajasthan and Gujarat", "hi": "राजस्थान और गुजरात"},
+        "b": {"en": "Assam, Karnataka and Kerala", "hi": "असम, कर्नाटक और केरल (Assam, Kerala)"},
+        "c": {"en": "Punjab and Haryana", "hi": "पंजाब और हरियाणा"},
+        "d": {"en": "Jammu and Kashmir", "hi": "जम्मू और कश्मीर"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "These states have heavy rainfall and dense forests.",
+        "hi": "इन राज्यों में भारी वर्षा और घने वन होते हैं।"
+      },
+      "explanation": {
+        "en": "Elephants are the most majestic animals among the mammals. They are found in the hot wet forests of Assam, Karnataka and Kerala.",
+        "hi": "हाथी मुख्य रूप से असम, कर्नाटक और केरल के वर्षा वनों में पाए जाते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Elephants = Assam, Karnataka, Kerala.",
+        "hi": "हाथी = असम, कर्नाटक, केरल।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "Where is the natural habitat of the Indian Lion?",
+        "hi": "भारतीय शेर का प्राकृतिक आवास कहाँ है?"
+      },
+      "options": {
+        "a": {"en": "Sundarbans in West Bengal", "hi": "पश्चिम बंगाल के सुंदरवन"},
+        "b": {"en": "Gir Forest in Gujarat", "hi": "गुजरात का गिर वन (Gir Forest)"},
+        "c": {"en": "Kaziranga in Assam", "hi": "असम का काजीरंगा"},
+        "d": {"en": "Nilgiris in Tamil Nadu", "hi": "तमिलनाडु के नीलगिरि"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "India is the only country in the world that has both tigers and lions.",
+        "hi": "भारत विश्व का एकमात्र देश है जहाँ बाघ और शेर दोनों पाए जाते हैं।"
+      },
+      "explanation": {
+        "en": "The Gir Forest in Gujarat is the last remaining habitat of the Asiatic lion.",
+        "hi": "गुजरात का गिर जंगल एशियाई शेरों का अंतिम बचा हुआ प्राकृतिक आवास है।"
+      },
+      "key_takeaway": {
+        "en": "Indian Lion = Gir Forest, Gujarat.",
+        "hi": "भारतीय शेर = गिर वन, गुजरात।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "Which animal is found in the swampy and marshy lands of Assam and West Bengal?",
+        "hi": "असम और पश्चिम बंगाल के दलदली क्षेत्रों में कौन सा जानवर पाया जाता है?"
+      },
+      "options": {
+        "a": {"en": "Tiger", "hi": "बाघ"},
+        "b": {"en": "One-horned rhinoceros", "hi": "एक सींग वाला गेंडा (Rhinoceros)"},
+        "c": {"en": "Lion", "hi": "शेर"},
+        "d": {"en": "Camel", "hi": "ऊंट"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Kaziranga National Park is famous for this animal.",
+        "hi": "काजीरंगा नेशनल पार्क इस जानवर के लिए प्रसिद्ध है।"
+      },
+      "explanation": {
+        "en": "One-horned rhinoceroses are the other animals, which live in swampy and marshy lands of Assam and West Bengal.",
+        "hi": "एक सींग वाले गेंडे असम और पश्चिम बंगाल के दलदली इलाकों में रहते हैं।"
+      },
+      "key_takeaway": {
+        "en": "One-horned Rhino = Assam and West Bengal.",
+        "hi": "एक सींग वाला गेंडा = असम और पश्चिम बंगाल।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "The natural habitat of tigers in India is:",
+        "hi": "भारत में बाघों का प्राकृतिक आवास कहाँ है?"
+      },
+      "options": {
+        "a": {"en": "Deserts of Rajasthan", "hi": "राजस्थान के मरुस्थल"},
+        "b": {"en": "Madhya Pradesh, Sundarbans and Himalayas", "hi": "मध्य प्रदेश, सुंदरवन और हिमालय (MP, Sundarbans)"},
+        "c": {"en": "High peaks of Ladakh", "hi": "लद्दाख की ऊंची चोटियाँ"},
+        "d": {"en": "Islands of Lakshadweep", "hi": "लक्षद्वीप के द्वीप"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "They are found in different types of forests across the country.",
+        "hi": "वे देश भर में विभिन्न प्रकार के वनों में पाए जाते हैं।"
+      },
+      "explanation": {
+        "en": "Tigers are found in the forests of Madhya Pradesh, the Sundarbans of West Bengal and the Himalayan region.",
+        "hi": "बाघ मुख्य रूप से मध्य प्रदेश के जंगलों, सुंदरवन और हिमालयी क्षेत्रों में पाए जाते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Tigers = Widespread (MP, Bengal, Himalayas).",
+        "hi": "बाघ = विस्तृत आवास (मप्र, बंगाल, हिमालय)।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "Which of the following animals is found in the freezing high altitudes of Ladakh?",
+        "hi": "निम्नलिखित में से कौन सा जानवर लद्दाख की अत्यधिक ठंडी ऊंचाई पर पाया जाता है?"
+      },
+      "options": {
+        "a": {"en": "Elephant", "hi": "हाथी"},
+        "b": {"en": "Yak", "hi": "याक (Yak)"},
+        "c": {"en": "Rhino", "hi": "गेंडा"},
+        "d": {"en": "Lion", "hi": "शेर"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It is a shaggy-horned wild ox weighing around one tonne.",
+        "hi": "यह एक टन वजन वाला जंगली बैल है जिसके शरीर पर घने बाल होते हैं।"
+      },
+      "explanation": {
+        "en": "Ladakh’s freezing high altitudes are a home to yak, the shaggy horned wild ox weighing around one tonne, the Tibetan antelope, and the bharal (blue sheep).",
+        "hi": "लद्दाख के ठंडे पहाड़ों में याक, तिब्बती बारहसिंगा और भारल पाए जाते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Ladakh Wildlife = Yak, Snow Leopard, Tibetan Antelope.",
+        "hi": "लद्दाख के वन्यजीव = याक, हिम तेंदुआ, तिब्बती बारहसिंगा।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "Every year, during winter, which birds migrate to India, particularly to the Rann of Kachchh?",
+        "hi": "हर साल सर्दियों के दौरान कौन से पक्षी भारत, विशेष रूप से कच्छ के रण में प्रवास करते हैं?"
+      },
+      "options": {
+        "a": {"en": "Peacocks", "hi": "मोर"},
+        "b": {"en": "Siberian Cranes", "hi": "साइबेरियाई सारस"},
+        "c": {"en": "Flamingos", "hi": "फ्लेमिंगो (Flamingos)"},
+        "d": {"en": "Parrots", "hi": "तोते"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "They build nest mounds out of salty mud to lay eggs.",
+        "hi": "वे अंडे देने के लिए खारी मिट्टी से घोंसले के ढेर बनाते हैं।"
+      },
+      "explanation": {
+        "en": "Flamingos are among the many birds that migrate to India. In the Rann of Kachchh, they come in thousands to build nest mounds and raise their young ones.",
+        "hi": "फ्लेमिंगो सर्दियों में कच्छ के रण में हजारों की संख्या में आते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Flamingos = Migratory birds in Rann of Kachchh.",
+        "hi": "फ्लेमिंगो = कच्छ के रण में प्रवासी पक्षी।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "How many bio-reserve centers have been set up by the government in India to protect flora and fauna?",
+        "hi": "वनस्पति और जीव-जंतुओं की सुरक्षा के लिए भारत सरकार द्वारा कितने जीवमंडल निचय (Bio-reserve) स्थापित किए गए हैं?"
+      },
+      "options": {
+        "a": {"en": "10", "hi": "10"},
+        "b": {"en": "18", "hi": "18 (Eighteen)"},
+        "c": {"en": "25", "hi": "25"},
+        "d": {"en": "50", "hi": "50"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Ten of these are part of the World Network of Biosphere Reserves.",
+        "hi": "इनमें से दस विश्व जीवमंडल निचय नेटवर्क का हिस्सा हैं।"
+      },
+      "explanation": {
+        "en": "Eighteen biosphere reserves have been set up in the country to protect flora and fauna. Out of these, ten have been included in the world network of biosphere reserves.",
+        "hi": "भारत में 18 जीवमंडल निचय स्थापित किए गए हैं।"
+      },
+      "key_takeaway": {
+        "en": "Biosphere Reserves in India = 18.",
+        "hi": "भारत में जीवमंडल निचय = 18।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "Which of the following is NOT a biosphere reserve of India?",
+        "hi": "निम्नलिखित में से कौन सा भारत का जीवमंडल निचय (Biosphere Reserve) नहीं है?"
+      },
+      "options": {
+        "a": {"en": "Nilgiri", "hi": "नीलगिरि"},
+        "b": {"en": "Nanda Devi", "hi": "नंदा देवी"},
+        "c": {"en": "Kaziranga", "hi": "काजीरंगा (National Park)"},
+        "d": {"en": "Panchmarhi", "hi": "पंचमढ़ी"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "It is a National Park, but not one of the 18 Biosphere Reserves.",
+        "hi": "यह एक राष्ट्रीय उद्यान है, लेकिन 18 जीवमंडल निचयों में से एक नहीं है।"
+      },
+      "explanation": {
+        "en": "While Kaziranga is a famous National Park, it is not listed among the 18 official Biosphere Reserves like Nilgiri, Nanda Devi, or Sundarbans.",
+        "hi": "काजीरंगा राष्ट्रीय उद्यान है, जीवमंडल निचय नहीं।"
+      },
+      "key_takeaway": {
+        "en": "Biosphere Examples = Nilgiri, Nanda Devi, Sundarbans, Simlipal.",
+        "hi": "जीवमंडल निचय के उदाहरण = नीलगिरि, नंदा देवी, सुंदरवन।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "What is the main cause of the threat to nature and the extinction of species in India?",
+        "hi": "भारत में प्रकृति के लिए खतरे और प्रजातियों के विलुप्त होने का मुख्य कारण क्या है?"
+      },
+      "options": {
+        "a": {"en": "Bird watching", "hi": "पक्षियों को देखना"},
+        "b": {"en": "Hunting and Pollution", "hi": "शिकार और प्रदूषण (Hunting, Pollution)"},
+        "c": {"en": "Planting trees", "hi": "पेड़ लगाना"},
+        "d": {"en": "Creating national parks", "hi": "राष्ट्रीय उद्यान बनाना"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Commercial activities and chemical waste are major problems.",
+        "hi": "व्यावसायिक गतिविधियाँ और रासायनिक कचरा प्रमुख समस्याएँ हैं।"
+      },
+      "explanation": {
+        "en": "The main threats to nature are greed of human beings for commercial purposes (hunting) and pollution due to chemical and industrial waste, acid deposits, and introduction of alien species.",
+        "hi": "व्यावसायिक उद्देश्यों के लिए शिकार और औद्योगिक प्रदूषण प्रकृति के लिए सबसे बड़े खतरे हैं।"
+      },
+      "key_takeaway": {
+        "en": "Threats to Nature = Hunting, Pollution, Deforestation.",
+        "hi": "प्रकृति के लिए खतरे = शिकार, प्रदूषण, वनों की कटाई।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "The project launched to protect the endangered national animal of India is called:",
+        "hi": "भारत के लुप्तप्राय राष्ट्रीय पशु की रक्षा के लिए शुरू किए गए प्रोजेक्ट को क्या कहा जाता है?"
+      },
+      "options": {
+        "a": {"en": "Project Elephant", "hi": "प्रोजेक्ट एलिफेंट"},
+        "b": {"en": "Project Tiger", "hi": "प्रोजेक्ट टाइगर (Project Tiger)"},
+        "c": {"en": "Project Lion", "hi": "प्रोजेक्ट लायन"},
+        "d": {"en": "Project Rhino", "hi": "प्रोजेक्ट राइनो"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It was launched in 1973 to save the tiger population.",
+        "hi": "बाघों की आबादी को बचाने के लिए इसे 1973 में शुरू किया गया था।"
+      },
+      "explanation": {
+        "en": "Project Tiger was one of the many eco-developmental projects introduced by the government to protect endangered species.",
+        "hi": "प्रोजेक्ट टाइगर भारत सरकार द्वारा बाघों के संरक्षण के लिए शुरू की गई योजना है।"
+      },
+      "key_takeaway": {
+        "en": "Project Tiger = Conservation of Tigers.",
+        "hi": "प्रोजेक्ट टाइगर = बाघों का संरक्षण।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "Which of the following is the first Biosphere Reserve set up in India (1986)?",
+        "hi": "1986 में भारत में स्थापित पहला जीवमंडल निचय (Biosphere Reserve) कौन सा है?"
+      },
+      "options": {
+        "a": {"en": "Sundarbans", "hi": "सुंदरवन"},
+        "b": {"en": "Nilgiri", "hi": "नीलगिरि (Nilgiri)"},
+        "c": {"en": "Nanda Devi", "hi": "नंदा देवी"},
+        "d": {"en": "Gulf of Mannar", "hi": "मन्नार की खाड़ी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It is located at the junction of Karnataka, Kerala, and Tamil Nadu.",
+        "hi": "यह कर्नाटक, केरल और तमिलनाडु के संगम पर स्थित है।"
+      },
+      "explanation": {
+        "en": "The Nilgiri Biosphere Reserve was the first one to be established in India in 1986.",
+        "hi": "नीलगिरि भारत का पहला जीवमंडल निचय था जिसे 1986 में स्थापित किया गया था।"
+      },
+      "key_takeaway": {
+        "en": "First Biosphere Reserve = Nilgiri.",
+        "hi": "पहला जीवमंडल निचय = नीलगिरि।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "India is the only country in the world that has both ________ and ________.",
+        "hi": "भारत विश्व का एकमात्र देश है जहाँ ________ और ________ दोनों पाए जाते हैं।"
+      },
+      "options": {
+        "a": {"en": "Elephants and Rhinos", "hi": "हाथी और गेंडे"},
+        "b": {"en": "Tigers and Lions", "hi": "बाघ और शेर (Tigers and Lions)"},
+        "c": {"en": "Yaks and Camels", "hi": "याक और ऊंट"},
+        "d": {"en": "Peacocks and Parrots", "hi": "मोर और तोते"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This makes India unique in terms of its wildlife diversity.",
+        "hi": "यह वन्यजीव विविधता के मामले में भारत को अद्वितीय बनाता है।"
+      },
+      "explanation": {
+        "en": "India is the only country in the world that has both tigers and lions. The natural habitat of the Indian lion is the Gir forest in Gujarat and Tigers are found in various forests across India.",
+        "hi": "भारत एकमात्र ऐसा देश है जहाँ बाघ और शेर दोनों अपने प्राकृतिक आवास में पाए जाते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Wildlife Uniqueness = Both Lions and Tigers in India.",
+        "hi": "वन्यजीव विशिष्टता = भारत में शेर और बाघ दोनों का पाया जाना।"
+      }
+    }
+  ]
+}

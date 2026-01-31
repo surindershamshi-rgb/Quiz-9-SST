@@ -1,0 +1,127 @@
+{
+  "metadata": {
+    "quiz_title": "Class 9 History - Final Mega-Quiz",
+    "quiz_title_hindi": "कक्षा 9 इतिहास - फाइनल मेगा-क्विज़",
+    "chapters_covered": [1, 2, 3, 4, 5],
+    "total_questions": 30,
+    "subject": "History - Class 9",
+    "version": "1.0",
+    "naming_convention": "09_HI_MEGA_History_30MCQ.json"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "chapter_ref": "Ch 1: French Revolution",
+      "question": {
+        "en": "Which document was adopted by the National Assembly in 1789 to guarantee individual rights?",
+        "hi": "व्यक्तिगत अधिकारों की गारंटी देने के लिए 1789 में नेशनल असेंबली द्वारा कौन सा दस्तावेज अपनाया गया था?"
+      },
+      "options": {
+        "a": {"en": "The Social Contract", "hi": "द सोशल कॉन्ट्रैक्ट"},
+        "b": {"en": "Declaration of the Rights of Man and Citizen", "hi": "पुरुष एवं नागरिक अधिकार घोषणापत्र"},
+        "c": {"en": "The Communist Manifesto", "hi": "कम्युनिस्ट मेनिफेस्टो"},
+        "d": {"en": "Magna Carta", "hi": "मैग्ना कार्टा"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Adopted in 1789, this document established rights such as liberty, property, and security as natural and inalienable.",
+        "hi": "1789 में अपनाया गया यह दस्तावेज स्वतंत्रता, संपत्ति और सुरक्षा जैसे अधिकारों को प्राकृतिक और अहस्तांतरणीय घोषित करता था।"
+      }
+    },
+    {
+      "question_id": 2,
+      "chapter_ref": "Ch 1: French Revolution",
+      "question": {
+        "en": "Who were the 'Jacobins'?",
+        "hi": "'जैकोबिन' (Jacobins) कौन थे?"
+      },
+      "options": {
+        "a": {"en": "A group of wealthy nobles", "hi": "धनी कुलीनों का एक समूह"},
+        "b": {"en": "A radical political club during the French Revolution", "hi": "फ्रांसीसी क्रांति के दौरान एक कट्टरपंथी राजनीतिक क्लब"},
+        "c": {"en": "Soldiers of the King", "hi": "राजा के सैनिक"},
+        "d": {"en": "Foreign invaders", "hi": "विदेशी आक्रमणकारी"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The Jacobins were the most famous and radical political club, led by Maximilian Robespierre.",
+        "hi": "जैकोबिन सबसे प्रसिद्ध और कट्टरपंथी राजनीतिक क्लब था, जिसका नेतृत्व मैक्सिमिलियन रोबेस्पिएर ने किया था।"
+      }
+    },
+    {
+      "question_id": 7,
+      "chapter_ref": "Ch 2: Russian Revolution",
+      "question": {
+        "en": "Who was the leader of the Bolshevik party during the Russian Revolution?",
+        "hi": "रूसी क्रांति के दौरान बोल्शेविक पार्टी का नेता कौन था?"
+      },
+      "options": {
+        "a": {"en": "Karl Marx", "hi": "कार्ल मार्क्स"},
+        "b": {"en": "Vladimir Lenin", "hi": "व्लादिमीर लेनिन"},
+        "c": {"en": "Joseph Stalin", "hi": "जोसेफ स्टालिन"},
+        "d": {"en": "Tsar Nicholas II", "hi": "ज़ार निकोलस II"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Lenin returned from exile and led the Bolsheviks to power in the October Revolution of 1917.",
+        "hi": "लेनिन ने निर्वासन से लौटने के बाद 1917 की अक्टूबर क्रांति में बोल्शेविकों का नेतृत्व किया।"
+      }
+    },
+    {
+      "question_id": 13,
+      "chapter_ref": "Ch 3: Nazism and the Rise of Hitler",
+      "question": {
+        "en": "What was the name of the German Parliament?",
+        "hi": "जर्मन संसद का नाम क्या था?"
+      },
+      "options": {
+        "a": {"en": "Duma", "hi": "ड्यूमा"},
+        "b": {"en": "Reichstag", "hi": "राइखस्टाग (Reichstag)"},
+        "c": {"en": "Congress", "hi": "कांग्रेस"},
+        "d": {"en": "Estate General", "hi": "एस्टेट जनरल"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The Reichstag was the German Parliament which Hitler later dismantled after coming to power.",
+        "hi": "राइखस्टाग जर्मन संसद थी जिसे बाद में हिटलर ने सत्ता में आने के बाद खत्म कर दिया था।"
+      }
+    },
+    {
+      "question_id": 19,
+      "chapter_ref": "Ch 4: Forest Society and Colonialism",
+      "question": {
+        "en": "Who led the Saminist movement in Java against the Dutch?",
+        "hi": "जावा में डच के खिलाफ सामिनवादी (Saminist) आंदोलन का नेतृत्व किसने किया?"
+      },
+      "options": {
+        "a": {"en": "Gunda Dhur", "hi": "गुंडा धुर"},
+        "b": {"en": "Surontiko Samin", "hi": "सुरोंटिको सामिन"},
+        "c": {"en": "Dietrich Brandis", "hi": "डयोट्रिच ब्रैंडिस"},
+        "d": {"en": "Birsa Munda", "hi": "बिरसा मुंडा"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Surontiko Samin challenged Dutch forest ownership by arguing that the state did not create the wind or wood.",
+        "hi": "सुरोंटिको सामिन ने डच वन स्वामित्व को यह कहते हुए चुनौती दी कि राज्य ने हवा या लकड़ी नहीं बनाई है।"
+      }
+    },
+    {
+      "question_id": 25,
+      "chapter_ref": "Ch 5: Pastoralists in the Modern World",
+      "question": {
+        "en": "Which community of Rajasthan herds camels?",
+        "hi": "राजस्थान का कौन सा समुदाय ऊंट पालता है?"
+      },
+      "options": {
+        "a": {"en": "Gaddi", "hi": "गद्दी"},
+        "b": {"en": "Dhangar", "hi": "धनगर"},
+        "c": {"en": "Raikas", "hi": "रायका"},
+        "d": {"en": "Maasai", "hi": "मसाई"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "The Raikas of Rajasthan live in the Thar desert; the group called Maru Raikas specifically herds camels.",
+        "hi": "राजस्थान के रायका थार रेगिस्तान में रहते हैं; मारू रायका नामक समूह विशेष रूप से ऊंट पालता है।"
+      }
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "metadata": {
+    "quiz_title": "Class 9 Economics - Final Mega-Quiz",
+    "quiz_title_hindi": "कक्षा 9 अर्थशास्त्र - फाइनल मेगा-क्विज़",
+    "chapters_covered": [1, 2, 3, 4],
+    "total_questions": 30,
+    "subject": "Economics - Class 9",
+    "version": "1.0",
+    "naming_convention": "09_EC_MEGA_Economics_30MCQ.json"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "chapter_ref": "Ch 1: Village Palampur",
+      "question": {
+        "en": "Which of the following is a working capital in the production process?",
+        "hi": "उत्पादन प्रक्रिया में निम्नलिखित में से कौन सी कार्यशील पूँजी है?"
+      },
+      "options": {
+        "a": {"en": "Machines", "hi": "मशीनें"},
+        "b": {"en": "Raw materials and money in hand", "hi": "कच्चा माल और नकद पैसा"},
+        "c": {"en": "Tractors", "hi": "ट्रैक्टर"},
+        "d": {"en": "Buildings", "hi": "भवन"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Working capital consists of items like raw materials and cash which are used up during the production cycle.",
+        "hi": "कार्यशील पूँजी में कच्चा माल और नकद पैसे शामिल होते हैं जो उत्पादन के दौरान समाप्त हो जाते हैं।"
+      }
+    },
+    {
+      "question_id": 8,
+      "chapter_ref": "Ch 2: People as Resource",
+      "question": {
+        "en": "Investment in human capital can be made through:",
+        "hi": "मानव पूँजी में निवेश किसके माध्यम से किया जा सकता है?"
+      },
+      "options": {
+        "a": {"en": "Education", "hi": "शिक्षा"},
+        "b": {"en": "Training", "hi": "प्रशिक्षण"},
+        "c": {"en": "Medical Care", "hi": "चिकित्सा सेवा"},
+        "d": {"en": "All of the above", "hi": "उपरोक्त सभी"}
+      },
+      "correct_option": "d",
+      "explanation": {
+        "en": "Education, health, and training transform a person into a productive resource or human capital.",
+        "hi": "शिक्षा, स्वास्थ्य और प्रशिक्षण एक व्यक्ति को उत्पादक संसाधन या मानव पूँजी में बदल देते हैं।"
+      }
+    },
+    {
+      "question_id": 15,
+      "chapter_ref": "Ch 3: Poverty as a Challenge",
+      "question": {
+        "en": "Which organization in India estimates the poverty line periodically?",
+        "hi": "भारत में कौन सा संगठन समय-समय पर निर्धनता रेखा का आकलन करता है?"
+      },
+      "options": {
+        "a": {"en": "RBI", "hi": "RBI"},
+        "b": {"en": "NSSO", "hi": "NSSO (राष्ट्रीय प्रतिदर्श सर्वेक्षण संगठन)"},
+        "c": {"en": "Niti Aayog", "hi": "नीति आयोग"},
+        "d": {"en": "Finance Commission", "hi": "वित्त आयोग"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The National Sample Survey Organisation (NSSO) conducts surveys every five years to estimate poverty.",
+        "hi": "राष्ट्रीय प्रतिदर्श सर्वेक्षण संगठन (NSSO) हर पाँच साल में गरीबी का आकलन करने के लिए सर्वेक्षण करता है।"
+      }
+    },
+    {
+      "question_id": 23,
+      "chapter_ref": "Ch 4: Food Security in India",
+      "question": {
+        "en": "FCI stands for:",
+        "hi": "FCI का अर्थ है:"
+      },
+      "options": {
+        "a": {"en": "Food Corporation of India", "hi": "भारतीय खाद्य निगम"},
+        "b": {"en": "Foreign Cooperation Institute", "hi": "फॉरेन कोऑपरेशन इंस्टीट्यूट"},
+        "c": {"en": "Financial Corporation of India", "hi": "फाइनेंशियल कॉर्पोरेशन ऑफ इंडिया"},
+        "d": {"en": "Federal Congress of India", "hi": "फेडरल कांग्रेस ऑफ इंडिया"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "FCI is the government agency responsible for procuring and storing foodgrains for the buffer stock.",
+        "hi": "FCI वह सरकारी संस्था है जो बफर स्टॉक के लिए खाद्यान्न खरीदने और स्टोर करने के लिए जिम्मेदार है।"
+      }
+    }
+  ]
+}

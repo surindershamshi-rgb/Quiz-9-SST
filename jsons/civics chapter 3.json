@@ -1,0 +1,794 @@
+{
+  "metadata": {
+    "chapter_number": 3,
+    "chapter_title": "Electoral Politics",
+    "chapter_title_hindi": "चुनावी राजनीति",
+    "subject": "Civics (Political Science) - Class 9",
+    "board": "CBSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.0",
+    "naming_convention": "09_CI_CH03_ElectoralPolitics_30MCQ.json"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "Who led the 'Nyaya Yudh' (Struggle for Justice) movement in Haryana in 1987?",
+        "hi": "1987 में हरियाणा में 'न्याय युद्ध' नामक आंदोलन का नेतृत्व किसने किया था?"
+      },
+      "options": {
+        "a": {"en": "Chaudhary Devi Lal", "hi": "चौधरी देवी लाल"},
+        "b": {"en": "Bhajan Lal", "hi": "भजन लाल"},
+        "c": {"en": "Bansi Lal", "hi": "बंसी लाल"},
+        "d": {"en": "Om Prakash Chautala", "hi": "ओम प्रकाश चौटाला"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "He was the leader of the Haryana Sangharsh Samiti and later became the Chief Minister.",
+        "hi": "वे हरियाणा संघर्ष समिति के नेता थे और बाद में मुख्यमंत्री बने।"
+      },
+      "explanation": {
+        "en": "Chaudhary Devi Lal led the Nyaya Yudh movement and formed a new party called Lok Dal. His promise to waive agricultural loans helped him win the election.",
+        "hi": "चौधरी देवी लाल ने 'न्याय युद्ध' का नेतृत्व किया और लोकदल नामक पार्टी बनाई। किसानों के कर्ज माफी के वादे ने उन्हें चुनाव जिताया।"
+      },
+      "key_takeaway": {
+        "en": "Devi Lal = Nyaya Yudh movement.",
+        "hi": "देवी लाल = न्याय युद्ध आंदोलन।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "Why are elections considered necessary in a democracy?",
+        "hi": "लोकतंत्र में चुनाव क्यों आवश्यक माने जाते हैं?"
+      },
+      "options": {
+        "a": {"en": "They allow people to choose their lawmakers", "hi": "वे लोगों को अपने कानून बनाने वालों को चुनने की अनुमति देते हैं"},
+        "b": {"en": "They allow people to choose who will form the government", "hi": "वे लोगों को यह चुनने की अनुमति देते हैं कि कौन सरकार बनाएगा"},
+        "c": {"en": "They allow people to choose the policies of the government", "hi": "वे लोगों को सरकार की नीतियों को चुनने की अनुमति देते हैं"},
+        "d": {"en": "All of the above", "hi": "उपरोक्त सभी"}
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "Elections provide a mechanism for people to choose their representatives at regular intervals.",
+        "hi": "चुनाव लोगों को नियमित अंतराल पर अपने प्रतिनिधियों को चुनने का एक तरीका प्रदान करते हैं।"
+      },
+      "explanation": {
+        "en": "Elections are a mechanism by which people can choose their representatives and change them if they wish to do so. It is the most common way to practice democracy in large societies.",
+        "hi": "चुनाव वह माध्यम है जिससे लोग अपने प्रतिनिधि चुनते हैं और यदि वे चाहें तो उन्हें बदल भी सकते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Elections = Mechanism of choice and change.",
+        "hi": "चुनाव = विकल्प और परिवर्तन का माध्यम।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "Which of the following is NOT a condition for a democratic election?",
+        "hi": "निम्नलिखित में से कौन सा लोकतांत्रिक चुनाव की शर्त नहीं है?"
+      },
+      "options": {
+        "a": {"en": "Everyone should have one vote and every vote should have equal value", "hi": "हर किसी के पास एक वोट होना चाहिए और हर वोट का समान मूल्य होना चाहिए"},
+        "b": {"en": "Only the ruling party should be allowed to contest", "hi": "केवल सत्ताधारी दल को चुनाव लड़ने की अनुमति होनी चाहिए"},
+        "c": {"en": "Elections must be held regularly every few years", "hi": "चुनाव नियमित रूप से हर कुछ वर्षों में होने चाहिए"},
+        "d": {"en": "The candidate preferred by the people should get elected", "hi": "लोगों द्वारा पसंद किए गए उम्मीदवार को ही चुना जाना चाहिए"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "A democratic election requires parties and candidates to be free to contest.",
+        "hi": "लोकतांत्रिक चुनाव के लिए पार्टियों और उम्मीदवारों को चुनाव लड़ने की आजादी होनी चाहिए।"
+      },
+      "explanation": {
+        "en": "For an election to be democratic, there must be something to choose from. Parties and candidates should be free to contest elections and offer real choices to the voters.",
+        "hi": "लोकतांत्रिक चुनाव में विकल्प होने चाहिए। केवल एक पार्टी का चुनाव लड़ना अलोकतांत्रिक है।"
+      },
+      "key_takeaway": {
+        "en": "Democracy = Real choices for voters.",
+        "hi": "लोकतंत्र = मतदाताओं के लिए वास्तविक विकल्प।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "What is the area-based system of representation used in India called?",
+        "hi": "भारत में उपयोग की जाने वाली क्षेत्र-आधारित प्रतिनिधित्व प्रणाली को क्या कहा जाता है?"
+      },
+      "options": {
+        "a": {"en": "Zones", "hi": "ज़ोन"},
+        "b": {"en": "Constituencies", "hi": "निर्वाचन क्षेत्र (Constituencies)"},
+        "c": {"en": "Sections", "hi": "सेक्शन"},
+        "d": {"en": "Blocks", "hi": "ब्लॉक"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The country is divided into different areas for the purpose of elections.",
+        "hi": "चुनाव के उद्देश्य से देश को अलग-अलग क्षेत्रों में विभाजित किया गया है।"
+      },
+      "explanation": {
+        "en": "For elections, the country is divided into different areas called electoral constituencies. The voters who live in an area elect one representative.",
+        "hi": "चुनाव के लिए देश को अलग-अलग क्षेत्रों में बांटा गया है जिन्हें निर्वाचन क्षेत्र कहते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Constituency = Specified area for election.",
+        "hi": "निर्वाचन क्षेत्र = चुनाव के लिए निर्धारित क्षेत्र।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "How many constituencies are there in India for Lok Sabha elections?",
+        "hi": "लोकसभा चुनावों के लिए भारत में कितने निर्वाचन क्षेत्र हैं?"
+      },
+      "options": {
+        "a": {"en": "500", "hi": "500"},
+        "b": {"en": "543", "hi": "543"},
+        "c": {"en": "545", "hi": "545"},
+        "d": {"en": "250", "hi": "250"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The representatives elected from these constituencies are called Members of Parliament (MPs).",
+        "hi": "इन क्षेत्रों से चुने गए प्रतिनिधियों को सांसद (MP) कहा जाता है।"
+      },
+      "explanation": {
+        "en": "For Lok Sabha elections, the country is divided into 543 constituencies. The representative elected from each is called a Member of Parliament (MP).",
+        "hi": "लोकसभा के लिए भारत में कुल 543 निर्वाचन क्षेत्र हैं।"
+      },
+      "key_takeaway": {
+        "en": "Lok Sabha = 543 Constituencies.",
+        "hi": "लोकसभा = 543 निर्वाचन क्षेत्र।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "What are the constituencies called in Panchayat and Municipal elections?",
+        "hi": "पंचायत और नगरपालिका चुनावों में निर्वाचन क्षेत्रों को क्या कहा जाता है?"
+      },
+      "options": {
+        "a": {"en": "Blocks", "hi": "ब्लॉक"},
+        "b": {"en": "Wards", "hi": "वार्ड (Wards)"},
+        "c": {"en": "Districts", "hi": "जिले"},
+        "d": {"en": "Villages", "hi": "गाँव"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Each village or town is divided into several of these.",
+        "hi": "प्रत्येक गाँव या कस्बे को इनमें से कई भागों में विभाजित किया जाता है।"
+      },
+      "explanation": {
+        "en": "Each village or town is divided into several ‘wards’ that are like constituencies. Each ward elects one member of the village or the urban local body.",
+        "hi": "स्थानीय निकायों के चुनाव में क्षेत्रों को 'वार्ड' कहा जाता है।"
+      },
+      "key_takeaway": {
+        "en": "Local Elections = Wards.",
+        "hi": "स्थानीय चुनाव = वार्ड।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "In the Lok Sabha, how many seats are currently reserved for Scheduled Castes (SC)?",
+        "hi": "लोकसभा में वर्तमान में अनुसूचित जातियों (SC) के लिए कितनी सीटें आरक्षित हैं?"
+      },
+      "options": {
+        "a": {"en": "47", "hi": "47"},
+        "b": {"en": "84", "hi": "84"},
+        "c": {"en": "79", "hi": "79"},
+        "d": {"en": "100", "hi": "100"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This number is based on their proportion in the total population (as of 2011/current data).",
+        "hi": "यह संख्या कुल जनसंख्या में उनके अनुपात पर आधारित है।"
+      },
+      "explanation": {
+        "en": "In the Lok Sabha, 84 seats are reserved for the Scheduled Castes and 47 for the Scheduled Tribes (as per current data).",
+        "hi": "लोकसभा में अनुसूचित जातियों के लिए 84 और अनुसूचित जनजातियों के लिए 47 सीटें आरक्षित हैं।"
+      },
+      "key_takeaway": {
+        "en": "SC Reservation = 84 seats; ST = 47 seats.",
+        "hi": "SC आरक्षण = 84 सीटें; ST = 47 सीटें।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "What is the list of those who are eligible to vote called?",
+        "hi": "वोट देने के योग्य लोगों की सूची को क्या कहा जाता है?"
+      },
+      "options": {
+        "a": {"en": "Candidate List", "hi": "उम्मीदवार सूची"},
+        "b": {"en": "Voters' List (Electoral Roll)", "hi": "मतदाता सूची (Electoral Roll)"},
+        "c": {"en": "Census list", "hi": "जनगणना सूची"},
+        "d": {"en": "Selection List", "hi": "चयन सूची"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It is officially called the Electoral Roll and is commonly updated before elections.",
+        "hi": "इसे आधिकारिक तौर पर निर्वाचक नामावली कहा जाता है और चुनावों से पहले इसे अपडेट किया जाता है।"
+      },
+      "explanation": {
+        "en": "In a democratic election, the list of those who are eligible to vote is prepared much before the election and given to everyone. This is officially called the Electoral Roll or Voters’ List.",
+        "hi": "चुनाव में वोट देने के हकदार लोगों की सूची को मतदाता सूची कहते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Voters' List = Electoral Roll.",
+        "hi": "मतदाता सूची = निर्वाचक नामावली।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "In India, what is the minimum age required to vote?",
+        "hi": "भारत में वोट देने के लिए न्यूनतम आयु कितनी होनी चाहिए?"
+      },
+      "options": {
+        "a": {"en": "21 years", "hi": "21 वर्ष"},
+        "b": {"en": "18 years", "hi": "18 वर्ष"},
+        "c": {"en": "25 years", "hi": "25 वर्ष"},
+        "d": {"en": "16 years", "hi": "16 वर्ष"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Every citizen of this age or above has the right to vote regardless of caste or religion.",
+        "hi": "इस आयु या उससे अधिक आयु के प्रत्येक नागरिक को वोट देने का अधिकार है।"
+      },
+      "explanation": {
+        "en": "In our country, all the citizens aged 18 years and above can vote in an election. Every citizen has the right to vote, regardless of his or her caste, religion or gender.",
+        "hi": "भारत में 18 वर्ष और उससे अधिक आयु के नागरिक मतदान कर सकते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Voting Age = 18 years.",
+        "hi": "मतदान की आयु = 18 वर्ष।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "What is the minimum age to contest an election as a candidate for Lok Sabha or Assembly?",
+        "hi": "लोकसभा या विधानसभा चुनाव में उम्मीदवार के रूप में चुनाव लड़ने के लिए न्यूनतम आयु क्या है?"
+      },
+      "options": {
+        "a": {"en": "18 years", "hi": "18 वर्ष"},
+        "b": {"en": "21 years", "hi": "21 वर्ष"},
+        "c": {"en": "25 years", "hi": "25 वर्ष"},
+        "d": {"en": "30 years", "hi": "30 वर्ष"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "It is higher than the minimum age for voting.",
+        "hi": "यह मतदान की न्यूनतम आयु से अधिक है।"
+      },
+      "explanation": {
+        "en": "In order to be a candidate, the minimum age is 25 years, whereas it is only 18 years for being a voter.",
+        "hi": "वोट देने की उम्र 18 है, लेकिन चुनाव लड़ने की न्यूनतम उम्र 25 साल है।"
+      },
+      "key_takeaway": {
+        "en": "Candidate Age = 25 years.",
+        "hi": "उम्मीदवार की आयु = 25 वर्ष।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "What information must every candidate disclose through a legal declaration while filing their nomination?",
+        "hi": "नामांकन दाखिल करते समय प्रत्येक उम्मीदवार को कानूनी घोषणा के माध्यम से कौन सी जानकारी देनी पड़ती है?"
+      },
+      "options": {
+        "a": {"en": "Serious criminal cases pending", "hi": "लंबित गंभीर आपराधिक मामले"},
+        "b": {"en": "Details of assets and liabilities of self and family", "hi": "स्वयं और परिवार की संपत्ति और देनदारियों का विवरण"},
+        "c": {"en": "Educational qualifications", "hi": "शैक्षिक योग्यता"},
+        "d": {"en": "All of the above", "hi": "उपरोक्त सभी"}
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "This system has been introduced on the direction of the Supreme Court to ensure transparency.",
+        "hi": "पारदर्शिता सुनिश्चित करने के लिए सुप्रीम कोर्ट के निर्देश पर यह प्रणाली शुरू की गई है।"
+      },
+      "explanation": {
+        "en": "Every candidate has to make a legal declaration, giving full details of: serious criminal cases, assets and liabilities, and educational qualifications.",
+        "hi": "सुप्रीम कोर्ट के निर्देशानुसार उम्मीदवारों को अपने अपराध, संपत्ति और शिक्षा का ब्यौरा देना अनिवार्य है।"
+      },
+      "key_takeaway": {
+        "en": "Transparency = Disclosure of assets/criminal records.",
+        "hi": "पारदर्शिता = संपत्ति और आपराधिक रिकॉर्ड का खुलासा।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "Who gave the famous slogan 'Garibi Hatao' (Remove Poverty) in the Lok Sabha elections of 1971?",
+        "hi": "1971 के लोकसभा चुनाव में प्रसिद्ध नारा 'गरीबी हटाओ' किसने दिया था?"
+      },
+      "options": {
+        "a": {"en": "Morarji Desai", "hi": "मोरारजी देसाई"},
+        "b": {"en": "Indira Gandhi", "hi": "इंदिरा गांधी"},
+        "c": {"en": "Jai Prakash Narayan", "hi": "जयप्रकाश नारायण"},
+        "d": {"en": "Jyoti Basu", "hi": "ज्योति बसु"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "She was the leader of the Congress party at that time.",
+        "hi": "वे उस समय कांग्रेस पार्टी की नेता थीं।"
+      },
+      "explanation": {
+        "en": "The Congress party led by Indira Gandhi gave the slogan of 'Garibi Hatao' in the 1971 Lok Sabha elections to focus on poverty alleviation.",
+        "hi": "1971 में इंदिरा गांधी के नेतृत्व में कांग्रेस ने 'गरीबी हटाओ' का नारा दिया था।"
+      },
+      "key_takeaway": {
+        "en": "Indira Gandhi = Garibi Hatao (1971).",
+        "hi": "इंदिरा गांधी = गरीबी हटाओ (1971)।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "Who gave the slogan 'Save Democracy' in the 1977 Lok Sabha elections?",
+        "hi": "1977 के लोकसभा चुनाव में 'लोकतंत्र बचाओ' का नारा किसने दिया था?"
+      },
+      "options": {
+        "a": {"en": "Indira Gandhi", "hi": "इंदिरा गांधी"},
+        "b": {"en": "Janata Party (under Jai Prakash Narayan)", "hi": "जनता पार्टी (जयप्रकाश नारायण के नेतृत्व में)"},
+        "c": {"en": "NT Rama Rao", "hi": "एनटी रामा राव"},
+        "d": {"en": "Left Front", "hi": "वाम मोर्चा"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This was given after the Emergency was lifted.",
+        "hi": "यह नारा आपातकाल हटने के बाद दिया गया था।"
+      },
+      "explanation": {
+        "en": "‘Save Democracy’ was the slogan given by Janata Party under the leadership of Jayaprakash Narayan in the Lok Sabha election held in 1977 after the Emergency.",
+        "hi": "1977 में जनता पार्टी ने आपातकाल के विरोध में 'लोकतंत्र बचाओ' का नारा दिया था।"
+      },
+      "key_takeaway": {
+        "en": "Janata Party = Save Democracy (1977).",
+        "hi": "जनता पार्टी = लोकतंत्र बचाओ (1977)।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "The set of norms and guidelines to be followed by political parties and candidates during elections is called:",
+        "hi": "चुनाव के दौरान राजनीतिक दलों और उम्मीदवारों द्वारा पालन किए जाने वाले मानदंडों और दिशा-निर्देशों को क्या कहा जाता है?"
+      },
+      "options": {
+        "a": {"en": "Constitutional Law", "hi": "संवैधानिक कानून"},
+        "b": {"en": "Code of Conduct", "hi": "आचार संहिता (Code of Conduct)"},
+        "c": {"en": "Electoral Act", "hi": "चुनावी अधिनियम"},
+        "d": {"en": "Public Policy", "hi": "सार्वजनिक नीति"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It prevents the misuse of government machinery and power.",
+        "hi": "यह सरकारी मशीनरी और शक्ति के दुरुपयोग को रोकता है।"
+      },
+      "explanation": {
+        "en": "The Model Code of Conduct includes rules like not using religious places for propaganda and not using government aircraft or vehicles for elections.",
+        "hi": "चुनाव प्रचार के दौरान सरकारी संसाधनों का उपयोग न करना और धार्मिक स्थलों का प्रयोग न करना आचार संहिता का हिस्सा है।"
+      },
+      "key_takeaway": {
+        "en": "Code of Conduct = Rules for campaign fair play.",
+        "hi": "आचार संहिता = निष्पक्ष प्रचार के नियम।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "According to Election Law, what is the spending limit for a candidate in a Lok Sabha constituency?",
+        "hi": "चुनाव कानून के अनुसार, लोकसभा क्षेत्र में एक उम्मीदवार के लिए खर्च की सीमा क्या है?"
+      },
+      "options": {
+        "a": {"en": "₹10 Lakh", "hi": "₹10 लाख"},
+        "b": {"en": "₹25 Lakh", "hi": "₹25 लाख (as per old book/base data)"},
+        "c": {"en": "₹95 Lakh", "hi": "₹95 लाख (revised limit)"},
+        "d": {"en": "₹5 Crore", "hi": "₹5 करोड़"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "The limit was recently increased to allow for inflation. (Note: NCERT text mentions 25 Lakh as an example, but current EC limit is higher).",
+        "hi": "हाल ही में महंगाई के कारण सीमा बढ़ा दी गई है। (NCERT के आधार पर 25 लाख विकल्प है लेकिन वर्तमान सीमा 95 लाख तक है)।"
+      },
+      "explanation": {
+        "en": "As per the updated norms, the spending limit is ₹95 Lakh for Lok Sabha and ₹40 Lakh for Assembly elections in bigger states.",
+        "hi": "लोकसभा के लिए खर्च की सीमा अब ₹95 लाख और विधानसभा के लिए ₹40 लाख (बड़े राज्यों में) है।"
+      },
+      "key_takeaway": {
+        "en": "Spending Limit = To ensure money power doesn't dominate.",
+        "hi": "खर्च सीमा = ताकि धनबल का प्रभुत्व न हो।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "In India, which body conducts and controls the elections?",
+        "hi": "भारत में चुनावों का संचालन और नियंत्रण कौन सी संस्था करती है?"
+      },
+      "options": {
+        "a": {"en": "The Parliament", "hi": "संसद"},
+        "b": {"en": "The Supreme Court", "hi": "सुप्रीम कोर्ट"},
+        "c": {"en": "Election Commission of India", "hi": "भारत का चुनाव आयोग (ECI)"},
+        "d": {"en": "The President", "hi": "राष्ट्रपति"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "It is an independent body that enjoys the same kind of independence as the judiciary.",
+        "hi": "यह एक स्वतंत्र संस्था है जिसे न्यायपालिका के समान ही स्वतंत्रता प्राप्त है।"
+      },
+      "explanation": {
+        "en": "The Election Commission of India (ECI) is an independent and powerful body responsible for conducting free and fair elections.",
+        "hi": "भारत निर्वाचन आयोग एक स्वतंत्र निकाय है जो देश में चुनाव संपन्न कराता है।"
+      },
+      "key_takeaway": {
+        "en": "ECI = Independent election authority.",
+        "hi": "ECI = स्वतंत्र चुनावी प्राधिकरण।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "Who appoints the Chief Election Commissioner (CEC) of India?",
+        "hi": "भारत के मुख्य चुनाव आयुक्त (CEC) की नियुक्ति कौन करता है?"
+      },
+      "options": {
+        "a": {"en": "The Prime Minister", "hi": "प्रधानमंत्री"},
+        "b": {"en": "The President of India", "hi": "भारत के राष्ट्रपति"},
+        "c": {"en": "The Chief Justice of India", "hi": "भारत के मुख्य न्यायाधीश"},
+        "d": {"en": "The Speaker of Lok Sabha", "hi": "लोकसभा अध्यक्ष"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Once appointed, the CEC is not answerable to the President or the government.",
+        "hi": "एक बार नियुक्त होने के बाद, मुख्य चुनाव आयुक्त राष्ट्रपति या सरकार के प्रति जवाबदेह नहीं होता है।"
+      },
+      "explanation": {
+        "en": "The Chief Election Commissioner is appointed by the President of India. However, once appointed, he/she cannot be easily removed.",
+        "hi": "मुख्य चुनाव आयुक्त की नियुक्ति राष्ट्रपति द्वारा की जाती है।"
+      },
+      "key_takeaway": {
+        "en": "CEC Appointed by = President.",
+        "hi": "CEC की नियुक्ति = राष्ट्रपति द्वारा।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "What does 'EPIC' stand for in the context of elections?",
+        "hi": "चुनाव के संदर्भ में 'EPIC' का क्या अर्थ है?"
+      },
+      "options": {
+        "a": {"en": "Election Public Identification Card", "hi": "इलेक्शन पब्लिक आइडेंटिफिकेशन कार्ड"},
+        "b": {"en": "Electoral Photo Identity Card", "hi": "इलेक्शन फोटो आइडेंटिटी कार्ड (EPIC)"},
+        "c": {"en": "Electronic Primary Identification Code", "hi": "इलेक्ट्रॉनिक प्राइमरी आइडेंटिफिकेशन कोड"},
+        "d": {"en": "Essential People's identity Card", "hi": "एसेंशियल पीपुल्स आइडेंटिटी कार्ड"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It is the identity card issued by the Election Commission to voters.",
+        "hi": "यह चुनाव आयोग द्वारा मतदाताओं को जारी किया गया पहचान पत्र है।"
+      },
+      "explanation": {
+        "en": "EPIC stands for Electoral Photo Identity Card. The government has tried to give this card to every person on the voters' list to prevent fake voting.",
+        "hi": "EPIC का अर्थ है मतदाता फोटो पहचान पत्र।"
+      },
+      "key_takeaway": {
+        "en": "EPIC = Voter ID card.",
+        "hi": "EPIC = मतदाता पहचान पत्र।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "What are 'EVMs' used for during elections?",
+        "hi": "चुनावों के दौरान 'EVM' का उपयोग किस लिए किया जाता है?"
+      },
+      "options": {
+        "a": {"en": "Election Vehicle Movement", "hi": "चुनावी वाहनों की आवाजाही"},
+        "b": {"en": "Electronic Voting Machines", "hi": "इलेक्ट्रॉनिक वोटिंग मशीन"},
+        "c": {"en": "Emergency Voter Messaging", "hi": "इमरजेंसी वोटर मैसेजिंग"},
+        "d": {"en": "Every Voter Matters", "hi": "एवरी वोटर मैटर्स"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "These machines record the votes electronically instead of using ballot papers.",
+        "hi": "ये मशीनें मतपत्रों के बजाय इलेक्ट्रॉनिक रूप से वोटों को रिकॉर्ड करती हैं।"
+      },
+      "explanation": {
+        "en": "EVMs (Electronic Voting Machines) are used to record votes. The machine shows the names of the candidates and the party symbols.",
+        "hi": "वोट डालने के लिए आजकल EVM मशीनों का उपयोग होता है।"
+      },
+      "key_takeaway": {
+        "en": "EVM = Electronic Voting Machine.",
+        "hi": "EVM = इलेक्ट्रॉनिक वोटिंग मशीन।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "What is 'Rigging' in an election?",
+        "hi": "चुनाव में 'धांधली' (Rigging) क्या है?"
+      },
+      "options": {
+        "a": {"en": "A fair way of counting votes", "hi": "वोटों की गिनती का एक निष्पक्ष तरीका"},
+        "b": {"en": "Fraud and malpractices to increase votes of a party", "hi": "किसी पार्टी के वोट बढ़ाने के लिए धोखाधड़ी और अनुचित कार्य"},
+        "c": {"en": "The process of filing nomination", "hi": "नामांकन दाखिल करने की प्रक्रिया"},
+        "d": {"en": "A government survey", "hi": "एक सरकारी सर्वेक्षण"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It includes stuffing of ballot boxes or using fake voters.",
+        "hi": "इसमें मतपेटियों को भरना या फर्जी मतदाताओं का उपयोग करना शामिल है।"
+      },
+      "explanation": {
+        "en": "Rigging involves fraud and malpractices by a party or candidate to unfairly increase their votes, such as stuffing ballot boxes or recording multiple votes by one person.",
+        "hi": "चुनाव जीतने के लिए किए गए गलत कार्यों जैसे फर्जी वोटिंग को धांधली कहते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Rigging = Electoral fraud.",
+        "hi": "धांधली = चुनावी धोखाधड़ी।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "Which of these is a challenge to free and fair elections in India?",
+        "hi": "इनमें से कौन सा भारत में स्वतंत्र और निष्पक्ष चुनावों के लिए एक चुनौती है?"
+      },
+      "options": {
+        "a": {"en": "Use of money power by candidates", "hi": "उम्मीदवारों द्वारा धनबल का प्रयोग"},
+        "b": {"en": "Candidates with criminal connection getting tickets", "hi": "आपराधिक संबंध वाले उम्मीदवारों को टिकट मिलना"},
+        "c": {"en": "Family politics (Dynastic succession)", "hi": "परिवारवाद (वंशवाद)"},
+        "d": {"en": "All of the above", "hi": "उपरोक्त सभी"}
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "These are persistent issues that the Election Commission tries to tackle.",
+        "hi": "ये वे निरंतर समस्याएं हैं जिन्हें चुनाव आयोग हल करने की कोशिश करता है।"
+      },
+      "explanation": {
+        "en": "Challenges include the influence of money, criminal elements in politics, family-based ticket distribution, and the lack of meaningful choice for ordinary citizens.",
+        "hi": "धनबल, बाहुबल और भाई-भतीजावाद भारतीय चुनावों की प्रमुख चुनौतियाँ हैं।"
+      },
+      "key_takeaway": {
+        "en": "Election Challenges = Money, Crime, Dynasties.",
+        "hi": "चुनावी चुनौतियाँ = धन, अपराध, वंशवाद।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "A 'By-election' is held when:",
+        "hi": "'उपचुनाव' (By-election) तब आयोजित किया जाता है जब:"
+      },
+      "options": {
+        "a": {"en": "The government completes its full term", "hi": "सरकार अपना कार्यकाल पूरा कर लेती है"},
+        "b": {"en": "A seat falls vacant due to death or resignation of a member", "hi": "किसी सदस्य की मृत्यु या इस्तीफे के कारण सीट खाली हो जाती है"},
+        "c": {"en": "The President decides to dissolve the Lok Sabha", "hi": "राष्ट्रपति लोकसभा को भंग करने का निर्णय लेते हैं"},
+        "d": {"en": "Elections are held in the whole country at once", "hi": "पूरे देश में एक साथ चुनाव होते हैं"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It is held for only one constituency.",
+        "hi": "यह केवल एक निर्वाचन क्षेत्र के लिए आयोजित किया जाता है।"
+      },
+      "explanation": {
+        "en": "Sometimes election is held only for one constituency to fill the vacancy caused by death or resignation of a member. This is called a by-election.",
+        "hi": "किसी सदस्य की मृत्यु या इस्तीफे से खाली हुई सीट पर होने वाले चुनाव को उपचुनाव कहते हैं।"
+      },
+      "key_takeaway": {
+        "en": "By-election = Filling a mid-term vacancy.",
+        "hi": "उपचुनाव = कार्यकाल के बीच खाली सीट को भरना।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "Voter turnout in India over the last few decades has _________ or _________.",
+        "hi": "पिछले कुछ दशकों में भारत में मतदान प्रतिशत (Voter turnout) _________ या _________ रहा है।"
+      },
+      "options": {
+        "a": {"en": "Decreased drastically", "hi": "तेजी से घटा है"},
+        "b": {"en": "Remained stable or actually gone up", "hi": "स्थिर रहा है या वास्तव में ऊपर गया है"},
+        "c": {"en": "Fallen below 10%", "hi": "10% से नीचे गिर गया है"},
+        "d": {"en": "Become zero in rural areas", "hi": "ग्रामीण क्षेत्रों में शून्य हो गया है"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "In contrast, turnout in Western democracies like the USA has declined.",
+        "hi": "इसके विपरीत, अमेरिका जैसे पश्चिमी लोकतंत्रों में मतदान में गिरावट आई है।"
+      },
+      "explanation": {
+        "en": "Unlike Europe and North America, where voter turnout has declined, in India the turnout has either remained stable or actually gone up.",
+        "hi": "भारत में लोगों का चुनाव में विश्वास बढ़ा है, इसलिए मतदान का प्रतिशत स्थिर रहा है या बढ़ा है।"
+      },
+      "key_takeaway": {
+        "en": "Indian Voter Participation = Robust and growing.",
+        "hi": "भारतीय मतदाता भागीदारी = मजबूत और बढ़ती हुई।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "In India, who among the following groups usually votes in larger proportions?",
+        "hi": "भारत में, निम्नलिखित में से कौन सा समूह आमतौर पर अधिक अनुपात में वोट देता है?"
+      },
+      "options": {
+        "a": {"en": "The rich and privileged", "hi": "अमीर और विशेषाधिकार प्राप्त"},
+        "b": {"en": "The poor, illiterate, and underprivileged", "hi": "गरीब, अनपढ़ और वंचित (Underprivileged)"},
+        "c": {"en": "Foreign tourists", "hi": "विदेशी पर्यटक"},
+        "d": {"en": "Only government officials", "hi": "केवल सरकारी अधिकारी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This is in contrast to the USA, where poor people vote much less than the rich.",
+        "hi": "यह अमेरिका के विपरीत है, जहाँ गरीब लोग अमीरों की तुलना में बहुत कम वोट देते हैं।"
+      },
+      "explanation": {
+        "en": "In India, poor, illiterate and underprivileged people vote in larger proportion as compared to the rich and privileged sections. They feel their vote matters for their welfare.",
+        "hi": "भारत में गरीब और वंचित तबका अमीरों की तुलना में ज्यादा उत्साह से वोट डालता है।"
+      },
+      "key_takeaway": {
+        "en": "Democratic Trust = High among India's poor.",
+        "hi": "लोकतांत्रिक विश्वास = भारत के गरीबों में अधिक।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "What is the 'Incumbency Effect'?",
+        "hi": "'इनकम्बेंसी इफेक्ट' (Incumbency Effect) क्या है?"
+      },
+      "options": {
+        "a": {"en": "The power of the new candidates", "hi": "नए उम्मीदवारों की शक्ति"},
+        "b": {"en": "The advantage of those currently holding office", "hi": "वर्तमान में पद धारण करने वालों का लाभ"},
+        "c": {"en": "The ban on elections", "hi": "चुनावों पर प्रतिबंध"},
+        "d": {"en": "A new law for voting", "hi": "मतदान के लिए एक नया कानून"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "In India, sitting MPs and MLAs often lose elections, showing that incumbency doesn't always help.",
+        "hi": "भारत में, मौजूदा सांसद और विधायक अक्सर चुनाव हार जाते हैं, जिससे पता चलता है कि यह हमेशा काम नहीं करता।"
+      },
+      "explanation": {
+        "en": "Incumbency means currently holding an office. In many countries, incumbents have an advantage, but in India, they often lose, proving that elections are competitive.",
+        "hi": "पद पर रहने वाले व्यक्ति को जो लाभ मिलता है उसे इनकम्बेंसी कहते हैं, लेकिन भारत में जनता अक्सर सत्ता विरोधी लहर के कारण उन्हें हरा देती है।"
+      },
+      "key_takeaway": {
+        "en": "Accountability = Sitting representatives often lose in India.",
+        "hi": "जवाबदेही = भारत में मौजूदा प्रतिनिधि अक्सर चुनाव हार जाते हैं।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "Every candidate who wants to contest an election has to pay a certain amount as:",
+        "hi": "चुनाव लड़ने के इच्छुक प्रत्येक उम्मीदवार को एक निश्चित राशि जमा करनी पड़ती है, जिसे कहते हैं:"
+      },
+      "options": {
+        "a": {"en": "Bribe", "hi": "रिश्वत"},
+        "b": {"en": "Security deposit", "hi": "जमानत राशि (Security deposit)"},
+        "c": {"en": "Tax", "hi": "टैक्स"},
+        "d": {"en": "Donation", "hi": "दान"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "If the candidate fails to get a minimum number of votes, this amount is 'forfeited'.",
+        "hi": "यदि उम्मीदवार न्यूनतम वोट प्राप्त करने में विफल रहता है, तो यह राशि 'जब्त' कर ली जाती है।"
+      },
+      "explanation": {
+        "en": "Every candidate has to fill a nomination form and give some money as ‘security deposit’. This is to discourage non-serious candidates.",
+        "hi": "नामांकन के समय उम्मीदवार को 'जमानत राशि' जमा करनी पड़ती है।"
+      },
+      "key_takeaway": {
+        "en": "Security Deposit = Mandatory fee for candidates.",
+        "hi": "जमानत राशि = उम्मीदवारों के लिए अनिवार्य शुल्क।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "What is the period between the announcement of the election and the date of polling used for?",
+        "hi": "चुनाव की घोषणा और मतदान की तारीख के बीच की अवधि का उपयोग किस लिए किया जाता है?"
+      },
+      "options": {
+        "a": {"en": "Vacation", "hi": "छुट्टियों के लिए"},
+        "b": {"en": "Election Campaign", "hi": "चुनाव प्रचार (Election Campaign)"},
+        "c": {"en": "Counting votes", "hi": "वोटों की गिनती के लिए"},
+        "d": {"en": "Forming the government", "hi": "सरकार बनाने के लिए"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Candidates contact their voters and parties hold meetings during this time.",
+        "hi": "इस दौरान उम्मीदवार अपने मतदाताओं से संपर्क करते हैं और पार्टियाँ बैठकें करती हैं।"
+      },
+      "explanation": {
+        "en": "In our country, election campaigning takes place for a two-week period between the announcement of the final list of candidates and the date of polling.",
+        "hi": "चुनाव प्रचार के लिए आमतौर पर दो सप्ताह का समय दिया जाता है।"
+      },
+      "key_takeaway": {
+        "en": "Campaign = Connecting candidates with voters.",
+        "hi": "चुनाव प्रचार = उम्मीदवारों का मतदाताओं से संपर्क।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "Which of the following is prohibited under the Election Law during campaigning?",
+        "hi": "चुनाव प्रचार के दौरान चुनाव कानून के तहत निम्नलिखित में से क्या निषिद्ध है?"
+      },
+      "options": {
+        "a": {"en": "Bribing or threatening voters", "hi": "मतदाताओं को रिश्वत देना या धमकाना"},
+        "b": {"en": "Appealing to voters in the name of caste or religion", "hi": "जाति या धर्म के नाम पर वोट माँगना"},
+        "c": {"en": "Using government resources for campaigning", "hi": "प्रचार के लिए सरकारी संसाधनों का उपयोग करना"},
+        "d": {"en": "All of the above", "hi": "उपरोक्त सभी"}
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "These rules are meant to provide a level playing field for all candidates.",
+        "hi": "ये नियम सभी उम्मीदवारों के लिए समान अवसर प्रदान करने के लिए हैं।"
+      },
+      "explanation": {
+        "en": "Indian election laws strictly prohibit bribing, using religious places, or using government vehicles/officials for electioneering.",
+        "hi": "वोटर को डराना, लालच देना या सरकारी गाड़ी का इस्तेमाल करना गैर-कानूनी है।"
+      },
+      "key_takeaway": {
+        "en": "Fairness = Strict rules against malpractices.",
+        "hi": "निष्पक्षता = गलत कार्यों के खिलाफ सख्त नियम।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "The day on which the voters cast their votes is commonly called:",
+        "hi": "जिस दिन मतदाता अपना वोट डालते हैं, उसे आमतौर पर क्या कहा जाता है?"
+      },
+      "options": {
+        "a": {"en": "Nomination day", "hi": "नामांकन दिवस"},
+        "b": {"en": "Election Day", "hi": "चुनाव का दिन (Election Day)"},
+        "c": {"en": "Counting day", "hi": "गिनती का दिन"},
+        "d": {"en": "Results day", "hi": "परिणाम का दिन"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "On this day, every person whose name is on the voter list can go to a nearby 'polling booth'.",
+        "hi": "इस दिन प्रत्येक व्यक्ति जिसका नाम मतदाता सूची में है, पास के 'मतदान केंद्र' पर जा सकता है।"
+      },
+      "explanation": {
+        "en": "The final stage of an election is the day when the voters cast or ‘poll’ their vote. That day is usually called the election day.",
+        "hi": "जिस दिन वोट डाले जाते हैं उसे चुनाव का दिन कहते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Polling = Casting the vote.",
+        "hi": "मतदान = अपना वोट डालना।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "Which slogan was used by the Left Front in the West Bengal Assembly elections in 1977?",
+        "hi": "1977 में पश्चिम बंगाल विधानसभा चुनावों में वाम मोर्चे द्वारा किस नारे का इस्तेमाल किया गया था?"
+      },
+      "options": {
+        "a": {"en": "Garibi Hatao", "hi": "गरीबी हटाओ"},
+        "b": {"en": "Land to the Tiller", "hi": "जमीन जोतने वाले को (Land to the Tiller)"},
+        "c": {"en": "Save Democracy", "hi": "लोकतंत्र बचाओ"},
+        "d": {"en": "Protect Self-Respect", "hi": "आत्मसम्मान की रक्षा करें"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This slogan focused on land reforms for farmers.",
+        "hi": "यह नारा किसानों के लिए भूमि सुधार पर केंद्रित था।"
+      },
+      "explanation": {
+        "en": "The Left Front used the slogan ‘Land to the Tiller’ in the West Bengal Assembly elections held in 1977.",
+        "hi": "1977 में बंगाल में वाम मोर्चे ने 'जमीन जोतने वाले को' का नारा दिया था।"
+      },
+      "key_takeaway": {
+        "en": "Left Front = Land to the Tiller.",
+        "hi": "वाम मोर्चा = जमीन जोतने वाले को।"
+      }
+    }
+  ]
+}

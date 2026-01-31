@@ -1,0 +1,794 @@
+{
+  "metadata": {
+    "chapter_number": 2,
+    "chapter_title": "Constitutional Design",
+    "chapter_title_hindi": "संविधान निर्माण",
+    "subject": "Civics (Political Science) - Class 9",
+    "board": "CBSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.0",
+    "naming_convention": "09_CI_CH02_ConstitutionalDesign_30MCQ.json"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "Who among the following was the leader of the struggle against apartheid in South Africa?",
+        "hi": "दक्षिण अफ्रीका में रंगभेद के खिलाफ संघर्ष के नेता निम्नलिखित में से कौन थे?"
+      },
+      "options": {
+        "a": {"en": "Mahatma Gandhi", "hi": "महात्मा गांधी"},
+        "b": {"en": "Nelson Mandela", "hi": "नेल्सन मंडेला"},
+        "c": {"en": "Martin Luther King", "hi": "मार्टिन लूथर किंग"},
+        "d": {"en": "Jawaharlal Nehru", "hi": "जवाहरलाल नेहरू"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He spent 28 years in prison for his struggle.",
+        "hi": "उन्होंने अपने संघर्ष के लिए 28 साल जेल में बिताए थे।"
+      },
+      "explanation": {
+        "en": "Nelson Mandela was the prominent leader of the African National Congress who fought against the system of racial discrimination called apartheid.",
+        "hi": "नेल्सन मंडेला ने रंगभेद वाली शासन व्यवस्था के खिलाफ गोरों की सरकार का विरोध किया था।"
+      },
+      "key_takeaway": {
+        "en": "Nelson Mandela = Anti-Apartheid Leader.",
+        "hi": "नेल्सन मंडेला = रंगभेद विरोधी नेता।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "What was 'Apartheid' in South Africa?",
+        "hi": "दक्षिण अफ्रीका में 'रंगभेद' (Apartheid) क्या था?"
+      },
+      "options": {
+        "a": {"en": "A system of economic equality", "hi": "आर्थिक समानता की एक प्रणाली"},
+        "b": {"en": "A system of racial discrimination unique to South Africa", "hi": "दक्षिण अफ्रीका के लिए विशिष्ट नस्लीय भेदभाव की एक प्रणाली"},
+        "c": {"en": "A religious movement", "hi": "एक धार्मिक आंदोलन"},
+        "d": {"en": "A type of election", "hi": "एक प्रकार का चुनाव"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It divided people on the basis of their skin color.",
+        "hi": "इसने लोगों को उनकी त्वचा के रंग के आधार पर विभाजित किया था।"
+      },
+      "explanation": {
+        "en": "Apartheid was the name of a system of racial discrimination unique to South Africa imposed by the white Europeans.",
+        "hi": "रंगभेद नस्लीय भेदभाव वाली उस व्यवस्था का नाम था जो दक्षिण अफ्रीका में गोरों ने थोपी थी।"
+      },
+      "key_takeaway": {
+        "en": "Apartheid = Racial Segregation.",
+        "hi": "रंगभेद = नस्लीय अलगाव।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "For how many years was Nelson Mandela imprisoned in Robben Island?",
+        "hi": "नेल्सन मंडेला को रोबेन द्वीप में कितने वर्षों तक कैद रखा गया था?"
+      },
+      "options": {
+        "a": {"en": "10 years", "hi": "10 वर्ष"},
+        "b": {"en": "18 years", "hi": "18 वर्ष"},
+        "c": {"en": "28 years", "hi": "28 वर्ष"},
+        "d": {"en": "35 years", "hi": "35 वर्ष"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "He was sentenced to life imprisonment in 1964.",
+        "hi": "उन्हें 1964 में आजीवन कारावास की सजा सुनाई गई थी।"
+      },
+      "explanation": {
+        "en": "Nelson Mandela and seven other leaders were sentenced to life imprisonment in 1964. He spent 28 years in South Africa’s most dreaded prison, Robben Island.",
+        "hi": "नेल्सन मंडेला को 28 वर्षों तक जेल में रखा गया था।"
+      },
+      "key_takeaway": {
+        "en": "Imprisonment = 28 years (Robben Island).",
+        "hi": "कारावास = 28 वर्ष (रोबेन द्वीप)।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "On which date did South Africa become a new democratic country with a new flag?",
+        "hi": "दक्षिण अफ्रीका किस तारीख को नए झंडे के साथ एक नया लोकतांत्रिक देश बना?"
+      },
+      "options": {
+        "a": {"en": "15 August 1947", "hi": "15 अगस्त 1947"},
+        "b": {"en": "26 January 1950", "hi": "26 जनवरी 1950"},
+        "c": {"en": "26 April 1994", "hi": "26 अप्रैल 1994"},
+        "d": {"en": "1 January 2000", "hi": "1 जनवरी 2000"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "It was the midnight when the apartheid government came to an end.",
+        "hi": "यह वह आधी रात थी जब रंगभेद वाली सरकार का अंत हुआ था।"
+      },
+      "explanation": {
+        "en": "At the midnight of 26 April 1994, the new national flag of the Republic of South Africa was unfurled, marking the birth of a new democracy.",
+        "hi": "26 अप्रैल 1994 की रात को दक्षिण अफ्रीका में नया झंडा फहराया गया और यह एक लोकतंत्र बना।"
+      },
+      "key_takeaway": {
+        "en": "Democracy Birth (South Africa) = 26 April 1994.",
+        "hi": "लोकतंत्र का जन्म (दक्षिण अफ्रीका) = 26 अप्रैल 1994।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "Why do we need a Constitution?",
+        "hi": "हमें संविधान की आवश्यकता क्यों है?"
+      },
+      "options": {
+        "a": {"en": "To limit the powers of the government", "hi": "सरकार की शक्तियों को सीमित करने के लिए"},
+        "b": {"en": "To generate trust and coordination among people", "hi": "लोगों के बीच विश्वास और समन्वय पैदा करने के लिए"},
+        "c": {"en": "To specify how the government will be constituted", "hi": "यह निर्दिष्ट करने के लिए कि सरकार का गठन कैसे होगा"},
+        "d": {"en": "All of the above", "hi": "उपरोक्त सभी"}
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "It acts as the supreme law of a country.",
+        "hi": "यह किसी देश के सर्वोच्च कानून के रूप में कार्य करता है।"
+      },
+      "explanation": {
+        "en": "A constitution coordinates different people, specifies government formation, limits power, and expresses people's aspirations.",
+        "hi": "संविधान भरोसा दिलाता है, सरकार बनाने के नियम तय करता है और अधिकारों की रक्षा करता है।"
+      },
+      "key_takeaway": {
+        "en": "Constitution = Set of written rules for all citizens.",
+        "hi": "संविधान = सभी नागरिकों के लिए लिखित नियमों का समूह।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "Who was the Chairman of the Drafting Committee of the Indian Constitution?",
+        "hi": "भारतीय संविधान की प्रारूप समिति के अध्यक्ष कौन थे?"
+      },
+      "options": {
+        "a": {"en": "Dr. Rajendra Prasad", "hi": "डॉ. राजेंद्र प्रसाद"},
+        "b": {"en": "B.R. Ambedkar", "hi": "बी.आर. अंबेडकर"},
+        "c": {"en": "Motilal Nehru", "hi": "मोतीलाल नेहरू"},
+        "d": {"en": "Sardar Patel", "hi": "सरदार पटेल"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He is often called the 'Father of the Indian Constitution'.",
+        "hi": "उन्हें अक्सर 'भारतीय संविधान का जनक' कहा जाता है।"
+      },
+      "explanation": {
+        "en": "Dr. B.R. Ambedkar was the Chairman of the Drafting Committee which prepared a draft of the constitution for discussion.",
+        "hi": "डॉ. बी.आर. अंबेडकर प्रारूप समिति के अध्यक्ष थे जिन्होंने संविधान का मसौदा तैयार किया।"
+      },
+      "key_takeaway": {
+        "en": "Drafting Committee Chairman = B.R. Ambedkar.",
+        "hi": "प्रारूप समिति के अध्यक्ष = बी.आर. अंबेडकर।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "When did the Constituent Assembly adopt the Constitution of India?",
+        "hi": "संविधान सभा ने भारत के संविधान को कब अपनाया था?"
+      },
+      "options": {
+        "a": {"en": "15 August 1947", "hi": "15 अगस्त 1947"},
+        "b": {"en": "26 November 1949", "hi": "26 नवंबर 1949"},
+        "c": {"en": "26 January 1950", "hi": "26 जनवरी 1950"},
+        "d": {"en": "30 January 1948", "hi": "30 जनवरी 1948"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It came into effect two months later.",
+        "hi": "यह दो महीने बाद लागू हुआ था।"
+      },
+      "explanation": {
+        "en": "The Assembly adopted the Constitution on 26 November 1949 but it came into effect on 26 January 1950.",
+        "hi": "26 नवंबर 1949 को संविधान पूरा हुआ और अपनाया गया।"
+      },
+      "key_takeaway": {
+        "en": "Adoption Date = 26 November 1949.",
+        "hi": "अपनाने की तिथि = 26 नवंबर 1949।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "Who was the President of the Constituent Assembly?",
+        "hi": "संविधान सभा के अध्यक्ष कौन थे?"
+      },
+      "options": {
+        "a": {"en": "Jawaharlal Nehru", "hi": "जवाहरलाल नेहरू"},
+        "b": {"en": "Dr. Rajendra Prasad", "hi": "डॉ. राजेंद्र प्रसाद"},
+        "c": {"en": "Dr. B.R. Ambedkar", "hi": "डॉ. बी.आर. अंबेडकर"},
+        "d": {"en": "Sarojini Naidu", "hi": "सरोजिनी नायडू"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He later became the first President of India.",
+        "hi": "वे बाद में भारत के पहले राष्ट्रपति बने।"
+      },
+      "explanation": {
+        "en": "Dr. Rajendra Prasad was the President of the Constituent Assembly, while B.R. Ambedkar headed the Drafting Committee.",
+        "hi": "डॉ. राजेंद्र प्रसाद संविधान सभा के अध्यक्ष थे।"
+      },
+      "key_takeaway": {
+        "en": "Assembly President = Dr. Rajendra Prasad.",
+        "hi": "सभा के अध्यक्ष = डॉ. राजेंद्र प्रसाद।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "How many members did the Constituent Assembly that wrote the Indian Constitution have?",
+        "hi": "भारतीय संविधान लिखने वाली संविधान सभा में कितने सदस्य थे?"
+      },
+      "options": {
+        "a": {"en": "389", "hi": "389"},
+        "b": {"en": "299", "hi": "299"},
+        "c": {"en": "545", "hi": "545"},
+        "d": {"en": "250", "hi": "250"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This was the number after the partition of India and Pakistan.",
+        "hi": "यह भारत और पाकिस्तान के विभाजन के बाद की संख्या थी।"
+      },
+      "explanation": {
+        "en": "The Constituent Assembly that wrote the Indian Constitution had 299 members (after the members from Pakistan territories moved away).",
+        "hi": "विभाजन के बाद भारतीय संविधान सभा में 299 सदस्य रह गए थे।"
+      },
+      "key_takeaway": {
+        "en": "Assembly Members = 299.",
+        "hi": "संविधान सभा के सदस्य = 299।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "Which of these is the introductory statement of the Constitution that contains its values?",
+        "hi": "संविधान का वह परिचयात्मक विवरण कौन सा है जिसमें इसके मूल्य समाहित हैं?"
+      },
+      "options": {
+        "a": {"en": "Articles", "hi": "अनुच्छेद"},
+        "b": {"en": "Preamble", "hi": "प्रस्तावना (Preamble)"},
+        "c": {"en": "Schedules", "hi": "अनुसूचियाँ"},
+        "d": {"en": "Amendments", "hi": "संशोधन"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It starts with the words 'We, the people of India...'",
+        "hi": "इसकी शुरुआत 'हम भारत के लोग...' शब्दों से होती है।"
+      },
+      "explanation": {
+        "en": "The Preamble is like a poem on democracy. It contains the philosophy on which the entire Constitution has been built.",
+        "hi": "प्रस्तावना संविधान का वह शुरुआती हिस्सा है जो संविधान के दर्शन को बताता है।"
+      },
+      "key_takeaway": {
+        "en": "Preamble = Soul of the Constitution.",
+        "hi": "प्रस्तावना = संविधान की आत्मा।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "What does the term 'Sovereign' mean in the Preamble?",
+        "hi": "प्रस्तावना में 'प्रभुत्वसंपन्न' (Sovereign) शब्द का क्या अर्थ है?"
+      },
+      "options": {
+        "a": {"en": "People have supreme right to make decisions", "hi": "लोगों को निर्णय लेने का सर्वोच्च अधिकार है"},
+        "b": {"en": "Head of state is an elected person", "hi": "राष्ट्राध्यक्ष एक निर्वाचित व्यक्ति होता है"},
+        "c": {"en": "Government will not favor any religion", "hi": "सरकार किसी धर्म का पक्ष नहीं लेगी"},
+        "d": {"en": "Wealth should be shared equally", "hi": "संपत्ति का समान बंटवारा होना चाहिए"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "No external power can dictate the government of India.",
+        "hi": "कोई भी बाहरी शक्ति भारत सरकार को आदेश नहीं दे सकती।"
+      },
+      "explanation": {
+        "en": "Sovereign means that people have the supreme right to make decisions on internal as well as external matters.",
+        "hi": "प्रभुत्वसंपन्न का अर्थ है कि भारत अपने फैसले लेने के लिए स्वतंत्र है और किसी बाहरी शक्ति के अधीन नहीं है।"
+      },
+      "key_takeaway": {
+        "en": "Sovereign = Supreme decision making power.",
+        "hi": "प्रभुत्वसंपन्न = सर्वोच्च निर्णय लेने की शक्ति।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "The word 'Republic' in the Preamble indicates that:",
+        "hi": "प्रस्तावना में 'गणराज्य' (Republic) शब्द इंगित करता है कि:"
+      },
+      "options": {
+        "a": {"en": "The head of the state is a hereditary ruler", "hi": "राष्ट्राध्यक्ष एक वंशानुगत शासक होता है"},
+        "b": {"en": "The head of the state is an elected person", "hi": "राष्ट्राध्यक्ष एक निर्वाचित व्यक्ति होता है"},
+        "c": {"en": "Citizens are free to follow any religion", "hi": "नागरिक किसी भी धर्म को मानने के लिए स्वतंत्र हैं"},
+        "d": {"en": "There are no social inequalities", "hi": "कोई सामाजिक असमानता नहीं है"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "India is not a monarchy.",
+        "hi": "भारत एक राजशाही नहीं है।"
+      },
+      "explanation": {
+        "en": "Republic means the head of the state is an elected person and not a hereditary ruler like a King.",
+        "hi": "गणराज्य का अर्थ है कि शासन का प्रमुख व्यक्ति चुना हुआ होगा, न कि किसी वंश का।"
+      },
+      "key_takeaway": {
+        "en": "Republic = Elected Head of State.",
+        "hi": "गणराज्य = निर्वाचित राष्ट्राध्यक्ष।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "Which term in the Preamble ensures that no citizen is treated as inferior on the basis of caste, religion and gender?",
+        "hi": "प्रस्तावना में कौन सा शब्द यह सुनिश्चित करता है कि जाति, धर्म और लिंग के आधार पर किसी भी नागरिक के साथ हीन व्यवहार नहीं किया जाता है?"
+      },
+      "options": {
+        "a": {"en": "Liberty", "hi": "स्वतंत्रता"},
+        "b": {"en": "Justice", "hi": "न्याय (Justice)"},
+        "c": {"en": "Equality", "hi": "समता (Equality)"},
+        "d": {"en": "Fraternity", "hi": "बंधुता"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Social, economic and political aspects are covered under this.",
+        "hi": "इसके अंतर्गत सामाजिक, आर्थिक और राजनीतिक पहलू शामिल हैं।"
+      },
+      "explanation": {
+        "en": "Justice (Social) means citizens cannot be discriminated against on the grounds of caste, religion and gender.",
+        "hi": "न्याय का अर्थ है कि किसी के साथ भेदभाव नहीं होगा और सरकार पिछड़ों के कल्याण के लिए काम करेगी।"
+      },
+      "key_takeaway": {
+        "en": "Justice = No discrimination.",
+        "hi": "न्याय = कोई भेदभाव नहीं।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "What is a 'Constitutional Amendment'?",
+        "hi": "'संविधान संशोधन' (Constitutional Amendment) क्या है?"
+      },
+      "options": {
+        "a": {"en": "A new law passed by the King", "hi": "राजा द्वारा पारित एक नया कानून"},
+        "b": {"en": "A change in the constitution made by the supreme legislative body", "hi": "सर्वोच्च विधायी निकाय द्वारा संविधान में किया गया बदलाव"},
+        "c": {"en": "The cancellation of the constitution", "hi": "संविधान को रद्द करना"},
+        "d": {"en": "An order from the Supreme Court", "hi": "सुप्रीम कोर्ट का एक आदेश"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It allows the constitution to stay updated with changing times.",
+        "hi": "यह संविधान को बदलते समय के साथ अद्यतन रहने की अनुमति देता है।"
+      },
+      "explanation": {
+        "en": "A change in the constitution made by the supreme legislative body (Parliament in India) is called a constitutional amendment.",
+        "hi": "समय-समय पर संविधान में किए जाने वाले बदलावों को संविधान संशोधन कहते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Amendment = Modification of Constitutional law.",
+        "hi": "संशोधन = संवैधानिक कानून में बदलाव।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "Which of these was NOT a member of the Constituent Assembly?",
+        "hi": "इनमें से कौन संविधान सभा के सदस्य नहीं थे?"
+      },
+      "options": {
+        "a": {"en": "Mahatma Gandhi", "hi": "महात्मा गांधी"},
+        "b": {"en": "Jawaharlal Nehru", "hi": "जवाहरलाल नेहरू"},
+        "c": {"en": "Sardar Patel", "hi": "सरदार पटेल"},
+        "d": {"en": "Abul Kalam Azad", "hi": "अबुल कलाम आजाद"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "However, many members followed his vision and ideas.",
+        "hi": "हालांकि, कई सदस्यों ने उनके दृष्टिकोण और विचारों का पालन किया।"
+      },
+      "explanation": {
+        "en": "Mahatma Gandhi was not a member of the Constituent Assembly, yet there were many members who followed his vision.",
+        "hi": "महात्मा गांधी संविधान सभा के सदस्य नहीं थे, फिर भी उनकी सोच का संविधान पर गहरा प्रभाव था।"
+      },
+      "key_takeaway": {
+        "en": "Non-member = Mahatma Gandhi.",
+        "hi": "गैर-सदस्य = महात्मा गांधी।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "In 1928, who drafted a constitution for India with eight other Congress leaders?",
+        "hi": "1928 में, आठ अन्य कांग्रेस नेताओं के साथ भारत के लिए संविधान का मसौदा किसने तैयार किया था?"
+      },
+      "options": {
+        "a": {"en": "Mahatma Gandhi", "hi": "महात्मा गांधी"},
+        "b": {"en": "Motilal Nehru", "hi": "मोतीलाल नेहरू"},
+        "c": {"en": "B.R. Ambedkar", "hi": "बी.आर. अंबेडकर"},
+        "d": {"en": "Subhash Chandra Bose", "hi": "सुभाष चंद्र बोस"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He was the father of India's first Prime Minister.",
+        "hi": "वे भारत के पहले प्रधानमंत्री के पिता थे।"
+      },
+      "explanation": {
+        "en": "In 1928, Motilal Nehru and eight other Congress leaders drafted a constitution for India.",
+        "hi": "1928 में मोतीलाल नेहरू और कुछ अन्य नेताओं ने भारत के लिए एक संविधान का मसौदा बनाया था।"
+      },
+      "key_takeaway": {
+        "en": "1928 Draft = Motilal Nehru.",
+        "hi": "1928 मसौदा = मोतीलाल नेहरू।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "The Karachi session of the Indian National Congress in 1931 dwelt on:",
+        "hi": "1931 में भारतीय राष्ट्रीय कांग्रेस के कराची अधिवेशन में किस पर चर्चा हुई थी?"
+      },
+      "options": {
+        "a": {"en": "The Quit India Movement", "hi": "भारत छोड़ो आंदोलन"},
+        "b": {"en": "How independent India’s constitution should look like", "hi": "स्वतंत्र भारत का संविधान कैसा दिखना चाहिए"},
+        "c": {"en": "The partition of India", "hi": "भारत का विभाजन"},
+        "d": {"en": "Forming the Indian National Army", "hi": "आजाद हिंद फौज का गठन"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It included values like universal adult franchise and right to freedom.",
+        "hi": "इसमें सार्वभौमिक वयस्क मताधिकार और स्वतंत्रता के अधिकार जैसे मूल्य शामिल थे।"
+      },
+      "explanation": {
+        "en": "In 1931, the resolution at the Karachi session of the INC dwelt on how independent India’s constitution should look like.",
+        "hi": "कराची अधिवेशन में आजाद भारत के संविधान की रूपरेखा पर विचार किया गया था।"
+      },
+      "key_takeaway": {
+        "en": "Karachi Session (1931) = Vision for Independence Constitution.",
+        "hi": "कराची अधिवेशन (1931) = स्वतंत्र संविधान के लिए दृष्टिकोण।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "The Indian Constitution adopted many institutional details and procedures from colonial laws like:",
+        "hi": "भारतीय संविधान ने औपनिवेशिक कानूनों से कई संस्थागत विवरण और प्रक्रियाएं अपनाईं, जैसे:"
+      },
+      "options": {
+        "a": {"en": "Government of India Act, 1935", "hi": "भारत सरकार अधिनियम, 1935"},
+        "b": {"en": "The Rowlatt Act", "hi": "रौलट एक्ट"},
+        "c": {"en": "The Vernacular Press Act", "hi": "वर्नाक्यूलर प्रेस एक्ट"},
+        "d": {"en": "Arm's Act", "hi": "आर्म्स एक्ट"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "This British law provided much of the structural framework of the constitution.",
+        "hi": "इस ब्रिटिश कानून ने संविधान के अधिकांश संरचनात्मक ढांचे को प्रदान किया था।"
+      },
+      "explanation": {
+        "en": "Many institutional details and procedures from colonial laws like the Government of India Act, 1935 were adopted in the Indian Constitution.",
+        "hi": "1935 के भारत सरकार कानून से भारतीय संविधान में बहुत सारी व्यवस्थाएँ ली गईं।"
+      },
+      "key_takeaway": {
+        "en": "Constitutional Source = Govt of India Act, 1935.",
+        "hi": "संवैधानिक स्रोत = भारत सरकार अधिनियम, 1935।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "The idea of Preamble in the Indian Constitution was inspired by the constitution of which country?",
+        "hi": "भारतीय संविधान में प्रस्तावना का विचार किस देश के संविधान से प्रेरित था?"
+      },
+      "options": {
+        "a": {"en": "UK", "hi": "यूके"},
+        "b": {"en": "USA", "hi": "यूएसए (अमेरिका)"},
+        "c": {"en": "France", "hi": "फ्रांस"},
+        "d": {"en": "Russia", "hi": "रूस"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Most countries in the contemporary world have followed this model.",
+        "hi": "समकालीन दुनिया के अधिकांश देशों ने इसी मॉडल का अनुसरण किया है।"
+      },
+      "explanation": {
+        "en": "Taking inspiration from American model, most countries in the contemporary world have chosen to begin their constitutions with a Preamble.",
+        "hi": "अमेरिकी संविधान से प्रेरणा लेकर दुनिया के कई देशों ने अपने संविधान में प्रस्तावना को शामिल किया।"
+      },
+      "key_takeaway": {
+        "en": "Preamble Inspiration = USA.",
+        "hi": "प्रस्तावना की प्रेरणा = अमेरिका।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "The Bill of Rights in the US Constitution inspired which part of the Indian Constitution?",
+        "hi": "अमेरिकी संविधान के 'बिल ऑफ राइट्स' ने भारतीय संविधान के किस भाग को प्रेरित किया?"
+      },
+      "options": {
+        "a": {"en": "Preamble", "hi": "प्रस्तावना"},
+        "b": {"en": "Fundamental Rights", "hi": "मौलिक अधिकार"},
+        "c": {"en": "Directive Principles", "hi": "नीति निर्देशक तत्व"},
+        "d": {"en": "Parliamentary system", "hi": "संसदीय प्रणाली"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "These are the basic rights guaranteed to every citizen.",
+        "hi": "ये प्रत्येक नागरिक को दिए जाने वाले बुनियादी अधिकार हैं।"
+      },
+      "explanation": {
+        "en": "The Bill of Rights in the US inspired the Fundamental Rights in the Indian Constitution.",
+        "hi": "अमेरिकी 'बिल ऑफ राइट्स' ने भारत के मौलिक अधिकारों के निर्माण में मदद की।"
+      },
+      "key_takeaway": {
+        "en": "Rights Inspiration = US Bill of Rights.",
+        "hi": "अधिकारों की प्रेरणा = अमेरिकी बिल ऑफ राइट्स।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "What did B.R. Ambedkar mean by 'Tryst with Destiny'?",
+        "hi": "बी.आर. अंबेडकर का 'नियति के साथ साक्षात्कार' (Tryst with Destiny) से क्या तात्पर्य था?"
+      },
+      "options": {
+        "a": {"en": "A speech given by him on Independence", "hi": "स्वतंत्रता पर उनके द्वारा दिया गया भाषण"},
+        "b": {"en": "Actually, this famous speech was given by Jawaharlal Nehru", "hi": "वास्तव में, यह प्रसिद्ध भाषण जवाहरलाल नेहरू ने दिया था"},
+        "c": {"en": "A book written by him", "hi": "उनके द्वारा लिखी गई एक पुस्तक"},
+        "d": {"en": "A social movement", "hi": "एक सामाजिक आंदोलन"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It was delivered on the midnight of 14-15 August 1947.",
+        "hi": "यह 14-15 अगस्त 1947 की मध्यरात्रि को दिया गया था।"
+      },
+      "explanation": {
+        "en": "The famous 'Tryst with Destiny' speech was given by Jawaharlal Nehru to the Constituent Assembly on the eve of Independence.",
+        "hi": "'ट्रिस्ट विद डेस्टिनी' (भाग्य के साथ वादा) नेहरू का प्रसिद्ध भाषण था।"
+      },
+      "key_takeaway": {
+        "en": "Tryst with Destiny = Nehru's Independence speech.",
+        "hi": "ट्रिस्ट विद डेस्टिनी = नेहरू का स्वतंत्रता भाषण।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "The values of Liberty, Equality and Fraternity were taken from which revolution?",
+        "hi": "स्वतंत्रता, समानता और बंधुता के मूल्य किस क्रांति से लिए गए थे?"
+      },
+      "options": {
+        "a": {"en": "Russian Revolution", "hi": "रूसी क्रांति"},
+        "b": {"en": "French Revolution", "hi": "फ्रांसीसी क्रांति (French)"},
+        "c": {"en": "American Revolution", "hi": "अमेरिकी क्रांति"},
+        "d": {"en": "Industrial Revolution", "hi": "औद्योगिक क्रांति"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This revolution started in 1789.",
+        "hi": "यह क्रांति 1789 में शुरू हुई थी।"
+      },
+      "explanation": {
+        "en": "The ideals of the French Revolution (Liberty, Equality, Fraternity) deeply influenced the Indian constitution-makers.",
+        "hi": "फ्रांसीसी क्रांति के आदर्शों का भारतीय संविधान निर्माताओं पर गहरा असर था।"
+      },
+      "key_takeaway": {
+        "en": "Values Source = French Revolution.",
+        "hi": "मूल्यों का स्रोत = फ्रांसीसी क्रांति।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "The Preamble to the Constitution of India describes India as a 'Secular' state. What does this mean?",
+        "hi": "भारत के संविधान की प्रस्तावना भारत को एक 'पंथनिरपेक्ष' (Secular) राज्य बताती है। इसका क्या अर्थ है?"
+      },
+      "options": {
+        "a": {"en": "The state has no official religion", "hi": "राज्य का कोई आधिकारिक धर्म नहीं है"},
+        "b": {"en": "The state promotes one specific religion", "hi": "राज्य एक विशिष्ट धर्म को बढ़ावा देता है"},
+        "c": {"en": "Citizens cannot follow any religion", "hi": "नागरिक किसी धर्म का पालन नहीं कर सकते"},
+        "d": {"en": "Religious leaders rule the country", "hi": "धार्मिक नेता देश पर शासन करते हैं"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "Government treats all religious beliefs with equal respect.",
+        "hi": "सरकार सभी धार्मिक विश्वासों को समान सम्मान देती है।"
+      },
+      "explanation": {
+        "en": "Secular means citizens have complete freedom to follow any religion. But there is no official religion. Government treats all religious beliefs and practices with equal respect.",
+        "hi": "पंथनिरपेक्ष का अर्थ है कि सरकार का अपना कोई धर्म नहीं है और वह सभी धर्मों को समान मानती है।"
+      },
+      "key_takeaway": {
+        "en": "Secular = Equal respect for all religions.",
+        "hi": "पंथनिरपेक्ष = सभी धर्मों के लिए समान सम्मान।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "What does the term 'Socialist' in the Preamble imply?",
+        "hi": "प्रस्तावना में 'समाजवादी' (Socialist) शब्द का क्या अर्थ है?"
+      },
+      "options": {
+        "a": {"en": "Wealth is generated socially and should be shared equally by society", "hi": "संपत्ति सामाजिक रूप से पैदा होती है और समाज द्वारा समान रूप से साझा की जानी चाहिए"},
+        "b": {"en": "Only government can own property", "hi": "केवल सरकार ही संपत्ति की मालिक हो सकती है"},
+        "c": {"en": "Private property is banned", "hi": "निजी संपत्ति प्रतिबंधित है"},
+        "d": {"en": "The rich should give all their money to the poor", "hi": "अमीरों को अपना सारा पैसा गरीबों को दे देना चाहिए"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "The government should regulate ownership of land and industry to reduce inequalities.",
+        "hi": "सरकार को असमानताओं को कम करने के लिए जमीन और उद्योगों के स्वामित्व को विनियमित करना चाहिए।"
+      },
+      "explanation": {
+        "en": "Socialist means wealth is generated socially and should be shared equally. Government should regulate ownership to reduce socio-economic inequalities.",
+        "hi": "समाजवादी का अर्थ है कि समाज में आर्थिक असमानता कम होनी चाहिए और संसाधनों का लाभ सबको मिलना चाहिए।"
+      },
+      "key_takeaway": {
+        "en": "Socialist = Reduction of economic inequality.",
+        "hi": "समाजवादी = आर्थिक असमानता में कमी।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "Which of these guides the government in making laws and policies and is found in the Preamble?",
+        "hi": "इनमें से कौन सरकार को कानून और नीतियां बनाने में मार्गदर्शन करता है और प्रस्तावना में पाया जाता है?"
+      },
+      "options": {
+        "a": {"en": "Police force", "hi": "पुलिस बल"},
+        "b": {"en": "Political parties", "hi": "राजनीतिक दल"},
+        "c": {"en": "Basic Values", "hi": "बुनियादी मूल्य (Basic Values)"},
+        "d": {"en": "Religious books", "hi": "धार्मिक पुस्तकें"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "Values like Liberty, Justice, and Equality are included here.",
+        "hi": "स्वतंत्रता, न्याय और समानता जैसे मूल्य यहाँ शामिल हैं।"
+      },
+      "explanation": {
+        "en": "The Preamble contains the basic values that guide all the articles of the Indian Constitution.",
+        "hi": "संविधान की प्रस्तावना में वे बुनियादी मूल्य दिए गए हैं जो पूरे संविधान का आधार हैं।"
+      },
+      "key_takeaway": {
+        "en": "Preamble = Guide for law making.",
+        "hi": "प्रस्तावना = कानून बनाने के लिए मार्गदर्शक।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "The 'Philosophy' of the Indian Constitution is mainly found in:",
+        "hi": "भारतीय संविधान का 'दर्शन' (Philosophy) मुख्य रूप से किसमें पाया जाता है?"
+      },
+      "options": {
+        "a": {"en": "Fundamental Duties", "hi": "मौलिक कर्तव्य"},
+        "b": {"en": "Preamble", "hi": "प्रस्तावना (Preamble)"},
+        "c": {"en": "Schedules", "hi": "अनुसूचियाँ"},
+        "d": {"en": "Ordinances", "hi": "अध्यादेश"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It summarizes the core ideals of the nation.",
+        "hi": "यह राष्ट्र के मूल आदर्शों का सार प्रस्तुत करता है।"
+      },
+      "explanation": {
+        "en": "The Preamble summarizes the entire philosophy of the constitution in a short introductory statement.",
+        "hi": "संविधान की प्रस्तावना को संविधान का दर्शन कहा जाता है।"
+      },
+      "key_takeaway": {
+        "en": "Philosophy = Contained in the Preamble.",
+        "hi": "दर्शन = प्रस्तावना में समाहित।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "Why is the Indian Constitution considered a living document?",
+        "hi": "भारतीय संविधान को एक जीवंत दस्तावेज (Living document) क्यों माना जाता है?"
+      },
+      "options": {
+        "a": {"en": "Because it can be changed/amended according to the needs of the time", "hi": "क्योंकि इसे समय की आवश्यकताओं के अनुसार बदला/संशोधित किया जा सकता है"},
+        "b": {"en": "Because it is very long", "hi": "क्योंकि यह बहुत लंबा है"},
+        "c": {"en": "Because it was written by living people", "hi": "क्योंकि इसे जीवित लोगों द्वारा लिखा गया था"},
+        "d": {"en": "Because it is kept in a safe place", "hi": "क्योंकि इसे सुरक्षित स्थान पर रखा गया है"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "The provision of amendments makes it dynamic.",
+        "hi": "संशोधन का प्रावधान इसे गतिशील बनाता है।"
+      },
+      "explanation": {
+        "en": "A constitution is not just a static law; it must reflect changes in society through constitutional amendments.",
+        "hi": "संविधान समय के साथ बदलती जरूरतों के हिसाब से खुद को ढाल सकता है, इसलिए इसे जीवंत कहते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Living Document = Dynamic and Amendable.",
+        "hi": "जीवंत दस्तावेज = गतिशील और संशोधनीय।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "Who wrote 'Young India' in 1931 expressing his expectations from the Constitution?",
+        "hi": "संविधान से अपनी अपेक्षाओं को व्यक्त करते हुए 1931 में 'यंग इंडिया' (Young India) किसने लिखा था?"
+      },
+      "options": {
+        "a": {"en": "Jawaharlal Nehru", "hi": "जवाहरलाल नेहरू"},
+        "b": {"en": "Mahatma Gandhi", "hi": "महात्मा गांधी"},
+        "c": {"en": "B.R. Ambedkar", "hi": "बी.आर. अंबेडकर"},
+        "d": {"en": "Sardar Patel", "hi": "सरदार पटेल"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He wanted a constitution that would release India from all thraldom and patronage.",
+        "hi": "वे एक ऐसा संविधान चाहते थे जो भारत को हर तरह की गुलामी और संरक्षण से मुक्त करे।"
+      },
+      "explanation": {
+        "en": "In 1931, Mahatma Gandhi wrote in his magazine 'Young India' what he expected from the constitution of India.",
+        "hi": "गांधीजी ने 'यंग इंडिया' पत्रिका के माध्यम से संविधान के लिए अपनी इच्छाएँ बताई थीं।"
+      },
+      "key_takeaway": {
+        "en": "Young India (1931) = Mahatma Gandhi's vision.",
+        "hi": "यंग इंडिया (1931) = महात्मा गांधी का दृष्टिकोण।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "The apartheid regime in South Africa ended because of:",
+        "hi": "दक्षिण अफ्रीका में रंगभेद शासन का अंत किस कारण हुआ?"
+      },
+      "options": {
+        "a": {"en": "Internal protests and strikes", "hi": "आंतरिक विरोध और हड़तालें"},
+        "b": {"en": "International pressure and sanctions", "hi": "अंतरराष्ट्रीय दबाव और प्रतिबंध"},
+        "c": {"en": "Change in the heart of white rulers", "hi": "श्वेत शासकों के हृदय परिवर्तन"},
+        "d": {"en": "Both a and b", "hi": "a और b दोनों"}
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "As protests increased, the government realized they could no longer keep the blacks under their rule.",
+        "hi": "जैसे-जैसे विरोध बढ़ा, सरकार को अहसास हुआ कि वे अब अश्वेतों को अपने अधीन नहीं रख सकते।"
+      },
+      "explanation": {
+        "en": "Increased protests and international isolation forced the white regime to change its policies, release Mandela, and repeal discriminatory laws.",
+        "hi": "अंदरूनी विरोध और बाहरी दबाव के कारण गोरी सरकार को झुकना पड़ा और नेल्सन मंडेला को रिहा करना पड़ा।"
+      },
+      "key_takeaway": {
+        "en": "End of Apartheid = Collective struggle and global support.",
+        "hi": "रंगभेद का अंत = सामूहिक संघर्ष और वैश्विक समर्थन।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "Which of these countries has the largest written constitution in the world?",
+        "hi": "इनमें से किस देश का संविधान दुनिया का सबसे बड़ा लिखित संविधान है?"
+      },
+      "options": {
+        "a": {"en": "USA", "hi": "अमेरिका"},
+        "b": {"en": "UK", "hi": "यूके"},
+        "c": {"en": "India", "hi": "भारत (India)"},
+        "d": {"en": "South Africa", "hi": "दक्षिण अफ्रीका"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "It is a very long and detailed document.",
+        "hi": "यह एक बहुत लंबा और विस्तृत दस्तावेज है।"
+      },
+      "explanation": {
+        "en": "The Indian Constitution is the longest written constitution in the world, containing detailed provisions about the functioning of the state.",
+        "hi": "भारत का संविधान दुनिया का सबसे बड़ा और विस्तृत लिखित संविधान है।"
+      },
+      "key_takeaway": {
+        "en": "World's Largest Constitution = India.",
+        "hi": "दुनिया का सबसे बड़ा संविधान = भारत।"
+      }
+    }
+  ]
+}

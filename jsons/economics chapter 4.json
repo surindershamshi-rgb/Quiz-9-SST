@@ -1,0 +1,795 @@
+{
+  "metadata": {
+    "chapter_number": 4,
+    "chapter_title": "Food Security in India",
+    "chapter_title_hindi": "भारत में खाद्य सुरक्षा",
+    "subject": "Economics - Class 9",
+    "board": "CBSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.0",
+    "naming_convention": "09_EC_CH04_FoodSecurity_30MCQ.json"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "What are the three dimensions of food security?",
+        "hi": "खाद्य सुरक्षा के तीन आयाम कौन से हैं?"
+      },
+      "options": {
+        "a": {"en": "Availability, Accessibility, and Affordability", "hi": "उपलब्धता, पहुँच और सामर्थ्य"},
+        "b": {"en": "Production, Consumption, and Investment", "hi": "उत्पादन, उपभोग और निवेश"},
+        "c": {"en": "Wheat, Rice, and Pulses", "hi": "गेहूँ, चावल और दालें"},
+        "d": {"en": "Rural, Urban, and Global", "hi": "ग्रामीण, शहरी और वैश्विक"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "Food security means food for all people at all times.",
+        "hi": "खाद्य सुरक्षा का अर्थ है सभी लोगों के लिए हर समय भोजन की उपलब्धता।"
+      },
+      "explanation": {
+        "en": "Food security has three dimensions: Availability (food production within the country), Accessibility (food is within reach), and Affordability (individuals have enough money to buy food).",
+        "hi": "खाद्य सुरक्षा के तीन आयाम हैं: खाद्य उपलब्धता, खाद्य तक पहुँच और उसे खरीदने का सामर्थ्य।"
+      },
+      "key_takeaway": {
+        "en": "Food Security = Available + Accessible + Affordable.",
+        "hi": "खाद्य सुरक्षा = उपलब्धता + पहुँच + सामर्थ्य।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "Which group of people is most food-insecure in India?",
+        "hi": "भारत में कौन सा समूह खाद्य की दृष्टि से सर्वाधिक असुरक्षित है?"
+      },
+      "options": {
+        "a": {"en": "Landless laborers and casual workers", "hi": "भूमिहीन मजदूर और दिहाड़ी मजदूर"},
+        "b": {"en": "Government employees", "hi": "सरकारी कर्मचारी"},
+        "c": {"en": "Large farmers", "hi": "बड़े किसान"},
+        "d": {"en": "Business owners", "hi": "व्यवसाय के मालिक"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "In urban areas, these are people employed in ill-paid occupations.",
+        "hi": "शहरी क्षेत्रों में ये वे लोग हैं जो कम वेतन वाले व्यवसायों में लगे हुए हैं।"
+      },
+      "explanation": {
+        "en": "The worst affected groups are landless people with little or no land, traditional artisans, and casual labourers in both rural and urban areas.",
+        "hi": "भूमिहीन खेतिहर मजदूर, पारंपरिक दस्तकार और अनियमित मजदूर खाद्य की दृष्टि से सबसे ज्यादा असुरक्षित होते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Vulnerable Groups = Landless and Casual Laborers.",
+        "hi": "असुरक्षित समूह = भूमिहीन और दिहाड़ी मजदूर।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "The most devastating famine that occurred in India in 1943 was:",
+        "hi": "1943 में भारत में आया सबसे भयानक अकाल कौन सा था?"
+      },
+      "options": {
+        "a": {"en": "Famine of Odisha", "hi": "ओडिशा का अकाल"},
+        "b": {"en": "Famine of Bengal", "hi": "बंगाल का अकाल (Famine of Bengal)"},
+        "c": {"en": "Famine of Rajasthan", "hi": "राजस्थान का अकाल"},
+        "d": {"en": "Famine of Bihar", "hi": "बिहार का अकाल"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It killed thirty lakh people in the province of Bengal.",
+        "hi": "इसने बंगाल प्रांत में तीस लाख लोगों की जान ले ली थी।"
+      },
+      "explanation": {
+        "en": "The Famine of Bengal in 1943 was the most devastating famine in India, caused by a massive shortage of rice.",
+        "hi": "1943 का बंगाल का अकाल भारत का सबसे विनाशकारी अकाल था, जिसमें लाखों लोग मारे गए थे।"
+      },
+      "key_takeaway": {
+        "en": "Bengal Famine (1943) = 3 million deaths.",
+        "hi": "बंगाल का अकाल (1943) = 30 लाख मौतें।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "What is 'Buffer Stock'?",
+        "hi": "'बफर स्टॉक' (Buffer Stock) क्या है?"
+      },
+      "options": {
+        "a": {"en": "Stock of foodgrains procured by the government through FCI", "hi": "FCI के माध्यम से सरकार द्वारा खरीदे गए खाद्यान्न का भंडार"},
+        "b": {"en": "Stock of money in banks", "hi": "बैंकों में जमा धन का भंडार"},
+        "c": {"en": "Stock of weapons for the army", "hi": "सेना के लिए हथियारों का भंडार"},
+        "d": {"en": "Stock of clothes for the poor", "hi": "गरीबों के लिए कपड़ों का भंडार"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "It consists of wheat and rice purchased from farmers.",
+        "hi": "इसमें किसानों से खरीदे गए गेहूं और चावल शामिल होते हैं।"
+      },
+      "explanation": {
+        "en": "Buffer Stock is the stock of foodgrains, namely wheat and rice, procured by the government through the Food Corporation of India (FCI).",
+        "hi": "भारतीय खाद्य निगम (FCI) के माध्यम से सरकार जो अनाज का भंडार बनाती है, उसे बफर स्टॉक कहते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Buffer Stock = Government food reserve.",
+        "hi": "बफर स्टॉक = सरकारी खाद्य भंडार।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "The price at which the government purchases crops from farmers in advance of the sowing season is called:",
+        "hi": "बुवाई के मौसम से पहले सरकार किसानों से जिस कीमत पर फसल खरीदने की घोषणा करती है, उसे क्या कहते हैं?"
+      },
+      "options": {
+        "a": {"en": "Issue Price", "hi": "निर्गम कीमत"},
+        "b": {"en": "Market Price", "hi": "बाज़ार कीमत"},
+        "c": {"en": "Minimum Support Price (MSP)", "hi": "न्यूनतम समर्थन मूल्य (MSP)"},
+        "d": {"en": "Fair Price", "hi": "उचित मूल्य"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "It provides an incentive and security to farmers for raising the production of crops.",
+        "hi": "यह किसानों को फसलों का उत्पादन बढ़ाने के लिए प्रोत्साहन और सुरक्षा प्रदान करता है।"
+      },
+      "explanation": {
+        "en": "The Food Corporation of India purchases wheat and rice from farmers in states where there is surplus production at a pre-announced price called Minimum Support Price (MSP).",
+        "hi": "सरकार द्वारा घोषित वह न्यूनतम मूल्य जिस पर वह किसानों से अनाज खरीदने को तैयार होती है, MSP कहलाता है।"
+      },
+      "key_takeaway": {
+        "en": "MSP = Minimum price guaranteed to farmers.",
+        "hi": "MSP = किसानों को गारंटीकृत न्यूनतम मूल्य।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "What is the price at which the government distributes foodgrains to the poorer strata of society through ration shops?",
+        "hi": "राशन की दुकानों के माध्यम से समाज के गरीब तबके को सरकार जिस कीमत पर खाद्यान्न वितरित करती है, उसे क्या कहते हैं?"
+      },
+      "options": {
+        "a": {"en": "Issue Price", "hi": "निर्गम कीमत (Issue Price)"},
+        "b": {"en": "Minimum Support Price", "hi": "न्यूनतम समर्थन मूल्य"},
+        "c": {"en": "Retail Price", "hi": "खुदरा मूल्य"},
+        "d": {"en": "Profit Price", "hi": "लाभ मूल्य"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "This price is lower than the market price.",
+        "hi": "यह कीमत बाज़ार मूल्य से कम होती है।"
+      },
+      "explanation": {
+        "en": "Foodgrains are distributed through ration shops at a price lower than the market price, which is known as the Issue Price.",
+        "hi": "बाज़ार की कीमत से कम कीमत पर जब सरकार गरीबों को अनाज देती है, तो उसे निर्गम कीमत कहा जाता है।"
+      },
+      "key_takeaway": {
+        "en": "Issue Price = Subsidized price for the poor.",
+        "hi": "निर्गम कीमत = गरीबों के लिए रियायती मूल्य।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "The 'Public Distribution System' (PDS) is also known as:",
+        "hi": "'सार्वजनिक वितरण प्रणाली' (PDS) को और किस नाम से जाना जाता है?"
+      },
+      "options": {
+        "a": {"en": "Fair Price Shops / Ration Shops", "hi": "उचित दर वाली दुकानें / राशन की दुकानें"},
+        "b": {"en": "Supermarkets", "hi": "सुपरमार्केट"},
+        "c": {"en": "Wholesale Markets", "hi": "थोक बाज़ार"},
+        "d": {"en": "Departmental Stores", "hi": "विभागीय स्टोर"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "There are about 5.5 lakh of these shops all over India.",
+        "hi": "पूरे भारत में ऐसी लगभग 5.5 लाख दुकानें हैं।"
+      },
+      "explanation": {
+        "en": "The food procured by the FCI is distributed through government-regulated ration shops among the poorer sections of the society. This is called the Public Distribution System (PDS).",
+        "hi": "राशन की दुकानों को ही आधिकारिक तौर पर सार्वजनिक वितरण प्रणाली (PDS) कहा जाता है।"
+      },
+      "key_takeaway": {
+        "en": "PDS = Ration Shops.",
+        "hi": "PDS = राशन की दुकानें।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "What are the three important food intervention programmes introduced in India in the mid-1970s?",
+        "hi": "1970 के दशक के मध्य में भारत में शुरू किए गए तीन महत्वपूर्ण खाद्य हस्तक्षेप कार्यक्रम कौन से हैं?"
+      },
+      "options": {
+        "a": {"en": "PDS, ICDS, and FFW", "hi": "PDS, ICDS और FFW (काम के बदले अनाज)"},
+        "b": {"en": "HYV, MSP, and GDP", "hi": "HYV, MSP और GDP"},
+        "c": {"en": "FCI, NABARD, and RBI", "hi": "FCI, NABARD और RBI"},
+        "d": {"en": "NREGA, PMRY, and SGSY", "hi": "मनरेगा, PMRY और SGSY"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "They include Public Distribution System, Integrated Child Development Services, and Food for Work.",
+        "hi": "इनमें सार्वजनिक वितरण प्रणाली, एकीकृत बाल विकास सेवाएँ और काम के बदले अनाज शामिल हैं।"
+      },
+      "explanation": {
+        "en": "In the mid-1970s, three programmes were introduced: PDS, Integrated Child Development Services (ICDS), and Food-for-Work (FFW).",
+        "hi": "PDS, ICDS और 'काम के बदले अनाज' (FFW) योजनाएँ 70 के दशक में खाद्य सुरक्षा के लिए लाई गई थीं।"
+      },
+      "key_takeaway": {
+        "en": "Core Food Schemes = PDS, ICDS, FFW.",
+        "hi": "मुख्य खाद्य योजनाएँ = PDS, ICDS, FFW।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "Who introduced the 'Targeted Public Distribution System' (TPDS) in 1997?",
+        "hi": "1997 में 'लक्षित सार्वजनिक वितरण प्रणाली' (TPDS) किसने शुरू की थी?"
+      },
+      "options": {
+        "a": {"en": "The Government of India", "hi": "भारत सरकार"},
+        "b": {"en": "The United Nations", "hi": "संयुक्त राष्ट्र"},
+        "c": {"en": "The World Bank", "hi": "विश्व बैंक"},
+        "d": {"en": "The British Government", "hi": "ब्रिटिश सरकार"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "It was the first time that a differential price policy was adopted for poor and non-poor.",
+        "hi": "यह पहली बार था जब गरीबों और गैर-गरीबों के लिए अलग-अलग मूल्य नीति अपनाई गई थी।"
+      },
+      "explanation": {
+        "en": "In June 1997, the Government of India launched the Targeted Public Distribution System (TPDS) to provide benefits specifically to the poor (BPL families).",
+        "hi": "1997 में सरकार ने TPDS शुरू किया ताकि गरीबों (BPL) को विशेष रूप से लाभ पहुँचाया जा सके।"
+      },
+      "key_takeaway": {
+        "en": "TPDS (1997) = Focused on BPL (Below Poverty Line).",
+        "hi": "TPDS (1997) = BPL (गरीबी रेखा से नीचे) परिवारों पर केंद्रित।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "The Antyodaya Anna Yojana (AAY) was launched in December 2000 for which group?",
+        "hi": "दिसंबर 2000 में अंत्योदय अन्न योजना (AAY) किस समूह के लिए शुरू की गई थी?"
+      },
+      "options": {
+        "a": {"en": "One crore of the poorest among the BPL families", "hi": "BPL परिवारों में से एक करोड़ सबसे गरीब लोग"},
+        "b": {"en": "All citizens of India", "hi": "भारत के सभी नागरिक"},
+        "c": {"en": "Government employees only", "hi": "केवल सरकारी कर्मचारी"},
+        "d": {"en": "Rich farmers", "hi": "अमीर किसान"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "It targets the 'poorest of the poor'.",
+        "hi": "यह 'गरीबों में सबसे गरीब' को लक्षित करता है।"
+      },
+      "explanation": {
+        "en": "AAY was launched in 2000. Under the scheme, one crore of the poorest among the BPL families were identified and provided highly subsidized foodgrains.",
+        "hi": "अंत्योदय अन्न योजना सबसे गरीब परिवारों को बहुत कम दाम पर अनाज देने के लिए शुरू की गई थी।"
+      },
+      "key_takeaway": {
+        "en": "AAY = For poorest of the poor.",
+        "hi": "AAY = निर्धनों में भी सबसे निर्धन के लिए।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "What is 'Chronic Hunger'?",
+        "hi": "'दीर्घकालिक भुखमरी' (Chronic Hunger) क्या है?"
+      },
+      "options": {
+        "a": {"en": "Hunger related to cycles of food growing and harvesting", "hi": "भोजन उगाने और कटाई के चक्र से संबंधित भूख"},
+        "b": {"en": "Hunger caused by consistently inadequate diet in terms of quantity and quality", "hi": "मात्रा और गुणवत्ता के मामले में लगातार अपर्याप्त आहार के कारण होने वाली भूख"},
+        "c": {"en": "Hunger during a flood only", "hi": "केवल बाढ़ के दौरान भूख"},
+        "d": {"en": "Feeling hungry after a long walk", "hi": "लंबी सैर के बाद भूख लगना"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Poor people suffer from this because of their very low income.",
+        "hi": "गरीब लोग अपनी बहुत कम आय के कारण इससे पीड़ित होते हैं।"
+      },
+      "explanation": {
+        "en": "Chronic hunger is a consequence of diets persistently inadequate in terms of quantity and/or quality. It is a permanent feature for the very poor.",
+        "hi": "लगातार पौष्टिक या पर्याप्त भोजन न मिलने के कारण होने वाली भुखमरी को दीर्घकालिक भुखमरी कहते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Chronic Hunger = Persistent inadequacy of food.",
+        "hi": "दीर्घकालिक भुखमरी = भोजन की निरंतर कमी।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "What is 'Seasonal Hunger'?",
+        "hi": "'मौसमी भुखमरी' (Seasonal Hunger) क्या है?"
+      },
+      "options": {
+        "a": {"en": "Hunger related to cycles of food growing and harvesting", "hi": "भोजन उगाने और कटाई के चक्र से संबंधित भूख (Seasonal)"},
+        "b": {"en": "Hunger that lasts for a whole decade", "hi": "एक पूरे दशक तक रहने वाली भूख"},
+        "c": {"en": "Hunger caused by eating too much", "hi": "बहुत अधिक खाने से होने वाली भूख"},
+        "d": {"en": "Hunger only in winters", "hi": "केवल सर्दियों में भूख"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "It is common in rural areas during months when there is no work in the fields.",
+        "hi": "यह ग्रामीण क्षेत्रों में उन महीनों के दौरान आम है जब खेतों में कोई काम नहीं होता है।"
+      },
+      "explanation": {
+        "en": "Seasonal hunger is related to cycles of food growing and harvesting. In rural areas, it occurs when there is less work. In urban areas, it occurs for casual workers during rainy seasons.",
+        "hi": "खेती के काम में जब मंदी होती है, तब गरीब किसानों और मजदूरों को होने वाली भूख को मौसमी भुखमरी कहते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Seasonal Hunger = Cycle-based lack of food/work.",
+        "hi": "मौसमी भुखमरी = कार्य/भोजन चक्र पर आधारित कमी।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "India became self-sufficient in foodgrains since the Green Revolution because of:",
+        "hi": "हरित क्रांति के बाद से भारत खाद्यान्न में आत्मनिर्भर क्यों हो गया?"
+      },
+      "options": {
+        "a": {"en": "Importing food from USA", "hi": "अमेरिका से भोजन आयात करना"},
+        "b": {"en": "The adoption of a variety of new crops and modern farming methods", "hi": "विभिन्न प्रकार की नई फसलों और आधुनिक खेती के तरीकों को अपनाना"},
+        "c": {"en": "Decrease in population", "hi": "जनसंख्या में कमी"},
+        "d": {"en": "Natural luck", "hi": "प्राकृतिक भाग्य"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Indian farmers started using HYV seeds and irrigation effectively.",
+        "hi": "भारतीय किसानों ने HYV बीजों और सिंचाई का प्रभावी ढंग से उपयोग करना शुरू कर दिया।"
+      },
+      "explanation": {
+        "en": "After the Green Revolution, India avoided famine even during adverse weather conditions. India has become self-sufficient in foodgrains due to a variety of crops grown all over the country.",
+        "hi": "हरित क्रांति के कारण भारत में अनाज का उत्पादन बहुत बढ़ गया, जिससे हम आत्मनिर्भर बन गए।"
+      },
+      "key_takeaway": {
+        "en": "Self-sufficiency = Success of Green Revolution.",
+        "hi": "आत्मनिर्भरता = हरित क्रांति की सफलता।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "In 1968, Indira Gandhi released a special stamp titled ________ to celebrate the success of the Green Revolution.",
+        "hi": "1968 में, इंदिरा गांधी ने हरित क्रांति की सफलता का जश्न मनाने के लिए ________ नामक एक विशेष डाक टिकट जारी किया।"
+      },
+      "options": {
+        "a": {"en": "Rice Revolution", "hi": "चावल क्रांति"},
+        "b": {"en": "Wheat Revolution", "hi": "गेहूं क्रांति (Wheat Revolution)"},
+        "c": {"en": "Green India", "hi": "हरित भारत"},
+        "d": {"en": "Food for All", "hi": "सभी के लिए भोजन"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The success was most impressive in the production of this specific grain.",
+        "hi": "सफलता इस विशिष्ट अनाज के उत्पादन में सबसे प्रभावशाली थी।"
+      },
+      "explanation": {
+        "en": "The success of the Green Revolution was officially recorded by releasing a special stamp entitled ‘Wheat Revolution’ by Indira Gandhi in July 1968.",
+        "hi": "गेहूं के उत्पादन में भारी वृद्धि के कारण 1968 में 'गेहूं क्रांति' का डाक टिकट जारी किया गया था।"
+      },
+      "key_takeaway": {
+        "en": "Wheat Revolution = Term for Green Revolution's wheat success.",
+        "hi": "गेहूं क्रांति = हरित क्रांति की सफलता का प्रतीक।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "What is the role of the Food Corporation of India (FCI)?",
+        "hi": "भारतीय खाद्य निगम (FCI) की क्या भूमिका है?"
+      },
+      "options": {
+        "a": {"en": "To produce food in government farms", "hi": "सरकारी खेतों में भोजन का उत्पादन करना"},
+        "b": {"en": "To purchase and store foodgrains for buffer stock", "hi": "बफर स्टॉक के लिए खाद्यान्न खरीदना और संग्रहीत करना"},
+        "c": {"en": "To sell food to other countries only", "hi": "केवल दूसरे देशों को भोजन बेचना"},
+        "d": {"en": "To control the prices of clothes", "hi": "कपड़ों की कीमतों को नियंत्रित करना"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "FCI buys wheat and rice from farmers at MSP.",
+        "hi": "FCI किसानों से MSP पर गेहूं और चावल खरीदता है।"
+      },
+      "explanation": {
+        "en": "FCI is responsible for procuring foodgrains from farmers in surplus states and maintaining a buffer stock to ensure food security.",
+        "hi": "FCI किसानों से अनाज खरीदकर उसका भंडार (स्टॉक) बनाने के लिए जिम्मेदार है।"
+      },
+      "key_takeaway": {
+        "en": "FCI = Procurement and Storage agency.",
+        "hi": "FCI = खरीद और भंडारण एजेंसी।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "What is a 'Ration Card'?",
+        "hi": "'राशन कार्ड' क्या है?"
+      },
+      "options": {
+        "a": {"en": "A card to travel in trains", "hi": "ट्रेनों में यात्रा करने के लिए एक कार्ड"},
+        "b": {"en": "An identity document for buying subsidized food from PDS", "hi": "PDS से रियायती भोजन खरीदने के लिए एक पहचान दस्तावेज"},
+        "c": {"en": "A credit card for luxury items", "hi": "लक्जरी वस्तुओं के लिए एक क्रेडिट कार्ड"},
+        "d": {"en": "A school report card", "hi": "स्कूल रिपोर्ट कार्ड"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "There are different types of these cards for BPL, APL, and Antyodaya families.",
+        "hi": "BPL, APL और अंत्योदय परिवारों के लिए ये कार्ड अलग-अलग प्रकार के होते हैं।"
+      },
+      "explanation": {
+        "en": "Ration cards are issued by the government to families to buy a stipulated amount of foodgrains and kerosene from ration shops at subsidized rates.",
+        "hi": "राशन कार्ड के जरिए परिवार सरकारी दुकान से कम दाम पर अनाज और तेल खरीद सकते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Ration Card = Access to subsidized food.",
+        "hi": "राशन कार्ड = रियायती भोजन तक पहुँच।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "How many types of ration cards are there in India based on economic status?",
+        "hi": "आर्थिक स्थिति के आधार पर भारत में कितने प्रकार के राशन कार्ड हैं?"
+      },
+      "options": {
+        "a": {"en": "Two", "hi": "दो"},
+        "b": {"en": "Three", "hi": "तीन (Three)"},
+        "c": {"en": "Four", "hi": "चार"},
+        "d": {"en": "One", "hi": "एक"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "They are: Antyodaya cards, BPL cards, and APL cards.",
+        "hi": "वे हैं: अंत्योदय कार्ड, BPL कार्ड और APL कार्ड।"
+      },
+      "explanation": {
+        "en": "There are three types of ration cards: (i) Antyodaya cards for the poorest of the poor, (ii) BPL cards for those below poverty line, and (iii) APL cards for all others.",
+        "hi": "भारत में तीन तरह के कार्ड होते हैं: अंत्योदय (सबसे गरीब), BPL (गरीबी रेखा से नीचे) और APL (बाकी सभी)।"
+      },
+      "key_takeaway": {
+        "en": "Types of Ration Cards = Antyodaya, BPL, APL.",
+        "hi": "राशन कार्ड के प्रकार = अंत्योदय, BPL, APL।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "Under the 'National Food Security Act, 2013', what percentage of the rural population is entitled to subsidized foodgrains?",
+        "hi": "'राष्ट्रीय खाद्य सुरक्षा अधिनियम, 2013' के तहत, ग्रामीण आबादी का कितना प्रतिशत रियायती खाद्यान्न का हकदार है?"
+      },
+      "options": {
+        "a": {"en": "50%", "hi": "50%"},
+        "b": {"en": "75%", "hi": "75% (Seventy-five)"},
+        "c": {"en": "100%", "hi": "100%"},
+        "d": {"en": "25%", "hi": "25%"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The percentage for urban population is 50%.",
+        "hi": "शहरी आबादी के लिए यह प्रतिशत 50% है।"
+      },
+      "explanation": {
+        "en": "The National Food Security Act, 2013 provides for food and nutritional security. It covers 75% of rural population and 50% of urban population.",
+        "hi": "2013 के कानून के अनुसार ग्रामीण भारत के 75% लोगों को सस्ता अनाज पाने का अधिकार है।"
+      },
+      "key_takeaway": {
+        "en": "NFSA 2013 = Legal right to food for 75% rural and 50% urban people.",
+        "hi": "NFSA 2013 = 75% ग्रामीण और 50% शहरी लोगों के लिए भोजन का कानूनी अधिकार।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "What is the main purpose of maintaining a Buffer Stock?",
+        "hi": "बफर स्टॉक बनाए रखने का मुख्य उद्देश्य क्या है?"
+      },
+      "options": {
+        "a": {"en": "To distribute foodgrains in deficit areas and during calamities", "hi": "कमी वाले क्षेत्रों में और आपदाओं के दौरान खाद्यान्न वितरित करने के लिए"},
+        "b": {"en": "To export all food to Europe", "hi": "सारा भोजन यूरोप को निर्यात करने के लिए"},
+        "c": {"en": "To let the food rot so prices increase", "hi": "भोजन को सड़ने देने के लिए ताकि कीमतें बढ़ें"},
+        "d": {"en": "To stop farmers from growing more food", "hi": "किसानों को अधिक भोजन उगाने से रोकने के लिए"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "It helps in resolving the problem of shortage of food during bad weather or disasters.",
+        "hi": "यह खराब मौसम या आपदाओं के दौरान भोजन की कमी की समस्या को हल करने में मदद करता है।"
+      },
+      "explanation": {
+        "en": "Buffer stock is maintained to distribute food in deficit areas and to resolve food shortages during periods of crop failure or natural calamities.",
+        "hi": "अकाल या आपदा के समय अनाज की कमी न हो, इसलिए बफर स्टॉक रखा जाता है।"
+      },
+      "key_takeaway": {
+        "en": "Buffer Stock Purpose = Food security during emergencies.",
+        "hi": "बफर स्टॉक का उद्देश्य = आपात स्थिति में खाद्य सुरक्षा।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "Who are the 'Academy of Development Science' (ADS) and what did they do in Maharashtra?",
+        "hi": "'अकादमी ऑफ डेवलपमेंट साइंस' (ADS) कौन हैं और उन्होंने महाराष्ट्र में क्या किया?"
+      },
+      "options": {
+        "a": {"en": "An NGO that facilitated a network of Grain Banks", "hi": "एक एनजीओ (NGO) जिसने अनाज बैंकों (Grain Banks) का नेटवर्क बनाने में मदद की"},
+        "b": {"en": "A military group", "hi": "एक सैन्य समूह"},
+        "c": {"en": "A political party", "hi": "एक राजनीतिक दल"},
+        "d": {"en": "A farming cooperative that grows only roses", "hi": "एक कृषि सहकारी समिति जो केवल गुलाब उगाती है"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "They organize training on food security for other NGOs.",
+        "hi": "वे अन्य एनजीओ के लिए खाद्य सुरक्षा पर प्रशिक्षण आयोजित करते हैं।"
+      },
+      "explanation": {
+        "en": "ADS in Maharashtra facilitated a network of NGOs to set up grain banks in different regions. It is now recognized as a successful and innovative food security intervention.",
+        "hi": "ADS एक एनजीओ है जिसने महाराष्ट्र में 'अनाज बैंक' बनाने में बड़ी सफलता हासिल की है।"
+      },
+      "key_takeaway": {
+        "en": "ADS = Success story of Grain Banks in Maharashtra.",
+        "hi": "ADS = महाराष्ट्र में अनाज बैंकों की सफलता की कहानी।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "Which cooperative in Gujarat is responsible for the 'White Revolution' and provides milk products?",
+        "hi": "गुजरात की कौन सी सहकारी संस्था 'श्वेत क्रांति' के लिए जिम्मेदार है और दुग्ध उत्पाद प्रदान करती है?"
+      },
+      "options": {
+        "a": {"en": "Mother Dairy", "hi": "मदर डेयरी"},
+        "b": {"en": "Amul", "hi": "अमूल (Amul)"},
+        "c": {"en": "FCI", "hi": "FCI"},
+        "d": {"en": "ADS", "hi": "ADS"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It has revolutionized milk production in India.",
+        "hi": "इसने भारत में दुग्ध उत्पादन में क्रांति ला दी है।"
+      },
+      "explanation": {
+        "en": "Amul is a successful example of cooperatives in providing milk and milk products, contributing to the White Revolution in India.",
+        "hi": "अमूल ने सहकारिता के माध्यम से भारत को दूध उत्पादन में अग्रणी बनाया है।"
+      },
+      "key_takeaway": {
+        "en": "Amul = White Revolution leader.",
+        "hi": "अमूल = श्वेत क्रांति का अगुआ।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "A 'Subsidy' is a payment made by ________ to a producer to keep the price of a product low.",
+        "hi": "'सब्सिडी' ________ द्वारा किसी उत्पाद की कीमत कम रखने के लिए उत्पादक को किया जाने वाला भुगतान है।",
+        "hi_term": "सहायिकी (Subsidy)"
+      },
+      "options": {
+        "a": {"en": "The Customer", "hi": "ग्राहक"},
+        "b": {"en": "The Government", "hi": "सरकार (Government)"},
+        "c": {"en": "The Foreign Bank", "hi": "विदेशी बैंक"},
+        "d": {"en": "The Army", "hi": "सेना"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It helps in making essential goods affordable for the poor.",
+        "hi": "यह गरीबों के लिए आवश्यक वस्तुओं को वहन करने योग्य बनाने में मदद करता है।"
+      },
+      "explanation": {
+        "en": "A subsidy is a payment that the government makes to a producer to supplement the market price of a commodity, keeping the price low for consumers.",
+        "hi": "सरकार जब किसी वस्तु की लागत का कुछ हिस्सा खुद उठाती है ताकि जनता को वह सस्ता मिले, तो उसे सब्सिडी कहते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Subsidy = Financial aid from government to lower prices.",
+        "hi": "सब्सिडी = कीमतें कम करने के लिए सरकार की वित्तीय सहायता।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "Which state has the largest number of fair price shops run by cooperatives in Tamil Nadu?",
+        "hi": "तमिलनाडु में सहकारी समितियों द्वारा संचालित उचित दर वाली दुकानों की संख्या किस राज्य में सबसे अधिक है?"
+      },
+      "options": {
+        "a": {"en": "Tamil Nadu", "hi": "तमिलनाडु (Tamil Nadu)"},
+        "b": {"en": "Delhi", "hi": "दिल्ली"},
+        "c": {"en": "Maharashtra", "hi": "महाराष्ट्र"},
+        "d": {"en": "Gujarat", "hi": "गुजरात"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "In this state, about 94 per cent of ration shops are run by cooperatives.",
+        "hi": "इस राज्य में लगभग 94 प्रतिशत राशन की दुकानें सहकारी समितियों द्वारा चलाई जाती हैं।"
+      },
+      "explanation": {
+        "en": "In Tamil Nadu, out of all fair price shops running, around 94 per cent are being run by the cooperatives, showing the strength of the cooperative sector.",
+        "hi": "तमिलनाडु में 94% राशन की दुकानें सहकारी समितियों द्वारा चलाई जाती हैं।"
+      },
+      "key_takeaway": {
+        "en": "Cooperatives in TN = 94% of PDS.",
+        "hi": "तमिलनाडु में सहकारिता = 94% PDS।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "The 'Mother Dairy' provides milk and vegetables at controlled rates in which city?",
+        "hi": "'मदर डेयरी' किस शहर में नियंत्रित दरों पर दूध और सब्जियां उपलब्ध कराती है?"
+      },
+      "options": {
+        "a": {"en": "Mumbai", "hi": "मुंबई"},
+        "b": {"en": "Delhi", "hi": "दिल्ली (Delhi)"},
+        "c": {"en": "Chennai", "hi": "चेन्नई"},
+        "d": {"en": "Kolkata", "hi": "कोलकाता"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It follows prices set by the Delhi Government.",
+        "hi": "यह दिल्ली सरकार द्वारा निर्धारित कीमतों का पालन करती है।"
+      },
+      "explanation": {
+        "en": "Mother Dairy is making strides in providing milk and vegetables to the consumers at controlled rates decided by the Government of Delhi.",
+        "hi": "दिल्ली में मदर डेयरी सरकार द्वारा तय दरों पर दूध और सब्जियां बेचती है।"
+      },
+      "key_takeaway": {
+        "en": "Mother Dairy = Success in Delhi.",
+        "hi": "मदर डेयरी = दिल्ली में सफलता।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "A person is 'Food Secure' only if:",
+        "hi": "एक व्यक्ति 'खाद्य सुरक्षित' तभी होता है जब:"
+      },
+      "options": {
+        "a": {"en": "Enough food is available for all persons", "hi": "सभी व्यक्तियों के लिए पर्याप्त भोजन उपलब्ध हो"},
+        "b": {"en": "All persons have the capacity to buy food of acceptable quality", "hi": "सभी व्यक्तियों के पास स्वीकार्य गुणवत्ता का भोजन खरीदने की क्षमता हो"},
+        "c": {"en": "There is no barrier on access to food", "hi": "भोजन तक पहुँचने में कोई बाधा न हो"},
+        "d": {"en": "All of the above", "hi": "उपरोक्त सभी"}
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "All three conditions must be met simultaneously.",
+        "hi": "तीनों शर्तों का एक साथ पूरा होना आवश्यक है।"
+      },
+      "explanation": {
+        "en": "Food security is ensured in a country only if enough food is available, everyone has the capacity to buy it, and there are no barriers to its access.",
+        "hi": "खाद्य सुरक्षा तब मानी जाती है जब भोजन उपलब्ध हो, लोग उसे खरीद सकें और वह उन तक पहुँच सके।"
+      },
+      "key_takeaway": {
+        "en": "Complete Food Security = Physical + Economic access.",
+        "hi": "पूर्ण खाद्य सुरक्षा = भौतिक + आर्थिक पहुँच।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "PDS shops are also known as 'Fair Price Shops' because:",
+        "hi": "PDS दुकानों को 'उचित दर वाली दुकानें' भी कहा जाता है क्योंकि:"
+      },
+      "options": {
+        "a": {"en": "They sell goods at a price lower than the market price", "hi": "वे बाज़ार मूल्य से कम कीमत पर सामान बेचती हैं"},
+        "b": {"en": "They sell goods for free", "hi": "वे मुफ्त में सामान बेचती हैं"},
+        "c": {"en": "They sell only luxury items", "hi": "वे केवल लक्जरी आइटम बेचती हैं"},
+        "d": {"en": "They give money to people", "hi": "वे लोगों को पैसा देती हैं"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "The government subsidizes the goods sold there.",
+        "hi": "सरकार वहां बिकने वाले सामानों पर सब्सिडी देती है।"
+      },
+      "explanation": {
+        "en": "Fair price shops keep stocks of foodgrains, sugar, and kerosene oil. These items are sold to people at a price lower than the market price.",
+        "hi": "इन दुकानों पर सरकार की मदद से बाज़ार से कम रेट पर राशन मिलता है, इसलिए इन्हें उचित दर वाली दुकान कहते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Fair Price Shops = Subsidized essentials.",
+        "hi": "उचित दर वाली दुकानें = रियायती आवश्यक वस्तुएं।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "What is one of the main criticisms of the Public Distribution System (PDS)?",
+        "hi": "सार्वजनिक वितरण प्रणाली (PDS) की मुख्य आलोचनाओं में से एक क्या है?"
+      },
+      "options": {
+        "a": {"en": "Leakage of grains (diversion to open market)", "hi": "अनाज का रिसाव (खुले बाज़ार में बेचना)"},
+        "b": {"en": "Poor quality of grains at ration shops", "hi": "राशन की दुकानों पर अनाज की खराब गुणवत्ता"},
+        "c": {"en": "Irregular opening of shops", "hi": "दुकानों का अनियमित खुलना"},
+        "d": {"en": "All of the above", "hi": "उपरोक्त सभी"}
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "There have been instances of malpractices by PDS dealers.",
+        "hi": "PDS डीलरों द्वारा गलत कार्यों के उदाहरण मिलते रहे हैं।"
+      },
+      "explanation": {
+        "en": "Despite its success, PDS faces problems like diversion of grains to open market for profit, selling poor quality grains, and irregular opening of shops.",
+        "hi": "PDS में अनाज चोरी, खराब क्वालिटी और दुकानों का समय पर न खुलना जैसी कई कमियाँ भी हैं।"
+      },
+      "key_takeaway": {
+        "en": "PDS Challenges = Quality and Leakage issues.",
+        "hi": "PDS की चुनौतियाँ = गुणवत्ता और रिसाव के मुद्दे।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "The Annapurna Scheme (APS) was introduced in 2000 for which group of citizens?",
+        "hi": "अन्नपूर्णा योजना (APS) 2000 में नागरिकों के किस समूह के लिए शुरू की गई थी?"
+      },
+      "options": {
+        "a": {"en": "Children in nursery", "hi": "नर्सरी के बच्चे"},
+        "b": {"en": "Indigent senior citizens", "hi": "दीन वरिष्ठ नागरिक (Indigent senior citizens)"},
+        "c": {"en": "Young entrepreneurs", "hi": "युवा उद्यमी"},
+        "d": {"en": "Foreign tourists", "hi": "विदेशी पर्यटक"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It targets those senior citizens who are not covered under the national old-age pension scheme.",
+        "hi": "यह उन वरिष्ठ नागरिकों को लक्षित करता है जो राष्ट्रीय वृद्धावस्था पेंशन योजना के अंतर्गत नहीं आते हैं।"
+      },
+      "explanation": {
+        "en": "Annapurna Scheme (APS) targets 'indigent senior citizens' who remained uncovered under the National Old Age Pension Scheme (NOAPS).",
+        "hi": "अन्नपूर्णा योजना उन बुजुर्गों के लिए है जिन्हें कोई पेंशन नहीं मिलती और वे बेसहारा हैं।"
+      },
+      "key_takeaway": {
+        "en": "APS = Food for uncovered senior citizens.",
+        "hi": "APS = बेसहारा वरिष्ठ नागरिकों के लिए भोजन।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "Buffer stock is maintained by the government to bridge the gap between ________ and ________.",
+        "hi": "बफर स्टॉक सरकार द्वारा किसके बीच के अंतर को पाटने के लिए बनाए रखा जाता है?"
+      },
+      "options": {
+        "a": {"en": "Production and Demand", "hi": "उत्पादन और मांग"},
+        "b": {"en": "Import and Export", "hi": "आयात और निर्यात"},
+        "c": {"en": "Rich and Poor", "hi": "अमीर और गरीब"},
+        "d": {"en": "Cities and Villages", "hi": "शहर और गाँव"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "It ensures that food is available even if production is low in a particular year.",
+        "hi": "यह सुनिश्चित करता है कि किसी विशेष वर्ष में उत्पादन कम होने पर भी भोजन उपलब्ध हो।"
+      },
+      "explanation": {
+        "en": "Buffer stock serves as a safety net. It helps in providing food when the demand is high but production is low due to crop failure.",
+        "hi": "बफर स्टॉक तब काम आता है जब बाज़ार में अनाज की मांग ज्यादा हो और पैदावार कम हो।"
+      },
+      "key_takeaway": {
+        "en": "Buffer Stock = Stabilizing supply and prices.",
+        "hi": "बफर स्टॉक = आपूर्ति और कीमतों को स्थिर करना।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "What does the 'World Food Summit' (1996) definition of food security emphasize?",
+        "hi": "'विश्व खाद्य शिखर सम्मेलन' (1996) की खाद्य सुरक्षा की परिभाषा किस पर जोर देती है?"
+      },
+      "options": {
+        "a": {"en": "Food security only for rich nations", "hi": "केवल अमीर देशों के लिए खाद्य सुरक्षा"},
+        "b": {"en": "Physical and economic access to sufficient, safe, and nutritious food", "hi": "पर्याप्त, सुरक्षित और पौष्टिक भोजन तक भौतिक और आर्थिक पहुँच"},
+        "c": {"en": "Stopping all food exports", "hi": "सभी खाद्य निर्यात को रोकना"},
+        "d": {"en": "Using only organic food", "hi": "केवल जैविक भोजन का उपयोग करना"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The goal is to enable all people to lead an active and healthy life.",
+        "hi": "इसका लक्ष्य सभी लोगों को सक्रिय और स्वस्थ जीवन जीने में सक्षम बनाना है।"
+      },
+      "explanation": {
+        "en": "The 1996 World Food Summit declared that food security exists when all people have physical and economic access to sufficient, safe and nutritious food to meet their dietary needs.",
+        "hi": "1996 के शिखर सम्मेलन में तय हुआ कि खाद्य सुरक्षा का मतलब हर व्यक्ति के पास पौष्टिक भोजन पाने का सामर्थ्य होना है।"
+      },
+      "key_takeaway": {
+        "en": "Global Definition = Physical/Economic access to nutritious food.",
+        "hi": "वैश्विक परिभाषा = पौष्टिक भोजन तक भौतिक/आर्थिक पहुँच।"
+      }
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "quiz_title": "Class 9 Civics - Final Mega-Quiz",
+    "quiz_title_hindi": "कक्षा 9 नागरिक शास्त्र - फाइनल मेगा-क्विज़",
+    "chapters_covered": [1, 2, 3, 4, 5],
+    "total_questions": 30,
+    "subject": "Civics - Class 9",
+    "version": "1.0",
+    "naming_convention": "09_CI_MEGA_Civics_30MCQ.json"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "chapter_ref": "Ch 1: What is Democracy? Why Democracy?",
+      "question": {
+        "en": "In a democracy, the final decision-making power must rest with:",
+        "hi": "लोकतंत्र में, अंतिम निर्णय लेने की शक्ति किसके पास होनी चाहिए?"
+      },
+      "options": {
+        "a": {"en": "The Military", "hi": "सेना के पास"},
+        "b": {"en": "Those elected by the people", "hi": "जनता द्वारा चुने गए प्रतिनिधियों के पास"},
+        "c": {"en": "The King", "hi": "राजा के पास"},
+        "d": {"en": "Religious leaders", "hi": "धार्मिक नेताओं के पास"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "A fundamental feature of democracy is that the final decision-making authority must lie with representatives elected by the citizens.",
+        "hi": "लोकतंत्र की एक बुनियादी विशेषता यह है कि अंतिम निर्णय लेने का अधिकार जनता द्वारा चुने गए प्रतिनिधियों के पास ही होना चाहिए।"
+      }
+    },
+    {
+      "question_id": 7,
+      "chapter_ref": "Ch 2: Constitutional Design",
+      "question": {
+        "en": "Who was the Chairman of the Drafting Committee of the Indian Constitution?",
+        "hi": "भारतीय संविधान की प्रारूप समिति के अध्यक्ष कौन थे?"
+      },
+      "options": {
+        "a": {"en": "Dr. Rajendra Prasad", "hi": "डॉ. राजेंद्र प्रसाद"},
+        "b": {"en": "B.R. Ambedkar", "hi": "बी.आर. अंबेडकर"},
+        "c": {"en": "Jawaharlal Nehru", "hi": "जवाहरलाल नेहरू"},
+        "d": {"en": "Sardar Patel", "hi": "सरदार पटेल"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Dr. B.R. Ambedkar led the committee that drafted the legal framework of the Indian Constitution.",
+        "hi": "डॉ. बी.आर. अंबेडकर ने उस समिति का नेतृत्व किया जिसने भारतीय संविधान का कानूनी ढांचा तैयार किया था।"
+      }
+    },
+    {
+      "question_id": 13,
+      "chapter_ref": "Ch 3: Electoral Politics",
+      "question": {
+        "en": "The minimum age for a citizen to vote in India is:",
+        "hi": "भारत में किसी नागरिक के लिए मतदान करने की न्यूनतम आयु क्या है?"
+      },
+      "options": {
+        "a": {"en": "21 years", "hi": "21 वर्ष"},
+        "b": {"en": "25 years", "hi": "25 वर्ष"},
+        "c": {"en": "18 years", "hi": "18 वर्ष"},
+        "d": {"en": "16 years", "hi": "16 वर्ष"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "Every Indian citizen aged 18 or above has the right to vote in elections under Universal Adult Franchise.",
+        "hi": "सार्वभौमिक वयस्क मताधिकार के तहत 18 वर्ष या उससे अधिक आयु के प्रत्येक भारतीय नागरिक को मतदान का अधिकार है।"
+      }
+    },
+    {
+      "question_id": 19,
+      "chapter_ref": "Ch 4: Working of Institutions",
+      "question": {
+        "en": "Who is the real head of the government and exercises most powers in India?",
+        "hi": "भारत में सरकार का वास्तविक प्रमुख कौन होता है और अधिकांश शक्तियों का प्रयोग कौन करता है?"
+      },
+      "options": {
+        "a": {"en": "The President", "hi": "राष्ट्रपति"},
+        "b": {"en": "The Prime Minister", "hi": "प्रधानमंत्री"},
+        "c": {"en": "The Chief Justice", "hi": "मुख्य न्यायाधीश"},
+        "d": {"en": "The Speaker", "hi": "अध्यक्ष"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "While the President is the formal head of state, the Prime Minister is the head of the government and leads the executive.",
+        "hi": "जहाँ राष्ट्रपति राज्य का औपचारिक प्रमुख होता है, वहीं प्रधानमंत्री सरकार का प्रमुख होता है और कार्यपालिका का नेतृत्व करता है।"
+      }
+    },
+    {
+      "question_id": 25,
+      "chapter_ref": "Ch 5: Democratic Rights",
+      "question": {
+        "en": "Which Fundamental Right allows citizens to move the court if their rights are violated?",
+        "hi": "कौन सा मौलिक अधिकार नागरिकों को उनके अधिकारों के उल्लंघन होने पर अदालत जाने की अनुमति देता है?"
+      },
+      "options": {
+        "a": {"en": "Right to Equality", "hi": "समानता का अधिकार"},
+        "b": {"en": "Right to Freedom", "hi": "स्वतंत्रता का अधिकार"},
+        "c": {"en": "Right to Constitutional Remedies", "hi": "संवैधानिक उपचारों का अधिकार"},
+        "d": {"en": "Right against Exploitation", "hi": "शोषण के विरुद्ध अधिकार"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "Article 32 gives citizens the right to approach the judiciary for the enforcement of their Fundamental Rights.",
+        "hi": "अनुच्छेद 32 नागरिकों को उनके मौलिक अधिकारों को लागू कराने के लिए न्यायपालिका के पास जाने का अधिकार देता है।"
+      }
+    }
+  ]
+}

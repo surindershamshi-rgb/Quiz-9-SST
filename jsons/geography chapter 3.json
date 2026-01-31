@@ -1,0 +1,794 @@
+{
+  "metadata": {
+    "chapter_number": 3,
+    "chapter_title": "Drainage",
+    "chapter_title_hindi": "अपवाह",
+    "subject": "Geography - Class 9",
+    "board": "CBSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.0",
+    "naming_convention": "09_GE_CH03_Drainage_30MCQ.json"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "What does the term 'Drainage' describe?",
+        "hi": "'अपवाह' (Drainage) शब्द क्या दर्शाता है?"
+      },
+      "options": {
+        "a": {"en": "The mountain system of an area", "hi": "किसी क्षेत्र की पर्वत प्रणाली"},
+        "b": {"en": "The river system of an area", "hi": "किसी क्षेत्र की नदी प्रणाली"},
+        "c": {"en": "The forest cover of an area", "hi": "किसी क्षेत्र का वन आवरण"},
+        "d": {"en": "The rainfall pattern of an area", "hi": "किसी क्षेत्र की वर्षा का पैटर्न"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It refers to the flow of water through specific channels.",
+        "hi": "यह विशिष्ट चैनलों के माध्यम से पानी के प्रवाह को संदर्भित करता है।"
+      },
+      "explanation": {
+        "en": "The term drainage describes the river system of an area. A drainage basin is the area drained by a single river system.",
+        "hi": "अपवाह शब्द किसी क्षेत्र की नदी प्रणाली का वर्णन करता है।"
+      },
+      "key_takeaway": {
+        "en": "Drainage = River System.",
+        "hi": "अपवाह = नदी प्रणाली।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "An elevated area, such as a mountain or an upland, that separates two drainage basins is known as a:",
+        "hi": "एक ऊंचा क्षेत्र, जैसे पहाड़ या उच्च भूमि, जो दो अपवाह घाटियों को अलग करती है, उसे क्या कहा जाता है?"
+      },
+      "options": {
+        "a": {"en": "Drainage Basin", "hi": "अपवाह द्रोणी"},
+        "b": {"en": "Water Divide", "hi": "जल विभाजक (Water Divide)"},
+        "c": {"en": "Gorge", "hi": "गार्ज"},
+        "d": {"en": "Delta", "hi": "डेल्टा"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Ambala city is located on such a divide between the Indus and Ganga river systems.",
+        "hi": "अंबाला शहर सिंधु और गंगा नदी प्रणालियों के बीच ऐसे ही विभाजक पर स्थित है।"
+      },
+      "explanation": {
+        "en": "Any elevated area that separates two adjoining drainage basins is known as a water divide.",
+        "hi": "दो पड़ोसी अपवाह द्रोणियों को अलग करने वाली उच्च भूमि को जल विभाजक कहते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Water Divide = Upland separating river systems.",
+        "hi": "जल विभाजक = नदी प्रणालियों को अलग करने वाली उच्च भूमि।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "Which river basin is the largest in the world?",
+        "hi": "विश्व की सबसे बड़ी अपवाह द्रोणी कौन सी है?"
+      },
+      "options": {
+        "a": {"en": "The Nile Basin", "hi": "नील द्रोणी"},
+        "b": {"en": "The Ganga Basin", "hi": "गंगा द्रोणी"},
+        "c": {"en": "The Amazon Basin", "hi": "अमेज़न द्रोणी"},
+        "d": {"en": "The Mississippi Basin", "hi": "मिसिसिपी द्रोणी"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "It is located in South America.",
+        "hi": "यह दक्षिण अमेरिका में स्थित है।"
+      },
+      "explanation": {
+        "en": "The Amazon River basin in South America is the largest drainage basin in the world.",
+        "hi": "अमेज़न नदी की द्रोणी विश्व में सबसे बड़ी है।"
+      },
+      "key_takeaway": {
+        "en": "Largest World Basin = Amazon.",
+        "hi": "विश्व की सबसे बड़ी द्रोणी = अमेज़न।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "Most of the Himalayan rivers are 'Perennial'. What does this mean?",
+        "hi": "हिमालय की अधिकांश नदियाँ 'बारहमासी' (Perennial) होती हैं। इसका क्या अर्थ है?"
+      },
+      "options": {
+        "a": {"en": "They dry up in summer", "hi": "वे गर्मियों में सूख जाती हैं"},
+        "b": {"en": "They have water throughout the year", "hi": "उनमें साल भर पानी रहता है"},
+        "c": {"en": "They only flow during monsoons", "hi": "वे केवल मानसून के दौरान बहती हैं"},
+        "d": {"en": "They flow into lakes only", "hi": "वे केवल झीलों में बहती हैं"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "They receive water from rain as well as from melted snow from the lofty mountains.",
+        "hi": "उन्हें वर्षा के साथ-साथ ऊंचे पहाड़ों से पिघली बर्फ से भी पानी मिलता है।"
+      },
+      "explanation": {
+        "en": "Himalayan rivers are perennial because they receive water from rain and melted snow, ensuring flow throughout the year.",
+        "hi": "बारहमासी नदियों में वर्ष भर पानी रहता है क्योंकि उन्हें बर्फ पिघलने से निरंतर जल मिलता है।"
+      },
+      "key_takeaway": {
+        "en": "Perennial = Water throughout the year.",
+        "hi": "बारहमासी = वर्ष भर जल की उपलब्धता।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "Which of the following are the two main Himalayan rivers that originate from the north of the mountain ranges?",
+        "hi": "निम्नलिखित में से कौन सी दो मुख्य हिमालयी नदियाँ पर्वत श्रृंखलाओं के उत्तर से निकलती हैं?"
+      },
+      "options": {
+        "a": {"en": "Ganga and Yamuna", "hi": "गंगा और यमुना"},
+        "b": {"en": "Indus and Brahmaputra", "hi": "सिंधु और ब्रह्मपुत्र"},
+        "c": {"en": "Narmada and Tapi", "hi": "नर्मदा और तापी"},
+        "d": {"en": "Krishna and Kaveri", "hi": "कृष्णा और कावेरी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "They have cut through the mountains making spectacular gorges.",
+        "hi": "इन्होंने पहाड़ों को काटकर शानदार गार्ज बनाए हैं।"
+      },
+      "explanation": {
+        "en": "The Indus and the Brahmaputra originate from the north of the mountain ranges (Tibet/Mansarovar) and have carved deep gorges through the Himalayas.",
+        "hi": "सिंधु और ब्रह्मपुत्र हिमालय के उत्तर से निकलती हैं।"
+      },
+      "key_takeaway": {
+        "en": "Indus/Brahmaputra = Trans-Himalayan origin.",
+        "hi": "सिंधु/ब्रह्मपुत्र = हिमालय के पार से उत्पत्ति।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "Where does the Indus river rise?",
+        "hi": "सिंधु नदी का उद्गम कहाँ से होता है?"
+      },
+      "options": {
+        "a": {"en": "Gangotri Glacier", "hi": "गंगोत्री ग्लेशियर"},
+        "b": {"en": "Tibet, near Lake Mansarovar", "hi": "तिब्बत, मानसरोवर झील के पास"},
+        "c": {"en": "Amarkantak Hills", "hi": "अमरकंटक की पहाड़ियाँ"},
+        "d": {"en": "Verinag in Kashmir", "hi": "कश्मीर में वेरीनाग"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It enters India in Ladakh.",
+        "hi": "यह लद्दाख में भारत में प्रवेश करती है।"
+      },
+      "explanation": {
+        "en": "The river Indus rises in Tibet, near Lake Mansarovar. Flowing west, it enters India in the Ladakh district of Jammu and Kashmir.",
+        "hi": "सिंधु नदी तिब्बत में मानसरोवर झील के निकट से निकलती है।"
+      },
+      "key_takeaway": {
+        "en": "Indus Origin = Tibet (Mansarovar).",
+        "hi": "सिंधु उद्गम = तिब्बत (मानसरोवर)।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "Which tributary of the Indus joins it near Mithankot in Pakistan?",
+        "hi": "सिंधु की कौन सी सहायक नदी पाकिस्तान में मिठानकोट के पास इससे मिलती है?"
+      },
+      "options": {
+        "a": {"en": "Zanskar", "hi": "जांस्कर"},
+        "b": {"en": "The Satluj, Beas, Ravi, Chenab and Jhelum", "hi": "सतलुज, ब्यास, रावी, चेनाब और झेलम"},
+        "c": {"en": "Yamuna", "hi": "यमुना"},
+        "d": {"en": "Kosi", "hi": "कोसी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "These five rivers together enter the Indus.",
+        "hi": "ये पाँच नदियाँ मिलकर सिंधु में प्रवेश करती हैं।"
+      },
+      "explanation": {
+        "en": "The Satluj, the Beas, the Ravi, the Chenab and the Jhelum join together to enter the Indus near Mithankot in Pakistan.",
+        "hi": "सतलुज, ब्यास, रावी, चेनाब और झेलम मिठानकोट में सिंधु नदी में मिल जाती हैं।"
+      },
+      "key_takeaway": {
+        "en": "Mithankot = Confluence of Punjab rivers and Indus.",
+        "hi": "मिठानकोट = पंजाब की नदियों और सिंधु का संगम।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "What is the total length of the Indus river?",
+        "hi": "सिंधु नदी की कुल लंबाई कितनी है?"
+      },
+      "options": {
+        "a": {"en": "2,500 km", "hi": "2,500 किमी"},
+        "b": {"en": "2,900 km", "hi": "2,900 किमी"},
+        "c": {"en": "1,500 km", "hi": "1,500 किमी"},
+        "d": {"en": "3,200 km", "hi": "3,200 किमी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It is one of the longest rivers of the world.",
+        "hi": "यह विश्व की सबसे लंबी नदियों में से एक है।"
+      },
+      "explanation": {
+        "en": "With a total length of 2,900 km, the Indus is one of the longest rivers of the world.",
+        "hi": "सिंधु नदी की कुल लंबाई 2,900 किलोमीटर है।"
+      },
+      "key_takeaway": {
+        "en": "Indus Length = 2,900 km.",
+        "hi": "सिंधु की लंबाई = 2,900 किमी।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "According to the Indus Waters Treaty (1960), how much of the total water carried by the Indus system can India use?",
+        "hi": "सिंधु जल संधि (1960) के अनुसार, भारत सिंधु नदी प्रणाली के कुल जल का कितना प्रतिशत उपयोग कर सकता है?"
+      },
+      "options": {
+        "a": {"en": "50%", "hi": "50%"},
+        "b": {"en": "20%", "hi": "20%"},
+        "c": {"en": "80%", "hi": "80%"},
+        "d": {"en": "100%", "hi": "100%"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This water is used for irrigation in Punjab, Haryana, and Rajasthan.",
+        "hi": "इस पानी का उपयोग पंजाब, हरियाणा और राजस्थान में सिंचाई के लिए किया जाता है।"
+      },
+      "explanation": {
+        "en": "Under the Indus Waters Treaty, India can use only 20 per cent of the total water carried by the Indus river system.",
+        "hi": "सिंधु जल समझौते के तहत भारत केवल 20 प्रतिशत जल का उपयोग कर सकता है।"
+      },
+      "key_takeaway": {
+        "en": "Indus Treaty = 20% water for India.",
+        "hi": "सिंधु समझौता = भारत के लिए 20% जल।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "What is the headwaters of the Ganga called?",
+        "hi": "गंगा की मुख्य धारा का नाम क्या है?"
+      },
+      "options": {
+        "a": {"en": "Alaknanda", "hi": "अलकनंदा"},
+        "b": {"en": "Bhagirathi", "hi": "भागीरथी (Bhagirathi)"},
+        "c": {"en": "Yamuna", "hi": "यमुना"},
+        "d": {"en": "Mandakini", "hi": "मंदाकिनी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It is fed by the Gangotri Glacier.",
+        "hi": "यह गंगोत्री ग्लेशियर से निकलती है।"
+      },
+      "explanation": {
+        "en": "The headwaters of the Ganga, called the ‘Bhagirathi’, is fed by the Gangotri Glacier and joined by the Alaknanda at Devaprayag.",
+        "hi": "गंगा की मुख्य धारा भागीरथी है, जो गंगोत्री हिमानी से निकलती है।"
+      },
+      "key_takeaway": {
+        "en": "Bhagirathi = Ganga's main headwater.",
+        "hi": "भागीरथी = गंगा की मुख्य धारा।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "At which place do the Bhagirathi and Alaknanda join to form the Ganga?",
+        "hi": "किस स्थान पर भागीरथी और अलकनंदा मिलकर गंगा का निर्माण करती हैं?"
+      },
+      "options": {
+        "a": {"en": "Haridwar", "hi": "हरिद्वार"},
+        "b": {"en": "Devaprayag", "hi": "देवप्रयाग (Devaprayag)"},
+        "c": {"en": "Rudraprayag", "hi": "रुद्रप्रयाग"},
+        "d": {"en": "Prayagraj", "hi": "प्रयागराज"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It is located in Uttarakhand.",
+        "hi": "यह उत्तराखंड में स्थित है।"
+      },
+      "explanation": {
+        "en": "At Devaprayag in Uttarakhand, the Bhagirathi joins the Alaknanda to form the Ganga.",
+        "hi": "देवप्रयाग में भागीरथी और अलकनंदा का संगम होता है, जहाँ से इसे गंगा कहा जाता है।"
+      },
+      "key_takeaway": {
+        "en": "Devaprayag = Birthplace of Ganga (Name).",
+        "hi": "देवप्रयाग = गंगा नाम की उत्पत्ति का स्थल।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "Which is the largest right-bank tributary of the Ganga?",
+        "hi": "गंगा की सबसे बड़ी दाहिने तट की सहायक नदी कौन सी है?"
+      },
+      "options": {
+        "a": {"en": "Gandak", "hi": "गंडक"},
+        "b": {"en": "Yamuna", "hi": "यमुना (Yamuna)"},
+        "c": {"en": "Kosi", "hi": "कोसी"},
+        "d": {"en": "Ghaghara", "hi": "घाघरा"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It rises from the Yamunotri Glacier and meets the Ganga at Prayagraj.",
+        "hi": "यह यमुनोत्री ग्लेशियर से निकलती है और प्रयागराज में गंगा से मिलती है।"
+      },
+      "explanation": {
+        "en": "The Yamuna rises from the Yamunotri Glacier in the Himalayas. It flows parallel to the Ganga and meets it at Allahabad (Prayagraj).",
+        "hi": "यमुना गंगा की मुख्य दाहिने तट की सहायक नदी है जो प्रयागराज में गंगा में मिलती है।"
+      },
+      "key_takeaway": {
+        "en": "Yamuna = Major right-bank tributary.",
+        "hi": "यमुना = प्रमुख दाहिनी सहायक नदी।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "Which river is known as the 'Sorrow of Bihar' due to frequent floods?",
+        "hi": "बार-बार आने वाली बाढ़ के कारण किस नदी को 'बिहार का शोक' कहा जाता है?"
+      },
+      "options": {
+        "a": {"en": "Damodar", "hi": "दामोदर"},
+        "b": {"en": "Kosi", "hi": "कोसी (Kosi)"},
+        "c": {"en": "Ghaghara", "hi": "घाघरा"},
+        "d": {"en": "Gandak", "hi": "गंडक"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This river often changes its course.",
+        "hi": "यह नदी अक्सर अपना रास्ता बदलती रहती है।"
+      },
+      "explanation": {
+        "en": "The Kosi river is notorious for frequent floods and changing its course, leading to massive destruction in Bihar.",
+        "hi": "कोसी नदी अपनी विनाशकारी बाढ़ के कारण बिहार का शोक कहलाती है।"
+      },
+      "key_takeaway": {
+        "en": "Kosi = Sorrow of Bihar.",
+        "hi": "कोसी = बिहार का शोक।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "What is the name of the river formed by the confluence of the Ganga and Brahmaputra in Bangladesh?",
+        "hi": "बांग्लादेश में गंगा और ब्रह्मपुत्र के संगम से बनने वाली नदी का नाम क्या है?"
+      },
+      "options": {
+        "a": {"en": "Padma", "hi": "पद्मा"},
+        "b": {"en": "Meghna", "hi": "मेघना (Meghna)"},
+        "c": {"en": "Jamuna", "hi": "जमुना"},
+        "d": {"en": "Hugli", "hi": "हुगली"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This mighty river flows into the Bay of Bengal.",
+        "hi": "यह विशाल नदी बंगाल की खाड़ी में गिरती है।"
+      },
+      "explanation": {
+        "en": "The Ganga and the Brahmaputra join in Bangladesh and flow as the Meghna into the Bay of Bengal.",
+        "hi": "गंगा और ब्रह्मपुत्र मिलकर मेघना के नाम से बंगाल की खाड़ी में गिरती हैं।"
+      },
+      "key_takeaway": {
+        "en": "Meghna = Combined Ganga & Brahmaputra.",
+        "hi": "मेघना = गंगा और ब्रह्मपुत्र का संयुक्त नाम।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "Which delta, formed by the Ganga and Brahmaputra, is the largest and fastest-growing delta in the world?",
+        "hi": "गंगा और ब्रह्मपुत्र द्वारा निर्मित कौन सा डेल्टा विश्व का सबसे बड़ा और सबसे तेजी से बढ़ने वाला डेल्टा है?"
+      },
+      "options": {
+        "a": {"en": "Nile Delta", "hi": "नील डेल्टा"},
+        "b": {"en": "Sundarban Delta", "hi": "सुंदरबन डेल्टा (Sundarban Delta)"},
+        "c": {"en": "Amazon Delta", "hi": "अमेज़न डेल्टा"},
+        "d": {"en": "Mekong Delta", "hi": "मेकांग डेल्टा"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It is famous for the Royal Bengal Tiger and Sundari trees.",
+        "hi": "यह रॉयल बंगाल टाइगर और सुंदरी के पेड़ों के लिए प्रसिद्ध है।"
+      },
+      "explanation": {
+        "en": "The Sundarban Delta, named after the Sundari trees, is the world's largest delta formed by the Ganga and Brahmaputra.",
+        "hi": "सुंदरबन डेल्टा विश्व का सबसे बड़ा डेल्टा है।"
+      },
+      "key_takeaway": {
+        "en": "Sundarban = Largest Delta.",
+        "hi": "सुंदरबन = सबसे बड़ा डेल्टा।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "The Brahmaputra river is known as _______ in Tibet and _______ in Bangladesh.",
+        "hi": "ब्रह्मपुत्र नदी को तिब्बत में _______ और बांग्लादेश में _______ के नाम से जाना जाता है।"
+      },
+      "options": {
+        "a": {"en": "Dihang; Jamuna", "hi": "दिहांग; जमुना"},
+        "b": {"en": "Tsangpo; Jamuna", "hi": "त्सांगपो (Tsangpo); जमुना"},
+        "c": {"en": "Tsangpo; Padma", "hi": "त्सांगपो; पद्मा"},
+        "d": {"en": "Manas; Meghna", "hi": "मानस; मेघना"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "In Tibet, it carries a smaller volume of water and less silt due to the cold and dry climate.",
+        "hi": "ठंडी और शुष्क जलवायु के कारण तिब्बत में इसमें पानी की मात्रा और सिल्ट कम होती है।"
+      },
+      "explanation": {
+        "en": "The Brahmaputra is known as the Tsangpo in Tibet and the Jamuna in Bangladesh.",
+        "hi": "ब्रह्मपुत्र को तिब्बत में त्सांगपो और बांग्लादेश में जमुना कहते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Brahmaputra = Tsangpo (Tibet) / Jamuna (Bangladesh).",
+        "hi": "ब्रह्मपुत्र = त्सांगपो (तिब्बत) / जमुना (बांग्लादेश)।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "Why does the Brahmaputra carry a huge amount of water and silt in India but not in Tibet?",
+        "hi": "ब्रह्मपुत्र भारत में बड़ी मात्रा में पानी और सिल्ट क्यों लाती है, लेकिन तिब्बत में नहीं?"
+      },
+      "options": {
+        "a": {"en": "Because Tibet is a high-altitude desert", "hi": "क्योंकि तिब्बत एक उच्च ऊंचाई वाला रेगिस्तान है"},
+        "b": {"en": "Because it passes through a region of high rainfall in India", "hi": "क्योंकि यह भारत में भारी वर्षा वाले क्षेत्र से होकर गुजरती है"},
+        "c": {"en": "Because it gets water from the Ganga", "hi": "क्योंकि इसे गंगा से पानी मिलता है"},
+        "d": {"en": "Both a and b", "hi": "a और b दोनों"}
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "Tibet is cold and dry, while North-East India is a high-rainfall zone.",
+        "hi": "तिब्बत ठंडा और शुष्क है, जबकि उत्तर-पूर्वी भारत एक उच्च वर्षा वाला क्षेत्र है।"
+      },
+      "explanation": {
+        "en": "In Tibet, the river is cold and dry, carrying less silt. In India, it passes through a high-rainfall region, picking up large volumes of water and silt.",
+        "hi": "भारत में प्रवेश करने पर यह भारी वर्षा वाले क्षेत्र से गुजरती है, जिससे इसमें पानी और सिल्ट बढ़ जाता है।"
+      },
+      "key_takeaway": {
+        "en": "Brahmaputra = High silt/water in India due to rain.",
+        "hi": "ब्रह्मपुत्र = वर्षा के कारण भारत में अधिक सिल्ट/जल।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "Which of these is the largest Peninsular river?",
+        "hi": "इनमें से कौन सी प्रायद्वीपीय भारत की सबसे बड़ी नदी है?"
+      },
+      "options": {
+        "a": {"en": "Narmada", "hi": "नर्मदा"},
+        "b": {"en": "Godavari", "hi": "गोदावरी (Godavari)"},
+        "c": {"en": "Krishna", "hi": "कृष्णा"},
+        "d": {"en": "Mahanadi", "hi": "महानदी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It is also known as the 'Dakshin Ganga'.",
+        "hi": "इसे 'दक्षिण गंगा' के नाम से भी जाना जाता है।"
+      },
+      "explanation": {
+        "en": "The Godavari is the largest Peninsular river. It rises from the slopes of the Western Ghats in the Nasik district of Maharashtra.",
+        "hi": "गोदावरी प्रायद्वीपीय भारत की सबसे बड़ी नदी है।"
+      },
+      "key_takeaway": {
+        "en": "Godavari = Largest Peninsular River.",
+        "hi": "गोदावरी = सबसे बड़ी प्रायद्वीपीय नदी।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "The Narmada river rises in the:",
+        "hi": "नर्मदा नदी का उद्गम कहाँ से होता है?"
+      },
+      "options": {
+        "a": {"en": "Satpura ranges", "hi": "सतपुड़ा श्रेणियाँ"},
+        "b": {"en": "Amarkantak hills", "hi": "अमरकंटक की पहाड़ियाँ (Amarkantak hills)"},
+        "c": {"en": "Brahmagiri range", "hi": "ब्रह्मगिरि श्रेणी"},
+        "d": {"en": "Slopes of the Western Ghats", "hi": "पश्चिमी घाट की ढलान"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It flows through a rift valley formed due to faulting.",
+        "hi": "यह भ्रंश के कारण बनी भ्रंश घाटी (rift valley) से होकर बहती है।"
+      },
+      "explanation": {
+        "en": "The Narmada rises in the Amarkantak hills in Madhya Pradesh. It flows towards the west in a rift valley.",
+        "hi": "नर्मदा नदी मध्य प्रदेश की अमरकंटक पहाड़ियों से निकलती है।"
+      },
+      "key_takeaway": {
+        "en": "Narmada = Amarkantak origin, West-flowing.",
+        "hi": "नर्मदा = अमरकंटक से उद्गम, पश्चिम की ओर प्रवाहित।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "Which two major Peninsular rivers flow westwards and form estuaries?",
+        "hi": "प्रायद्वीपीय भारत की कौन सी दो प्रमुख नदियाँ पश्चिम की ओर बहती हैं और ज्वारनदमुख (estuaries) बनाती हैं?"
+      },
+      "options": {
+        "a": {"en": "Ganga and Brahmaputra", "hi": "गंगा और ब्रह्मपुत्र"},
+        "b": {"en": "Krishna and Kaveri", "hi": "कृष्णा और कावेरी"},
+        "c": {"en": "Narmada and Tapi", "hi": "नर्मदा और तापी (Narmada and Tapi)"},
+        "d": {"en": "Godavari and Mahanadi", "hi": "गोदावरी और महानदी"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "Most Peninsular rivers flow eastwards into the Bay of Bengal.",
+        "hi": "अधिकांश प्रायद्वीपीय नदियाँ पूर्व की ओर बंगाल की खाड़ी में गिरती हैं।"
+      },
+      "explanation": {
+        "en": "The Narmada and the Tapi are the only long rivers which flow west and make estuaries.",
+        "hi": "नर्मदा और तापी पश्चिम की ओर बहने वाली प्रमुख नदियाँ हैं।"
+      },
+      "key_takeaway": {
+        "en": "West Flowing Rivers = Narmada and Tapi.",
+        "hi": "पश्चिम की ओर बहने वाली नदियाँ = नर्मदा और तापी।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "The river Godavari is often referred to as:",
+        "hi": "गोदावरी नदी को अक्सर किस नाम से जाना जाता है?"
+      },
+      "options": {
+        "a": {"en": "Vridha Ganga", "hi": "वृद्ध गंगा"},
+        "b": {"en": "Dakshin Ganga", "hi": "दक्षिण गंगा (Dakshin Ganga)"},
+        "c": {"en": "Paschim Ganga", "hi": "पश्चिम गंगा"},
+        "d": {"en": "Both a and b", "hi": "a और b दोनों"}
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "Because of its length and the area it covers, it is compared to the Ganga.",
+        "hi": "अपनी लंबाई और क्षेत्र के कारण इसकी तुलना गंगा से की जाती है।"
+      },
+      "explanation": {
+        "en": "Because of its great length and large area, the Godavari is also known as the ‘Dakshin Ganga’.",
+        "hi": "विशाल आकार और लंबाई के कारण गोदावरी को दक्षिण गंगा भी कहा जाता है।"
+      },
+      "key_takeaway": {
+        "en": "Godavari = Dakshin Ganga.",
+        "hi": "गोदावरी = दक्षिण गंगा।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "Which river rises in the Mahabaleshwar region and flows into the Bay of Bengal?",
+        "hi": "कौन सी नदी महाबलेश्वर क्षेत्र से निकलती है और बंगाल की खाड़ी में गिरती है?"
+      },
+      "options": {
+        "a": {"en": "Godavari", "hi": "गोदावरी"},
+        "b": {"en": "Krishna", "hi": "कृष्णा (Krishna)"},
+        "c": {"en": "Kaveri", "hi": "कावेरी"},
+        "d": {"en": "Mahanadi", "hi": "महानदी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Its tributaries include the Tungabhadra and Koyana.",
+        "hi": "इसकी सहायक नदियों में तुंगभद्रा और कोयना शामिल हैं।"
+      },
+      "explanation": {
+        "en": "Rising from a spring near Mahabaleshwar, the Krishna flows for about 1,400 km and reaches the Bay of Bengal.",
+        "hi": "कृष्णा नदी महाबलेश्वर के निकट एक स्रोत से निकलती है।"
+      },
+      "key_takeaway": {
+        "en": "Krishna = Mahabaleshwar origin.",
+        "hi": "कृष्णा = महाबलेश्वर से उद्गम।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "The Kaveri river rises in the:",
+        "hi": "कावेरी नदी का उद्गम कहाँ से होता है?"
+      },
+      "options": {
+        "a": {"en": "Amarkantak Hills", "hi": "अमरकंटक की पहाड़ियाँ"},
+        "b": {"en": "Brahmagiri range", "hi": "ब्रह्मगिरि श्रेणी (Brahmagiri range)"},
+        "c": {"en": "Vindhyas", "hi": "विंध्य"},
+        "d": {"en": "Himalayas", "hi": "हिमालय"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It reaches the Bay of Bengal in south of Cuddalore, in Tamil Nadu.",
+        "hi": "यह तमिलनाडु में कुड्डालोर के दक्षिण में बंगाल की खाड़ी में पहुँचती है।"
+      },
+      "explanation": {
+        "en": "The Kaveri rises in the Brahmagiri range of the Western Ghats and it reaches the Bay of Bengal in south of Cuddalore.",
+        "hi": "कावेरी नदी पश्चिमी घाट की ब्रह्मगिरि श्रेणी से निकलती है।"
+      },
+      "key_takeaway": {
+        "en": "Kaveri = Brahmagiri origin.",
+        "hi": "कावेरी = ब्रह्मगिरि से उद्गम।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "What is an 'Ox-bow' lake?",
+        "hi": "'गोखुर' झील (Ox-bow lake) क्या है?"
+      },
+      "options": {
+        "a": {"en": "A lake formed in a volcanic crater", "hi": "ज्वालामुखी क्रेटर में बनी झील"},
+        "b": {"en": "A curved lake formed when a river meander is cut off", "hi": "नदी के विसर्प के कट जाने से बनी घुमावदार झील"},
+        "c": {"en": "A lake formed by glacial activity", "hi": "हिमानी गतिविधि द्वारा बनी झील"},
+        "d": {"en": "A salt water lagoon", "hi": "खारे पानी का लैगून"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It is typical of rivers flowing through plains.",
+        "hi": "यह मैदानी इलाकों में बहने वाली नदियों की विशेषता है।"
+      },
+      "explanation": {
+        "en": "A meandering river across a floodplain forms cut-offs that later develop into ox-bow lakes.",
+        "hi": "मैदानी भागों में विसर्प (meanders) के मुख्य नदी से अलग होने पर गोखुर झील बनती है।"
+      },
+      "key_takeaway": {
+        "en": "Ox-bow Lake = River meander cut-off.",
+        "hi": "गोखुर झील = नदी विसर्प का कटा हुआ भाग।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "Which of the following is the largest freshwater lake in India?",
+        "hi": "निम्नलिखित में से भारत की सबसे बड़ी मीठे पानी की झील कौन सी है?"
+      },
+      "options": {
+        "a": {"en": "Dal Lake", "hi": "डल झील"},
+        "b": {"en": "Wular Lake", "hi": "वुलर झील (Wular Lake)"},
+        "c": {"en": "Bhimtal", "hi": "भीमताल"},
+        "d": {"en": "Sambhar Lake", "hi": "सांभर झील"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It is located in Jammu and Kashmir and is of tectonic origin.",
+        "hi": "यह जम्मू और कश्मीर में स्थित है और विवर्तनिक मूल (tectonic origin) की है।"
+      },
+      "explanation": {
+        "en": "The Wular lake in Jammu and Kashmir is the largest freshwater lake in India. It is a result of tectonic activity.",
+        "hi": "वुलर झील भारत की सबसे बड़ी मीठे पानी की प्राकृतिक झील है।"
+      },
+      "key_takeaway": {
+        "en": "Wular Lake = Largest freshwater lake.",
+        "hi": "वुलर झील = मीठे पानी की सबसे बड़ी झील।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "The Sambhar lake in Rajasthan is a:",
+        "hi": "राजस्थान की सांभर झील एक कैसी झील है?"
+      },
+      "options": {
+        "a": {"en": "Freshwater lake", "hi": "मीठे पानी की झील"},
+        "b": {"en": "Salt water lake", "hi": "खारे पानी की झील (Salt water lake)"},
+        "c": {"en": "Glacial lake", "hi": "हिमानी झील"},
+        "d": {"en": "Artificial lake", "hi": "कृत्रिम झील"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Its water is used for producing salt.",
+        "hi": "इसके पानी का उपयोग नमक बनाने के लिए किया जाता है।"
+      },
+      "explanation": {
+        "en": "The Sambhar lake in Rajasthan is a salt water lake which is used for producing salt.",
+        "hi": "सांभर झील एक खारे पानी की झील है जिसका उपयोग नमक उत्पादन के लिए किया जाता है।"
+      },
+      "key_takeaway": {
+        "en": "Sambhar Lake = Salt water / Salt production.",
+        "hi": "सांभर झील = खारा पानी / नमक उत्पादन।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "Which river system forms the 'Dhuadhar Falls' in Madhya Pradesh?",
+        "hi": "कौन सी नदी प्रणाली मध्य प्रदेश में 'धुआंधार प्रपात' (Dhuadhar Falls) बनाती है?"
+      },
+      "options": {
+        "a": {"en": "Tapi", "hi": "तापी"},
+        "b": {"en": "Narmada", "hi": "नर्मदा (Narmada)"},
+        "c": {"en": "Chambal", "hi": "चंबल"},
+        "d": {"en": "Betwa", "hi": "बेतवा"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It plunges over steep rocks near Jabalpur.",
+        "hi": "यह जबलपुर के पास खड़ी चट्टानों के ऊपर से गिरती है।"
+      },
+      "explanation": {
+        "en": "The Narmada river creates many picturesque locations, including the ‘Dhuadhar falls’ where the river plunges over steep rocks.",
+        "hi": "नर्मदा नदी जबलपुर के पास धुआंधार जलप्रपात बनाती है।"
+      },
+      "key_takeaway": {
+        "en": "Dhuadhar Falls = Narmada River.",
+        "hi": "धुआंधार प्रपात = नर्मदा नदी।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "Rivers are considered the 'backbone' of the economy because they provide water for:",
+        "hi": "नदियों को अर्थव्यवस्था की 'रीढ़' माना जाता है क्योंकि वे किसके लिए जल प्रदान करती हैं?"
+      },
+      "options": {
+        "a": {"en": "Irrigation", "hi": "सिंचाई"},
+        "b": {"en": "Hydro-electric power generation", "hi": "जल-विद्युत उत्पादन"},
+        "c": {"en": "Navigation", "hi": "नौचालन"},
+        "d": {"en": "All of the above", "hi": "उपरोक्त सभी"}
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "Water is a basic natural resource essential for various human activities.",
+        "hi": "पानी विभिन्न मानवीय गतिविधियों के लिए आवश्यक एक बुनियादी प्राकृतिक संसाधन है।"
+      },
+      "explanation": {
+        "en": "Rivers are fundamental for human history. Water from rivers is used for irrigation, navigation, and hydro-power generation, which are vital for an agrarian country like India.",
+        "hi": "नदियाँ सिंचाई, बिजली और परिवहन का मुख्य साधन हैं।"
+      },
+      "key_takeaway": {
+        "en": "Rivers = Economic Lifelines.",
+        "hi": "नदियाँ = आर्थिक जीवन रेखाएँ।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "What is the primary cause of river pollution in India?",
+        "hi": "भारत में नदी प्रदूषण का प्राथमिक कारण क्या है?"
+      },
+      "options": {
+        "a": {"en": "Aquatic life", "hi": "जलीय जीवन"},
+        "b": {"en": "Discharge of untreated sewage and industrial effluents", "hi": "बिना उपचार किए गए सीवेज और औद्योगिक कचरे का बहाव"},
+        "c": {"en": "Heavy rainfall", "hi": "भारी वर्षा"},
+        "d": {"en": "Construction of dams", "hi": "बाँधों का निर्माण"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Growing domestic, municipal, and industrial demand for water affects its quality.",
+        "hi": "पानी की बढ़ती घरेलू और औद्योगिक मांग इसकी गुणवत्ता को प्रभावित करती है।"
+      },
+      "explanation": {
+        "en": "The quality of river water is affected by the discharge of untreated sewage and industrial wastes into the rivers.",
+        "hi": "सीवेज और औद्योगिक कचरे का नदियों में गिरना प्रदूषण का सबसे बड़ा कारण है।"
+      },
+      "key_takeaway": {
+        "en": "River Pollution = Industrial & Sewage waste.",
+        "hi": "नदी प्रदूषण = औद्योगिक और सीवेज कचरा।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "The 'National River Conservation Plan' (NRCP) was launched primarily to:",
+        "hi": "'राष्ट्रीय नदी संरक्षण योजना' (NRCP) मुख्य रूप से किस लिए शुरू की गई थी?"
+      },
+      "options": {
+        "a": {"en": "Generate electricity", "hi": "बिजली पैदा करना"},
+        "b": {"en": "Reduce river pollution", "hi": "नदी प्रदूषण कम करना (Reduce river pollution)"},
+        "c": {"en": "Connect all rivers", "hi": "सभी नदियों को जोड़ना"},
+        "d": {"en": "Increase the depth of rivers", "hi": "नदियों की गहराई बढ़ाना"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The Ganga Action Plan (GAP) Phase I was the first step in this direction.",
+        "hi": "गंगा एक्शन प्लान (GAP) चरण I इस दिशा में पहला कदम था।"
+      },
+      "explanation": {
+        "en": "The NRCP was initiated to improve the water quality of the rivers through implementation of pollution abatement works.",
+        "hi": "NRCP का उद्देश्य प्रदूषण कम करके नदियों के जल की गुणवत्ता में सुधार करना है।"
+      },
+      "key_takeaway": {
+        "en": "NRCP = Pollution reduction in rivers.",
+        "hi": "NRCP = नदियों में प्रदूषण की रोकथाम।"
+      }
+    }
+  ]
+}

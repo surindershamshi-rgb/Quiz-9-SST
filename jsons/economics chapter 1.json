@@ -1,0 +1,794 @@
+{
+  "metadata": {
+    "chapter_number": 1,
+    "chapter_title": "The Story of Village Palampur",
+    "chapter_title_hindi": "पालमपुर गाँव की कहानी",
+    "subject": "Economics - Class 9",
+    "board": "CBSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.0",
+    "naming_convention": "09_EC_CH01_Palampur_30MCQ.json"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "What is the main production activity in village Palampur?",
+        "hi": "पालमपुर गाँव में मुख्य उत्पादन गतिविधि क्या है?"
+      },
+      "options": {
+        "a": {"en": "Manufacturing", "hi": "विनिर्माण"},
+        "b": {"en": "Farming", "hi": "खेती (Farming)"},
+        "c": {"en": "Transport", "hi": "परिवहन"},
+        "d": {"en": "Dairy", "hi": "डेयरी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "About 75 per cent of the people who are working are dependent on this for their livelihood.",
+        "hi": "काम करने वाले लगभग 75 प्रतिशत लोग अपनी आजीविका के लिए इसी पर निर्भर हैं।"
+      },
+      "explanation": {
+        "en": "Farming is the main production activity in Palampur. Other activities like small-scale manufacturing, dairy, and transport are carried out on a limited scale.",
+        "hi": "पालमपुर में खेती मुख्य क्रिया है, जबकि अन्य गतिविधियाँ जैसे परिवहन और डेयरी छोटे स्तर पर की जाती हैं।"
+      },
+      "key_takeaway": {
+        "en": "Main Activity = Farming.",
+        "hi": "मुख्य गतिविधि = खेती।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "Which of the following is NOT one of the four requirements for the production of goods and services?",
+        "hi": "निम्नलिखित में से कौन सा वस्तुओं और सेवाओं के उत्पादन के लिए चार आवश्यकताओं में से एक नहीं है?"
+      },
+      "options": {
+        "a": {"en": "Land", "hi": "भूमि"},
+        "b": {"en": "Labor", "hi": "श्रम"},
+        "c": {"en": "Physical Capital", "hi": "भौतिक पूँजी"},
+        "d": {"en": "Foreign Trade", "hi": "विदेशी व्यापार"}
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "The fourth requirement is 'Human Capital'.",
+        "hi": "चौथी आवश्यकता 'मानव पूँजी' है।"
+      },
+      "explanation": {
+        "en": "The four factors of production are Land, Labor, Physical Capital, and Human Capital. Foreign trade is not a primary factor of production.",
+        "hi": "उत्पादन के चार कारक भूमि, श्रम, भौतिक पूँजी और मानव पूँजी हैं।"
+      },
+      "key_takeaway": {
+        "en": "Factors of Production = Land, Labor, Capital, Knowledge.",
+        "hi": "उत्पादन के कारक = भूमि, श्रम, पूँजी, ज्ञान।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "Tools, machines, and buildings that can be used in production over many years are called:",
+        "hi": "औजार, मशीनें और भवन जिनका उत्पादन में कई वर्षों तक उपयोग किया जा सकता है, उन्हें क्या कहा जाता है?"
+      },
+      "options": {
+        "a": {"en": "Working Capital", "hi": "कार्यशील पूँजी"},
+        "b": {"en": "Fixed Capital", "hi": "स्थायी पूँजी (Fixed Capital)"},
+        "c": {"en": "Human Capital", "hi": "मानव पूँजी"},
+        "d": {"en": "Temporary Capital", "hi": "अस्थायी पूँजी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "They are not consumed in a single production cycle.",
+        "hi": "वे एक ही उत्पादन चक्र में समाप्त नहीं होते हैं।"
+      },
+      "explanation": {
+        "en": "Fixed capital includes tools, machines, and buildings. They can be used in production over many years and do not need to be replaced every time.",
+        "hi": "स्थायी पूँजी में वे चीजें आती हैं जो कई सालों तक उत्पादन में काम आती हैं, जैसे ट्रैक्टर या जनरेटर।"
+      },
+      "key_takeaway": {
+        "en": "Fixed Capital = Long-term assets.",
+        "hi": "स्थायी पूँजी = दीर्घकालिक संपत्ति।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "Raw materials and money in hand are examples of which type of capital?",
+        "hi": "कच्चा माल और नकद पैसा किस प्रकार की पूँजी के उदाहरण हैं?"
+      },
+      "options": {
+        "a": {"en": "Fixed Capital", "hi": "स्थायी पूँजी"},
+        "b": {"en": "Working Capital", "hi": "कार्यशील पूँजी (Working Capital)"},
+        "c": {"en": "Human Capital", "hi": "मानव पूँजी"},
+        "d": {"en": "Social Capital", "hi": "सामाजिक पूँजी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "These are used up during the production process.",
+        "hi": "इनका उपयोग उत्पादन प्रक्रिया के दौरान किया जाता है।"
+      },
+      "explanation": {
+        "en": "Working capital includes raw materials and money in hand. Unlike fixed capital, these are used up in production.",
+        "hi": "उत्पादन के दौरान समाप्त होने वाली चीजों जैसे कच्चा माल और नकदी को कार्यशील पूँजी कहते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Working Capital = Consumables + Cash.",
+        "hi": "कार्यशील पूँजी = कच्चा माल + नकदी।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "What is the standard unit of measuring land in villages?",
+        "hi": "गाँवों में भूमि मापने की मानक इकाई क्या है?"
+      },
+      "options": {
+        "a": {"en": "Meter", "hi": "मीटर"},
+        "b": {"en": "Hectare", "hi": "हेक्टेयर (Hectare)"},
+        "c": {"en": "Bigha", "hi": "बीघा"},
+        "d": {"en": "Guinta", "hi": "गुंठा"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "One unit equals the area of a square with one side measuring 100 meters.",
+        "hi": "एक इकाई 100 मीटर भुजा वाले वर्ग के क्षेत्रफल के बराबर होती है।"
+      },
+      "explanation": {
+        "en": "The standard unit of measuring land is hectare. Though in villages, local units like bigha and guintha are used, 1 hectare equals 10,000 square meters.",
+        "hi": "भूमि मापने की मानक इकाई हेक्टेयर है, हालांकि स्थानीय स्तर पर बीघा का प्रयोग भी होता है।"
+      },
+      "key_takeaway": {
+        "en": "1 Hectare = 10,000 sq. meters.",
+        "hi": "1 हेक्टेयर = 10,000 वर्ग मीटर।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "To grow more than one crop on a piece of land during the year is known as:",
+        "hi": "एक वर्ष में भूमि के एक टुकड़े पर एक से अधिक फसल उगाने को क्या कहा जाता है?"
+      },
+      "options": {
+        "a": {"en": "Single cropping", "hi": "एकल फसल"},
+        "b": {"en": "Multiple cropping", "hi": "बहुविध फसल प्रणाली (Multiple cropping)"},
+        "c": {"en": "Mixed farming", "hi": "मिश्रित खेती"},
+        "d": {"en": "Crop rotation", "hi": "फसल चक्र"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It is the most common way of increasing production on a given piece of land.",
+        "hi": "यह किसी दी गई भूमि पर उत्पादन बढ़ाने का सबसे सामान्य तरीका है।"
+      },
+      "explanation": {
+        "en": "Multiple cropping is the practice of growing more than one crop on the same piece of land during a single year to increase productivity.",
+        "hi": "एक ही भूमि पर साल में एक से अधिक फसल उगाने को बहुविध फसल प्रणाली कहते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Multiple Cropping = Productivity increase.",
+        "hi": "बहुविध फसल प्रणाली = उत्पादकता में वृद्धि।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "Which revolution introduced Indian farmers to the cultivation of wheat and rice using high-yielding variety (HYV) seeds?",
+        "hi": "किस क्रांति ने भारतीय किसानों को अधिक उपज देने वाले (HYV) बीजों का उपयोग करके गेहूं और चावल की खेती से परिचित कराया?"
+      },
+      "options": {
+        "a": {"en": "White Revolution", "hi": "श्वेत क्रांति"},
+        "b": {"en": "Green Revolution", "hi": "हरित क्रांति (Green Revolution)"},
+        "c": {"en": "Blue Revolution", "hi": "नीली क्रांति"},
+        "d": {"en": "Yellow Revolution", "hi": "पीली क्रांति"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It occurred in the late 1960s.",
+        "hi": "यह 1960 के दशक के उत्तरार्ध में हुई थी।"
+      },
+      "explanation": {
+        "en": "The Green Revolution in the late 1960s introduced HYV seeds, which promised much greater amounts of grain on a single plant compared to traditional seeds.",
+        "hi": "1960 के दशक के अंत में आई हरित क्रांति ने खेती के आधुनिक तरीकों और HYV बीजों को बढ़ावा दिया।"
+      },
+      "key_takeaway": {
+        "en": "Green Revolution = HYV seeds + Modern farming.",
+        "hi": "हरित क्रांति = HYV बीज + आधुनिक खेती।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "The 'Green Revolution' was first successful in which of the following states of India?",
+        "hi": "भारत के निम्नलिखित में से किस राज्य में 'हरित क्रांति' सबसे पहले सफल हुई थी?"
+      },
+      "options": {
+        "a": {"en": "Punjab, Haryana and Western UP", "hi": "पंजाब, हरियाणा और पश्चिमी उत्तर प्रदेश"},
+        "b": {"en": "Bihar and Odisha", "hi": "बिहार और ओडिशा"},
+        "c": {"en": "Tamil Nadu and Kerala", "hi": "तमिलनाडु और केरल"},
+        "d": {"en": "Rajasthan and Gujarat", "hi": "राजस्थान और गुजरात"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "Farmers in these regions were the first to try out modern farming methods.",
+        "hi": "इन क्षेत्रों के किसान आधुनिक खेती के तरीकों को आज़माने वाले पहले व्यक्ति थे।"
+      },
+      "explanation": {
+        "en": "Farmers of Punjab, Haryana, and Western Uttar Pradesh were the first to try out the modern farming methods in India using HYV seeds, chemical fertilizers, and pesticides.",
+        "hi": "पंजाब और हरियाणा के किसानों ने सबसे पहले आधुनिक तरीकों से खेती करना शुरू किया था।"
+      },
+      "key_takeaway": {
+        "en": "First Adoption = Punjab and Haryana.",
+        "hi": "प्रथम प्रयोग = पंजाब और हरियाणा।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "What is a major disadvantage of using modern farming methods associated with the Green Revolution?",
+        "hi": "हरित क्रांति से जुड़े आधुनिक खेती के तरीकों के उपयोग का एक बड़ा नुकसान क्या है?"
+      },
+      "options": {
+        "a": {"en": "Lower production", "hi": "कम उत्पादन"},
+        "b": {"en": "Loss of soil fertility and depletion of groundwater", "hi": "मिट्टी की उर्वरता में कमी और भूजल का ह्रास"},
+        "c": {"en": "Less use of water", "hi": "पानी का कम उपयोग"},
+        "d": {"en": "Cheaper seeds", "hi": "सस्ते बीज"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Chemical fertilizers and excessive tubewell irrigation have environmental impacts.",
+        "hi": "रासायनिक उर्वरकों और अत्यधिक नलकूप सिंचाई के पर्यावरणीय प्रभाव होते हैं।"
+      },
+      "explanation": {
+        "en": "Scientific reports indicate that modern farming methods have overused the natural resource base, leading to soil degradation and depletion of groundwater levels.",
+        "hi": "आधुनिक खेती से मिट्टी की उपजाऊ शक्ति कम हो रही है और जमीन के अंदर का पानी (भूजल) भी घट रहा है।"
+      },
+      "key_takeaway": {
+        "en": "Environmental Cost = Soil/Water degradation.",
+        "hi": "पर्यावरणीय लागत = मिट्टी और जल का ह्रास।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "How many families live in village Palampur?",
+        "hi": "पालमपुर गाँव में कितने परिवार रहते हैं?"
+      },
+      "options": {
+        "a": {"en": "150", "hi": "150"},
+        "b": {"en": "450", "hi": "450"},
+        "c": {"en": "1,000", "hi": "1,000"},
+        "d": {"en": "80", "hi": "80"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "These families belong to several different castes.",
+        "hi": "ये परिवार कई अलग-अलग जातियों के हैं।"
+      },
+      "explanation": {
+        "en": "Palampur has about 450 families belonging to several different castes. 80 upper-caste families own the majority of the land.",
+        "hi": "पालमपुर गाँव में कुल 450 परिवार रहते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Palampur Population = 450 families.",
+        "hi": "पालमपुर की जनसंख्या = 450 परिवार।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "Small farmers borrow money for capital from:",
+        "hi": "छोटे किसान पूँजी के लिए पैसा किससे उधार लेते हैं?"
+      },
+      "options": {
+        "a": {"en": "Banks", "hi": "बैंक"},
+        "b": {"en": "Village moneylenders or large farmers", "hi": "गाँव के साहूकार या बड़े किसान"},
+        "c": {"en": "The Government", "hi": "सरकार"},
+        "d": {"en": "They don't need money", "hi": "उन्हें पैसे की जरूरत नहीं होती"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The rate of interest on such loans is usually very high.",
+        "hi": "ऐसे ऋणों पर ब्याज की दर आमतौर पर बहुत अधिक होती है।"
+      },
+      "explanation": {
+        "en": "Small farmers have little savings, so they borrow from large farmers, village moneylenders, or traders who supply various inputs for cultivation.",
+        "hi": "पूँजी की कमी के कारण छोटे किसान ऊँची ब्याज दरों पर साहूकारों से कर्ज लेते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Credit for Small Farmers = Informal sources (high interest).",
+        "hi": "छोटे किसानों के लिए ऋण = अनौपचारिक स्रोत (उच्च ब्याज)।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "Large and medium farmers obtain capital for farming from:",
+        "hi": "बड़े और मध्यम किसान खेती के लिए पूँजी कहाँ से प्राप्त करते हैं?"
+      },
+      "options": {
+        "a": {"en": "Borrowing from moneylenders", "hi": "साहूकारों से उधार लेकर"},
+        "b": {"en": "Their own savings from farming", "hi": "खेती से अपनी खुद की बचत से"},
+        "c": {"en": "Selling their land", "hi": "अपनी जमीन बेचकर"},
+        "d": {"en": "Foreign aid", "hi": "विदेशी सहायता"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "They have a surplus of produce which they sell in the market.",
+        "hi": "उनके पास उपज का अधिशेष होता है जिसे वे बाज़ार में बेचते हैं।"
+      },
+      "explanation": {
+        "en": "Large and medium farmers have a surplus production. They sell it in the market and use the savings as capital for the next season.",
+        "hi": "बड़े किसानों के पास अनाज बेचने के बाद काफी बचत होती है, जिसका उपयोग वे पूँजी के रूप में करते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Credit for Large Farmers = Own savings.",
+        "hi": "बड़े किसानों के लिए ऋण = अपनी बचत।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "What is 'Marketable Surplus'?",
+        "hi": "'बाज़ार अधिशेष' (Marketable Surplus) क्या है?"
+      },
+      "options": {
+        "a": {"en": "The amount of crop destroyed by pests", "hi": "कीटों द्वारा नष्ट की गई फसल की मात्रा"},
+        "b": {"en": "The part of farm produce sold in the market after keeping for self-consumption", "hi": "स्वयं के उपभोग के लिए रखने के बाद बाज़ार में बेची जाने वाली कृषि उपज का हिस्सा"},
+        "c": {"en": "The seeds kept for the next year", "hi": "अगले वर्ष के लिए रखे गए बीज"},
+        "d": {"en": "The total amount of crop harvested", "hi": "कटाई की गई फसल की कुल मात्रा"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It is the extra grain that farmers sell for profit.",
+        "hi": "यह वह अतिरिक्त अनाज है जिसे किसान लाभ के लिए बेचते हैं।"
+      },
+      "explanation": {
+        "en": "Marketable surplus is the difference between total production and self-consumption. Medium and large farmers usually have more of this.",
+        "hi": "अपनी जरूरतों के लिए अनाज रखने के बाद जो बचता है और बाज़ार में बेचा जाता है, उसे अधिशेष कहते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Marketable Surplus = Total Production - Consumption.",
+        "hi": "बाज़ार अधिशेष = कुल उत्पादन - स्वयं का उपभोग।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "Which of the following is a non-farm activity in Palampur?",
+        "hi": "निम्नलिखित में से कौन सी पालमपुर में एक गैर-कृषि गतिविधि है?"
+      },
+      "options": {
+        "a": {"en": "Harvesting", "hi": "कटाई"},
+        "b": {"en": "Dairy farming", "hi": "डेयरी फार्मिंग (Dairy)"},
+        "c": {"en": "Sowing seeds", "hi": "बीज बोना"},
+        "d": {"en": "Irrigation", "hi": "सिंचाई"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "People sell milk in the nearby large village of Raiganj.",
+        "hi": "लोग पास के बड़े गाँव रायगंज में दूध बेचते हैं।"
+      },
+      "explanation": {
+        "en": "Dairy is a common non-farming activity in Palampur. Other non-farm activities include small manufacturing, shopkeeping, and transport.",
+        "hi": "पालमपुर में डेयरी, परिवहन और दुकानदारी जैसी गतिविधियाँ गैर-कृषि कार्यों में आती हैं।"
+      },
+      "key_takeaway": {
+        "en": "Non-farm Activities = Small manufacturing, Dairy, Transport, Trade.",
+        "hi": "गैर-कृषि गतिविधियाँ = विनिर्माण, डेयरी, परिवहन, व्यापार।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "What is the most labor-absorbing sector of the Indian economy?",
+        "hi": "भारतीय अर्थव्यवस्था का सबसे अधिक श्रम खपाने वाला क्षेत्र कौन सा है?"
+      },
+      "options": {
+        "a": {"en": "Agriculture", "hi": "कृषि (Agriculture)"},
+        "b": {"en": "Manufacturing", "hi": "विनिर्माण"},
+        "c": {"en": "Tourism", "hi": "पर्यटन"},
+        "d": {"en": "Banking", "hi": "बैंकिंग"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "However, in recent years, there has been a decline in the dependence of population on this sector.",
+        "hi": "हालांकि, हाल के वर्षों में, इस क्षेत्र पर जनसंख्या की निर्भरता में गिरावट आई है।"
+      },
+      "explanation": {
+        "en": "Agriculture is the most labor-absorbing sector of the economy. In Palampur, 75% of the population depends on farming.",
+        "hi": "भारत में सबसे ज्यादा लोग कृषि क्षेत्र में काम करते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Labor Intake = Highest in Agriculture.",
+        "hi": "श्रम उपभोग = कृषि में सर्वाधिक।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "Physical Capital is of two types: ________ and ________.",
+        "hi": "भौतिक पूँजी दो प्रकार की होती है: ________ और ________।"
+      },
+      "options": {
+        "a": {"en": "Land and Labor", "hi": "भूमि और श्रम"},
+        "b": {"en": "Fixed Capital and Working Capital", "hi": "स्थायी पूँजी और कार्यशील पूँजी (Fixed & Working)"},
+        "c": {"en": "Primary and Secondary", "hi": "प्राथमिक और द्वितीयक"},
+        "d": {"en": "Knowledge and Enterprise", "hi": "ज्ञान और उद्यम"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "One stays for years, the other is used up quickly.",
+        "hi": "एक वर्षों तक रहता है, दूसरा जल्दी समाप्त हो जाता है।"
+      },
+      "explanation": {
+        "en": "Physical capital is divided into Fixed Capital (machines, buildings) and Working Capital (cash, raw materials).",
+        "hi": "भौतिक पूँजी के दो भाग होते हैं - स्थायी (जैसे औजार) और कार्यशील (जैसे नकद)।"
+      },
+      "key_takeaway": {
+        "en": "Physical Capital = Fixed + Working.",
+        "hi": "भौतिक पूँजी = स्थायी + कार्यशील।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "The knowledge and enterprise needed to put together land, labor, and physical capital is called:",
+        "hi": "भूमि, श्रम और भौतिक पूँजी को एक साथ लाने के लिए आवश्यक ज्ञान और उद्यम को क्या कहा जाता है?"
+      },
+      "options": {
+        "a": {"en": "Working Capital", "hi": "कार्यशील पूँजी"},
+        "b": {"en": "Human Capital", "hi": "मानव पूँजी (Human Capital)"},
+        "c": {"en": "Fixed Capital", "hi": "स्थायी पूँजी"},
+        "d": {"en": "Financial Capital", "hi": "वित्तीय पूँजी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It is the 4th requirement of production.",
+        "hi": "यह उत्पादन की चौथी आवश्यकता है।"
+      },
+      "explanation": {
+        "en": "Human Capital is the knowledge and enterprise needed to be able to put together land, labor, and physical capital to produce an output.",
+        "hi": "मानव पूँजी वह ज्ञान और कौशल है जो अन्य कारकों का सही उपयोग कर उत्पादन संभव बनाता है।"
+      },
+      "key_takeaway": {
+        "en": "Human Capital = Skills, Knowledge, Enterprise.",
+        "hi": "मानव पूँजी = कौशल, ज्ञान, उद्यम।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "What is the main reason why farmers in Palampur are able to grow three different crops in a year?",
+        "hi": "पालमपुर के किसान एक वर्ष में तीन अलग-अलग फसलें उगाने में सक्षम क्यों हैं, इसका मुख्य कारण क्या है?"
+      },
+      "options": {
+        "a": {"en": "Availability of tractors", "hi": "ट्रैक्टरों की उपलब्धता"},
+        "b": {"en": "Well-developed system of irrigation", "hi": "सिंचाई की विकसित प्रणाली (Irrigation system)"},
+        "c": {"en": "Richness of the farmers", "hi": "किसानों की अमीरी"},
+        "d": {"en": "Government subsidies", "hi": "सरकारी सब्सिडी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Electric run tubewells changed the pattern of farming in Palampur.",
+        "hi": "बिजली से चलने वाले नलकूपों ने पालमपुर में खेती के पैटर्न को बदल दिया।"
+      },
+      "explanation": {
+        "en": "Electricity came early to Palampur, which allowed the use of electric tubewells for irrigation, enabling farmers to grow multiple crops.",
+        "hi": "बिजली और नलकूपों के कारण पालमपुर में सिंचाई की अच्छी व्यवस्था है, जिससे किसान साल में तीन फसलें ले पाते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Irrigation + Electricity = Multiple Cropping.",
+        "hi": "सिंचाई + बिजली = बहुविध फसल प्रणाली।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "Which of these crops is grown during the 'Kharif' season (rainy season) in Palampur?",
+        "hi": "पालमपुर में 'खरीफ' ऋतु (वर्षा ऋतु) के दौरान इनमें से कौन सी फसल उगाई जाती है?"
+      },
+      "options": {
+        "a": {"en": "Wheat", "hi": "गेहूं"},
+        "b": {"en": "Jowar and Bajra", "hi": "ज्वार और बाजरा (Jowar & Bajra)"},
+        "c": {"en": "Potato", "hi": "आलू"},
+        "d": {"en": "Mustard", "hi": "सरसों"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "These plants are used as cattle feed.",
+        "hi": "इन पौधों का उपयोग पशुओं के चारे के रूप में किया जाता है।"
+      },
+      "explanation": {
+        "en": "During the rainy season (Kharif), farmers grow jowar and bajra. These plants are used as cattle feed.",
+        "hi": "बरसात के मौसम (खरीफ) में किसान ज्वार और बाजरा उगाते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Kharif Crops = Jowar, Bajra (Rainy season).",
+        "hi": "खरीफ फसलें = ज्वार, बाजरा (वर्षा ऋतु)।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "Which crop is grown in the winter season (Rabi) in Palampur?",
+        "hi": "पालमपुर में सर्दियों के मौसम (रबी) में कौन सी फसल उगाई जाती है?"
+      },
+      "options": {
+        "a": {"en": "Rice", "hi": "चावल"},
+        "b": {"en": "Wheat", "hi": "गेहूं (Wheat)"},
+        "c": {"en": "Cotton", "hi": "कपास"},
+        "d": {"en": "Sugarcane", "hi": "गन्ना"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "A part of this production is sold at Raiganj market.",
+        "hi": "इस उत्पादन का एक हिस्सा रायगंज बाज़ार में बेचा जाता है।"
+      },
+      "explanation": {
+        "en": "In the winter season (Rabi), fields are sown with wheat. From the wheat produced, farmers keep enough for consumption and sell the surplus.",
+        "hi": "सर्दियों (रबी) के मौसम में गेहूं मुख्य फसल होती है।"
+      },
+      "key_takeaway": {
+        "en": "Rabi Crop = Wheat (Winter season).",
+        "hi": "रबी फसल = गेहूं (शीत ऋतु)।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "Which of the following is NOT a modern farming method?",
+        "hi": "निम्नलिखित में से कौन सा आधुनिक खेती का तरीका नहीं है?"
+      },
+      "options": {
+        "a": {"en": "Use of HYV seeds", "hi": "HYV बीजों का उपयोग"},
+        "b": {"en": "Use of chemical fertilizers", "hi": "रासायनिक उर्वरकों का उपयोग"},
+        "c": {"en": "Use of wooden plows and Persian wheels", "hi": "लकड़ी के हल और रहट (Persian wheels) का उपयोग"},
+        "d": {"en": "Use of tractors and threshers", "hi": "ट्रैक्टर और थ्रेशर का उपयोग"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "These were traditional methods used before the Green Revolution.",
+        "hi": "ये हरित क्रांति से पहले उपयोग किए जाने वाले पारंपरिक तरीके थे।"
+      },
+      "explanation": {
+        "en": "Traditional farming involved the use of cow-dung as manure and wooden plows. Modern farming uses machinery, HYV seeds, and chemicals.",
+        "hi": "लकड़ी के हल और रहट का उपयोग खेती के पुराने (पारंपरिक) तरीके हैं।"
+      },
+      "key_takeaway": {
+        "en": "Traditional vs Modern = Manual/Natural vs Machine/Chemical.",
+        "hi": "पारंपरिक बनाम आधुनिक = हस्तचालित/प्राकृतिक बनाम मशीन/रसायन।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "A part of the land in Palampur is devoted to _______ which is harvested once every year.",
+        "hi": "पालमपुर की भूमि का एक हिस्सा _______ के लिए समर्पित है जिसकी कटाई वर्ष में एक बार की जाती है।"
+      },
+      "options": {
+        "a": {"en": "Potato", "hi": "आलू"},
+        "b": {"en": "Sugarcane", "hi": "गन्ना (Sugarcane)"},
+        "c": {"en": "Wheat", "hi": "गेहूं"},
+        "d": {"en": "Bajra", "hi": "बाजरा"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "In its raw form, or as jaggery, it is sold to traders in Shahpur.",
+        "hi": "अपने कच्चे रूप में, या गुड़ के रूप में, इसे शाहपुर के व्यापारियों को बेचा जाता है।"
+      },
+      "explanation": {
+        "en": "A part of the land area is devoted to sugarcane which is harvested once every year. Sugarcane, in its raw form, or as jaggery, is sold to traders in Shahpur.",
+        "hi": "गन्ने की फसल साल में एक बार कटती है और इससे गुड़ बनाया जाता है।"
+      },
+      "key_takeaway": {
+        "en": "Sugarcane = Annual crop in Palampur.",
+        "hi": "गन्ना = पालमपुर में वार्षिक फसल।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "What happens to the excess wheat produced by large farmers in Palampur?",
+        "hi": "पालमपुर में बड़े किसानों द्वारा उत्पादित अतिरिक्त गेहूं का क्या होता है?"
+      },
+      "options": {
+        "a": {"en": "It is thrown away", "hi": "इसे फेंक दिया जाता है"},
+        "b": {"en": "It is sold in the market at Raiganj", "hi": "इसे रायगंज के बाज़ार में बेचा जाता है"},
+        "c": {"en": "It is distributed for free", "hi": "इसे मुफ्त में बांटा जाता है"},
+        "d": {"en": "It is kept in the field to rot", "hi": "इसे खेत में सड़ने के लिए छोड़ दिया जाता है"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Trading this surplus is a source of income for them.",
+        "hi": "इस अधिशेष का व्यापार करना उनके लिए आय का एक स्रोत है।"
+      },
+      "explanation": {
+        "en": "Large and medium farmers sell the surplus wheat to the market. Traders at the market buy the wheat and sell it further to shopkeepers in towns and cities.",
+        "hi": "बड़े किसान अपना बचा हुआ अनाज बाज़ार में बेचकर लाभ कमाते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Surplus Sale = Profit/Capital for large farmers.",
+        "hi": "अधिशेष बिक्री = बड़े किसानों के लिए लाभ/पूँजी।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "Wages for farm laborers in Palampur are often less than the minimum wages set by the government because:",
+        "hi": "पालमपुर में खेतिहर मजदूरों की मजदूरी अक्सर सरकार द्वारा निर्धारित न्यूनतम मजदूरी से कम होती है क्योंकि:"
+      },
+      "options": {
+        "a": {"en": "Laborers are lazy", "hi": "मजदूर आलसी हैं"},
+        "b": {"en": "There is heavy competition for work among laborers", "hi": "मजदूरों के बीच काम के लिए भारी प्रतिस्पर्धा है"},
+        "c": {"en": "Farmers have no money", "hi": "किसानों के पास पैसा नहीं है"},
+        "d": {"en": "The government does not care", "hi": "सरकार परवाह नहीं करती"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Many people want the same job, so they agree to work for lower pay.",
+        "hi": "बहुत से लोग एक ही काम चाहते हैं, इसलिए वे कम वेतन पर काम करने के लिए सहमत हो जाते हैं।"
+      },
+      "explanation": {
+        "en": "There is heavy competition for work among the farm laborers in Palampur, so people agree to work for lower wages than the government's minimum wage (e.g., ₹300 per day).",
+        "hi": "काम कम और मजदूर ज्यादा होने के कारण लोग कम मजदूरी पर भी काम करने को तैयार हो जाते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Labor Surplus = Low wages due to competition.",
+        "hi": "श्रम अधिशेष = प्रतिस्पर्धा के कारण कम मजदूरी।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "How much land do the 150 families of Dalits in Palampur own?",
+        "hi": "पालमपुर में दलितों के 150 परिवारों के पास कितनी जमीन है?"
+      },
+      "options": {
+        "a": {"en": "10 hectares each", "hi": "प्रत्येक के पास 10 हेक्टेयर"},
+        "b": {"en": "They are landless", "hi": "वे भूमिहीन हैं (Landless)"},
+        "c": {"en": "Most of the village land", "hi": "गाँव की अधिकांश भूमि"},
+        "d": {"en": "2 hectares each", "hi": "प्रत्येक के पास 2 हेक्टेयर"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "They work as laborers on the fields of others.",
+        "hi": "वे दूसरों के खेतों में मजदूर के रूप में काम करते हैं।"
+      },
+      "explanation": {
+        "en": "In Palampur, about one-third of the 450 families are landless, i.e., 150 families, most of them dalits, have no land for cultivation.",
+        "hi": "गाँव के लगभग एक-तिहाई परिवार (150 परिवार) भूमिहीन हैं, जिनमें अधिकांश दलित हैं।"
+      },
+      "key_takeaway": {
+        "en": "Inequality = Large portion of families are landless.",
+        "hi": "असमानता = परिवारों का एक बड़ा हिस्सा भूमिहीन है।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "Which of the following is a fixed factor of production in Palampur?",
+        "hi": "निम्नलिखित में से कौन सा पालमपुर में उत्पादन का एक स्थिर कारक है?"
+      },
+      "options": {
+        "a": {"en": "Labor", "hi": "श्रम"},
+        "b": {"en": "Land", "hi": "भूमि (Land)"},
+        "c": {"en": "Capital", "hi": "पूँजी"},
+        "d": {"en": "Seeds", "hi": "बीज"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The area under cultivation is practically fixed since 1960.",
+        "hi": "खेती के तहत क्षेत्र 1960 से व्यावहारिक रूप से स्थिर है।"
+      },
+      "explanation": {
+        "en": "Land is the fixed factor of production. In Palampur, the land area under cultivation is fixed, meaning no new land has been brought under cultivation since 1960.",
+        "hi": "खेती के लिए जमीन सीमित है और इसे बढ़ाया नहीं जा सकता।"
+      },
+      "key_takeaway": {
+        "en": "Land Constraint = Fixed availability.",
+        "hi": "भूमि की सीमा = निश्चित उपलब्धता।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "Small-scale manufacturing in Palampur is different from big factories because:",
+        "hi": "पालमपुर में लघु-स्तरीय विनिर्माण बड़े कारखानों से अलग है क्योंकि:"
+      },
+      "options": {
+        "a": {"en": "It involves very complex machines", "hi": "इसमें बहुत जटिल मशीनें शामिल हैं"},
+        "b": {"en": "It is done at home or in the fields with family labor", "hi": "यह घर पर या खेतों में पारिवारिक श्रम के साथ किया जाता है"},
+        "c": {"en": "It employs thousands of people", "hi": "यह हजारों लोगों को रोजगार देता है"},
+        "d": {"en": "It is owned by the government", "hi": "यह सरकार के स्वामित्व में है"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Laborers are rarely hired for these activities.",
+        "hi": "इन गतिविधियों के लिए शायद ही कभी मजदूर किराए पर लिए जाते हैं।"
+      },
+      "explanation": {
+        "en": "Manufacturing in Palampur involves very simple production methods and is done on a small scale. It is carried out mostly at home with the help of family labor.",
+        "hi": "पालमपुर में विनिर्माण बहुत सरल तरीके से और परिवार के सदस्यों की मदद से घर पर ही किया जाता है।"
+      },
+      "key_takeaway": {
+        "en": "Small-scale Manufacturing = Simple methods, family labor.",
+        "hi": "लघु-स्तरीय विनिर्माण = सरल विधियाँ, पारिवारिक श्रम।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "Who are the 'Shops Keepers' in Palampur?",
+        "hi": "पालमपुर में 'दुकानदार' कौन हैं?"
+      },
+      "options": {
+        "a": {"en": "Traders who buy goods from city markets and sell in the village", "hi": "वे व्यापारी जो शहरों के बाज़ारों से सामान खरीदते हैं और गाँव में बेचते हैं"},
+        "b": {"en": "People who grow wheat", "hi": "वे लोग जो गेहूं उगाते हैं"},
+        "c": {"en": "People who only sell milk", "hi": "वे लोग जो केवल दूध बेचते हैं"},
+        "d": {"en": "Government officers", "hi": "सरकारी अधिकारी"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "They sell a wide range of items like rice, wheat, sugar, tea, oil, etc.",
+        "hi": "वे चावल, गेहूं, चीनी, चाय, तेल आदि जैसी वस्तुओं की एक विस्तृत श्रृंखला बेचते हैं।"
+      },
+      "explanation": {
+        "en": "The traders of Palampur are shopkeepers who buy various goods from wholesale markets in the cities and sell them in the village.",
+        "hi": "गाँव के दुकानदार शहरों से थोक में सामान लाकर गाँव की छोटी दुकानों में बेचते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Trade = Buying from cities, selling in village.",
+        "hi": "व्यापार = शहरों से खरीदना, गाँव में बेचना।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "What is the fourth requirement of production?",
+        "hi": "उत्पादन की चौथी आवश्यकता क्या है?"
+      },
+      "options": {
+        "a": {"en": "Raw Materials", "hi": "कच्चा माल"},
+        "b": {"en": "Knowledge and Enterprise", "hi": "ज्ञान और उद्यम (Human Capital)"},
+        "c": {"en": "Tools", "hi": "औजार"},
+        "d": {"en": "Money", "hi": "पैसा"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It is also known as Human Capital.",
+        "hi": "इसे मानव पूँजी के रूप में भी जाना जाता है।"
+      },
+      "explanation": {
+        "en": "There is a fourth requirement of production: knowledge and enterprise to be able to put together land, labour and physical capital to produce an output.",
+        "hi": "उत्पादन के लिए भूमि, श्रम और पूँजी के अलावा 'ज्ञान' (मानव पूँजी) की भी आवश्यकता होती है।"
+      },
+      "key_takeaway": {
+        "en": "4th Factor = Human Capital.",
+        "hi": "चौथा कारक = मानव पूँजी।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "Mishrilal's activity of crushing sugarcane with a mechanical machine to make jaggery is an example of:",
+        "hi": "मिश्रीलाल की गन्ने की पेराई करके गुड़ बनाने की गतिविधि किसका एक उदाहरण है?"
+      },
+      "options": {
+        "a": {"en": "Farming", "hi": "खेती"},
+        "b": {"en": "Small-scale Manufacturing", "hi": "लघु-स्तरीय विनिर्माण (Small-scale Manufacturing)"},
+        "c": {"en": "Transport", "hi": "परिवहन"},
+        "d": {"en": "Banking", "hi": "बैंकिंग"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It is a non-farm activity involving processing of a crop.",
+        "hi": "यह एक गैर-कृषि गतिविधि है जिसमें फसल का प्रसंस्करण शामिल है।"
+      },
+      "explanation": {
+        "en": "Mishrilal has purchased a mechanical sugarcane crushing machine run on electricity and has set it up on his field. This is small-scale manufacturing.",
+        "hi": "गन्ने से गुड़ बनाना एक विनिर्माण (मैन्युफैक्चरिंग) प्रक्रिया है।"
+      },
+      "key_takeaway": {
+        "en": "Processing = Small-scale industry.",
+        "hi": "प्रसंस्करण = लघु उद्योग।"
+      }
+    }
+  ]
+}

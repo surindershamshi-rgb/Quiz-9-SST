@@ -1,0 +1,794 @@
+{
+  "metadata": {
+    "chapter_number": 4,
+    "chapter_title": "Working of Institutions",
+    "chapter_title_hindi": "संस्थाओं का कामकाज",
+    "subject": "Civics (Political Science) - Class 9",
+    "board": "CBSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.0",
+    "naming_convention": "09_CI_CH04_WorkingInstitutions_30MCQ.json"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "What is an 'Office Memorandum'?",
+        "hi": "एक 'कार्यालय ज्ञापन' (Office Memorandum) क्या होता है?"
+      },
+      "options": {
+        "a": {"en": "A letter containing a government decision", "hi": "सरकारी निर्णय वाला एक पत्र"},
+        "b": {"en": "A private invitation", "hi": "एक निजी निमंत्रण"},
+        "c": {"en": "A court order", "hi": "एक अदालती आदेश"},
+        "d": {"en": "A school notice", "hi": "एक स्कूल नोटिस"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "It is issued by an appropriate authority to communicate decisions.",
+        "hi": "यह निर्णय लेने के बाद संबंधित अधिकारी द्वारा जारी किया जाता है।"
+      },
+      "explanation": {
+        "en": "An Office Memorandum is a document that communicates government decisions. It is usually issued by the executive branch.",
+        "hi": "सरकार द्वारा लिए गए नीतिगत फैसलों को लिखित रूप में जारी करने वाले दस्तावेज को कार्यालय ज्ञापन कहते हैं।"
+      },
+      "key_takeaway": {
+        "en": "OM = Written government communication.",
+        "hi": "कार्यालय ज्ञापन = सरकारी लिखित सूचना।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "The Mandal Commission was headed by:",
+        "hi": "मंडल आयोग की अध्यक्षता किसने की थी?"
+      },
+      "options": {
+        "a": {"en": "B.R. Ambedkar", "hi": "बी.आर. अंबेडकर"},
+        "b": {"en": "B.P. Mandal", "hi": "बी.पी. मंडल"},
+        "c": {"en": "V.P. Singh", "hi": "वी.पी. सिंह"},
+        "d": {"en": "Morarji Desai", "hi": "मोरारजी देसाई"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The commission is named after its chairman.",
+        "hi": "इस आयोग का नाम इसके अध्यक्ष के नाम पर रखा गया है।"
+      },
+      "explanation": {
+        "en": "The Second Backward Classes Commission was headed by B.P. Mandal, and hence it was popularly called the Mandal Commission.",
+        "hi": "द्वितीय पिछड़ा वर्ग आयोग की अध्यक्षता बी.पी. मंडल ने की थी, इसलिए इसे मंडल आयोग कहा जाता है।"
+      },
+      "key_takeaway": {
+        "en": "Mandal Commission = B.P. Mandal.",
+        "hi": "मंडल आयोग = बी.पी. मंडल।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "What was the main recommendation of the Mandal Commission?",
+        "hi": "मंडल आयोग की मुख्य सिफारिश क्या थी?"
+      },
+      "options": {
+        "a": {"en": "Reservation for women in Parliament", "hi": "संसद में महिलाओं के लिए आरक्षण"},
+        "b": {"en": "27% reservation for SEBC in government jobs", "hi": "सरकारी नौकरियों में SEBC के लिए 27% आरक्षण"},
+        "c": {"en": "Free education for all children", "hi": "सभी बच्चों के लिए मुफ्त शिक्षा"},
+        "d": {"en": "Increase in army budget", "hi": "सेना के बजट में वृद्धि"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "SEBC stands for Socially and Educationally Backward Classes.",
+        "hi": "SEBC का अर्थ सामाजिक और शैक्षिक रूप से पिछड़ा वर्ग है।"
+      },
+      "explanation": {
+        "en": "The Mandal Commission recommended that 27 per cent of government jobs be reserved for the Socially and Educationally Backward Classes (SEBC).",
+        "hi": "मंडल आयोग ने सरकारी नौकरियों में पिछड़े वर्गों (SEBC) के लिए 27 प्रतिशत आरक्षण की सिफारिश की थी।"
+      },
+      "key_takeaway": {
+        "en": "Mandal Recommendation = 27% OBC Reservation.",
+        "hi": "मंडल सिफारिश = 27% ओबीसी आरक्षण।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "Who is the highest formal authority in India?",
+        "hi": "भारत में सर्वोच्च औपचारिक प्राधिकारी कौन है?"
+      },
+      "options": {
+        "a": {"en": "The Prime Minister", "hi": "प्रधानमंत्री"},
+        "b": {"en": "The President", "hi": "राष्ट्रपति"},
+        "c": {"en": "The Chief Justice", "hi": "मुख्य न्यायाधीश"},
+        "d": {"en": "The Speaker of Lok Sabha", "hi": "लोकसभा अध्यक्ष"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He/she is the head of the state.",
+        "hi": "वे राज्य के प्रमुख होते हैं।"
+      },
+      "explanation": {
+        "en": "The President is the head of the state and is the highest formal authority in India.",
+        "hi": "राष्ट्रपति भारत के राज्य के प्रमुख और सर्वोच्च औपचारिक पद हैं।"
+      },
+      "key_takeaway": {
+        "en": "President = Head of the State.",
+        "hi": "राष्ट्रपति = राज्य का प्रमुख।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "Which institution exercises actual political power and takes most decisions in India?",
+        "hi": "भारत में कौन सी संस्था वास्तविक राजनीतिक शक्ति का प्रयोग करती है और अधिकांश निर्णय लेती है?"
+      },
+      "options": {
+        "a": {"en": "The President", "hi": "राष्ट्रपति"},
+        "b": {"en": "The Prime Minister and Cabinet", "hi": "प्रधानमंत्री और कैबिनेट"},
+        "c": {"en": "The Supreme Court", "hi": "सुप्रीम कोर्ट"},
+        "d": {"en": "The UPSC", "hi": "UPSC"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He is the head of the government.",
+        "hi": "वे सरकार के प्रमुख होते हैं।"
+      },
+      "explanation": {
+        "en": "The Prime Minister is the head of the government and actually exercises all governmental powers.",
+        "hi": "प्रधानमंत्री सरकार के प्रमुख होते हैं और वास्तविक कार्यकारी शक्तियों का प्रयोग करते हैं।"
+      },
+      "key_takeaway": {
+        "en": "PM = Head of the Government.",
+        "hi": "प्रधानमंत्री = सरकार का प्रमुख।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "Parliament consists of the President and two houses. What are they?",
+        "hi": "संसद में राष्ट्रपति और दो सदन शामिल हैं। वे क्या हैं?"
+      },
+      "options": {
+        "a": {"en": "Vidhan Sabha and Vidhan Parishad", "hi": "विधानसभा और विधान परिषद"},
+        "b": {"en": "Lok Sabha and Rajya Sabha", "hi": "लोकसभा और राज्यसभा"},
+        "c": {"en": "Niti Aayog and Cabinet", "hi": "नीति आयोग और कैबिनेट"},
+        "d": {"en": "Municipality and Panchayat", "hi": "नगरपालिका और पंचायत"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "One is the House of the People and the other is the Council of States.",
+        "hi": "एक जनता का सदन है और दूसरा राज्यों की परिषद।"
+      },
+      "explanation": {
+        "en": "Parliament in India consists of the President and two Houses: Rajya Sabha (Council of States) and Lok Sabha (House of the People).",
+        "hi": "भारतीय संसद के तीन अंग हैं: राष्ट्रपति, लोकसभा और राज्यसभा।"
+      },
+      "key_takeaway": {
+        "en": "Parliament = President + Lok Sabha + Rajya Sabha.",
+        "hi": "संसद = राष्ट्रपति + लोकसभा + राज्यसभा।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "Which house of Parliament is known as the 'Lower House'?",
+        "hi": "संसद के किस सदन को 'निचला सदन' (Lower House) कहा जाता है?"
+      },
+      "options": {
+        "a": {"en": "Rajya Sabha", "hi": "राज्यसभा"},
+        "b": {"en": "Lok Sabha", "hi": "लोकसभा"},
+        "c": {"en": "Vidhan Sabha", "hi": "विधानसभा"},
+        "d": {"en": "Supreme Court", "hi": "सुप्रीम कोर्ट"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It is directly elected by the people.",
+        "hi": "इसे सीधे जनता द्वारा चुना जाता है।"
+      },
+      "explanation": {
+        "en": "The Lok Sabha is called the Lower House (House of the People), and the Rajya Sabha is called the Upper House (Council of States).",
+        "hi": "लोकसभा को निचला सदन और राज्यसभा को ऊपरी सदन कहा जाता है।"
+      },
+      "key_takeaway": {
+        "en": "Lower House = Lok Sabha.",
+        "hi": "निचला सदन = लोकसभा।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "What is the maximum strength of the Rajya Sabha?",
+        "hi": "राज्यसभा की अधिकतम सदस्य संख्या क्या है?"
+      },
+      "options": {
+        "a": {"en": "545", "hi": "545"},
+        "b": {"en": "250", "hi": "250"},
+        "c": {"en": "245", "hi": "245"},
+        "d": {"en": "300", "hi": "300"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Currently, it has 245 members.",
+        "hi": "वर्तमान में इसके 245 सदस्य हैं।"
+      },
+      "explanation": {
+        "en": "The Rajya Sabha can have a maximum of 250 members. 238 are elected by states/UTs and 12 are nominated by the President.",
+        "hi": "राज्यसभा में अधिकतम 250 सदस्य हो सकते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Rajya Sabha Strength = 250.",
+        "hi": "राज्यसभा सदस्य = 250।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "Why is Rajya Sabha called a 'Permanent' house?",
+        "hi": "राज्यसभा को 'स्थायी' सदन क्यों कहा जाता है?"
+      },
+      "options": {
+        "a": {"en": "Because it never dissolves", "hi": "क्योंकि यह कभी भंग नहीं होता"},
+        "b": {"en": "Because members stay for life", "hi": "क्योंकि सदस्य जीवन भर रहते हैं"},
+        "c": {"en": "Because it meets in a fixed place", "hi": "क्योंकि यह एक निश्चित स्थान पर मिलता है"},
+        "d": {"en": "Because the President is its head", "hi": "क्योंकि राष्ट्रपति इसके प्रमुख हैं"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "Unlike Lok Sabha, it does not have a fixed 5-year term for the whole house.",
+        "hi": "लोकसभा के विपरीत, पूरे सदन के लिए इसका 5 साल का निश्चित कार्यकाल नहीं होता।"
+      },
+      "explanation": {
+        "en": "Rajya Sabha is a permanent body and is not subject to dissolution. One-third of its members retire every two years.",
+        "hi": "राज्यसभा कभी पूरी तरह भंग नहीं होती, इसके एक-तिहाई सदस्य हर दो साल में सेवानिवृत्त होते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Rajya Sabha = Permanent House.",
+        "hi": "राज्यसभा = स्थायी सदन।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "In case of a disagreement between the two Houses on an ordinary law, how is the final decision taken?",
+        "hi": "साधारण कानून पर दोनों सदनों के बीच असहमति होने की स्थिति में अंतिम निर्णय कैसे लिया जाता है?"
+      },
+      "options": {
+        "a": {"en": "The President decides", "hi": "राष्ट्रपति निर्णय लेते हैं"},
+        "b": {"en": "A joint session of both Houses", "hi": "दोनों सदनों का संयुक्त अधिवेशन"},
+        "c": {"en": "Only Lok Sabha decides", "hi": "केवल लोकसभा निर्णय लेती है"},
+        "d": {"en": "Only Rajya Sabha decides", "hi": "केवल राज्यसभा निर्णय लेती है"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "In such a session, the view of Lok Sabha usually prevails due to larger numbers.",
+        "hi": "ऐसे अधिवेशन में, बड़ी संख्या के कारण आमतौर पर लोकसभा का विचार प्रबल होता है।"
+      },
+      "explanation": {
+        "en": "If there is a disagreement, the final decision is taken in a joint session. Because of larger members, the view of Lok Sabha is likely to prevail.",
+        "hi": "किसी कानून पर विवाद होने पर दोनों सदनों की संयुक्त बैठक बुलाई जाती है।"
+      },
+      "key_takeaway": {
+        "en": "Disagreement = Joint Session.",
+        "hi": "असहमति = संयुक्त सत्र।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "Who exercises more power in 'Money Matters'?",
+        "hi": "'धन संबंधी मामलों' में किसके पास अधिक शक्ति होती है?"
+      },
+      "options": {
+        "a": {"en": "Rajya Sabha", "hi": "राज्यसभा"},
+        "b": {"en": "Lok Sabha", "hi": "लोकसभा"},
+        "c": {"en": "The President", "hi": "राष्ट्रपति"},
+        "d": {"en": "The Judiciary", "hi": "न्यायपालिका"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Once this house passes the budget, the other house can only delay it for 14 days.",
+        "hi": "एक बार जब यह सदन बजट पारित कर देता है, तो दूसरा सदन इसे केवल 14 दिनों के लिए टाल सकता है।"
+      },
+      "explanation": {
+        "en": "Lok Sabha exercises more power in money matters. Once the Lok Sabha passes the budget, the Rajya Sabha cannot reject it. It can only delay it by 14 days.",
+        "hi": "लोकसभा के पास धन या बजट के मामले में अंतिम और सर्वोच्च शक्ति होती है।"
+      },
+      "key_takeaway": {
+        "en": "Money Bills = Lok Sabha is supreme.",
+        "hi": "धन विधेयक = लोकसभा सर्वोच्च है।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "The 'Executive' refers to those officials who:",
+        "hi": "'कार्यपालिका' (Executive) उन अधिकारियों को संदर्भित करती है जो:"
+      },
+      "options": {
+        "a": {"en": "Make laws", "hi": "कानून बनाते हैं"},
+        "b": {"en": "Implement government decisions", "hi": "सरकारी निर्णयों को लागू करते हैं"},
+        "c": {"en": "Judge legal disputes", "hi": "कानूनी विवादों का फैसला करते हैं"},
+        "d": {"en": "Write the Constitution", "hi": "संविधान लिखते हैं"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "They are responsible for the 'execution' of policies.",
+        "hi": "वे नीतियों के 'निष्पादन' (execution) के लिए जिम्मेदार हैं।"
+      },
+      "explanation": {
+        "en": "The executive is a body of persons that looks after the implementation of the laws and policies made by the legislature.",
+        "hi": "संसद द्वारा बनाए गए कानूनों को अमली जामा पहनाने वाली संस्था को कार्यपालिका कहते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Executive = Implementation branch.",
+        "hi": "कार्यपालिका = कार्यान्वयन शाखा।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "Who are the 'Political Executives'?",
+        "hi": "'राजनीतिक कार्यपालिका' कौन होते हैं?"
+      },
+      "options": {
+        "a": {"en": "Civil Servants (IAS/IPS)", "hi": "सिविल सेवक (IAS/IPS)"},
+        "b": {"en": "Ministers elected by the people", "hi": "जनता द्वारा चुने गए मंत्री"},
+        "c": {"en": "Judges", "hi": "न्यायाधीश"},
+        "d": {"en": "Police officers", "hi": "पुलिस अधिकारी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "They stay in power only for a specific period.",
+        "hi": "वे केवल एक विशिष्ट अवधि के लिए सत्ता में रहते हैं।"
+      },
+      "explanation": {
+        "en": "Political executives are elected by the people for a specific period, like the Prime Minister and other ministers.",
+        "hi": "जनता द्वारा एक निश्चित अवधि के लिए चुने गए व्यक्ति (जैसे मंत्री) राजनीतिक कार्यपालिका कहलाते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Political Executive = Elected Ministers.",
+        "hi": "राजनीतिक कार्यपालिका = निर्वाचित मंत्री।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "Civil servants who remain in office even when the ruling party changes are known as:",
+        "hi": "सिविल सेवक जो सत्ताधारी दल बदलने पर भी पद पर बने रहते हैं, उन्हें क्या कहा जाता है?"
+      },
+      "options": {
+        "a": {"en": "Permanent Executive", "hi": "स्थायी कार्यपालिका"},
+        "b": {"en": "Political Executive", "hi": "राजनीतिक कार्यपालिका"},
+        "c": {"en": "Temporary Executive", "hi": "अस्थायी कार्यपालिका"},
+        "d": {"en": "Elected Executive", "hi": "निर्वाचित कार्यपालिका"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "They are also called administrative officers.",
+        "hi": "इन्हें प्रशासनिक अधिकारी भी कहा जाता है।"
+      },
+      "explanation": {
+        "en": "People who are appointed on a long-term basis are called the permanent executive or civil services.",
+        "hi": "नौकरशाह या सिविल सेवक स्थायी कार्यपालिका का हिस्सा होते हैं क्योंकि वे रिटायरमेंट तक पद पर रहते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Permanent Executive = Civil Servants.",
+        "hi": "स्थायी कार्यपालिका = सिविल सेवक।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "Why does the Minister have more power than the expert Civil Servant in a democracy?",
+        "hi": "लोकतंत्र में विशेषज्ञ सिविल सेवक की तुलना में मंत्री के पास अधिक शक्ति क्यों होती है?"
+      },
+      "options": {
+        "a": {"en": "Because the Minister is more educated", "hi": "क्योंकि मंत्री अधिक शिक्षित है"},
+        "b": {"en": "Because the Minister is elected and represents the will of the people", "hi": "क्योंकि मंत्री निर्वाचित है और जनता की इच्छा का प्रतिनिधित्व करता है"},
+        "c": {"en": "Because the Civil Servant is lazy", "hi": "क्योंकि सिविल सेवक आलसी है"},
+        "d": {"en": "Because judges decided so", "hi": "क्योंकि न्यायाधीशों ने ऐसा निर्णय लिया"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "In a democracy, the will of the people is supreme.",
+        "hi": "लोकतंत्र में, जनता की इच्छा सर्वोपरि है।"
+      },
+      "explanation": {
+        "en": "The minister is an elected representative of the people. Since democracy is about the will of the people, the minister is empowered to exercise that will on their behalf.",
+        "hi": "मंत्री जनता द्वारा चुना जाता है, इसलिए वह जनता के प्रति जवाबदेह होता है और अंतिम निर्णय लेता है।"
+      },
+      "key_takeaway": {
+        "en": "Minister's Supremacy = Democratic accountability.",
+        "hi": "मंत्री की सर्वोच्चता = लोकतांत्रिक जवाबदेही।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "The body that includes all the Ministers is called:",
+        "hi": "उस निकाय को क्या कहा जाता है जिसमें सभी मंत्री शामिल होते हैं?"
+      },
+      "options": {
+        "a": {"en": "Cabinet", "hi": "कैबिनेट"},
+        "b": {"en": "Council of Ministers", "hi": "मंत्रिपरिषद (Council of Ministers)"},
+        "c": {"en": "Parliament", "hi": "संसद"},
+        "d": {"en": "Planning Commission", "hi": "योजना आयोग"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It usually has 60 to 80 ministers of different ranks.",
+        "hi": "इसमें आमतौर पर विभिन्न रैंक के 60 से 80 मंत्री होते हैं।"
+      },
+      "explanation": {
+        "en": "Council of Ministers is the official name for the body that includes all the Ministers. It includes Cabinet Ministers, Ministers of State with independent charge, and Ministers of State.",
+        "hi": "मंत्रिपरिषद में सभी प्रकार के मंत्री (कैबिनेट, राज्य मंत्री आदि) शामिल होते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Council of Ministers = All ~60-80 ministers.",
+        "hi": "मंत्रिपरिषद = सभी ~60-80 मंत्री।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "Which group of ministers are the inner ring of the Council of Ministers and take most major decisions?",
+        "hi": "मंत्रियों का कौन सा समूह मंत्रिपरिषद का आंतरिक घेरा होता है और अधिकांश प्रमुख निर्णय लेता है?"
+      },
+      "options": {
+        "a": {"en": "Cabinet Ministers", "hi": "कैबिनेट मंत्री (Cabinet Ministers)"},
+        "b": {"en": "Ministers of State", "hi": "राज्य मंत्री"},
+        "c": {"en": "Deputy Ministers", "hi": "उप मंत्री"},
+        "d": {"en": "MPs", "hi": "सांसद"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "They are usually top-level leaders of the ruling party in charge of major ministries.",
+        "hi": "वे आमतौर पर प्रमुख मंत्रालयों के प्रभारी सत्ताधारी दल के शीर्ष स्तर के नेता होते हैं।"
+      },
+      "explanation": {
+        "en": "Cabinet Ministers are usually top-level leaders of the ruling party. It is the inner ring of the Council of Ministers and contains about 20-25 ministers.",
+        "hi": "कैबिनेट मंत्री वरिष्ठ मंत्री होते हैं जो मुख्य मंत्रालयों को संभालते हैं और सरकार की मुख्य नीतियां तय करते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Cabinet = Decision-making core.",
+        "hi": "कैबिनेट = निर्णय लेने वाला मुख्य हिस्सा।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "What is 'Coalition Government'?",
+        "hi": "'गठबंधन सरकार' (Coalition Government) क्या है?"
+      },
+      "options": {
+        "a": {"en": "Government by one single party", "hi": "एक ही पार्टी द्वारा सरकार"},
+        "b": {"en": "Government formed by an alliance of two or more political parties", "hi": "दो या दो से अधिक राजनीतिक दलों के गठबंधन द्वारा बनाई गई सरकार"},
+        "c": {"en": "Government run by the military", "hi": "सेना द्वारा चलाई जाने वाली सरकार"},
+        "d": {"en": "Government run by judges", "hi": "न्यायाधीशों द्वारा चलाई जाने वाली सरकार"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This happens when no single party gets a clear majority in elections.",
+        "hi": "यह तब होता है जब चुनावों में किसी एक पार्टी को स्पष्ट बहुमत नहीं मिलता।"
+      },
+      "explanation": {
+        "en": "A coalition government is a government formed by an alliance of two or more political parties, usually when no single party has majority support of the members in a legislature.",
+        "hi": "जब कई पार्टियाँ मिलकर सरकार बनाती हैं, तो उसे गठबंधन सरकार कहते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Coalition = Multiple parties alliance.",
+        "hi": "गठबंधन = कई दलों का मेल।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "Who is the 'Supreme Commander' of the defense forces of India?",
+        "hi": "भारत के रक्षा बलों का 'सर्वोच्च कमांडर' कौन होता है?"
+      },
+      "options": {
+        "a": {"en": "The Prime Minister", "hi": "प्रधानमंत्री"},
+        "b": {"en": "The President", "hi": "राष्ट्रपति"},
+        "c": {"en": "The Defense Minister", "hi": "रक्षा मंत्री"},
+        "d": {"en": "The Chief of Army Staff", "hi": "थल सेना अध्यक्ष"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This is a formal/ceremonial role of the head of the state.",
+        "hi": "यह राष्ट्राध्यक्ष की एक औपचारिक/समारोहपूर्ण भूमिका है।"
+      },
+      "explanation": {
+        "en": "All international treaties and agreements are made in the name of the President. She is the supreme commander of the defence forces of India.",
+        "hi": "भारत का राष्ट्रपति तीनों सेनाओं का सर्वोच्च सेनापति होता है।"
+      },
+      "key_takeaway": {
+        "en": "President = Supreme Commander.",
+        "hi": "राष्ट्रपति = सर्वोच्च कमांडर।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "The Judiciary in India consists of:",
+        "hi": "भारत में न्यायपालिका में क्या-क्या शामिल हैं?"
+      },
+      "options": {
+        "a": {"en": "The Supreme Court", "hi": "सुप्रीम कोर्ट"},
+        "b": {"en": "High Courts in the states", "hi": "राज्यों में हाई कोर्ट"},
+        "c": {"en": "District Courts", "hi": "जिला अदालतें"},
+        "d": {"en": "All of the above", "hi": "उपरोक्त सभी"}
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "India has an integrated judiciary system.",
+        "hi": "भारत में एक एकीकृत न्यायपालिका प्रणाली है।"
+      },
+      "explanation": {
+        "en": "Judiciary refers to all the courts at different levels in a country put together. In India, it consists of the Supreme Court for the entire nation, High Courts in the states, District Courts and the courts at local level.",
+        "hi": "देश की सभी अदालतों को मिलाकर न्यायपालिका कहा जाता है।"
+      },
+      "key_takeaway": {
+        "en": "Judiciary = Hierarchy of courts.",
+        "hi": "न्यायपालिका = अदालतों का पदानुक्रम।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "What does an 'Integrated Judiciary' mean in the Indian context?",
+        "hi": "भारतीय संदर्भ में 'एकीकृत न्यायपालिका' (Integrated Judiciary) का क्या अर्थ है?"
+      },
+      "options": {
+        "a": {"en": "Courts are under the control of the Prime Minister", "hi": "अदालतें प्रधानमंत्री के नियंत्रण में हैं"},
+        "b": {"en": "The Supreme Court controls the judicial administration in the country", "hi": "सुप्रीम कोर्ट देश में न्यायिक प्रशासन को नियंत्रित करता है"},
+        "c": {"en": "Each state has its own independent law", "hi": "प्रत्येक राज्य का अपना स्वतंत्र कानून है"},
+        "d": {"en": "Judges are elected by the people", "hi": "न्यायाधीश जनता द्वारा चुने जाते हैं"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Decisions of the Supreme Court are binding on all other courts.",
+        "hi": "सुप्रीम कोर्ट के फैसले अन्य सभी अदालतों के लिए बाध्यकारी होते हैं।"
+      },
+      "explanation": {
+        "en": "India has an integrated judiciary, which means the Supreme Court controls the judicial administration and its decisions are binding on all other courts in the country.",
+        "hi": "एकीकृत न्यायपालिका का मतलब है कि सुप्रीम कोर्ट के फैसले सबसे ऊपर हैं और अन्य अदालतों को उन्हें मानना पड़ता है।"
+      },
+      "key_takeaway": {
+        "en": "Integrated Judiciary = Hierarchical binding system.",
+        "hi": "एकीकृत न्यायपालिका = पदानुक्रमित बाध्यकारी प्रणाली।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "How are the judges of the Supreme Court and High Courts appointed?",
+        "hi": "सुप्रीम कोर्ट और हाई कोर्ट के न्यायाधीशों की नियुक्ति कैसे की जाती है?"
+      },
+      "options": {
+        "a": {"en": "By the Prime Minister alone", "hi": "केवल प्रधानमंत्री द्वारा"},
+        "b": {"en": "By the President on the advice of the PM and in consultation with the Chief Justice", "hi": "प्रधानमंत्री की सलाह पर और मुख्य न्यायाधीश के परामर्श से राष्ट्रपति द्वारा"},
+        "c": {"en": "Through a public vote", "hi": "सार्वजनिक वोट के माध्यम से"},
+        "d": {"en": "By the Parliament members", "hi": "संसद सदस्यों द्वारा"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "In reality, the senior judges of the Supreme Court select the new judges.",
+        "hi": "वास्तव में, सुप्रीम कोर्ट के वरिष्ठ न्यायाधीश नए न्यायाधीशों का चयन करते हैं।"
+      },
+      "explanation": {
+        "en": "The judges are appointed by the President on the advice of the Prime Minister and in consultation with the Chief Justice of the Supreme Court. A collegium of senior judges usually makes the selection.",
+        "hi": "न्यायाधीशों की नियुक्ति राष्ट्रपति द्वारा की जाती है, जिसमें मुख्य न्यायाधीश की भूमिका महत्वपूर्ण होती है।"
+      },
+      "key_takeaway": {
+        "en": "Judicial Appointment = President + CJI consultation.",
+        "hi": "न्यायिक नियुक्ति = राष्ट्रपति + CJI परामर्श।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "A judge of the Supreme Court can be removed only by:",
+        "hi": "सुप्रीम कोर्ट के न्यायाधीश को केवल किसके द्वारा हटाया जा सकता है?"
+      },
+      "options": {
+        "a": {"en": "The Prime Minister", "hi": "प्रधानमंत्री"},
+        "b": {"en": "An impeachment motion passed by two-thirds majority in both Houses of Parliament", "hi": "संसद के दोनों सदनों में दो-तिहाई बहुमत से पारित महाभियोग प्रस्ताव"},
+        "c": {"en": "The Police", "hi": "पुलिस"},
+        "d": {"en": "The President's order alone", "hi": "केवल राष्ट्रपति के आदेश से"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This process is as difficult as removing the President of India.",
+        "hi": "यह प्रक्रिया भारत के राष्ट्रपति को हटाने जितनी ही कठिन है।"
+      },
+      "explanation": {
+        "en": "Removal of a judge requires an impeachment motion passed separately by two-thirds members of the two Houses of the Parliament. It has never happened in the history of Indian democracy.",
+        "hi": "न्यायाधीश को हटाना बहुत कठिन है, इसके लिए संसद में महाभियोग प्रस्ताव लाना पड़ता है।"
+      },
+      "key_takeaway": {
+        "en": "Removal = Impeachment (2/3rd majority).",
+        "hi": "हटाना = महाभियोग (2/3 बहुमत)।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "What is 'Judicial Review'?",
+        "hi": "'न्यायिक समीक्षा' (Judicial Review) क्या है?"
+      },
+      "options": {
+        "a": {"en": "The power of judges to write new laws", "hi": "न्यायाधीशों की नए कानून लिखने की शक्ति"},
+        "b": {"en": "The power of the judiciary to determine the constitutional validity of any law", "hi": "किसी भी कानून की संवैधानिक वैधता निर्धारित करने की न्यायपालिका की शक्ति"},
+        "c": {"en": "A meeting of all judges", "hi": "सभी न्यायाधीशों की बैठक"},
+        "d": {"en": "The power to increase taxes", "hi": "कर बढ़ाने की शक्ति"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The Supreme Court can declare any law invalid if it goes against the Constitution.",
+        "hi": "यदि कोई कानून संविधान के खिलाफ जाता है तो सुप्रीम कोर्ट उसे अमान्य घोषित कर सकता है।"
+      },
+      "explanation": {
+        "en": "Judicial review is the power of the Supreme Court and the High Courts to interpret the Constitution and declare any law of the legislature or action of the executive as unconstitutional.",
+        "hi": "न्यायपालिका यह जाँच कर सकती है कि कोई कानून संविधान के अनुसार है या नहीं। इसे न्यायिक समीक्षा कहते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Judicial Review = Checking validity of laws.",
+        "hi": "न्यायिक समीक्षा = कानूनों की वैधता की जाँच।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "What is 'PIL' in the context of the Indian legal system?",
+        "hi": "भारतीय कानूनी प्रणाली के संदर्भ में 'PIL' क्या है?"
+      },
+      "options": {
+        "a": {"en": "Public Interest Litigation", "hi": "जनहित याचिका (Public Interest Litigation)"},
+        "b": {"en": "Private Internal Law", "hi": "प्राइवेट इंटरनल लॉ"},
+        "c": {"en": "Primary Indian Legislature", "hi": "प्राइमरी इंडियन लेजिस्लेचर"},
+        "d": {"en": "Public Individual License", "hi": "पब्लिक इंडिविजुअल लाइसेंस"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "Anyone can approach the courts if a public interest is hurt by government actions.",
+        "hi": "यदि सरकारी कार्यों से सार्वजनिक हित को ठेस पहुँचती है तो कोई भी अदालत जा सकता है।"
+      },
+      "explanation": {
+        "en": "Public Interest Litigation (PIL) allows any citizen or group to go to court to protect the public interest against the actions of the government.",
+        "hi": "PIL का अर्थ जनहित याचिका है, जिसके जरिए कोई भी व्यक्ति जनहित के मुद्दे पर अदालत का दरवाजा खटखटा सकता है।"
+      },
+      "key_takeaway": {
+        "en": "PIL = Legal action for public good.",
+        "hi": "PIL = जनहित के लिए कानूनी कार्रवाई।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "The Prime Minister must have the support of the majority of members in the ________ to stay in power.",
+        "hi": "सत्ता में बने रहने के लिए प्रधानमंत्री को ________ के अधिकांश सदस्यों का समर्थन प्राप्त होना चाहिए।"
+      },
+      "options": {
+        "a": {"en": "Rajya Sabha", "hi": "राज्यसभा"},
+        "b": {"en": "Lok Sabha", "hi": "लोकसभा (Lok Sabha)"},
+        "c": {"en": "Supreme Court", "hi": "सुप्रीम कोर्ट"},
+        "d": {"en": "UPSC", "hi": "UPSC"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "If this house passes a 'no-confidence motion', the PM and all ministers must resign.",
+        "hi": "यदि यह सदन 'अविश्वास प्रस्ताव' पारित कर देता है, तो प्रधानमंत्री और सभी मंत्रियों को इस्तीफा देना होगा।"
+      },
+      "explanation": {
+        "en": "The Prime Minister is the person who commands the majority in the Lok Sabha. If the Lok Sabha passes a vote of no confidence, the entire ministry has to quit.",
+        "hi": "प्रधानमंत्री वही व्यक्ति बन सकता है जिसे लोकसभा में बहुमत प्राप्त हो।"
+      },
+      "key_takeaway": {
+        "en": "PM Support = Majority in Lok Sabha.",
+        "hi": "प्रधानमंत्री का समर्थन = लोकसभा में बहुमत।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "Who is responsible for the overall coordination of different ministries in the government?",
+        "hi": "सरकार में विभिन्न मंत्रालयों के समग्र समन्वय के लिए कौन जिम्मेदार है?"
+      },
+      "options": {
+        "a": {"en": "The President", "hi": "राष्ट्रपति"},
+        "b": {"en": "The Prime Minister", "hi": "प्रधानमंत्री (Prime Minister)"},
+        "c": {"en": "The Chief Justice", "hi": "मुख्य न्यायाधीश"},
+        "d": {"en": "The Finance Minister", "hi": "वित्त मंत्री"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He chairs Cabinet meetings and his decisions are final in case of disagreements between departments.",
+        "hi": "वे कैबिनेट की बैठकों की अध्यक्षता करते हैं और विभागों के बीच असहमति के मामले में उनके निर्णय अंतिम होते हैं।"
+      },
+      "explanation": {
+        "en": "The Prime Minister chairs Cabinet meetings. He coordinates the work of different departments and his decision is final if disagreements arise.",
+        "hi": "प्रधानमंत्री सभी मंत्रालयों के कामों का समन्वय करते हैं और उनके फैसले अंतिम होते हैं।"
+      },
+      "key_takeaway": {
+        "en": "PM = Coordinator of all ministries.",
+        "hi": "प्रधानमंत्री = सभी मंत्रालयों के समन्वयक।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "The Indian Judiciary is 'Independent'. This means:",
+        "hi": "भारतीय न्यायपालिका 'स्वतंत्र' है। इसका क्या अर्थ है?"
+      },
+      "options": {
+        "a": {"en": "It is not under the control of the legislature or the executive", "hi": "यह विधायिका या कार्यपालिका के नियंत्रण में नहीं है"},
+        "b": {"en": "Judges can do whatever they want", "hi": "न्यायाधीश जो चाहें कर सकते हैं"},
+        "c": {"en": "It does not follow the Constitution", "hi": "यह संविधान का पालन नहीं करती"},
+        "d": {"en": "It is funded by private companies", "hi": "यह निजी कंपनियों द्वारा वित्तपोषित है"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "The judges do not act on the direction of the government.",
+        "hi": "न्यायाधीश सरकार के निर्देश पर काम नहीं करते हैं।"
+      },
+      "explanation": {
+        "en": "Independence of the judiciary means that it is not under the control of the legislature or the executive. The judges do not act on the direction of the government or according to the wishes of the party in power.",
+        "hi": "स्वतंत्र न्यायपालिका का अर्थ है कि उस पर सरकार या संसद का कोई दबाव नहीं होता।"
+      },
+      "key_takeaway": {
+        "en": "Independence = No political interference in justice.",
+        "hi": "स्वतंत्रता = न्याय में कोई राजनीतिक हस्तक्षेप नहीं।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "Who among the following is a part of the 'Political Executive'?",
+        "hi": "निम्नलिखित में से कौन 'राजनीतिक कार्यपालिका' का हिस्सा है?"
+      },
+      "options": {
+        "a": {"en": "District Collector", "hi": "जिला कलेक्टर"},
+        "b": {"en": "Secretary of Ministry of Home Affairs", "hi": "गृह मंत्रालय के सचिव"},
+        "c": {"en": "Home Minister", "hi": "गृह मंत्री (Home Minister)"},
+        "d": {"en": "Director General of Police", "hi": "पुलिस महानिदेशक"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "The person is elected by voters.",
+        "hi": "वह व्यक्ति मतदाताओं द्वारा चुना जाता है।"
+      },
+      "explanation": {
+        "en": "Ministers like the Home Minister are part of the political executive because they are elected and stay in power for a short term. Collectors and Secretaries are permanent executives.",
+        "hi": "मंत्री राजनीतिक कार्यपालिका होते हैं, जबकि अधिकारी स्थायी कार्यपालिका होते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Political Exec = Ministers.",
+        "hi": "राजनीतिक कार्यपालिका = मंत्री।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "How can the Supreme Court protect the Fundamental Rights of citizens?",
+        "hi": "सुप्रीम कोर्ट नागरिकों के मौलिक अधिकारों की रक्षा कैसे कर सकता है?"
+      },
+      "options": {
+        "a": {"en": "By making new rights", "hi": "नए अधिकार बनाकर"},
+        "b": {"en": "By declaring laws that violate rights as unconstitutional", "hi": "अधिकारों का उल्लंघन करने वाले कानूनों को असंवैधानिक घोषित करके"},
+        "c": {"en": "By arresting the citizens", "hi": "नागरिकों को गिरफ्तार करके"},
+        "d": {"en": "By changing the Preamble", "hi": "प्रस्तावना बदलकर"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The judiciary acts as the guardian of the Constitution.",
+        "hi": "न्यायपालिका संविधान के संरक्षक के रूप में कार्य करती है।"
+      },
+      "explanation": {
+        "en": "Citizens can approach the Supreme Court or High Courts if their Fundamental Rights are violated. The court can strike down any law that takes away these rights.",
+        "hi": "यदि किसी के मौलिक अधिकारों का हनन होता है, तो वह अदालत जा सकता है और अदालत उन गलत कानूनों को रद्द कर सकती है।"
+      },
+      "key_takeaway": {
+        "en": "Judiciary = Guardian of Fundamental Rights.",
+        "hi": "न्यायपालिका = मौलिक अधिकारों की रक्षक।"
+      }
+    }
+  ]
+}

@@ -1,0 +1,794 @@
+{
+  "metadata": {
+    "chapter_number": 5,
+    "chapter_title": "Democratic Rights",
+    "chapter_title_hindi": "लोकतांत्रिक अधिकार",
+    "subject": "Civics (Political Science) - Class 9",
+    "board": "CBSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.0",
+    "naming_convention": "09_CI_CH05_DemocraticRights_30MCQ.json"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "In which prison did the US government secretly detain hundreds of people after the 9/11 attacks?",
+        "hi": "9/11 के हमलों के बाद अमेरिकी सरकार ने चुपके से सैकड़ों लोगों को किस जेल में कैद किया था?"
+      },
+      "options": {
+        "a": {"en": "Tihar Jail", "hi": "तिहाड़ जेल"},
+        "b": {"en": "Guantanamo Bay", "hi": "ग्वांतानामो बे (Guantanamo Bay)"},
+        "c": {"en": "Robben Island", "hi": "रोबेन द्वीप"},
+        "d": {"en": "Cellular Jail", "hi": "सेलुलर जेल"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It is an American naval base in Cuba.",
+        "hi": "यह क्यूबा में एक अमेरिकी नौसैनिक अड्डा है।"
+      },
+      "explanation": {
+        "en": "About 600 people were secretly picked up by the US forces and put in a prison in Guantanamo Bay, Cuba. Families and UN representatives were not allowed to meet them.",
+        "hi": "अमेरिकी सरकार ने लगभग 600 लोगों को क्यूबा के पास ग्वांतानामो बे की जेल में डाल दिया था, जहाँ उन्हें कोई कानूनी अधिकार नहीं दिए गए थे।"
+      },
+      "key_takeaway": {
+        "en": "Guantanamo Bay = Example of rights violation by a superpower.",
+        "hi": "ग्वांतानामो बे = एक महाशक्ति द्वारा अधिकारों के उल्लंघन का उदाहरण।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "Amnesty International is an international organization that works for:",
+        "hi": "एमनेस्टी इंटरनेशनल (Amnesty International) एक अंतरराष्ट्रीय संगठन है जो किसके लिए काम करता है?"
+      },
+      "options": {
+        "a": {"en": "Economic growth", "hi": "आर्थिक विकास"},
+        "b": {"en": "Human Rights", "hi": "मानवाधिकार (Human Rights)"},
+        "c": {"en": "Sports promotion", "hi": "खेलों को बढ़ावा देना"},
+        "d": {"en": "Space research", "hi": "अंतरिक्ष अनुसंधान"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It collects information on the condition of prisoners and torture worldwide.",
+        "hi": "यह दुनिया भर में कैदियों की स्थिति और यातना के बारे में जानकारी एकत्र करता है।"
+      },
+      "explanation": {
+        "en": "Amnesty International is an independent international organization of volunteers who campaign for human rights and report on their violations.",
+        "hi": "एमनेस्टी इंटरनेशनल मानवाधिकारों के लिए काम करने वाला एक स्वतंत्र अंतरराष्ट्रीय संगठन है।"
+      },
+      "key_takeaway": {
+        "en": "Amnesty International = Global human rights watchdog.",
+        "hi": "एमनेस्टी इंटरनेशनल = वैश्विक मानवाधिकार प्रहरी।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "What were the ethnic massacres in Kosovo (Yugoslavia) triggered by?",
+        "hi": "कोसोवो (युगोस्लाविया) में जातीय नरसंहार किसके द्वारा शुरू किया गया था?"
+      },
+      "options": {
+        "a": {"en": "Nelson Mandela", "hi": "नेल्सन मंडेला"},
+        "b": {"en": "Milosevic's government", "hi": "मिलोशेविक की सरकार (Milosevic)"},
+        "c": {"en": "The United Nations", "hi": "संयुक्त राष्ट्र"},
+        "d": {"en": "Democratic rebels", "hi": "लोकतांत्रिक विद्रोही"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He was a narrow-minded Serbian nationalist leader.",
+        "hi": "वे एक संकीर्ण विचारधारा वाले सर्ब राष्ट्रवादी नेता थे।"
+      },
+      "explanation": {
+        "en": "In Kosovo, Milosevic’s government carried out mass killings of ethnic Albanians to establish Serbian dominance.",
+        "hi": "मिलोशेविक की सरकार ने कोसोवो में रहने वाले अल्बानियाई लोगों का कत्लेआम कराया था।"
+      },
+      "key_takeaway": {
+        "en": "Kosovo = Example of majoritarian rights violation.",
+        "hi": "कोसोवो = बहुसंख्यकवाद द्वारा अधिकारों के हनन का उदाहरण।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "What are 'Rights'?",
+        "hi": "'अधिकार' (Rights) क्या हैं?"
+      },
+      "options": {
+        "a": {"en": "Claims of a person over others and the government", "hi": "दूसरों और सरकार पर किसी व्यक्ति के दावे"},
+        "b": {"en": "Rules made by a dictator", "hi": "एक तानाशाह द्वारा बनाए गए नियम"},
+        "c": {"en": "Taxes paid to the state", "hi": "राज्य को दिया जाने वाला कर"},
+        "d": {"en": "Military orders", "hi": "सैन्य आदेश"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "They are reasonable claims recognized by society and sanctioned by law.",
+        "hi": "ये समाज द्वारा मान्यता प्राप्त और कानून द्वारा स्वीकृत उचित दावे हैं।"
+      },
+      "explanation": {
+        "en": "Rights are reasonable claims of persons recognized by society and sanctioned by law. They are essential for a decent life.",
+        "hi": "अधिकार किसी व्यक्ति के अपने लोगों, अपने समाज और अपनी सरकार से तार्किक दावे हैं।"
+      },
+      "key_takeaway": {
+        "en": "Rights = Claims + Recognition + Legal Sanction.",
+        "hi": "अधिकार = दावे + सामाजिक मान्यता + कानूनी स्वीकृति।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "How many Fundamental Rights are currently guaranteed by the Indian Constitution?",
+        "hi": "भारतीय संविधान द्वारा वर्तमान में कितने मौलिक अधिकार सुनिश्चित किए गए हैं?"
+      },
+      "options": {
+        "a": {"en": "Five", "hi": "पाँच"},
+        "b": {"en": "Six", "hi": "छह (Six)"},
+        "c": {"en": "Seven", "hi": "सात"},
+        "d": {"en": "Eight", "hi": "आठ"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Earlier there were seven, but the 'Right to Property' was removed.",
+        "hi": "पहले सात थे, लेकिन 'संपत्ति के अधिकार' को हटा दिया गया था।"
+      },
+      "explanation": {
+        "en": "The Indian Constitution provides for six Fundamental Rights: Equality, Freedom, against Exploitation, Freedom of Religion, Cultural/Educational, and Constitutional Remedies.",
+        "hi": "संविधान में हमें छह मौलिक अधिकार दिए गए हैं जो हमारे जीवन के लिए बुनियादी हैं।"
+      },
+      "key_takeaway": {
+        "en": "Fundamental Rights = 6 core rights.",
+        "hi": "मौलिक अधिकार = 6 मुख्य अधिकार।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "Which right ensures that all citizens are equal before the law?",
+        "hi": "कौन सा अधिकार यह सुनिश्चित करता है कि सभी नागरिक कानून के समक्ष समान हैं?"
+      },
+      "options": {
+        "a": {"en": "Right to Freedom", "hi": "स्वतंत्रता का अधिकार"},
+        "b": {"en": "Right to Equality", "hi": "समानता का अधिकार (Equality)"},
+        "c": {"en": "Right against Exploitation", "hi": "शोषण के विरुद्ध अधिकार"},
+        "d": {"en": "Cultural Rights", "hi": "सांस्कृतिक अधिकार"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It prohibits discrimination on grounds of religion, race, caste, sex or place of birth.",
+        "hi": "यह धर्म, मूलवंश, जाति, लिंग या जन्म स्थान के आधार पर भेदभाव को रोकता है।"
+      },
+      "explanation": {
+        "en": "The Right to Equality means the government shall not deny to any person equality before the law or the equal protection of the laws.",
+        "hi": "समानता के अधिकार का मतलब है कि कानून की नज़र में हर कोई बराबर है और सरकार किसी के साथ भेदभाव नहीं कर सकती।"
+      },
+      "key_takeaway": {
+        "en": "Equality = Rule of Law + Non-discrimination.",
+        "hi": "समानता = कानून का शासन + भेदभाव का अंत।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "What is 'Untouchability' according to the Constitution?",
+        "hi": "संविधान के अनुसार 'अस्पृश्यता' (Untouchability) क्या है?"
+      },
+      "options": {
+        "a": {"en": "A social practice that has been abolished and made a crime", "hi": "एक सामाजिक प्रथा जिसे समाप्त कर दिया गया है और अपराध बना दिया गया है"},
+        "b": {"en": "A religious duty", "hi": "एक धार्मिक कर्तव्य"},
+        "c": {"en": "A part of Right to Freedom", "hi": "स्वतंत्रता के अधिकार का एक हिस्सा"},
+        "d": {"en": "A legal way to treat people", "hi": "लोगों के साथ व्यवहार करने का एक कानूनी तरीका"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "Article 17 of the Constitution specifically addresses this.",
+        "hi": "संविधान का अनुच्छेद 17 विशेष रूप से इसे संबोधित करता है।"
+      },
+      "explanation": {
+        "en": "The Constitution declares untouchability a punishable offence. It is the practice of excluding certain castes from social interaction.",
+        "hi": "संविधान ने छुआछूत (अस्पृश्यता) को समाप्त कर दिया है और इसका किसी भी रूप में आचरण दंडनीय अपराध है।"
+      },
+      "key_takeaway": {
+        "en": "Article 17 = Abolition of Untouchability.",
+        "hi": "अनुच्छेद 17 = अस्पृश्यता का अंत।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "Which of the following is NOT a freedom guaranteed under the 'Right to Freedom'?",
+        "hi": "निम्नलिखित में से कौन सी स्वतंत्रता 'स्वतंत्रता के अधिकार' के तहत सुनिश्चित नहीं है?"
+      },
+      "options": {
+        "a": {"en": "Freedom of speech and expression", "hi": "भाषण और अभिव्यक्ति की स्वतंत्रता"},
+        "b": {"en": "Freedom to assemble peacefully without arms", "hi": "बिना हथियारों के शांतिपूर्वक इकट्ठा होने की स्वतंत्रता"},
+        "c": {"en": "Freedom to kill anyone who opposes you", "hi": "विरोध करने वाले किसी भी व्यक्ति को मारने की स्वतंत्रता"},
+        "d": {"en": "Freedom to reside in any part of India", "hi": "भारत के किसी भी हिस्से में रहने की स्वतंत्रता"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "Your freedoms should not violate others' right to life or public order.",
+        "hi": "आपकी स्वतंत्रता दूसरों के जीवन के अधिकार या सार्वजनिक व्यवस्था का उल्लंघन नहीं करनी चाहिए।"
+      },
+      "explanation": {
+        "en": "Right to Freedom includes several rights, but it is not an absolute license to do anything. It must not cause public disorder or harm others.",
+        "hi": "स्वतंत्रता का अधिकार हमें अपनी बात कहने और कहीं भी जाने का हक देता है, लेकिन यह हमें कानून तोड़ने की आजादी नहीं देता।"
+      },
+      "key_takeaway": {
+        "en": "Freedom = Rights with reasonable restrictions.",
+        "hi": "स्वतंत्रता = उचित प्रतिबंधों के साथ अधिकार।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "No person can be detained in custody without being informed of the grounds of arrest within:",
+        "hi": "किसी भी व्यक्ति को गिरफ्तारी के कारणों को बताए बिना कितनी अवधि तक हिरासत में नहीं रखा जा सकता?"
+      },
+      "options": {
+        "a": {"en": "24 hours", "hi": "24 घंटे (24 hours)"},
+        "b": {"en": "48 hours", "hi": "48 घंटे"},
+        "c": {"en": "One week", "hi": "एक सप्ताह"},
+        "d": {"en": "One month", "hi": "एक महीना"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "A person must be produced before the nearest magistrate within this period.",
+        "hi": "इस अवधि के भीतर व्यक्ति को निकटतम मजिस्ट्रेट के सामने पेश किया जाना चाहिए।"
+      },
+      "explanation": {
+        "en": "A person who is arrested and detained in custody shall be produced before the nearest magistrate within a period of 24 hours of such arrest.",
+        "hi": "गिरफ्तार किए गए व्यक्ति को 24 घंटे के भीतर मजिस्ट्रेट के सामने पेश करना अनिवार्य है।"
+      },
+      "key_takeaway": {
+        "en": "Arrest Rights = Produced before Magistrate in 24 hrs.",
+        "hi": "गिरफ्तारी के अधिकार = 24 घंटे में मजिस्ट्रेट के समक्ष पेशी।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "The Right against Exploitation prohibits which of the following?",
+        "hi": "शोषण के विरुद्ध अधिकार निम्नलिखित में से किस पर प्रतिबंध लगाता है?"
+      },
+      "options": {
+        "a": {"en": "Traffic in human beings", "hi": "मानव जाति का अवैध व्यापार (Traffic)"},
+        "b": {"en": "Begar (Forced labor)", "hi": "बेगार (जबरन श्रम)"},
+        "c": {"en": "Child labor below the age of 14", "hi": "14 वर्ष से कम आयु के बच्चों से मजदूरी"},
+        "d": {"en": "All of the above", "hi": "उपरोक्त सभी"}
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "It protects the weaker sections from being misused by the powerful.",
+        "hi": "यह कमजोर वर्गों को शक्तिशाली लोगों द्वारा दुरुपयोग किए जाने से बचाता है।"
+      },
+      "explanation": {
+        "en": "The Constitution mentions three specific evils under Right against Exploitation: human trafficking, forced labor (begar), and child labor in hazardous jobs.",
+        "hi": "संविधान शोषण को रोकने के लिए मानव व्यापार, बेगार और बाल श्रम को गैर-कानूनी घोषित करता है।"
+      },
+      "key_takeaway": {
+        "en": "Exploitation = Illegal human trade and forced/child labor.",
+        "hi": "शोषण = मानव व्यापार और जबरन/बाल श्रम।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "Which of the following describes India as a 'Secular' state?",
+        "hi": "निम्नलिखित में से कौन भारत को एक 'धर्मनिरपेक्ष' राज्य के रूप में वर्णित करता है?"
+      },
+      "options": {
+        "a": {"en": "The state has no religion of its own", "hi": "राज्य का अपना कोई धर्म नहीं है"},
+        "b": {"en": "People are free to profess, practice and propagate any religion", "hi": "लोग किसी भी धर्म को मानने, आचरण करने और प्रचार करने के लिए स्वतंत्र हैं"},
+        "c": {"en": "The state does not discriminate on grounds of religion", "hi": "राज्य धर्म के आधार पर भेदभाव नहीं करता है"},
+        "d": {"en": "All of the above", "hi": "उपरोक्त सभी"}
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "Secularism means the state stays neutral in religious matters.",
+        "hi": "धर्मनिरपेक्षता का अर्थ है कि राज्य धार्मिक मामलों में तटस्थ रहता है।"
+      },
+      "explanation": {
+        "en": "India is a secular state. It means the state does not establish any one religion as official and gives citizens the freedom to follow any faith.",
+        "hi": "धर्मनिरपेक्षता का अर्थ है कि भारत सरकार किसी धर्म का पक्ष नहीं लेगी और हर किसी को अपना धर्म मानने की आजादी होगी।"
+      },
+      "key_takeaway": {
+        "en": "Secular State = Freedom of Religion + State Neutrality.",
+        "hi": "धर्मनिरपेक्ष राज्य = धार्मिक स्वतंत्रता + राज्य की तटस्थता।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "Cultural and Educational Rights are specifically provided for:",
+        "hi": "सांस्कृतिक और शैक्षिक अधिकार विशेष रूप से किसके लिए प्रदान किए गए हैं?"
+      },
+      "options": {
+        "a": {"en": "The majority religious group", "hi": "बहुसंख्यक धार्मिक समूह"},
+        "b": {"en": "Minorities (Linguistic and Religious)", "hi": "अल्पसंख्यकों (भाषाई और धार्मिक) के लिए"},
+        "c": {"en": "Foreigners", "hi": "विदेशियों के लिए"},
+        "d": {"en": "The Army", "hi": "सेना के लिए"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This right allows them to preserve their language, culture, and script.",
+        "hi": "यह अधिकार उन्हें अपनी भाषा, संस्कृति और लिपि को सुरक्षित रखने की अनुमति देता है।"
+      },
+      "explanation": {
+        "en": "Minorities have the right to conserve their distinct language and culture, and to establish educational institutions of their choice.",
+        "hi": "अल्पसंख्यकों को अपनी संस्कृति बचाने और अपने शिक्षण संस्थान चलाने का अधिकार है।"
+      },
+      "key_takeaway": {
+        "en": "Minority Rights = Preserving unique culture/language.",
+        "hi": "अल्पसंख्यक अधिकार = विशिष्ट संस्कृति/भाषा का संरक्षण।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "Which right was called the 'Heart and Soul' of the Constitution by Dr. B.R. Ambedkar?",
+        "hi": "डॉ. बी.आर. अंबेडकर ने किस अधिकार को संविधान का 'हृदय और आत्मा' कहा था?"
+      },
+      "options": {
+        "a": {"en": "Right to Equality", "hi": "समानता का अधिकार"},
+        "b": {"en": "Right to Freedom", "hi": "स्वतंत्रता का अधिकार"},
+        "c": {"en": "Right to Constitutional Remedies", "hi": "संवैधानिक उपचारों का अधिकार (Remedies)"},
+        "d": {"en": "Right to Property", "hi": "संपत्ति का अधिकार"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "This right allows citizens to go to court if any other fundamental right is violated.",
+        "hi": "यह अधिकार नागरिकों को अदालत जाने की अनुमति देता है यदि किसी अन्य मौलिक अधिकार का उल्लंघन होता है।"
+      },
+      "explanation": {
+        "en": "Right to Constitutional Remedies makes other rights effective. It allows citizens to move the High Court or Supreme Court to enforce their rights.",
+        "hi": "संवैधानिक उपचारों का अधिकार अन्य अधिकारों की रक्षा करता है, इसलिए इसे संविधान की आत्मा कहा गया है।"
+      },
+      "key_takeaway": {
+        "en": "Article 32 = Right to Constitutional Remedies.",
+        "hi": "अनुच्छेद 32 = संवैधानिक उपचारों का अधिकार।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "When our rights are violated, we can seek remedy through:",
+        "hi": "जब हमारे अधिकारों का उल्लंघन होता है, तो हम किसके माध्यम से उपचार मांग सकते हैं?"
+      },
+      "options": {
+        "a": {"en": "Political parties", "hi": "राजनीतिक दलों"},
+        "b": {"en": "The Judiciary (Courts)", "hi": "न्यायपालिका (अदालतें)"},
+        "c": {"en": "Religious leaders", "hi": "धार्मिक नेताओं"},
+        "d": {"en": "Foreign embassies", "hi": "विदेशी दूतावासों"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Fundamental Rights are 'justiciable'.",
+        "hi": "मौलिक अधिकार 'वादयोग्य' (justiciable) हैं।"
+      },
+      "explanation": {
+        "en": "Fundamental Rights are justiciable, meaning we have a right to seek their enforcement through the Supreme Court and High Courts.",
+        "hi": "मौलिक अधिकारों के हनन पर हम सीधे सुप्रीम कोर्ट या हाई कोर्ट जा सकते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Justiciable = Rights can be enforced in court.",
+        "hi": "वादयोग्य = अधिकारों को अदालत में लागू किया जा सकता है।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "What does 'NHRC' stand for?",
+        "hi": "'NHRC' का पूर्ण रूप क्या है?"
+      },
+      "options": {
+        "a": {"en": "National Health Research Council", "hi": "नेशनल हेल्थ रिसर्च काउंसिल"},
+        "b": {"en": "National Human Rights Commission", "hi": "राष्ट्रीय मानवाधिकार आयोग (NHRC)"},
+        "c": {"en": "National Highway Regulatory Committee", "hi": "नेशनल हाईवे रेगुलेटरी कमेटी"},
+        "d": {"en": "New Human Rights Centre", "hi": "न्यू ह्यूमन राइट्स सेंटर"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It was set up by law in 1993 to protect human rights in India.",
+        "hi": "भारत में मानवाधिकारों की रक्षा के लिए 1993 में कानून द्वारा इसकी स्थापना की गई थी।"
+      },
+      "explanation": {
+        "en": "The National Human Rights Commission (NHRC) is an independent commission that focuses on helping victims of human rights violations.",
+        "hi": "राष्ट्रीय मानवाधिकार आयोग एक स्वतंत्र संस्था है जो मानवाधिकारों के उल्लंघन के मामलों की जाँच करती है।"
+      },
+      "key_takeaway": {
+        "en": "NHRC = Statutory body for human rights protection.",
+        "hi": "NHRC = मानवाधिकार संरक्षण के लिए वैधानिक निकाय।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "The Right to Information (RTI) is an example of which fundamental right?",
+        "hi": "सूचना का अधिकार (RTI) किस मौलिक अधिकार का एक उदाहरण है?"
+      },
+      "options": {
+        "a": {"en": "Right to Equality", "hi": "समानता का अधिकार"},
+        "b": {"en": "Right to Freedom (Speech and Expression)", "hi": "स्वतंत्रता का अधिकार (भाषण और अभिव्यक्ति)"},
+        "c": {"en": "Cultural Rights", "hi": "सांस्कृतिक अधिकार"},
+        "d": {"en": "Right to Property", "hi": "संपत्ति का अधिकार"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It allows citizens to ask for information from government offices.",
+        "hi": "यह नागरिकों को सरकारी कार्यालयों से जानकारी मांगने की अनुमति देता है।"
+      },
+      "explanation": {
+        "en": "The Right to Information is derived from the freedom of speech and expression. Citizens have a right to know how the government works.",
+        "hi": "सूचना का अधिकार अभिव्यक्ति की स्वतंत्रता के अंतर्गत आता है क्योंकि जानने का अधिकार बोलने के अधिकार से जुड़ा है।"
+      },
+      "key_takeaway": {
+        "en": "RTI = Tool for government transparency.",
+        "hi": "RTI = सरकारी पारदर्शिता का उपकरण।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "Which of these rights is an 'expanding' right in India, recently included through the Right to Education Act?",
+        "hi": "इनमें से कौन सा अधिकार भारत में एक 'विस्तारित' अधिकार है, जिसे हाल ही में शिक्षा के अधिकार अधिनियम के माध्यम से शामिल किया गया है?"
+      },
+      "options": {
+        "a": {"en": "Right to vote at 16", "hi": "16 वर्ष में वोट देने का अधिकार"},
+        "b": {"en": "Right to free and compulsory education up to 14 years", "hi": "14 वर्ष तक की मुफ्त और अनिवार्य शिक्षा का अधिकार"},
+        "c": {"en": "Right to free electricity", "hi": "मुफ्त बिजली का अधिकार"},
+        "d": {"en": "Right to travel abroad free", "hi": "मुफ्त विदेश यात्रा का अधिकार"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The government is responsible for providing free schooling to children in the 6-14 age group.",
+        "hi": "सरकार 6-14 आयु वर्ग के बच्चों को मुफ्त स्कूली शिक्षा प्रदान करने के लिए जिम्मेदार है।"
+      },
+      "explanation": {
+        "en": "The scope of rights is constantly expanding. The Right to Education has now become a fundamental right for children up to 14 years.",
+        "hi": "शिक्षा का अधिकार अब एक मौलिक अधिकार बन गया है, जो 14 साल तक के बच्चों के लिए अनिवार्य है।"
+      },
+      "key_takeaway": {
+        "en": "Expanding Rights = RTE, RTI, Right to Life (Environment/Privacy).",
+        "hi": "विस्तारित अधिकार = शिक्षा का अधिकार, सूचना का अधिकार।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "In a democracy, the government is responsible for protecting the rights of ________.",
+        "hi": "लोकतंत्र में, सरकार किसके अधिकारों की रक्षा के लिए जिम्मेदार है?"
+      },
+      "options": {
+        "a": {"en": "Only the majority", "hi": "केवल बहुसंख्यकों के"},
+        "b": {"en": "Every citizen", "hi": "प्रत्येक नागरिक के (Every citizen)"},
+        "c": {"en": "Only government officials", "hi": "केवल सरकारी अधिकारियों के"},
+        "d": {"en": "The powerful rich people", "hi": "शक्तिशाली अमीर लोगों के"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Rights are available to everyone regardless of their background.",
+        "hi": "अधिकार हर किसी के लिए उपलब्ध हैं चाहे उनकी पृष्ठभूमि कुछ भी हो।"
+      },
+      "explanation": {
+        "en": "Rights are the lifeblood of a democracy. It is the duty of the democratic government to protect the rights of every citizen equally.",
+        "hi": "लोकतंत्र में सरकार का काम हर नागरिक के हक की हिफाजत करना है।"
+      },
+      "key_takeaway": {
+        "en": "Democratic Duty = Protection of universal rights.",
+        "hi": "लोकतांत्रिक कर्तव्य = सार्वभौमिक अधिकारों का संरक्षण।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "The 'Right to Life' under Article 21 has been expanded by the Supreme Court to include:",
+        "hi": "अनुच्छेद 21 के तहत 'जीवन के अधिकार' का सुप्रीम कोर्ट द्वारा विस्तार किया गया है ताकि इसमें शामिल हो सके:"
+      },
+      "options": {
+        "a": {"en": "Right to food", "hi": "भोजन का अधिकार"},
+        "b": {"en": "Right to a clean environment", "hi": "स्वच्छ पर्यावरण का अधिकार"},
+        "c": {"en": "Right to privacy", "hi": "निजता का अधिकार"},
+        "d": {"en": "All of the above", "hi": "उपरोक्त सभी"}
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "Living doesn't just mean existing; it means living with dignity.",
+        "hi": "जीवित रहने का मतलब केवल अस्तित्व नहीं है; इसका मतलब गरिमा के साथ जीना है।"
+      },
+      "explanation": {
+        "en": "Over the years, the Supreme Court has expanded the meaning of Right to Life to include right to food, environment, privacy, and health.",
+        "hi": "अदालतों ने समय-समय पर जीवन के अधिकार की व्याख्या करते हुए इसमें भोजन, प्रदूषण मुक्त हवा और निजता को भी जोड़ा है।"
+      },
+      "key_takeaway": {
+        "en": "Article 21 = Broad interpretation by Judiciary.",
+        "hi": "अनुच्छेद 21 = न्यायपालिका द्वारा व्यापक व्याख्या।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "What is the meaning of 'Secularism' in the Indian Constitution?",
+        "hi": "भारतीय संविधान में 'धर्मनिरपेक्षता' का क्या अर्थ है?"
+      },
+      "options": {
+        "a": {"en": "Opposition to all religions", "hi": "सभी धर्मों का विरोध"},
+        "b": {"en": "Neutrality of state in religious matters", "hi": "धार्मिक मामलों में राज्य की तटस्थता (Neutrality)"},
+        "c": {"en": "Forced conversion of people", "hi": "लोगों का जबरन धर्म परिवर्तन"},
+        "d": {"en": "Rule by religious priests", "hi": "धार्मिक पुजारियों द्वारा शासन"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The state has no official religion and does not interfere in personal beliefs.",
+        "hi": "राज्य का कोई आधिकारिक धर्म नहीं है और वह व्यक्तिगत विश्वासों में हस्तक्षेप नहीं करता है।"
+      },
+      "explanation": {
+        "en": "Secularism in India means that the state is neutral and treats all religions equally. It does not promote any one religion.",
+        "hi": "धर्मनिरपेक्षता का अर्थ है कि राज्य किसी एक धर्म को बढ़ावा नहीं देगा और सभी के साथ समान व्यवहार करेगा।"
+      },
+      "key_takeaway": {
+        "en": "Secularism = State has no religion.",
+        "hi": "धर्मनिरपेक्षता = राज्य का कोई धर्म नहीं।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "Which international body issued the 'Universal Declaration of Human Rights' (UDHR)?",
+        "hi": "किस अंतरराष्ट्रीय निकाय ने 'मानवाधिकारों की सार्वभौम घोषणा' (UDHR) जारी की?"
+      },
+      "options": {
+        "a": {"en": "The World Bank", "hi": "विश्व बैंक"},
+        "b": {"en": "The United Nations", "hi": "संयुक्त राष्ट्र (United Nations)"},
+        "c": {"en": "The European Union", "hi": "यूरोपीय संघ"},
+        "d": {"en": "The International Red Cross", "hi": "अंतरराष्ट्रीय रेड क्रॉस"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It was adopted in 1948 to set a global standard for rights.",
+        "hi": "इसे 1948 में अधिकारों के लिए एक वैश्विक मानक निर्धारित करने के लिए अपनाया गया था।"
+      },
+      "explanation": {
+        "en": "The United Nations General Assembly adopted the Universal Declaration of Human Rights in 1948, which set global standards for human rights.",
+        "hi": "संयुक्त राष्ट्र ने 1948 में मानवाधिकारों की सार्वभौमिक घोषणा की थी।"
+      },
+      "key_takeaway": {
+        "en": "UDHR = 1948, United Nations.",
+        "hi": "UDHR = 1948, संयुक्त राष्ट्र।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "South Africa's new constitution (after apartheid) includes the 'Right to Privacy'. What does this mean?",
+        "hi": "दक्षिण अफ्रीका के नए संविधान (रंगभेद के बाद) में 'निजता का अधिकार' शामिल है। इसका क्या अर्थ है?"
+      },
+      "options": {
+        "a": {"en": "Citizens can keep secrets from the government", "hi": "नागरिक सरकार से राज छिपा सकते हैं"},
+        "b": {"en": "Citizens' homes cannot be searched and phones cannot be tapped without reason", "hi": "बिना कारण नागरिकों के घरों की तलाशी नहीं ली जा सकती और फोन टैप नहीं किए जा सकते"},
+        "c": {"en": "Nobody is allowed to talk to their neighbors", "hi": "किसी को भी अपने पड़ोसियों से बात करने की अनुमति नहीं है"},
+        "d": {"en": "Government can tap any phone anytime", "hi": "सरकार कभी भी किसी भी फोन को टैप कर सकती है"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It protects the personal space of individuals.",
+        "hi": "यह व्यक्तियों के व्यक्तिगत स्थान की रक्षा करता है।"
+      },
+      "explanation": {
+        "en": "The Right to Privacy in South Africa ensures that citizens' homes, communications, and personal data are protected from arbitrary state interference.",
+        "hi": "निजता के अधिकार का मतलब है कि सरकार बिना ठोस वजह के किसी के निजी जीवन में दखल नहीं दे सकती।"
+      },
+      "key_takeaway": {
+        "en": "Right to Privacy = Protection from arbitrary state interference.",
+        "hi": "निजता का अधिकार = राज्य के मनमाने हस्तक्षेप से सुरक्षा।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "What is 'Begar'?",
+        "hi": "'बेगार' क्या है?"
+      },
+      "options": {
+        "a": {"en": "A type of tax", "hi": "एक प्रकार का कर"},
+        "b": {"en": "Forced labor without payment", "hi": "बिना भुगतान के जबरन श्रम (Forced labor)"},
+        "c": {"en": "A religious festival", "hi": "एक धार्मिक त्योहार"},
+        "d": {"en": "A new farming technique", "hi": "खेती की एक नई तकनीक"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It was common in feudal India where peasants had to work for landlords for free.",
+        "hi": "यह सामंती भारत में आम था जहाँ किसानों को जमींदारों के लिए मुफ्त में काम करना पड़ता था।"
+      },
+      "explanation": {
+        "en": "Begar is a practice where the worker is forced to render service to the 'master' free of charge or at a nominal remuneration.",
+        "hi": "बिना पैसे दिए किसी से जबरदस्ती काम कराना 'बेगार' कहलाता है, जिसे संविधान ने प्रतिबंधित कर दिया है।"
+      },
+      "key_takeaway": {
+        "en": "Begar = Unpaid forced labor.",
+        "hi": "बेगार = अवैतनिक जबरन श्रम।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "The 'Habeas Corpus' writ is used to:",
+        "hi": "'बंदी प्रत्यक्षीकरण' (Habeas Corpus) रिट का उपयोग किस लिए किया जाता है?"
+      },
+      "options": {
+        "a": {"en": "Increase the salary of judges", "hi": "न्यायाधीशों का वेतन बढ़ाने के लिए"},
+        "b": {"en": "Produce a detained person before the court to check legality of arrest", "hi": "गिरफ्तारी की वैधता की जाँच के लिए हिरासत में लिए गए व्यक्ति को अदालत के सामने पेश करना"},
+        "c": {"en": "Change the national flag", "hi": "राष्ट्रीय ध्वज बदलने के लिए"},
+        "d": {"en": "Declare a war", "hi": "युद्ध की घोषणा करने के लिए"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It means 'to have the body'.",
+        "hi": "इसका अर्थ है 'शरीर को प्रस्तुत करना'।"
+      },
+      "explanation": {
+        "en": "Under the Right to Constitutional Remedies, courts can issue 'writs'. Habeas Corpus is a writ used to protect individuals against illegal detention.",
+        "hi": "यदि किसी को गलत तरीके से जेल में डाला गया है, तो अदालत बंदी प्रत्यक्षीकरण का आदेश देकर उसे रिहा करा सकती है।"
+      },
+      "key_takeaway": {
+        "en": "Habeas Corpus = Protection against illegal detention.",
+        "hi": "बंदी प्रत्यक्षीकरण = अवैध हिरासत के खिलाफ सुरक्षा।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "Which Fundamental Right has been described as a 'Cluster of Rights'?",
+        "hi": "किस मौलिक अधिकार को 'अधिकारों का समूह' (Cluster of Rights) कहा गया है?"
+      },
+      "options": {
+        "a": {"en": "Right to Equality", "hi": "समानता का अधिकार"},
+        "b": {"en": "Right to Freedom", "hi": "स्वतंत्रता का अधिकार (Right to Freedom)"},
+        "c": {"en": "Right to Education", "hi": "शिक्षा का अधिकार"},
+        "d": {"en": "Right against Exploitation", "hi": "शोषण के विरुद्ध अधिकार"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It includes six different types of freedoms.",
+        "hi": "इसमें छह अलग-अलग प्रकार की स्वतंत्रताएं शामिल हैं।"
+      },
+      "explanation": {
+        "en": "The Right to Freedom is actually a cluster of rights, including speech, assembly, association, movement, residence, and profession.",
+        "hi": "स्वतंत्रता का अधिकार कई अधिकारों का एक समूह है, जिसमें भाषण, सभा और संगठन बनाने की आजादी शामिल है।"
+      },
+      "key_takeaway": {
+        "en": "Freedom Right = Cluster of six freedoms.",
+        "hi": "स्वतंत्रता का अधिकार = छह स्वतंत्रताओं का समूह।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "What happens if a Fundamental Right is violated by a law passed by the Parliament?",
+        "hi": "यदि संसद द्वारा पारित कानून किसी मौलिक अधिकार का उल्लंघन करता है तो क्या होता है?"
+      },
+      "options": {
+        "a": {"en": "The law remains valid", "hi": "कानून मान्य रहता है"},
+        "b": {"en": "The Supreme Court can declare such law as unconstitutional and invalid", "hi": "सुप्रीम कोर्ट ऐसे कानून को असंवैधानिक और अमान्य घोषित कर सकता है"},
+        "c": {"en": "The citizens must follow the law anyway", "hi": "नागरिकों को वैसे भी कानून का पालन करना चाहिए"},
+        "d": {"en": "The Parliament becomes more powerful", "hi": "संसद और अधिक शक्तिशाली हो जाती है"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This is part of the power of judicial review.",
+        "hi": "यह न्यायिक समीक्षा की शक्ति का हिस्सा है।"
+      },
+      "explanation": {
+        "en": "If any law passed by the legislature violates fundamental rights, the judiciary has the power to declare that law null and void.",
+        "hi": "न्यायपालिका के पास यह शक्ति है कि वह अधिकारों के खिलाफ जाने वाले किसी भी कानून को रद्द कर सके।"
+      },
+      "key_takeaway": {
+        "en": "Judicial Guardian = Courts protect rights against government laws.",
+        "hi": "न्यायिक संरक्षक = अदालतें सरकारी कानूनों के खिलाफ अधिकारों की रक्षा करती हैं।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "Who appoints the Chairperson and members of the National Human Rights Commission (NHRC)?",
+        "hi": "राष्ट्रीय मानवाधिकार आयोग (NHRC) के अध्यक्ष और सदस्यों की नियुक्ति कौन करता है?"
+      },
+      "options": {
+        "a": {"en": "The Prime Minister", "hi": "प्रधानमंत्री"},
+        "b": {"en": "The President of India", "hi": "भारत के राष्ट्रपति (President)"},
+        "c": {"en": "The Chief Justice of India", "hi": "भारत के मुख्य न्यायाधीश"},
+        "d": {"en": "The Army Chief", "hi": "सेना प्रमुख"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "They are usually retired judges of the Supreme Court or High Courts.",
+        "hi": "वे आमतौर पर सुप्रीम कोर्ट या हाई कोर्ट के सेवानिवृत्त न्यायाधीश होते हैं।"
+      },
+      "explanation": {
+        "en": "The President appoints the members of the NHRC. The commission is independent of the government to ensure fair investigation.",
+        "hi": "NHRC के सदस्यों की नियुक्ति राष्ट्रपति द्वारा की जाती है।"
+      },
+      "key_takeaway": {
+        "en": "NHRC Appointment = By President.",
+        "hi": "NHRC नियुक्ति = राष्ट्रपति द्वारा।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "Can Fundamental Rights be suspended?",
+        "hi": "क्या मौलिक अधिकारों को निलंबित किया जा सकता है?"
+      },
+      "options": {
+        "a": {"en": "No, never", "hi": "नहीं, कभी नहीं"},
+        "b": {"en": "Yes, during a National Emergency", "hi": "हाँ, राष्ट्रीय आपातकाल के दौरान (During Emergency)"},
+        "c": {"en": "Yes, if the Prime Minister wants", "hi": "हाँ, यदि प्रधानमंत्री चाहें"},
+        "d": {"en": "Yes, during election time", "hi": "हाँ, चुनाव के समय"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "During extreme situations like war, the state can limit some rights for security.",
+        "hi": "युद्ध जैसी चरम स्थितियों के दौरान, राज्य सुरक्षा के लिए कुछ अधिकारों को सीमित कर सकता है।"
+      },
+      "explanation": {
+        "en": "Fundamental rights can be suspended during a National Emergency, except for some rights like the Right to Life.",
+        "hi": "आपातकाल के समय अधिकारों पर अस्थायी रोक लगाई जा सकती है।"
+      },
+      "key_takeaway": {
+        "en": "Rights Suspension = Only during National Emergency.",
+        "hi": "अधिकारों का निलंबन = केवल राष्ट्रीय आपातकाल के दौरान।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "Which of the following rights is a part of 'Cultural and Educational Rights'?",
+        "hi": "निम्नलिखित में से कौन सा अधिकार 'सांस्कृतिक और शैक्षिक अधिकारों' का हिस्सा है?"
+      },
+      "options": {
+        "a": {"en": "Right to establish and administer educational institutions of their choice", "hi": "अपनी पसंद के शिक्षण संस्थान स्थापित करने और चलाने का अधिकार"},
+        "b": {"en": "Right to vote", "hi": "वोट देने का अधिकार"},
+        "c": {"en": "Right to practice any profession", "hi": "कोई भी पेशा अपनाने का अधिकार"},
+        "d": {"en": "Right to assemble peacefully", "hi": "शांतिपूर्वक इकट्ठा होने का अधिकार"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "This allows minorities to maintain their distinct identity.",
+        "hi": "यह अल्पसंख्यकों को अपनी विशिष्ट पहचान बनाए रखने की अनुमति देता है।"
+      },
+      "explanation": {
+        "en": "All minorities, religious or linguistic, can set up their own educational institutions to preserve and develop their own culture.",
+        "hi": "अल्पसंख्यक समूहों को अपनी संस्कृति को विकसित करने के लिए अपने स्कूल और कॉलेज चलाने का हक है।"
+      },
+      "key_takeaway": {
+        "en": "Cultural Rights = Preservation of minority heritage.",
+        "hi": "सांस्कृतिक अधिकार = अल्पसंख्यक विरासत का संरक्षण।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "Rights are necessary for the very ________ of a democracy.",
+        "hi": "लोकतंत्र के ________ के लिए अधिकार आवश्यक हैं।"
+      },
+      "options": {
+        "a": {"en": "Destruction", "hi": "विनाश"},
+        "b": {"en": "Sustenance", "hi": "अस्तित्व/संचालन (Sustenance)"},
+        "c": {"en": "Slowdown", "hi": "मंदी"},
+        "d": {"en": "Unfairness", "hi": "अन्याय"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Without rights, democracy cannot function effectively.",
+        "hi": "अधिकारों के बिना, लोकतंत्र प्रभावी ढंग से कार्य नहीं कर सकता।"
+      },
+      "explanation": {
+        "en": "Rights are necessary for the sustenance of a democracy. Every citizen has to have the right to vote and the right to be elected to representative bodies.",
+        "hi": "अधिकार लोकतंत्र की बुनियाद हैं; इनके बिना लोकतांत्रिक शासन संभव नहीं है।"
+      },
+      "key_takeaway": {
+        "en": "Sustenance = Rights make democracy work.",
+        "hi": "अस्तित्व = अधिकार ही लोकतंत्र को चलाते हैं।"
+      }
+    }
+  ]
+}
